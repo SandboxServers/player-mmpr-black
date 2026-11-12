@@ -89,3 +89,6 @@
 - 18:41 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 18:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":211}}],"reasoning":"Errand is to mine birch logs near 195,67,211. Try direct goto first, then fall back if blocked.","say":"On my way to the birch
+- 18:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":195,"y":66,"z":211}}],"reasoning":"Position unchanged and status falling. Unstick, then retry goto."}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":200,"y":60,"z":215}}],"reasoning":"Try an intermediate waypoint to find a clear route."}
