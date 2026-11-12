@@ -206,3 +206,6 @@
 - 21:13 act: {"actions":[{"do":"unstick"}]}
 - 21:13 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 21:13 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"unstick"}],"say":"Still stuck in the pit at 191,53,223. Anyone with spare blocks, please drop them at the edge."}
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":226}}]}
+- 21:15 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 21:15 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
