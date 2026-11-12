@@ -136,3 +136,6 @@
 - 20:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":192,"y":53,"z":226}}]}
 - 20:27 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
 - 20:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":53,"z":230}}]}
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":195,"y":53,"z":223}}]}
+- 20:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Jason, I'm in the pit at 191,53,223. Building up with dirt."}
