@@ -290,3 +290,4 @@
 - 22:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":353}},{"do":"sleep"}]}
 - 22:05 act: {"actions":[{"do":"goto","target":{"x":-254,"y":68,"z":351}},{"do":"mine","block":"wheat","count":8}]}
 - 22:06 act: {"actions":[{"do":"goto","target":{"x":-254,"y":68,"z":351}},{"do":"mine","block":"wheat","count":1}]}
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
