@@ -339,3 +339,4 @@
 - 22:47 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:48 act: {"actions":[{"do":"craft","item":"wooden_axe","count":1},{"do":"craft","item":"stick","count":4}]}
 - 22:48 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:49 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
