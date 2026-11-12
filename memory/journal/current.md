@@ -64,3 +64,10 @@
 - 18:28 act: {"actions":[{"do":"unstick"}],"reasoning":"Body should be awake now; try unstick once more."}
 - 18:28 act: {"actions":[{"do":"goto","target":{"x":195,"y":67,"z":211}}],"reasoning":"Unstick moved me one block; retry the birch goto."}
 - 18:29 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:31 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":195,"y":66,"z":212},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 18:31 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":195,"y":66,"z":212},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 18:31 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:31 act: {"actions":[{"do":"mine","block":"sand","count":3},{"do":"goto","target":{"x":199,"y":62,"z":216}}]}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":197,"y":62,"z":215}},{"do":"goto","target":{"x":196,"y":64,"z":212}}]}
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":199,"y":61,"z":216}}]}
