@@ -306,3 +306,9 @@
 - 22:17 act: {"actions":[{"do":"unstick"}],"reasoning":"I am perched and trapped in air. Unstick to get free before stopping."}
 - 22:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 22:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}]}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":354}},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Need 4 oak logs; I hold 1. Nearest oak logs are about 8 east at x=-255. Go there an
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":354}},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Previous attempt was interrupted. Retry moving next to the oak logs at x=-255 and m
+- 22:20 act: {"actions":[{"do":"mine","block":"oak_log","count":3}],"reasoning":"Idle now. Mine the adjacent oak logs at x=-255 directly."}
+- 22:20 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_log","count":3}],"reasoning":"A previous action seems to still hold the body. Unstick, then mine again."}
+- 22:20 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 22:21 act: {"actions":[{"do":"mine","block":"oak_log","count":3}]}
