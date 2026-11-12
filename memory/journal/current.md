@@ -179,3 +179,4 @@
 - 20:58 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":7}],"say":"Billy, here is my dirt."}
 - 20:59 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 20:59 act: {"actions":[{"do":"unstick"}]}
+- 20:59 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
