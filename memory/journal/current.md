@@ -219,3 +219,4 @@
 - 21:18 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":222}},{"do":"place","block":"sand","at":"feet"}]}
 - 21:18 say: {"text":"Trini, I drowned in the pit, but I'm out now at 190,60,227. Thank you for trying to help."}
 - 21:19 say: {"text":"Trini, I'm out of the pit, safe at 190,60,227. Kimberly is still in it. Thank you."}
+- 21:20 act: {"say":"Trini, I'm safe on top at 190,60,227. Thank you. Kimberly looks free now too.","actions":[{"do":"sleep"}]}
