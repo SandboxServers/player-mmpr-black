@@ -373,3 +373,4 @@
 - 23:20 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:20 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:26 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 23:32 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-271,"y":67,"z":361}}]}
