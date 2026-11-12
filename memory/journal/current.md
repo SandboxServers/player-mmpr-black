@@ -210,3 +210,6 @@
 - 21:15 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 21:15 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 21:16 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":226}},{"do":"mine","block":"stone","count":1}]}
+- 21:16 act: {"actions":[{"do":"unstick"}]}
+- 21:16 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"wait","seconds":20}],"say":"Trini, thank you. I'm at the bottom of the pit."}
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":226}}]}
