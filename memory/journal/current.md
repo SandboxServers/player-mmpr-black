@@ -270,3 +270,6 @@
 - 21:48 act: {"actions":[{"do":"goto","target":{"x":186,"y":56,"z":223}}]}
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":186,"y":56,"z":223}}]}
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":187,"y":55,"z":221}},{"do":"goto","target":{"x":182,"y":58,"z":222}}]}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":180,"y":66,"z":222}}]}
+- 21:50 act: {"intent":{"goal":"seek_food_west","program":"travel","arguments":{"x":178,"y":66,"z":222},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
