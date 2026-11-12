@@ -237,3 +237,6 @@
 - 21:30 say: {"text":"Billy, you hold dirt. Please place it at 189,54,223 and 189,55,223 beside me, or give me some. I'm starving and stuck."}
 - 21:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":"ag_trini_01"}]}
 - 21:31 act: {"actions":[{"do":"goto","target":{"x":188,"y":58,"z":224}}]}
+- 21:32 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:32 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
