@@ -220,3 +220,4 @@
 - 21:18 say: {"text":"Trini, I drowned in the pit, but I'm out now at 190,60,227. Thank you for trying to help."}
 - 21:19 say: {"text":"Trini, I'm out of the pit, safe at 190,60,227. Kimberly is still in it. Thank you."}
 - 21:20 act: {"say":"Trini, I'm safe on top at 190,60,227. Thank you. Kimberly looks free now too.","actions":[{"do":"sleep"}]}
+- 21:20 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
