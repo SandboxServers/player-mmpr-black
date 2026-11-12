@@ -54,3 +54,13 @@
 - 18:17 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
 - 18:18 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":195,"y":67,"z":211}}]}
 - 18:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":196,"y":62,"z":214}}]}
+- 18:21 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":195,"y":66,"z":212},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:22 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":4000,"max_block_operation
+- 18:22 act: {"actions":[{"do":"unstick"}]}
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":195,"y":67,"z":211}}],"reasoning":"Body may be awake now; retry the goto to see the real error."}
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":200,"y":61,"z":218}}],"reasoning":"Test whether the body can move at all now that it has had time to wake."}
+- 18:28 act: {"actions":[{"do":"unstick"}],"reasoning":"Body should be awake now; try unstick once more."}
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":195,"y":67,"z":211}}],"reasoning":"Unstick moved me one block; retry the birch goto."}
+- 18:29 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
