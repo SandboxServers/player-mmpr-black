@@ -325,3 +325,6 @@
 - 22:36 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}]}
 - 22:37 act: {"actions":[{"do":"sleep"}]}
 - 22:37 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-263,"y":66,"z":356}},{"do":"sleep"}]}
+- 22:39 act: {"actions":[{"do":"sleep"}]}
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}]}
+- 22:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":66,"z":354}},{"do":"sleep"}]}
