@@ -34,3 +34,13 @@
 - 17:58 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":190,"y":60,"z":215}}],"reasoning":"Night, spiders near. Dig into stone beside me, seal the opening with dirt, then sleep.
 - 17:58 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":{"x":190,"y":62,"z":215}}],"reasoning":"Still open above me. Try to mine stone, then seal the air above with dirt.
 - 18:02 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations
+- 18:05 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
+- 18:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":68,"z":213}}]}
+- 18:06 act: {"actions":[{"do":"mine","block":"birch_log","count":6}]}
+- 18:06 act: {"actions":[{"do":"goto","target":{"x":191,"y":67,"z":213}}]}
+- 18:07 act: {"actions":[{"do":"goto","target":{"x":191,"y":68,"z":213}}],"intent":{"goal":"reach_birch_log","program":"travel","arguments":{"target":{"x":191,"y":68,"z":213}},"wake_on":["goal_completed","unexpect
+- 18:08 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":195,"y":67,"z":211}}]}
+- 18:11 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
+- 18:11 act: {"actions":[{"do":"unstick"}]}
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":191,"y":66,"z":213}}]}
