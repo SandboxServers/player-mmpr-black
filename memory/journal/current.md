@@ -141,3 +141,5 @@
 - 20:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Jason, I'm in the pit at 191,53,223. Building up with dirt."}
 - 20:34 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3}]}
 - 20:34 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:35 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operatio
