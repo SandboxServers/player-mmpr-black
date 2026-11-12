@@ -294,3 +294,13 @@
 - 22:07 act: {"say":"Morning, Jason! Gathering some oak logs here.","intent":{"goal":"gather_oak","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed"],"lim
 - 22:08 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 22:10 act: {"actions":[{"do":"mine","block":"oak_log","count":4}]}
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":353}},{"do":"mine","block":"oak_log","count":4}]}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":352}}],"reasoning":"Errand: get 4 oak logs. Move adjacent to the log first."}
+- 22:12 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"reasoning":"Mine the oak logs now that I am adjacent."}
+- 22:12 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},"reasoning":"D
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":353}},{"do":"mine","block":"oak_log","count":4}],"reasoning":"Still no logs. Get level with the log at y=67 and mine from beside it."}
+- 22:13 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_log","count":4}],"reasoning":"Position unchanged after goto. Try unstick then mine once more."}
+- 22:14 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},"reasoning":"G
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":354}},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Intent stalled at one log. Walk to logs and mine directly."}
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":354}},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Interrupted. One more try walking to the logs and mining."}
+- 22:17 act: {"actions":[{"do":"unstick"}],"reasoning":"I am perched and trapped in air. Unstick to get free before stopping."}
