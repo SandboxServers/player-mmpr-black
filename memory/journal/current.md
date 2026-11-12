@@ -158,3 +158,4 @@
 - 20:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 20:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":53,"z":224}},{"do":"place","block":"dirt","at":{"x":191,"y":54,"z":224}}]}
 - 20:50 act: {"actions":[{"do":"unstick"}]}
+- 20:51 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
