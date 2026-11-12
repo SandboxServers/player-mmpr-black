@@ -276,3 +276,8 @@
 - 21:51 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
 - 21:52 act: {"actions":[{"do":"goto","target":{"x":183,"y":57,"z":222}}]}
 - 21:52 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":55,"z":222}}],"say":"Billy, placed sand at 191,55,222."}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":345}}],"say":"Golem is hostile, run!"}
+- 21:53 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I'm Zack, health 1, starving. Any carrot please?"}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":350}}],"say":"Tommy, I'm coming, health 1. Carrot please!"}
+- 21:55 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":354}},{"do":"mine","block":"beetroots","count":2},{"do":"eat"}]}
+- 21:55 say: {"text":"Friends: there's a farm with beetroots, potatoes and wheat at -250,68,352. Mine and eat them. I'm back to full health."}
