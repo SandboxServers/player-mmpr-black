@@ -221,3 +221,19 @@
 - 21:19 say: {"text":"Trini, I'm out of the pit, safe at 190,60,227. Kimberly is still in it. Thank you."}
 - 21:20 act: {"say":"Trini, I'm safe on top at 190,60,227. Thank you. Kimberly looks free now too.","actions":[{"do":"sleep"}]}
 - 21:20 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
+- 21:21 say: {"text":"Trini, thanks. I'm out of the pit at 190,60,227. Heading to the birch logs."}
+- 21:21 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
+- 21:21 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":178,"y":68,"z":222}},{"do":"mine","block":"birch_log","count":4}]}
+- 21:22 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":178,"y":69,"z":222}}]}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":187,"y":57,"z":225}}]}
+- 21:24 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":187,"y":57,"z":225}}]}
+- 21:24 act: {"actions":[{"do":"place","block":"dirt","at":{"x":189,"y":54,"z":223}},{"do":"goto","target":{"x":187,"y":57,"z":225}}]}
+- 21:24 say: {"text":"Trini, Billy: I'm in the pit at 189,53,223 too. Please stack dirt at 189,54-56,223 so we can climb out."}
+- 21:26 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:26 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 21:27 say: {"text":"Trini, you hold dirt and stand beside me. Please place it at 189,54,223, then 189,55,223, and climb. Give me a few dirt blocks too if you can."}
+- 21:29 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 21:30 say: {"text":"Billy, you hold dirt. Please place it at 189,54,223 and 189,55,223 beside me, or give me some. I'm starving and stuck."}
+- 21:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":"ag_trini_01"}]}
+- 21:31 act: {"actions":[{"do":"goto","target":{"x":188,"y":58,"z":224}}]}
