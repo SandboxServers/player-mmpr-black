@@ -283,3 +283,4 @@
 - 21:55 say: {"text":"Friends: there's a farm with beetroots, potatoes and wheat at -250,68,352. Mine and eat them. I'm back to full health."}
 - 21:57 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}},{"do":"mine","block":"potatoes","count":2},{"do":"eat"}]}
 - 21:58 act: {"actions":[{"do":"sleep"}]}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}},{"do":"mine","block":"wheat","count":6},{"do":"eat"}]}
