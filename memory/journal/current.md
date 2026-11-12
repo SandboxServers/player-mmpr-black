@@ -174,3 +174,6 @@
 - 20:57 act: {"actions":[{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 20:57 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"}]}
 - 20:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 20:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 20:58 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operati
+- 20:58 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":7}],"say":"Billy, here is my dirt."}
