@@ -321,3 +321,4 @@
 - 22:29 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-263,"y":67,"z":365}},{"do":"note","text":"Day 99: planted sapling, quiet day."}]}
 - 22:30 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-262,"y":67,"z":365}},{"do":"wait","seconds":60}]}
 - 22:33 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-261,"y":67,"z":365}},{"do":"note","text":"Planted third sapling; Kimberly rescue status unknown."}]}
+- 22:34 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-261,"y":67,"z":363}},{"do":"note","text":"Day 99: planted saplings near (-261,67,365). Kimberly's pit status unknown."}],"say":"Kimberly, if 
