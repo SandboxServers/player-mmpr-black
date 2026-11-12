@@ -324,3 +324,4 @@
 - 22:34 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-261,"y":67,"z":363}},{"do":"note","text":"Day 99: planted saplings near (-261,67,365). Kimberly's pit status unknown."}],"say":"Kimberly, if 
 - 22:36 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}]}
 - 22:37 act: {"actions":[{"do":"sleep"}]}
+- 22:37 act: {"actions":[{"do":"place","block":"oak_sapling","at":{"x":-263,"y":66,"z":356}},{"do":"sleep"}]}
