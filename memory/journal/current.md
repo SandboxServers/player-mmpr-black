@@ -108,3 +108,5 @@
 - 18:53 act: {"actions":[{"do":"unstick"}]}
 - 18:54 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
 - 19:01 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
+- 19:04 act: {"actions":[{"do":"unstick"}]}
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
