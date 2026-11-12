@@ -353,3 +353,4 @@
 - 23:13 say: {"text":"Crafting sticks works for me, at the table. Tools don't show up in my inventory. Has anyone got a pickaxe?"}
 - 23:14 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:14 act: {"actions":[{"do":"craft","item":"wooden_axe","count":1},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"chest","count":1}]}
+- 23:14 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
