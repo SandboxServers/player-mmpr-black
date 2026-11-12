@@ -371,3 +371,4 @@
 - 23:20 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-269,"y":67,"z":364}}]}
 - 23:20 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:20 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:20 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
