@@ -180,3 +180,4 @@
 - 20:59 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 20:59 act: {"actions":[{"do":"unstick"}]}
 - 20:59 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}},{"do":"unstick"}]}
