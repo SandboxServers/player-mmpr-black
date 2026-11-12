@@ -256,3 +256,5 @@
 - 21:37 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":222}}]}
 - 21:37 act: {"actions":[{"do":"goto","target":{"x":191,"y":55,"z":223}}]}
 - 21:37 say: {"text":"Trini, I'm at 191,53,222 in the water, health 1. Please place dirt at 191,54,222 or 190,53,222 so I can climb. Thank you."}
+- 21:38 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:38 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":191,"y":55,"z":223}}],"say":"Trini, I'm at 191,53,222 in the water, health 1. Please place dirt at 191,54,222."}
