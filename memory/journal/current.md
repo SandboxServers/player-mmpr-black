@@ -150,3 +150,5 @@
 - 20:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":192,"y":53,"z":223}},{"do":"mine","block":"stone","count":2}]}
 - 20:39 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 20:41 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
+- 20:44 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operation
+- 20:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":53,"z":224}}]}
