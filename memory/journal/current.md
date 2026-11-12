@@ -305,3 +305,4 @@
 - 22:17 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":354}},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Interrupted. One more try walking to the logs and mining."}
 - 22:17 act: {"actions":[{"do":"unstick"}],"reasoning":"I am perched and trapped in air. Unstick to get free before stopping."}
 - 22:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 22:18 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}]}
