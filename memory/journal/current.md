@@ -31,3 +31,6 @@
 - 17:56 act: {"actions":[{"do":"goto","target":{"x":191,"y":68,"z":213}}]}
 - 17:57 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 17:57 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}]}
+- 17:58 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":190,"y":60,"z":215}}],"reasoning":"Night, spiders near. Dig into stone beside me, seal the opening with dirt, then sleep.
+- 17:58 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":{"x":190,"y":62,"z":215}}],"reasoning":"Still open above me. Try to mine stone, then seal the air above with dirt.
+- 18:02 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations
