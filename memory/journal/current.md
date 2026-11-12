@@ -8,3 +8,7 @@
 - 17:47 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
 - 17:47 act: {"actions":[{"do":"goto","target":{"x":202,"y":62,"z":228}}]}
 - 17:47 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","ta
+- 17:47 act: {"actions":[{"do":"goto","target":{"x":205,"y":62,"z":240}}],"intent":{"goal":"flee_spider","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks"
+- 17:48 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":230,"y":63,"z":260}}],"intent":{"goal":"escape_spawn","program":"travel","arguments":{"x":230,"y":63,"z":260},"wake_on":["goal_completed","unexpected_damage"],"l
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":170,"y":63,"z":260}}]}
