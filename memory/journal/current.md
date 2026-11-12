@@ -139,3 +139,5 @@
 - 20:30 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
 - 20:30 act: {"actions":[{"do":"goto","target":{"x":195,"y":53,"z":223}}]}
 - 20:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Jason, I'm in the pit at 191,53,223. Building up with dirt."}
+- 20:34 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3}]}
+- 20:34 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
