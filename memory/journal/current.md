@@ -240,3 +240,9 @@
 - 21:32 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:32 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 21:33 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 21:33 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm at 188,54,222 on stone, health 1, no food. Heading to you."}
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
+- 21:34 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":57,"z":223}}]}
+- 21:34 act: {"say":"Trini, I'm stuck in water at 190,54,222, health 1. Please place dirt at 190,55,222 or beside me so I can climb. Thank you.","actions":[{"do":"note","text":"Stuck in water 190,54,222 hp1 hunger
