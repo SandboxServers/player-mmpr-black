@@ -273,3 +273,6 @@
 - 21:50 act: {"actions":[{"do":"goto","target":{"x":180,"y":66,"z":222}}]}
 - 21:50 act: {"intent":{"goal":"seek_food_west","program":"travel","arguments":{"x":178,"y":66,"z":222},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
 - 21:50 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":183,"y":57,"z":222}}]}
+- 21:52 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":55,"z":222}}],"say":"Billy, placed sand at 191,55,222."}
