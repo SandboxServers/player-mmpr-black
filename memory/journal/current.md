@@ -291,3 +291,4 @@
 - 22:05 act: {"actions":[{"do":"goto","target":{"x":-254,"y":68,"z":351}},{"do":"mine","block":"wheat","count":8}]}
 - 22:06 act: {"actions":[{"do":"goto","target":{"x":-254,"y":68,"z":351}},{"do":"mine","block":"wheat","count":1}]}
 - 22:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 22:07 act: {"say":"Morning, Jason! Gathering some oak logs here.","intent":{"goal":"gather_oak","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed"],"lim
