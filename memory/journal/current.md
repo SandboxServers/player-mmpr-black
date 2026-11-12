@@ -312,3 +312,4 @@
 - 22:20 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_log","count":3}],"reasoning":"A previous action seems to still hold the body. Unstick, then mine again."}
 - 22:20 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 22:21 act: {"actions":[{"do":"mine","block":"oak_log","count":3}]}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}},{"do":"sleep"}]}
