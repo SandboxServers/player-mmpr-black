@@ -263,3 +263,8 @@
 - 21:43 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":222}},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:44 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:44 say: {"text":"Trini, I'm still at 191,53,222 in the water, health 1. Please place dirt at 191,54,222 and 190,53,222 so I can step up."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":223}}]}
+- 21:45 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":20},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:45 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":52,"z":222}},{"do":"place","block":"sand","at":{"x":190,"y":53,"z":222}},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":186,"y":56,"z":223}}]}
