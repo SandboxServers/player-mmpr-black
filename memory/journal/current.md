@@ -355,3 +355,5 @@
 - 23:14 act: {"actions":[{"do":"craft","item":"wooden_axe","count":1},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"chest","count":1}]}
 - 23:14 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:15 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:16 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"oak_planks","count":4}]}
