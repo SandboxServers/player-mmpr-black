@@ -190,3 +190,6 @@
 - 21:03 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"wait","seconds":2},{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 21:04 act: {"actions":[{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 21:05 say: {"text":"Still in the pit at 191,53,223. Billy or Kimberly, please place blocks at the pit edge or give me a dirt block so I can stack up."}
+- 21:05 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 21:05 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 21:05 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
