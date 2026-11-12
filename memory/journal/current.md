@@ -315,3 +315,5 @@
 - 22:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}},{"do":"sleep"}]}
 - 22:23 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}]}
 - 22:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":355}},{"do":"sleep"}]}
+- 22:25 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":10},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 22:27 act: {"intent":{"goal":"gather_oak_log_last","program":"gather","arguments":{"block":"oak_log","count":1},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operat
