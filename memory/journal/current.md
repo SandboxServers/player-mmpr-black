@@ -394,3 +394,4 @@
 - 23:55 act: {"intent":{"goal":"go_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":50}}}
 - 23:55 act: {"intent":{"goal":"go_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":50}}}
 - 23:55 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 23:57 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":320}},{"do":"sleep"}]}
