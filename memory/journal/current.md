@@ -168,3 +168,5 @@
 - 20:55 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 20:55 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 20:55 say: {"text":"Still in the pit at 191,53,223. Nothing I try moves me. I'll rest and try again."}
+- 20:56 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 20:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
