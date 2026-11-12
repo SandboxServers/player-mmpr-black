@@ -246,3 +246,6 @@
 - 21:34 act: {"actions":[{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
 - 21:34 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":57,"z":223}}]}
 - 21:34 act: {"say":"Trini, I'm stuck in water at 190,54,222, health 1. Please place dirt at 190,55,222 or beside me so I can climb. Thank you.","actions":[{"do":"note","text":"Stuck in water 190,54,222 hp1 hunger
+- 21:36 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":53,"z":222}},{"do":"goto","target":{"x":191,"y":57,"z":223}}]}
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":191,"y":55,"z":223}},{"do":"unstick"}]}
+- 21:36 say: {"text":"Trini, I'm still in the water at 190,54,222, health 1. Please place dirt at 190,55,222 or right beside me so I can climb out."}
