@@ -348,3 +348,6 @@
 - 23:12 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
 - 23:12 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"wait","seconds":3}]}
 - 23:12 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:13 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":365}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:13 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"crafting_table","count":1}]}
+- 23:13 say: {"text":"Crafting sticks works for me, at the table. Tools don't show up in my inventory. Has anyone got a pickaxe?"}
