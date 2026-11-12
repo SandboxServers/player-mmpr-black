@@ -213,3 +213,8 @@
 - 21:16 act: {"actions":[{"do":"unstick"}]}
 - 21:16 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"wait","seconds":20}],"say":"Trini, thank you. I'm at the bottom of the pit."}
 - 21:16 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":226}}]}
+- 21:17 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm in the water pit at 191,53,223. Where are you?"}
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":223}},{"do":"unstick"}]}
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":222}},{"do":"place","block":"sand","at":"feet"}]}
+- 21:18 say: {"text":"Trini, I drowned in the pit, but I'm out now at 190,60,227. Thank you for trying to help."}
