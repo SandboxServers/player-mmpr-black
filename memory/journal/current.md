@@ -333,3 +333,6 @@
 - 22:46 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":67,"z":365}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:46 act: {"actions":[{"do":"note","text":"Tried table+planks+pickaxe at base; check inventory"}]}
 - 22:46 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":67,"z":365}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:47 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-268,"y":67,"z":366}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pic
+- 22:47 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:47 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
