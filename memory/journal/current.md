@@ -386,3 +386,6 @@
 - 23:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":24}],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"lim
 - 23:52 act: {"actions":[{"do":"build","blueprint":{"name":"hut","blocks":[{"block":"oak_planks","dx":1,"dy":0,"dz":0},{"block":"oak_planks","dx":-1,"dy":0,"dz":0},{"block":"oak_planks","dx":0,"dy":0,"dz":1},{"blo
 - 23:53 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":320}},{"do":"sleep"}]}
+- 23:53 act: {"intent":{"goal":"go_to_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":32}}}
+- 23:53 act: {"intent":{"goal":"go_to_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":32}}}
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
