@@ -165,3 +165,6 @@
 - 20:53 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 20:54 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":192,"y":53,"z":223}}]}
 - 20:54 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operat
+- 20:55 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 20:55 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 20:55 say: {"text":"Still in the pit at 191,53,223. Nothing I try moves me. I'll rest and try again."}
