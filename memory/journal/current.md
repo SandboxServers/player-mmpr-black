@@ -92,3 +92,16 @@
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":211}}],"reasoning":"Errand is to mine birch logs near 195,67,211. Try direct goto first, then fall back if blocked.","say":"On my way to the birch
 - 18:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":195,"y":66,"z":211}}],"reasoning":"Position unchanged and status falling. Unstick, then retry goto."}
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":200,"y":60,"z":215}}],"reasoning":"Try an intermediate waypoint to find a clear route."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":211}}]}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":209,"y":60,"z":222}}],"say":"Jason, Billy: I'm at 205,60,220 and nearly out of air. Trying to get out of the water to the east."}
+- 18:44 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":208,"y":60,"z":220}}]}
+- 18:44 act: {"actions":[{"do":"place","block":"sand","at":{"x":206,"y":59,"z":220}},{"do":"goto","target":{"x":206,"y":60,"z":220}}]}
+- 18:44 act: {"actions":[{"do":"place","block":"sand","at":{"x":205,"y":63,"z":220}},{"do":"goto","target":{"x":206,"y":63,"z":220}}]}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":195,"y":66,"z":212}}]}
+- 18:44 act: {"intent":{"goal":"mine_birch_logs","program":"gather","arguments":{"block":"birch_log","count":6,"near":{"x":188,"y":69,"z":224}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}],"intent":{"goal":"reach_birch_logs","program":"travel","arguments":{"target":{"x":188,"y":69,"z":224}},"wake_on":["goal_completed","unexpec
+- 18:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":194,"y":59,"z":227}}]}
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":194,"y":59,"z":227}}]}
+- 18:50 say: {"text":"Zack here. I'm in Billy's pit at 191,53,223 too, no tools, 1 dirt. Jason, any dirt/cobble dropped at the edge helps both of us."}
