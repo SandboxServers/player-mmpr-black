@@ -155,3 +155,6 @@
 - 20:46 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 20:48 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
 - 20:49 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operatio
+- 20:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 20:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":191,"y":53,"z":224}},{"do":"place","block":"dirt","at":{"x":191,"y":54,"z":224}}]}
+- 20:50 act: {"actions":[{"do":"unstick"}]}
