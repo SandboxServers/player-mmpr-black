@@ -107,3 +107,4 @@
 - 18:50 say: {"text":"Zack here. I'm in Billy's pit at 191,53,223 too, no tools, 1 dirt. Jason, any dirt/cobble dropped at the edge helps both of us."}
 - 18:53 act: {"actions":[{"do":"unstick"}]}
 - 18:54 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
