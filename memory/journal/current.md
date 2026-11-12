@@ -328,3 +328,4 @@
 - 22:39 act: {"actions":[{"do":"sleep"}]}
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}]}
 - 22:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":66,"z":354}},{"do":"sleep"}]}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}}],"say":"Billy, I'm coming to the base."}
