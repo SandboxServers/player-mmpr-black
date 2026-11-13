@@ -565,3 +565,6 @@
 - 02:08 act: {"actions":[{"do":"mine","block":"wheat","count":1},{"do":"mine","block":"wheat","count":1},{"do":"mine","block":"wheat","count":1}],"reasoning":"Errand says try wheat at nearby spots; check what drop
 - 02:09 act: {"reasoning":"Hunger 19, health steady. Food at farm is unripe; I hold 1 potato. I have 112 dirt, enough for a shelter. Build shelter now in daylight.","say":"Zack here. The farm wheat is unripe. I'm 
 - 02:10 act: {"reasoning":"Shelter build still not visible. Tommy needs food; I only have 1 potato and hunger is 19. I'll tell him the farm wheat is unripe and I'll share the potato if needed.","say":"Tommy, the f
+- 02:14 act: {"reasoning":"Shelter build stalls. Try the smaller wall blueprint with dirt, which needs only 15 blocks.","intent":{"goal":"wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"
+- 02:18 act: {"reasoning":"Night, no shelter built, builds keep failing. Nearest bed is about 13 tiles northeast at -241,69,343. Walk there and sleep in it.","say":"Night is here. I'm walking to the yellow bed at 
+- 02:18 act: {"reasoning":"At the bed, night, health steady, hunger 19. Sleep here.","actions":[{"do":"sleep"}]}
