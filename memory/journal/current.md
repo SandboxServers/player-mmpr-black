@@ -693,3 +693,15 @@
 - 06:47 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10}],"say":"Billy, Tommy: I've sent 10 cobblestone to each of 
 - 06:47 act: {"intent":{"goal":"find_food_and_farm_spot","program":"travel","arguments":{"x":-225,"y":64,"z":340},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1
 - 06:48 act: {"intent":{"goal":"find_food","program":"travel","arguments":{"target":{"x":-225,"y":64,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200
+- 06:53 act: {"say":"Zack here, on stone at -229,55,346. I still have 33 cobblestone and 60 dirt. Tell me a spot and I'll drop it there. Climb carefully.","intent":{"goal":"hold_near_pit_friends","program":"rest",
+- 06:53 act: {"say":"Trini, welcome. I'm right here on the stone. I have 33 cobblestone if you or the others need a pickaxe or blocks for steps."}
+- 06:54 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10}],"say":"Billy and Tommy, I'm sending 10 cobblestone to eac
+- 06:56 act: {"say":"Tommy, I'm at -229,55,346, too far to place at -240,58,346. Kimberly is on the rim, Trini is near the top. Mine up beside you and place dirt at your feet."}
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-235,"y":55,"z":346}},{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":3}],"say":"Tommy, moving closer to the edge to get cobblestone to you."}
+- 06:56 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stone_hoe","count":1}],"reasoning":"Pit friends are handled by Tr
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-227,"y":56,"z":344}},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"wheat_seeds","at":"feet"}],"reasoning":"Test whether seeds can go on dirt 
+- 06:56 act: {"actions":[{"do":"unstick"}],"reasoning":"Movement keeps failing. Unstick, then retry the farm spot."}
+- 06:56 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Stuck on my own crafting table. Mine nearby stone to open a way off."}
+- 06:57 act: {"actions":[{"do":"mine","block":"crafting_table","count":1},{"do":"unstick"}],"reasoning":"The table under me is blocking the way. Pick it back up."}
+- 06:57 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-228,"y":56,"z":346}},{"do":"unstick"},{"do":"goto","target":{"x":-228,"y":57,"z":346}}],"reasoning":"Use the pit method: place a block beside
+- 07:01 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_blo
