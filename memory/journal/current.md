@@ -1664,3 +1664,5 @@
 - 22:33 act: {"actions":[],"say":"Jason, I have no food either, but I'm gathering logs by the beds. Tommy has pumpkins if you need them."}
 - 22:36 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Glad Jason has mutton now. I'm not hungry yet, so I'll make a crafting table here by the beds and keep an eye out for animals.","re
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, beds nearby, health and food full. Go to bed."}
+- 22:45 act: {"reasoning":"Night, bed adjacent. Sleep in the white bed to the east.","say":"Night is here. I'm going to the white bed to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 22:45 act: {"reasoning":"I stand on the bed. Sleep now.","actions":[{"do":"sleep"}]}
