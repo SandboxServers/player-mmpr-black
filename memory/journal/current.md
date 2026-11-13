@@ -1658,3 +1658,4 @@
 - 22:16 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":3},{"do":"give","to":"ag_billy_01","item":"oak_planks","count":3}]}
 - 22:16 act: {"say":"Billy, I gave you the planks and cobblestone. Trini has your wool at the beds. Stay away from the iron golem to the west."}
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I am going to the white bed by -270, 67, 318 to sleep. Goodnight, Trini and Billy."}
+- 22:23 say: {"text":"Morning is coming. I'll stay by the beds and see what the day brings."}
