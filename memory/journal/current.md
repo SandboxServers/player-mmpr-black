@@ -536,3 +536,8 @@
 - 01:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-272,"y":62,"z":317}},{"do":"place","block":"oak_planks","at":{"x":-271,"y":62,"z":318}},{"do":"place","block":"oak_planks","at":{"x":-272,"y":
 - 01:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-271,"y":62,"z":318}},{"do":"place","block":"oak_planks","at":{"x":-272,"y":62,"z":319}},{"do":"place","block":"oak_planks","at":{"x":-272,"y":
 - 01:31 act: {"actions":[{"do":"mine","block":"stone","count":8}],"reasoning":"Placement keeps failing as I stand in the way. Mine nearby stone for cobblestone to wall myself in and to make a way out."}
+- 01:33 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_w
+- 01:35 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-272,"y":62,"z":317}},{"do":"place","block":"dirt","at":{"x":-272,"y":62,"z":319}},{"do":"place","block":"dirt","at":{"x":-271,"y":62,"z":318}}]}
+- 01:35 act: {"actions":[{"do":"unstick"}]}
+- 01:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}]}
+- 01:38 say: {"text":"Trini, I'm at -273,63,318 on the crafting table. Not enclosed yet, hunger 14. Dirt and planks are ready if you need them."}
