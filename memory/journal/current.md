@@ -458,3 +458,4 @@
 - 00:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":63,"z":320}}]}
 - 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":64,"z":314}}]}
 - 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":70,"z":314}}]}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":70,"z":314}},{"do":"note","text":"Out of pit, heading north to oak trees."}]}
