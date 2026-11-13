@@ -937,3 +937,33 @@
 - 11:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Step 1 of errand: craft 8 planks."}
 - 11:36 say: {"text":"Zack here, at -193,69,351 with no food. I'm finishing a plank shelter here, then looking for animals."}
 - 11:36 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 11:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Zack here, still boxed in the pit with no food. Crafting planks from my logs; I'll hold until dawn, then search for animals or crops.",
+- 11:48 act: {"intent":{"goal":"find_food_animals","program":"gather","arguments":{"block":"wheat","count":4,"brief":"Morning of day 139. Zack has no food (hunger 17, health 14.9). Search the grass areas nearby (t
+- 11:56 act: {"actions":[{"do":"goto","target":{"x":-175,"y":69,"z":351}}],"reasoning":"Head east onto open grass to scan for animals or crops.","say":"Zack heading east onto open grass to look for food.","intent"
+- 11:56 act: {"actions":[{"do":"goto","target":{"x":-175,"y":69,"z":351}}]}
+- 11:56 act: {"actions":[{"do":"unstick"}],"reasoning":"Goto moved zero blocks; I may be wedged. Unstick, then try again."}
+- 11:57 act: {"actions":[{"do":"unstick"}],"say":"Zack, I am freeing myself and looking for food."}
+- 11:57 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-180,"y":69,"z":356}}]}
+- 11:57 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-186,"y":69,"z":352}}]}
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-175,"y":69,"z":352}}]}
+- 11:57 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-192,"y":69,"z":340}}]}
+- 11:57 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-184,"y":69,"z":351}}]}
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-180,"y":69,"z":351}}]}
+- 11:57 act: {"actions":[{"do":"mine","block":"oak_planks","count":2},{"do":"goto","target":{"x":-184,"y":69,"z":351}}]}
+- 11:57 act: {"actions":[{"do":"unstick"}],"say":"Still boxed in by my own planks. Trying to get out to the east grass to look for food.","reasoning":"Both errands failed on a stuck action. I'll clear it myself, t
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-175,"y":69,"z":352}}],"intent":{"goal":"find_food_on_grass","program":"travel","arguments":{"target":{"x":-175,"y":69,"z":352}},"wake_on":["goal_completed","une
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-180,"y":69,"z":352}}],"say":"Billy, I'm still boxed in on my side and can't get to Kimberly with cobblestone. I have no food yet either.","reasoning":"Still stu
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-180,"y":69,"z":352}}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed
+- 12:06 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"intent":{"goal":"find_food_on_grass","program":"travel","arguments":{"target":{"x":-175,"y":69,"z":352}},"wake_on":["goal_completed","unexpec
+- 12:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-175,"y":69,"z":352}}],"reasoning":"Enclosed by my own walls. Unstick freed me before, so try again, then head east."}
+- 12:09 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"mine","block":"stone","count":1},{"do":"mine","block":"oak_planks","count":1}],"reasoning":"Still enclosed. Try mining the nearest walls of di
+- 12:09 act: {"actions":[{"do":"goto","target":{"x":-175,"y":69,"z":352}}],"intent":{"goal":"find_food_on_grass","program":"travel","arguments":{"target":{"x":-175,"y":69,"z":352}},"wake_on":["goal_completed","une
+- 12:13 act: {"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-182,"y":68,"z":352}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 12:13 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-182,"y":68,"z":352}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"
+- 12:14 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}],"say":"Anyone with food nearby? I'm hungry and stuck on the grass east of the beds."}
+- 12:14 act: {"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-180,"y":68,"z":352}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 12:15 act: {"say":"Jason, yes please, I'm still near -191,66,352 by the beds. Two wheat would help. Archers are to the northeast, so stay low."}
+- 12:18 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 12:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 12:19 act: {"actions":[{"do":"unstick"}],"say":"Thanks Jason. Wheat alone won't fill me, but I'll take it. Can you give me the 2 wheat by hand, and tell me where you're sheltering?"}
+- 12:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
