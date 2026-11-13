@@ -545,3 +545,5 @@
 - 01:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Beds are one block north. Get into the bed area, then seal and sleep."}
 - 01:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in bed area. Try to sleep in the bed."}
 - 01:44 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-272,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-271,"y":67,"z":328}},{"do"
+- 01:53 act: {"say":"Zack at -270,67,327, by the yellow beds. Trini, I'm still here waiting for cobblestone. No food seen yet.","reasoning":"Trini has not arrived. Ping her with my location and keep waiting."}
+- 01:55 act: {"say":"Trini, don't risk the pit for me. Keep your 19 cobblestone and stay safe. I'll work out my own shelter.","reasoning":"Trini keeps falling back into the pit trying to reach me. I should release
