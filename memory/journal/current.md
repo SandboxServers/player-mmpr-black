@@ -678,3 +678,8 @@
 - 06:17 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":56,"z":345}}],"reasoning":"Movement blocked; unstick then retry the dig and st
 - 06:17 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Test whether a block placed here seals me in."}
 - 06:22 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 06:26 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Dawn and sealed. Dig up and try to climb out."}
+- 06:26 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-230,"y":57,"z":344}}],"reasoning":"Daylight. Dig upward/north and move."}
+- 06:30 act: {"say":"Zack, still in the pit at -230,55,346. I have 33 cobblestone and 61 dirt to give. Trini, Tommy, Jason: tell me who is nearest and I will drop some at the edge if I can reach it.","reasoning":"
+- 06:31 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"reasoning":"Trini needs blocks to climb. Give 12 cobblestone."}
+- 06:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10}],"reasoning":"Billy is stuck at -237,51,349 and asked for blocks."}
