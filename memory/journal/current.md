@@ -1122,3 +1122,24 @@
 - 14:28 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Still walled in. Dig two dirt and two stone ahead, then unstick to walk out to
 - 14:28 act: {"actions":[],"say":"Billy, Trini: I'm at -199,63,352, perched on the edge of a dug hole with dirt on most sides. Hunger is 17. If anyone sees an animal or food, please say where. I'll keep digging to
 - 14:28 act: {"actions":[],"say":"Tommy, I haven't seen any animals or food yet. I'm still stuck near the grass at -199,62,352. If you find one, call out the spot and I'll come.","reasoning":"Nothing new to act on
+- 14:30 act: {"actions":[],"say":"Jason, thank you. I'm at -199,62,352, just north-east of Trini's grass. Bring the wheat here if you can, or tell me where you are and I'll come to you.","reasoning":"Jason offers 
+- 14:34 act: {"actions":[],"say":"Jason, I'm boxed in too, at -199,62,352, and I can't walk far yet. Keep your wheat safe and eat it yourself if you can. Thank you for coming. I'll keep digging toward you.","reaso
+- 14:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 14:38 act: {"actions":[{"do":"sleep"}],"say":"Jason, I'm sealed in this pit for the night. I have no food, so I'll look for wheat at first light.","reasoning":"Shelter build failed, but I'm enclosed and health i
+- 14:38 act: {"actions":[],"intent":{"goal":"hold_for_morning","program":"rest","arguments":{"where":"here","until":"dawn"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max
+- 14:39 act: {"actions":[{"do":"note","text":"Holding in the sealed pit until first light. Jason will bring 2 wheat at dawn."}],"say":"Thank you, Jason. I'll hold here until first light and wait for your wheat.","
+- 14:47 act: {"actions":[{"do":"unstick"}],"say":"Morning. I have no food either, but I hold 12 wheat seeds. I'm digging out of this pit now.","reasoning":"Daylight, out of the pit. Get out first, then find food o
+- 14:47 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Unstick failed with no way out. Earlier fix worked: mine the walls, then unstick again."}
+- 14:47 act: {"actions":[{"do":"goto","target":{"x":-198,"y":62,"z":352}}],"say":"I'm out of the pit. Jason, I'm waiting for your wheat. I have 12 wheat seeds to share if anyone can plant.","reasoning":"I'm free o
+- 14:47 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"say":"I'm digging out of a pit again. I have 12 wheat seeds and no food. Kimberly, Trini, Billy: I'll hoe a patch and plant seeds
+- 14:48 act: {"actions":[],"say":"Kimberly, Billy: I'm out of the pit now. I'll split the 12 wheat seeds with you both. Come to me where I can see you, and I'll hand them over.","reasoning":"Seeds are the only thi
+- 14:48 act: {"actions":[],"say":"Thank you, Trini, for the sheep. Jason, I'll wait here for your wheat. Billy and Kimberly, come to me for seeds.","reasoning":"A sheep is far north, and Trini and Tommy are going 
+- 14:49 act: {"actions":[{"do":"give","to":"kimberly","item":"wheat_seeds","count":6}],"say":"Kimberly, I'm right here below you at the pit. Sending 6 wheat seeds.","reasoning":"Kimberly is close and asked for see
+- 14:49 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"reasoning":"The give failed because she is out of sight. Walk to her, then hand over the seeds."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-235,"y":66,"z":300}}],"say":"Kimberly, I still hold the 12 seeds and can't see you. Tell me where you are. I'm heading north toward Trini's sheep for food.","re
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-203,"y":62,"z":342}}],"reasoning":"The long goto changed nothing. Take a short step first (about 10 blocks north), then go on from there."}
+- 14:49 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"say":"Jason, I'm boxed in too, here at -199,352. I'm digging out toward you.","reasoning":"Movement keeps failing with changed no
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-198,"y":62,"z":348}}],"reasoning":"The pit is open on one side now. Try a short 4-block step north."}
+- 14:50 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"say":"Jason, I'm still boxed in at the stone. I'm opening a way toward you now."}
+- 14:50 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"say":"Jason, I'm at -200,61,352 on stone, boxed by stone and water to the north. I'm digging out now. Kimberly, I'll try to reach
+- 14:54 say: {"text":"Tommy, Jason, I'm at -199,61,352 on open stone, not boxed in. I have no food, but I have 12 wheat seeds for whoever plants."}
