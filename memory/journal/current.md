@@ -1410,3 +1410,39 @@
 - 18:41 act: {"say":"Zack is alive, at 4 health. Kimberly, I'm heading to the yellow bed at -263, 67, 353 now, away from the golems to the south-east.","intent":{"goal":"reach_yellow_bed","program":"travel","argum
 - 18:41 act: {"say":"I'm at the yellow bed now, health 4. I'm going into the bed for the night, away from the villager fight.","intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-2
 - 18:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
+- 18:42 act: {"say":"Zack here, at the yellow beds, health 4 and hunger 17. Kimberly, I'll take my share of the beef. Where are you?"}
+- 18:43 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, coming to you for one beef."}
+- 18:43 act: {"say":"Kimberly, Zack here, right beside you. Could I have one beef, please?"}
+- 18:43 act: {"say":"Kimberly, I'm standing right next to you and ready. Please give the beef now."}
+- 18:44 act: {"say":"Kimberly, the beef still isn't reaching me, so give Jason and Tommy theirs first. I'll wait here near you and try again later."}
+- 18:46 act: {"say":"Kimberly, the beef has not reached me even standing next to you. I'll wait for first light and try again with you. Thank you for holding it."}
+- 18:50 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":1}],"say":"Kimberly, it's day. I'm standing still beside you. Please give me one beef. If the give fails again, I'll go find food m
+- 18:50 act: {"intent":{"goal":"reach_cows_southwest","program":"travel","arguments":{"x":-313,"y":66,"z":369},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400
+- 18:50 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to stand right next to you for the beef. Please hold still."}
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":366}}],"say":"Tommy, I'm heading south-west toward the cows. I'll share what I find."}
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":-313,"y":81,"z":369}}]}
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":-340,"y":75,"z":370}}],"say":"No cows at this spot yet. I'm pushing further west to search. Tommy, tell me if you see any."}
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":-356,"y":72,"z":372}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-313,"y":81,"z":369}}],"say":"I'm heading to the cow spot near -313, 81, 369 with Tommy and Trini. Zack, hungry, hp 4.","intent":{"goal":"reach_cow_area","progra
+- 18:52 act: {"actions":[{"do":"note","text":"Reached cow area -313,81,368 with Billy beside me. No cows in view. Billy holds 2 wheat, not edible alone."}],"say":"Billy, I'm at the cow spot too. Any cow or food yo
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-330,"y":78,"z":380}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-352,"y":78,"z":376}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-334,"y":74,"z":394}}]}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":-290,"y":76,"z":382}}],"say":"Zombie and skeleton here, I'm heading east away from them, toward the beds. Hp 4."}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}}],"say":"Kimberly, I'm coming to the beds. Please hand me the beef once I'm beside you."}
+- 18:54 act: {"actions":[{"do":"note","text":"At the beds -273,68,365, waiting for Kimberly's beef."}],"say":"Kimberly, Zack here at the beds, hungry, hp 4. Please hand me one beef. I'm standing still."}
+- 18:56 act: {"actions":[{"do":"note","text":"Night at the beds. Kimberly's beef not reaching me; building a stone shelter to sleep in."}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blu
+- 18:57 act: {"actions":[{"do":"note","text":"Shelter build ended but I am not enclosed. Staying at the beds by the yellow beds, waiting for Kimberly."}],"say":"Kimberly, Zack at the yellow beds, standing still, o
+- 18:57 act: {"say":"Kimberly, I'm at the yellow beds, standing still. Hunger 16. I'll stay put until you see me.","reasoning":"Kimberly asked us to come into her sight. I am at the beds, not visible to her. Stay 
+- 18:58 act: {"say":"Kimberly, Zack here at the yellow beds, not in your sight yet. I'll stay put, away from the golem, until you're in view.","reasoning":"Kimberly is fleeing an iron golem north. Going north now 
+- 18:59 act: {"say":"Kimberly, Zack here, right beside the yellow beds, standing still. One beef please.","reasoning":"Kimberly says she is now at the yellow beds and will give beef to those she sees. I am next to
+- 18:59 act: {"say":"Thank you Kimberly. I'll stand by the beds and wait for first light, to be in your sight then.","reasoning":"Kimberly will give beef at first light to whoever is in sight. I stay put by the be
+- 19:07 act: {"say":"Kimberly, Zack here by the yellow beds at dawn, in your sight. One beef, please.","reasoning":"It is dawn and Kimberly promised beef at first light to those in sight. I am beside the beds, so 
+- 19:11 act: {"say":"Kimberly, Zack here at -272, 68, 365, just south of the yellow beds. Hunger 16. One beef, please, I'm standing still.","reasoning":"Kimberly asked where we are. Give her my exact position so s
+- 19:12 act: {"say":"Kimberly, I'm at -272, 68, 365. Turn east-south-east and you'll see me, two blocks off. I'm not moving.","reasoning":"Kimberly is about 2 blocks away but cannot see me. Give her a direction an
+- 19:12 act: {"actions":[{"do":"goto","target":"Kimberly"}],"say":"Kimberly, I'm stepping next to you now. Hunger 16. Thank you.","reasoning":"Kimberly asked me to stand within a block of her so the give can go th
+- 19:12 act: {"say":"Kimberly, I'm at -272, 68, 365 on the planks, standing still. Please step one block toward me and try the beef again.","reasoning":"My goto found no Kimberly in sight, so she is not in my view
+- 19:13 act: {"say":"Tommy, Zack here. Where is the old farm? I'm hungry too, 16. I'll come after you if it's close.","reasoning":"Tommy is heading to the old farm for food. I need food too and do not know where t
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Thanks Tommy. I'll walk to the old farm and look for animals along the way.","reasoning":"The beef will not reach me here, and food
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}],"reasoning":"The direct path to the old farm was blocked. Try a nearer waypoint at Billy's spot north of the beds, a different way."}
+- 19:14 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"note","text":"Paths to the old farm and north were blocked and it turned dark. Returning to the yellow beds to hold until morning; n
