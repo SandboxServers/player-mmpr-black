@@ -619,3 +619,5 @@
 - 03:28 act: {"say":"Kimberly, Trini sent you 10 dirt. I can't reach the pit from here. If you need more, say the count and I'll drop it at the edge."}
 - 03:41 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
 - 03:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
+- 03:49 say: {"text":"Billy, Jason, Kimberly, Trini: I'm at -233,58,348, out of reach of the pit, and my travel is stuck. I still have 90 dirt if you need it, but I can't reliably drop it to you from here."}
+- 03:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
