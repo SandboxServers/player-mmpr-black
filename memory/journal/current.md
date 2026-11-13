@@ -1620,3 +1620,16 @@
 - 21:23 act: {"actions":[{"do":"goto","target":{"x":-369,"y":65,"z":316}}],"say":"Zack: I'm at -385,66,325, health 8.5, hit from several sides. Heading back to the hole at -369,65,316 now."}
 - 21:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-369,"y":65,"z":316}}],"say":"Zack: health 1.5, hungry, falling. Trying to get back to the hole."}
 - 21:24 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 21:24 say: {"text":"Zack here, back at the spawn beds with nothing. I'm staying put until light. Tommy, I heard you; I'll hold here."}
+- 21:29 say: {"text":"Morning. Zack here, still at the yellow beds with nothing in my hands, health 20. Hunger is full for now. I'll gather wood for a sword and tools; Kimberly, if you can spare a stick or two of 
+- 21:29 say: {"text":"Thank you, Tommy. I'll stay here by the yellow beds, away from the golem, and wait for your wood."}
+- 21:31 act: {"intent":{"goal":"gather_oak_log_north","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":368}},{"do":"craft","item":"oak_planks","count":16},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say"
+- 21:33 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I have a wooden sword now. Making a pickaxe; the iron golem is 14 blocks northeast, so I'll keep my distance."}
+- 21:34 act: {"intent":{"goal":"recover_death_pile_west","program":"travel","arguments":{"target":{"x":-390,"y":65,"z":317}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":-330,"y":66,"z":340}}],"say":"Trini, thank you for the mutton. Travel west failed, so I'm trying a shorter walk first."}
+- 21:34 act: {"actions":[{"do":"unstick"}]}
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":-360,"y":64,"z":325}}]}
+- 21:34 act: {"intent":{"goal":"gather_pumpkins","program":"gather","arguments":{"block":"pumpkin","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,
+- 21:39 act: {"intent":{"goal":"reach_yellow_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":370}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm at the yellow beds by spawn. Going to sleep for the night."}
