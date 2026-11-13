@@ -648,3 +648,6 @@
 - 05:28 act: {"actions":[{"do":"goto","target":{"x":-228,"y":59,"z":352}}],"intent":{"goal":"find_open_spot_to_shelter","program":"travel","arguments":{"x":-228,"y":59,"z":352},"wake_on":["goal_completed","unexpec
 - 05:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":60,"z":350}},{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":350}}],"say":"Trying to close the air above me by placing dirt on the ce
 - 05:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":349}},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":351}},{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":350}},{"do"
+- 05:40 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_opera
+- 05:42 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":350}},{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":350}},{"do":"place","block":"dirt","at":{"x":-229,"y":59,"z":350}},{"do"
+- 05:42 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-228,"y":60,"z":350}},{"do":"place","block":"oak_planks","at":{"x":-228,"y":60,"z":350}}],"reasoning":"Overhead cell is the gap. Try other blo
