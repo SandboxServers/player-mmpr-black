@@ -916,3 +916,8 @@
 - 11:31 act: {"actions":[{"do":"goto","target":{"x":-205,"y":66,"z":352}}]}
 - 11:31 act: {"actions":[{"do":"goto","target":{"x":-192,"y":66,"z":350}}]}
 - 11:31 act: {"say":"No food found east yet; the forest there has no animals or crops. I have none to give Jason. I'll look again at dawn.","actions":[{"do":"note","text":"Day 138 midday: searched east for food vi
+- 11:32 act: {"say":"Zack here, at -192, 69, 350 on open grass. I have 12 wheat seeds, 16 oak logs, 15 dirt and no food. Hunger is 20. I'm walling myself in with dirt for the night.","intent":{"goal":"wall_dirt","
+- 11:32 act: {"actions":[{"do":"goto","target":{"x":-192,"y":69,"z":315}}],"reasoning":"Errand says try north first. Move north about 35 blocks to scan for animals.","say":"Looking for food, heading north."}
+- 11:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":69,"z":320}}],"reasoning":"Previous goto was blocked. Unstick, then retry heading north."}
+- 11:32 act: {"actions":[{"do":"goto","target":{"x":-188,"y":69,"z":340}}],"reasoning":"Trees block the northern path. Try a northeast route toward open ground."}
+- 11:32 act: {"actions":[{"do":"goto","target":{"x":-200,"y":70,"z":312}}],"reasoning":"Keep pushing north away from the skeleton, looking for animals."}
