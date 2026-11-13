@@ -651,3 +651,5 @@
 - 05:40 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_opera
 - 05:42 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":350}},{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":350}},{"do":"place","block":"dirt","at":{"x":-229,"y":59,"z":350}},{"do"
 - 05:42 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-228,"y":60,"z":350}},{"do":"place","block":"oak_planks","at":{"x":-228,"y":60,"z":350}}],"reasoning":"Overhead cell is the gap. Try other blo
+- 05:47 act: {"intent":{"goal":"shelter_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_blo
+- 05:47 act: {"intent":{"goal":"wall_planks","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_ope
