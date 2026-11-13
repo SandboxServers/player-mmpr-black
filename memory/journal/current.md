@@ -714,3 +714,20 @@
 - 07:04 say: {"text":"Zack: I'm stuck on my crafting table at -229,56,346 and can't move. Billy and Tommy, I'll drop cobblestone once I can reach. Trini, can you come near?"}
 - 07:04 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
 - 07:04 say: {"text":"Trini, thanks. I'm climbing up by placing at my feet. Stay above me and I'll come up."}
+- 07:09 act: {"actions":[{"do":"mine","block":"crafting_table","count":1},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":57,"z":345}}],"reasoning":"It is dawn. Retry breaking the crafting table under me to d
+- 07:10 say: {"text":"Zack: still stuck on my crafting table at -229,56,346. Mining the table fails. Trini or Kimberly, if you can reach me, drop a block at my feet so I can climb. Jason and Tommy, I'm out of reac
+- 07:11 say: {"text":"Kimberly, drop 4 planks straight down at -229,57,346 onto my head. I'll place them at my feet and climb."}
+- 07:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Trini is dropping dirt above my head. Once it lands, I'll try placing at feet and unsticking to climb."}
+- 07:14 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Zack here, I'm on the crafting table at -229,56,346 with air above. Mining a side stone to walk off."}
+- 07:15 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I have no pickaxe left. Crafting a wooden one on this table, then I'll mine a side stone."}
+- 07:15 act: {"actions":[{"do":"mine","block":"stone","count":2}]}
+- 07:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"I'm off the table at -229,55,348 and climbing by
+- 07:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
+- 07:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
+- 07:16 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
+- 07:16 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 07:16 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 07:16 act: {"actions":[{"do":"goto","target":{"x":-230,"y":64,"z":347}}]}
+- 07:16 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"}]}
+- 07:16 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 07:16 say: {"text":"Zack: I'm out of the table, now at -230,58,351 in a dirt-and-stone shaft, not enclosed, with 36 cobblestone and 64 dirt. Can't climb further right now. Kimberly or Trini, drop 2 blocks at my 
