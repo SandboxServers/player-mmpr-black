@@ -1534,3 +1534,15 @@
 - 20:30 act: {"say":"I'm stuck in a pit near -261,66,385 and unstick failed. I have a stone pickaxe and will try digging out. If anyone is near, please tell me what you see.","actions":[{"do":"mine","block":"stone
 - 20:30 act: {"say":"I'm out of the pit and fine, health 20, no food. Billy, Kimberly: I'll come to your table for the bread. Where is it? I'm heading to the crafting table at -268,67,366 first.","intent":{"goal":
 - 20:30 act: {"say":"I'm at the crafting table at -268,67,366, free and healthy. Billy, if you have bread, bring it here or tell me where you are. I'll wait here."}
+- 20:32 act: {"reasoning":"Enderman is adjacent and attacking, I have no sword and health is 13. Fleeing is safest; I'll put distance between us.","intent":{"goal":"flee_enderman","program":"flee","arguments":{"fr
+- 20:33 act: {"reasoning":"I died to an enderman and respawned at (-270,67,337). It is 8 blocks south, between me and my dropped items. Get away from it first, north.","intent":{"goal":"get_clear_of_enderman","pro
+- 20:33 act: {"reasoning":"Flee program args were rejected. Walk north directly, away from the enderman to the south.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":315}}],"intent":{"goal":"get_clear_of_en
+- 20:35 act: {"reasoning":"The enderman is out of sight now. My dropped items lie at (-267,67,369). I'll go back carefully and pick them up, watching for it.","intent":{"goal":"recover_dropped_items","program":"tr
+- 20:35 act: {"reasoning":"Intent schema rejects travel args; use a direct goto to the drop spot instead.","actions":[{"do":"goto","target":{"x":-267,"y":67,"z":368}}]}
+- 20:35 act: {"reasoning":"Inventory is still empty. The drop was at (-267,67,369). Step onto that exact spot to pick things up.","actions":[{"do":"goto","target":{"x":-267,"y":67,"z":369}}]}
+- 20:36 act: {"reasoning":"The dropped items are gone; inventory empty. I start over with wood, the nearest oak logs 7 blocks south.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_
+- 20:37 act: {"reasoning":"I have 8 logs. Make planks first, for tools and a sword at the table.","actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 20:37 act: {"reasoning":"Planks are done. Walk to the crafting table, and pick up the item on the way at (-267,68,374).","actions":[{"do":"goto","target":{"x":-267,"y":68,"z":374}},{"do":"goto","target":{"x":-26
+- 20:37 act: {"reasoning":"A wooden sword needs sticks. Craft sticks from my planks, then the sword.","actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 20:37 act: {"reasoning":"I have a wooden sword now. Food will be the next need, and cows were seen southeast earlier. I'll wait and watch for food near the table.","say":"I'm back with a wooden sword. I lost my 
+- 20:37 act: {"reasoning":"Kimberly offers to come to the cow field with me. Company helps, so I accept and ask where she is.","say":"Kimberly, yes please, come along. Where are you now? I'll head for the cow fiel
