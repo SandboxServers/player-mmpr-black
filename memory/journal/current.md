@@ -1300,3 +1300,4 @@
 - 17:13 act: {"say":"Jason, I'm free now at -199,61,351 on dirt. My hunger is 14 and I have no food. Could you bring me the 2 wheat when you can reach me? Billy, Kimberly can drop the beetroot at the ledge; I'll c
 - 17:18 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":20}],"reasoning":"Billy and Kimberly need blocks for a pillar. I have 54 dirt. Give Billy 20 so he can build up.","say":"Billy, I'm gi
 - 17:19 act: {"say":"Dusk now. I'm building a dirt shelter here at -199,61,351 for the night. Billy, I'm sorry I can't reach you with dirt; stay on your ledge and wall it in. Tommy, I have no spare food, only bloc
+- 17:19 act: {"say":"I'm sealed in here with no food, hunger 14. Billy, Tommy, Trini: I have dirt and cobblestone to share once I can reach you. Jason's wheat is my hope.","intent":{"goal":"wait_for_food_and_dawn"
