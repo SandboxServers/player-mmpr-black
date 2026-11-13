@@ -877,3 +877,12 @@
 - 10:25 act: {"actions":[],"say":"Tommy, I have not sent you dirt, so that was not me. I am at the beds, out of reach of the pool, and I can't place into water. Keep walling your stone cell."}
 - 10:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 10:38 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 10:43 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm giving you my one wheat. I'm sheltered here at the beds with you. Tommy, Trini and Jason, I'll share food
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-243,"y":68,"z":346}}],"say":"Kimberly, I'll look for the potatoes with you near -243,68,346. Tommy and Trini, I have 16 cobble and 46 dirt if you're in reach. I
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Golems are closing from the west. I'm going back to the beds. Kimberly, you have the potatoes, eat up.","reasoning":"Golems are a t
+- 10:53 act: {"actions":[],"say":"Trini, I have no food, only cobble, dirt and wood. Kimberly has the 12 potatoes, so ask her for a share. Tommy and Billy, the beds have room if you can reach them.","reasoning":"T
+- 10:57 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 10:58 act: {"intent":{"goal":"night_shelter_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 10:58 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"night_shelter_3","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addresse
+- 11:06 act: {"say":"Morning. Kimberly, please share the potatoes now. Tommy and Trini need them most. I can give cobble or dirt back.","intent":{"goal":"share_food_dawn","program":"wait","arguments":{},"wake_on":
+- 11:07 act: {"say":"Trini, I don't have the potatoes. Kimberly is taking them to Tommy herself. I'll stay here with you and share cobble or dirt if you need it.","intent":{"goal":"stay_near_trini_dawn","program":
