@@ -1082,3 +1082,5 @@
 - 13:55 act: {"actions":[{"do":"goto","target":{"x":-203,"y":64,"z":353}},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-206,"y":64,"z":351}}],"reasoning":"Tommy sent wheat to Trini, and Kimber
 - 13:55 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}],"reasoning":"Path still blocked. Unstick, then dig more dirt."}
 - 13:58 act: {"say":"Dusk. I'm at -199,64,353 in a dirt pocket, not sealed. I'll wall myself in for the night with dirt. Keep the wheat for whoever is hungriest.\"","intent":{"goal":"shelter_for_night","program":"
+- 13:59 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-206,"y":64,"z":351}}],"reasoning":"Morning. Hunger is still 17 and I have no food. Tommy and Trini are at the grass to th
+- 14:01 act: {"say":"Tommy, I'm at -199,64,353, awake, hungry at 17 with no food. I have 12 wheat seeds and plenty of dirt and stone if you need blocks. Keep Kimberly's wheat for her.","reasoning":"Tommy is diggin
