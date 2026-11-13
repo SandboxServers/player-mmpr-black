@@ -655,3 +655,4 @@
 - 05:47 act: {"intent":{"goal":"wall_planks","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_ope
 - 05:52 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 05:54 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Build produced no change. Test a single placement at feet to learn whether placement works at all here."}
+- 05:58 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Night has come and I am not sheltered. Try unstick, then one placement, to see if the spot has cleared."}
