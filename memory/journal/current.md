@@ -635,3 +635,9 @@
 - 04:51 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":353}},{"do"
 - 04:55 say: {"text":"Zack, still at -233,58,352, health 20, not enclosed. Shelter placement keeps hitting blocked cells. Trying another spot next."}
 - 04:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_opera
+- 05:00 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 05:02 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":60,"z":352}}],"say":"Trying to move onto open ground away from the coal."}
+- 05:02 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":-226,"y":58,"z":356}}]}
+- 05:02 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 05:07 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
