@@ -605,3 +605,9 @@
 - 03:08 act: {"reasoning":"The build failed on a blocked spot here on granite. Return to the flat ground at the beds and try the shelter build again.","intent":{"goal":"return_to_beds_for_shelter","program":"trave
 - 03:08 act: {"reasoning":"Travel changed nothing; I am boxed in on coal ore. Unstick, then travel to the beds again.","actions":[{"do":"unstick"}],"intent":{"goal":"return_to_beds_for_shelter","program":"travel",
 - 03:09 act: {"reasoning":"Perched with no clear path. Place dirt at my feet to make a step, then goto the beds directly.","actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-236,"y":6
+- 03:09 act: {"reasoning":"Handoff written. Clear the stuck state with unstick, then retry the walk to the beds.","actions":[{"do":"unstick"}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"tar
+- 03:09 act: {"reasoning":"Travel was blocked. I am on stone at 58, with coal ore to the south. Try the walk to the beds again after an unstick, and say a short reply to Billy.","say":"Morning Billy. I am heading 
+- 03:09 act: {"reasoning":"Travel to the beds keeps failing from this ledge. Try short steps: first a goto one block west-north, to see if the body can move at all.","actions":[{"do":"goto","target":{"x":-234,"y":
+- 03:09 act: {"reasoning":"Movement is fully blocked at this spot. I cannot walk. Wall myself in with dirt on the open sides so I am sheltered for the night, then try to get out later.","actions":[{"do":"place","b
+- 03:10 act: {"reasoning":"Boxed in on all sides. Mining the nearest stone may open a way out.","actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 03:10 act: {"reasoning":"The mine opened a path and I moved to 57. There is a drop to the west, so avoid it. Travel to the beds now.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"
