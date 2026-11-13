@@ -732,3 +732,15 @@
 - 07:16 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
 - 07:16 say: {"text":"Zack: I'm out of the table, now at -230,58,351 in a dirt-and-stone shaft, not enclosed, with 36 cobblestone and 64 dirt. Can't climb further right now. Kimberly or Trini, drop 2 blocks at my 
 - 07:19 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-231,"y":58,"z":351}},{"do":"unstick"}],"say":"I'm at y58 on cobblestone, can't get higher on my own. Trini, drop dirt straight down at -230,59,351 r
+- 07:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack: climbing by placing dirt at my feet and unsticking. Stil
+- 07:25 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Mine stone nearby to make a step; then unstick."}
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":-230,"y":59,"z":351}},{"do":"unstick"}],"say":"Zack: still at -230,58,351, stuck. Dirt and cobble at my feet keep failing. Trini, Kimberly: if you can see me, dr
+- 07:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack: back up and climbing. Placing dirt under me, one step at
+- 07:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 07:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zac
+- 07:26 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zac
+- 07:26 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zac
+- 07:26 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":-229,"y":60,"z":348}},{"do":"unstick"}],"reasoning":"Try a direct goto to y60 to see if a path exists."}
+- 07:27 say: {"text":"Zack: I'm at -229,57,348, stuck low. There's an item at -229,60,347, maybe your drop. I have 61 dirt and 41 cobblestone. I'll stack toward y60."}
+- 07:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
