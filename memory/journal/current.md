@@ -611,3 +611,4 @@
 - 03:09 act: {"reasoning":"Movement is fully blocked at this spot. I cannot walk. Wall myself in with dirt on the open sides so I am sheltered for the night, then try to get out later.","actions":[{"do":"place","b
 - 03:10 act: {"reasoning":"Boxed in on all sides. Mining the nearest stone may open a way out.","actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
 - 03:10 act: {"reasoning":"The mine opened a path and I moved to 57. There is a drop to the west, so avoid it. Travel to the beds now.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"
+- 03:14 act: {"actions":[{"do":"give","to":"Billy","item":"dirt","count":10},{"do":"give","to":"Kimberly","item":"dirt","count":10},{"do":"give","to":"Trini","item":"dirt","count":10}],"say":"Billy, Kimberly, Trin
