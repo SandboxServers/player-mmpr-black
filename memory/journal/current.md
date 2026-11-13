@@ -1569,3 +1569,15 @@
 - 20:54 act: {"say":"Trini, I have no food either, sorry. I'm searching the west for cows. An iron golem is near me, so I'm keeping my distance.","intent":{"goal":"search_animals_far_west","program":"travel","argu
 - 20:55 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","u
 - 20:55 act: {"say":"Jason, I'm too far off to reach you tonight. I'm sealed in stone at -335,70,356 for the night."}
+- 20:56 act: {"say":"Tommy, Jason: I have no food either. I'm heading to Jason's pit near -282,64,320 to help him out, then I'll search north-west for cows and sheep.","intent":{"goal":"reach_jason_pit","program":
+- 20:56 act: {"intent":{"goal":"search_north_west_for_animals","program":"travel","arguments":{"target":{"x":-370,"y":68,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 20:57 act: {"say":"I see pigs to the south-west. Going to hunt one for meat.","actions":[{"do":"goto","target":{"x":-380,"y":77,"z":332}},{"do":"attack","target":"pig"}],"intent":{"goal":"hunt_pig_for_meat","pro
+- 20:57 act: {"say":"I got 3 porkchop from a pig. Trini, I'm bringing it to you at the yellow beds.","intent":{"goal":"bring_pork_to_trini","program":"travel","arguments":{"target":{"x":-270,"y":68,"z":362}},"wake
+- 20:57 act: {"say":"Jason, the pigs are right here, south-west of the pumpkins at about -380,78,336. Trini, I'm on my way with the pork.","actions":[{"do":"goto","target":{"x":-340,"y":68,"z":352}}],"intent":{"go
+- 20:58 act: {"say":"Trini, I'm close now, coming to the yellow beds with the pork.","actions":[{"do":"goto","target":{"x":-300,"y":68,"z":355}},{"do":"goto","target":{"x":-272,"y":67,"z":357}}]}
+- 20:58 act: {"say":"Trini, I'm at the yellow beds with 3 porkchop. Where are you standing? Kimberly, you're near, have you seen Trini?"}
+- 20:59 act: {"say":"Trini, I'm coming to you with the pork. Stay where you are.","intent":{"goal":"reach_trini_with_pork","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["goal_completed","direc
+- 20:59 act: {"say":"Trini, the travel by name failed, so I'm walking to your spot at -280,69,291 now.","actions":[{"do":"goto","target":{"x":-280,"y":69,"z":291}}]}
+- 20:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":3}],"say":"Here's the pork, Trini. Eat well."}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Trini, I'm going to sleep in the bed here. Good night."}
+- 20:59 act: {"actions":[{"do":"sleep"}]}
