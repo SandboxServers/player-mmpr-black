@@ -770,3 +770,4 @@
 - 07:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-219,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-220,"y":60,"z":347}},{"do"
 - 07:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-220,"y":61,"z":348}},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
 - 07:55 act: {"say":"Zack: no food on me, only 1 wheat and seeds. Trini's carrots haven't reached me. Billy, I'm sorry, I can't spare any yet.","intent":{"goal":"await_food_and_shelter","program":"rest","arguments
+- 07:56 act: {"say":"Thank you, Trini. I'm at -220,60,348 with hunger 17, waiting here for the carrots and will eat them when they reach me.","intent":{"goal":"receive_food_and_eat","program":"rest","arguments":{"
