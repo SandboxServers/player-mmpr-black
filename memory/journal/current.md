@@ -1551,3 +1551,4 @@
 - 20:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}}]}
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Dusk is coming, so I'm heading to the yellow bed to rest."}
 - 20:40 act: {"actions":[{"do":"sleep"}]}
+- 20:41 say: {"text":"Zack here, waking at camp by the yellow beds. Night is here, so I'm going to bed."}
