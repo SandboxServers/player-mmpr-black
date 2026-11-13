@@ -1084,3 +1084,25 @@
 - 13:58 act: {"say":"Dusk. I'm at -199,64,353 in a dirt pocket, not sealed. I'll wall myself in for the night with dirt. Keep the wheat for whoever is hungriest.\"","intent":{"goal":"shelter_for_night","program":"
 - 13:59 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-206,"y":64,"z":351}}],"reasoning":"Morning. Hunger is still 17 and I have no food. Tommy and Trini are at the grass to th
 - 14:01 act: {"say":"Tommy, I'm at -199,64,353, awake, hungry at 17 with no food. I have 12 wheat seeds and plenty of dirt and stone if you need blocks. Keep Kimberly's wheat for her.","reasoning":"Tommy is diggin
+- 14:04 act: {"say":"It's night and I'm not sealed in. I'm building a cobblestone shelter here, then I'll sleep.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"
+- 14:04 act: {"intent":{"goal":"rest_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":4}},"actions":[{"do"
+- 14:08 act: {"say":"Morning. I'm at -198,64,353 with no food, hunger 17. I'll head west toward Trini's beds and look for food. I have 12 wheat seeds and cobblestone to trade.","intent":{"goal":"reach_trini_beds_l
+- 14:08 act: {"intent":{"goal":"reach_trini_beds_look_food","program":"travel","arguments":{"x":-263,"y":67,"z":352},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 14:09 act: {"say":"Thanks Trini. I'm coming to the beds now to look for food together.","intent":{"goal":"reach_trini_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_co
+- 14:09 act: {"actions":[{"do":"unstick"}]}
+- 14:09 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 14:09 act: {"say":"Billy, walk with me to Trini's beds. I'm heading there too.","intent":{"goal":"reach_trini_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed"
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":-200,"y":66,"z":350}}]}
+- 14:09 act: {"say":"I'm stuck in a dirt pit at -199,64,353 and my travel keeps failing. Trini or Billy, if you're near, drop a block of dirt or stone at my edge so I can climb. I still have seeds and cobblestone 
+- 14:12 act: {"say":"Still in my dirt box at -199,64,353. Jason, Billy, I'm digging out now. Trini, if you're close, tell me where you are.","actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":3},{"do"
+- 14:12 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2}]}
+- 14:12 act: {"intent":{"goal":"reach_trini_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 14:12 act: {"say":"Travel keeps changing nothing; I'm walled in at -199,63,353. I'll hold here and wait for Trini or Billy to drop me a block to climb on. I'm not in danger right now.","actions":[{"do":"mine","b
+- 14:13 act: {"say":"Thanks Trini, I see the gap. Digging toward it now.","actions":[{"do":"mine","block":"stone","count":2}]}
+- 14:13 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_trini_east","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addresse
+- 14:14 act: {"say":"I'm out of the pit at -198,63,352. Jason, I'm coming toward you with dirt and stone. Trini, where are you?","intent":{"goal":"reach_beds_west","program":"travel","arguments":{"target":{"x":-26
+- 14:14 act: {"say":"I'm still walled in by my own cobblestone shelter. Mining the walls out now.","actions":[{"do":"mine","block":"cobblestone","count":3},{"do":"mine","block":"cobblestone","count":2}]}
+- 14:14 act: {"say":"Trini, I'm in the hole at -198,63,352, four blocks under you. Please place dirt stairs on the grass edge next to me, or a column up the side, and I'll climb.","actions":[{"do":"place","block":
+- 14:14 act: {"say":"Trini, the block east of me is solid, so place failed. Please mine the dirt/stone on the east side at my level and one step up, so I can walk out to the grass.","actions":[{"do":"mine","block"
+- 14:17 act: {"say":"Still enclosed. I'm mining my way up on the east side toward Trini.","actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2}]}
+- 14:17 act: {"intent":{"goal":"reach_trini_grass","program":"travel","arguments":{"target":{"x":-198,"y":67,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
