@@ -1635,3 +1635,5 @@
 - 21:39 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm at the yellow beds by spawn. Going to sleep for the night."}
 - 21:41 act: {"actions":[{"do":"sleep"}],"say":"Going to bed in the yellow beds by spawn for the night.","reasoning":"Night, bed adjacent, health and hunger fine. Sleep here."}
 - 21:42 act: {"reasoning":"Night, I'm beside the yellow bed at spawn, health and hunger full, nothing near. Sleep now.","actions":[{"do":"sleep"}]}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Night is here. I'm going to the yellow bed by the spawn to sleep."}
+- 21:43 act: {"actions":[{"do":"sleep"}]}
