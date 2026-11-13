@@ -1703,3 +1703,8 @@
 - 23:31 act: {"say":"Billy, I'm coming after you southwest.","intent":{"goal":"follow_billy_southwest","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage"],"
 - 23:31 say: {"text":"Billy, I'll wait here for you. My follow stopped short, so tell me when you're clear."}
 - 23:36 act: {"say":"Billy, I'll dig stone toward you now.","actions":[{"do":"mine","block":"stone","count":4}]}
+- 23:37 say: {"text":"Billy, I'm here at -430,67,349. Tell me exactly which stone is walling you in and I'll open it."}
+- 23:38 act: {"intent":{"goal":"gather_night_stone","program":"gather","arguments":{"block":"cobblestone","count":20},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 23:39 act: {"intent":{"goal":"gather_night_stone","program":"gather","arguments":{"block":"stone","count":20},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
+- 23:39 act: {"intent":{"goal":"gather_shelter_stone","program":"gather","arguments":{"block":"stone","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12
+- 23:39 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
