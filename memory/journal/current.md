@@ -1378,3 +1378,18 @@
 - 18:20 act: {"actions":[{"do":"attack","target":"villager"}]}
 - 18:20 act: {"say":"I hit a villager by mistake and the iron golems are angry. I'm running back to the beds.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}}]}
 - 18:21 act: {"say":"I died out west and woke at the spawn with nothing. My things are at x=-304 z=406, but I won't go back in the dark. I'm heading to the beds.","actions":[{"do":"goto","target":{"x":-272,"y":68,
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"I'm sleeping in the bed now. I have no food and no items; my things are out west."}
+- 18:21 act: {"say":"Something keeps hitting me. I'm moving away from here toward the spawn.","actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 18:21 act: {"say":"Iron golems are chasing me. I'm running northeast.","actions":[{"do":"goto","target":{"x":-236,"y":69,"z":330}}]}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 18:22 act: {"actions":[{"do":"sleep"}]}
+- 18:22 act: {"say":"Iron golems are killing me. I'm running northeast now.","actions":[{"do":"goto","target":{"x":-210,"y":70,"z":320}}]}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-210,"y":70,"z":320}}]}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":330}}]}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 18:23 act: {"actions":[{"do":"sleep"}]}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 18:23 act: {"actions":[{"do":"sleep"}],"say":"Zack here. I died at the white beds to the west and respawned at spawn with nothing. Going to sleep in the yellow bed here."}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}}]}
