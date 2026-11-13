@@ -438,3 +438,13 @@
 - 00:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Placing dirt at feet and goto up did not raise me; try unstick."}
 - 00:18 say: {"text":"Trini, Tommy: I'm still at y=62. Placing dirt at my feet and goto upward didn't raise me, and unstick didn't either."}
 - 00:18 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 00:19 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:20 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:20 act: {"actions":[{"do":"mine","block":"dirt","count":12}]}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:22 act: {"actions":[{"do":"mine","block":"grass_block","count":6},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:23 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:27 act: {"actions":[{"do":"craft","item":"ladder","count":6},{"do":"place","block":"ladder","at":{"x":-273,"y":64,"z":317}}]}
