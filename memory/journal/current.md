@@ -771,3 +771,12 @@
 - 07:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-220,"y":61,"z":348}},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
 - 07:55 act: {"say":"Zack: no food on me, only 1 wheat and seeds. Trini's carrots haven't reached me. Billy, I'm sorry, I can't spare any yet.","intent":{"goal":"await_food_and_shelter","program":"rest","arguments
 - 07:56 act: {"say":"Thank you, Trini. I'm at -220,60,348 with hunger 17, waiting here for the carrots and will eat them when they reach me.","intent":{"goal":"receive_food_and_eat","program":"rest","arguments":{"
+- 07:58 act: {"say":"Zack here, at -220,60,348 on stone, hungry with no food. Trini, I'm waiting for the carrots. I'll stay put and dig in.","actions":[{"do":"place","block":"cobblestone","at":"feet"}],"intent":{"
+- 07:58 act: {"intent":{"goal":"await_carrots_from_trini","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_ope
+- 07:58 act: {"intent":{"goal":"rest_until_carrots","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":16}
+- 07:59 act: {"say":"Zack: Trini, Kimberly, I'm fine for now, hunger 17. No rush. I'm sealing myself in with dirt for the night.","intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelte
+- 07:59 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-220,"y":62,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":61,"z":348}},{"do":"place","block":"dirt","at":{"x":-219,"y":61,"z":348}},{"do"
+- 08:03 act: {"say":"Zack: Jason, Tommy, I'm coming to the shaft with dirt. Hold on.","actions":[{"do":"goto","target":{"x":-236,"y":62,"z":344}}]}
+- 08:04 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":62,"z":344}}]}
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":-236,"y":62,"z":344}}]}
+- 08:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":62,"z":344}}]}
