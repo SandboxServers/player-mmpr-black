@@ -905,3 +905,14 @@
 - 11:29 act: {"say":"Kimberly, I'm beside you with 8 cobblestone and 19 dirt. Say the word and I'll drop them at your feet. Tommy, do you need blocks too?","intent":{"goal":"hold_blocks_for_kimberly_and_tommy","pr
 - 11:30 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, sending the 8 cobblestone now."}
 - 11:30 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, trying the 8 cobblestone again."}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-232,"y":63,"z":346}}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-232,"y":63,"z":346}},"wake_on":["goal_completed","directl
+- 11:31 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-225,"y":63,"z":346}}]}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":346}}]}
+- 11:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-243,"y":63,"z":346}}]}
+- 11:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 11:31 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-230,"y":64,"z":344}}]}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-215,"y":66,"z":344}}]}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-205,"y":66,"z":352}}]}
+- 11:31 act: {"actions":[{"do":"goto","target":{"x":-192,"y":66,"z":350}}]}
+- 11:31 act: {"say":"No food found east yet; the forest there has no animals or crops. I have none to give Jason. I'll look again at dawn.","actions":[{"do":"note","text":"Day 138 midday: searched east for food vi
