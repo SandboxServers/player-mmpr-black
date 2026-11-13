@@ -731,3 +731,4 @@
 - 07:16 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"}]}
 - 07:16 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
 - 07:16 say: {"text":"Zack: I'm out of the table, now at -230,58,351 in a dirt-and-stone shaft, not enclosed, with 36 cobblestone and 64 dirt. Can't climb further right now. Kimberly or Trini, drop 2 blocks at my 
+- 07:19 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-231,"y":58,"z":351}},{"do":"unstick"}],"say":"I'm at y58 on cobblestone, can't get higher on my own. Trini, drop dirt straight down at -230,59,351 r
