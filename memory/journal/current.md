@@ -1030,3 +1030,7 @@
 - 13:09 act: {"actions":[{"do":"goto","target":{"x":-193,"y":64,"z":351}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-194,"y":64,"z":350}},{"do":"mine","block":"stone","count":2},{"do":"got
 - 13:09 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Last attempt to open a path; if it fails, report."}
 - 13:09 act: {"reasoning":"Walls on all sides. Try digging upward toward the surface with the pickaxe, then travel north-west from above.","actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{
+- 13:09 act: {"reasoning":"Keep digging west a block at a time, then try to walk.","actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-194,"y":64,"z":355}}]}
+- 13:09 act: {"reasoning":"Moved a few blocks south-east by digging. Now try the north-west route again.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
+- 13:11 act: {"reasoning":"Idle now. Try the north-west route once more.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
+- 13:12 act: {"reasoning":"There is a dropped item six blocks south. It could be food. Go pick it up.","actions":[{"do":"goto","target":{"x":-192,"y":64,"z":358}}]}
