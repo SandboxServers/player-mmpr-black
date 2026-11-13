@@ -859,3 +859,4 @@
 - 09:31 act: {"intent":{"goal":"reach_shaft_rim","program":"travel","arguments":{"x":-238,"y":69,"z":343},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max
 - 09:33 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":343}}],"say":"Heading to Jason's shaft now, bringing dirt and cobblestone."}
 - 09:33 act: {"say":"Zack at the beds, -238,69,343. Jason, I can't reach the bottom of the shaft safely right now; Tommy and Trini have plenty of cobblestone up top. I'll sleep in the bed here tonight.","actions":
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
