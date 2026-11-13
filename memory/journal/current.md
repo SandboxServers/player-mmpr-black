@@ -823,3 +823,26 @@
 - 08:57 say: {"text":"Billy, how did you till with the stone hoe? I tried and tilling is not available for me. Please tell me what worked."}
 - 08:57 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_oper
 - 09:02 act: {"intent":{"goal":"night_shelter_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_op
+- 09:02 say: {"text":"Zack here. I'm in a pit at -229,66,346 with no food, hunger 17. Sent my worker out to dig free and hunt animals south and east. Shout if you find any."}
+- 09:02 act: {"actions":[{"do":"unstick"}]}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-228,"y":67,"z":346}}]}
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-229,"y":65,"z":346}}]}
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":-222,"y":66,"z":352}}]}
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":-222,"y":66,"z":352}}]}
+- 09:03 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"goto","target":{"x":-222,"y":66,"z":352}}]}
+- 09:03 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-224,"y":65,"z":350}}]}
+- 09:07 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-225,"y":66,"z":345}}],"intent":{"goal":"find_animals_for_food","program":"travel","arguments":{"target":{"x":-2
+- 09:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-225,"y":66,"z":345}}]}
+- 09:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-225,"y":66,"z":345}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-225,"y":66,"z":345}}]}
+- 09:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-226,"y":67,"z":346}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-226,"y":68,"z":346}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":345}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-212,"y":66,"z":352}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-200,"y":66,"z":345}}]}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":-180,"y":66,"z":345}}]}
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-186,"y":66,"z":352}}]}
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-190,"y":66,"z":362}}]}
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-202,"y":71,"z":363}}],"intent":{"goal":"hunt_pig_food","program":"travel","arguments":{"target":{"x":-202,"y":71,"z":363}},"wake_on":["goal_completed","unexpect
+- 09:08 act: {"actions":[{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 09:09 act: {"actions":[{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 09:09 act: {"actions":[{"do":"eat"},{"do":"eat"}]}
+- 09:09 say: {"text":"Zack: found a pig north-east of the forest. I ate and I'm full now. Another pig is near -203,71,363. Billy, Trini, Kimberly, go there for food."}
