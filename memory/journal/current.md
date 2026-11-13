@@ -688,3 +688,5 @@
 - 06:36 act: {"actions":[],"say":"Trini, good, keep climbing north. Tommy, Jason and Billy: say what blocks you need and I'll send them.","intent":{"goal":"help_stuck_neighbors","program":"rest","arguments":{"note
 - 06:37 act: {"actions":[],"say":"Tommy, Jason, Billy: I can send more blocks. Tell me what you need.","intent":{"goal":"help_stuck_neighbors","program":"rest","arguments":{"note":"stay put and supply blocks on re
 - 06:37 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_jason_01","item":"dirt","count":8}],"say":"Tommy: sent you 10 cobblestone. Jason: 8 dirt. Place at fe
+- 06:42 act: {"actions":[],"say":"Tommy: my inventory did not drop after the give, so I can't confirm it went through. I'm not standing near you, so I can't drop blocks at your feet. Try mining north-facing stone 
+- 06:47 act: {"actions":[],"say":"Tommy, I'm at -230,55,346, higher than you and not near the water. Digging down toward you could flood the path, so I'll hold. Kimberly is closer. I'll help with blocks when I can
