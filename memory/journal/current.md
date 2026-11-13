@@ -998,3 +998,11 @@
 - 12:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-187,"y":65,"z":354}}],"reasoning":"Goto upward failed. Try a sideways step after unstick."}
 - 12:51 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-188,"y":65,"z":355}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-188,"y":66,"z":355}}],"reasonin
 - 12:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-186,"y":64,"z":355}},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-186,"y":64,"z":353}}],"reasonin
+- 12:54 act: {"intent":{"goal":"reach_surface_and_food","program":"travel","arguments":{"target":"surface grass near -187,64,354","note":"I am in a stone pocket at -187,64,354. Dig or pillar up with cobblestone/di
+- 12:57 act: {"actions":[{"do":"goto","target":{"x":-187,"y":64,"z":330}}],"say":"Zack: no food here. Heading north to look for animals.","reasoning":"Enclosed in stone. Try moving north toward open ground to find
+- 12:57 say: {"text":"Zack awake. No food on me; hunger 17. Sent a runner north-west to find animals. Jason, I'm coming to you once I've eaten."}
+- 12:57 act: {"actions":[{"do":"goto","target":{"x":-187,"y":64,"z":320}}],"reasoning":"Still enclosed-ish; keep pushing north toward open ground."}
+- 12:57 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-187,"y":64,"z":320}}],"reasoning":"Position not changing; unstick and retry."}
+- 12:57 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-187,"y":64,"z":330}}],"reasoning":"Boxed in by stone; mine a way out, then head north."}
+- 12:57 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-187,"y":64,"z":330}}],"reasoning":"Keep digging out of the stone pocket toward the north."}
+- 12:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_
