@@ -818,3 +818,7 @@
 - 08:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}],"say
 - 08:50 say: {"text":"Zack here, at the shaft rim. My drops keep getting blocked. Has either of you got dirt down to Jason and Tommy yet?"}
 - 08:51 say: {"text":"Zack here. I'm at -228,65,346 with no food yet, hunger 17. Sending a worker to till dirt and plant my wheat seeds. Trini, the carrots are welcome whenever you're out."}
+- 08:51 act: {"actions":[{"do":"place","block":"farmland","at":"feet"}]}
+- 08:53 say: {"text":"Zack: tilling does not work here, so no wheat farm yet. Still no food. Trini, carrots when you can. Anyone who spots animals to the west or south, please call out."}
+- 08:57 say: {"text":"Billy, how did you till with the stone hoe? I tried and tilling is not available for me. Please tell me what worked."}
+- 08:57 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_oper
