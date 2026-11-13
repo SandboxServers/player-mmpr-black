@@ -900,3 +900,8 @@
 - 11:23 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":16}]}
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_c
 - 11:28 act: {"say":"Morning all. I have no food, but I'm carrying 8 cobblestone and 19 dirt. I'm heading to Kimberly's stone now to help wall her in.","intent":{"goal":"reach_kimberly_stone","program":"travel","a
+- 11:28 act: {"intent":{"goal":"reach_kimberly_stone","program":"travel","arguments":{"target":{"x":-244,"y":63,"z":346}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":346}}],"intent":{"goal":"reach_kimberly_stone","program":"travel","arguments":{"target":{"x":-244,"y":63,"z":346}},"wake_on":["goal_completed","d
+- 11:29 act: {"say":"Kimberly, I'm beside you with 8 cobblestone and 19 dirt. Say the word and I'll drop them at your feet. Tommy, do you need blocks too?","intent":{"goal":"hold_blocks_for_kimberly_and_tommy","pr
+- 11:30 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, sending the 8 cobblestone now."}
+- 11:30 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"cobblestone","count":8}],"say":"Kimberly, trying the 8 cobblestone again."}
