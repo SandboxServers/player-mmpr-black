@@ -744,3 +744,13 @@
 - 07:26 act: {"actions":[{"do":"goto","target":{"x":-229,"y":60,"z":348}},{"do":"unstick"}],"reasoning":"Try a direct goto to y60 to see if a path exists."}
 - 07:27 say: {"text":"Zack: I'm at -229,57,348, stuck low. There's an item at -229,60,347, maybe your drop. I have 61 dirt and 41 cobblestone. I'll stack toward y60."}
 - 07:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 07:29 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning
+- 07:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 07:29 say: {"text":"Zack: I'm at -227,60,348, at y60. Trini, Kimberly: I can be reached from above now. Drop dirt or planks straight down."}
+- 07:30 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack: got Kimberly's planks overhead. Climbing onto them now."
+- 07:30 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"say":"Zack: I'm at -227,61,348 on dirt. The block above 
+- 07:30 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-226,"y":60,"z":348}},{"do":"unstick"}],"say":"Zack: still at -227,61,348. Placing planks beside me and trying again. Hold your drops.","reason
+- 07:30 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"say":"Zack: I'm up at y62 now, at -226,62,348. Climbing 
+- 07:30 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"say":"Zack: I slipped back to -229,59,348. Climbing again, sta
+- 07:30 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack: Jason, I'm about 10 blocks away at -229,59,349, too far 
+- 07:31 act: {"actions":[{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"reasoning":"Keep trying to climb; one step at a time."}
