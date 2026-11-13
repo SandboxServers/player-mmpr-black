@@ -1582,3 +1582,8 @@
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Trini, I'm going to sleep in the bed here. Good night."}
 - 20:59 act: {"actions":[{"do":"sleep"}]}
 - 21:00 act: {"say":"Good night, Trini. I'm in the bed here at -281,69,292 for the night.","actions":[{"do":"sleep"}],"reasoning":"Dusk, health and hunger full, yellow bed beside me, nothing pending. Sleep here, t
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":-370,"y":64,"z":320}}],"say":"Heading to the pumpkins at -372,64,320 for food. Will bring back what I can."}
+- 21:00 act: {"actions":[{"do":"goto","target":{"x":-370,"y":64,"z":320}}]}
+- 21:01 act: {"actions":[{"do":"mine","block":"pumpkin","count":3}],"say":"I'm at the pumpkins near -370,64,320. Taking what I can, then I'll head back toward the beds.","reasoning":"Food is the priority. Zombie i
+- 21:01 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"reasoning":"Zombie adjacent and attacking. Health 
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Kimberly, I'm going to the yellow bed at -272,68,364 to sleep. I died outside tonight and have nothing left.","reaso
