@@ -486,3 +486,4 @@
 - 00:54 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_o
 - 00:56 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":20}}}
 - 00:56 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":317}}]}
+- 00:57 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":3}]}
