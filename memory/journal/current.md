@@ -656,3 +656,7 @@
 - 05:52 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 05:54 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Build produced no change. Test a single placement at feet to learn whether placement works at all here."}
 - 05:58 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Night has come and I am not sheltered. Try unstick, then one placement, to see if the spot has cleared."}
+- 05:59 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Ag Zack here, at -229,60,350. Trying an oak plank placement at my feet to test whether placement works.","reasoning":"Need shelter a
+- 06:00 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_worl
+- 06:00 act: {"intent":{"goal":"shelter_for_night_2","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
+- 06:02 act: {"intent":{"goal":"dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
