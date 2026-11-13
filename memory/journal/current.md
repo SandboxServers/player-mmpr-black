@@ -1666,3 +1666,40 @@
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, beds nearby, health and food full. Go to bed."}
 - 22:45 act: {"reasoning":"Night, bed adjacent. Sleep in the white bed to the east.","say":"Night is here. I'm going to the white bed to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 22:45 act: {"reasoning":"I stand on the bed. Sleep now.","actions":[{"do":"sleep"}]}
+- 22:46 act: {"say":"Morning is not here yet, so I will stay by the beds and wait for daylight.","intent":{"goal":"wait_for_daylight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dam
+- 22:50 act: {"say":"Morning. I'm full, so I'll go west to help look for sheep or cows, and I can share food if I find any.","intent":{"goal":"travel_west_to_herd","program":"travel","arguments":{"x":-330,"y":67,"
+- 22:51 act: {"say":"Morning. I'm full, so I'll go west to help look for sheep or cows, and I can share food if I find any.","intent":{"goal":"travel_west_to_herd","program":"travel","arguments":{"target":{"x":-33
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-339,"y":68,"z":321}}],"say":"Tommy, I'm here at -330,67,317 with no sheep in sight. There's a dropped item to the southwest, so I'm checking it."}
+- 22:51 act: {"say":"Tommy, I'm beside you. The dropped item was just a birch log. No sheep or cows in sight yet. I'll keep looking west and tell you if I see any."}
+- 22:54 act: {"say":"Billy, Jason, Kimberly: I'm full, so I'm coming southwest to your spot. I'll watch for sheep or cows as I go.","intent":{"goal":"join_group_southwest","program":"travel","arguments":{"target":
+- 22:55 act: {"say":"I'm at -390,66,329, next to you. It's getting dark, so I'll wall in with you. I have 3 dirt and 7 oak logs to add."}
+- 22:55 act: {"say":"Billy, I can't see you from here at -390,66,329. Where is your wall? I'll come to it now with 3 dirt."}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-395,"y":67,"z":332}}],"say":"Billy, I'm coming to your wall at -396,68,334 now. I'll place my 3 dirt on the east side."}
+- 22:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-394,"y":68,"z":334}},{"do":"place","block":"dirt","at":{"x":-394,"y":69,"z":334}}],"say":"I placed 2 dirt on the east side of the wall. I have one d
+- 22:56 act: {"say":"I'm inside the wall with Jason and Trini now. I have 4 dirt to close any gap; tell me where it is."}
+- 22:58 act: {"say":"Zack here, inside the wall with Tommy, Trini and Jason. I have 4 dirt if anyone sees an open gap. I'm staying still for the night.","intent":{"goal":"hold_for_night","program":"rest","argument
+- 23:00 act: {"say":"Zack here at -395,68,332, north of Trini. I'm not on any open square she needs. Trini, fill your open square and tell me if you need me to move."}
+- 23:05 act: {"actions":[{"do":"attack","target":"skeleton"}],"intent":{"goal":"kill_skeleton_nearby","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":60
+- 23:06 act: {"intent":{"goal":"reach_group_wall","program":"travel","arguments":{"target":{"x":-395,"y":68,"z":333}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
+- 23:06 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-395,"y":68,"z":331}}],"say":"Zack: creeper coming from the north, I'm placing dirt on the north square. Trini, I'm beside you."}
+- 23:06 act: {"actions":[{"do":"eat"}]}
+- 23:07 act: {"intent":{"goal":"get_out_of_skeleton_line","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":300,"max_block_operation
+- 23:07 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-411,"y":76,"z":326}},{"do":"place","block":"dirt","at":{"x":-411,"y":77,"z":325}}]}
+- 23:09 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"
+- 23:10 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"
+- 23:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4}]}
+- 23:11 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}],"intent":{"goal":"wooden_pickaxe_ready","program":"craft","arguments":{"item":"wooden_pickaxe
+- 23:11 act: {"say":"Zack: I have a pickaxe now. I'm coming to join you, Jason and Billy, to hunt food.","intent":{"goal":"join_group_southwest","program":"travel","arguments":{"target":{"x":-399,"y":69,"z":338}},
+- 23:12 act: {"say":"Zack: on my way to you, Billy. Wait for me by the wall.","intent":{"goal":"join_billy_southwest","program":"travel","arguments":{"target":{"x":-419,"y":68,"z":349}},"wake_on":["goal_completed"
+- 23:12 act: {"say":"Zack here, with you. It's getting dark and none of us has food. I have 16 dirt. Let's stay together and wall in a shelter here before we look for food again.","intent":{"goal":"shelter_with_gr
+- 23:12 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 23:13 act: {"say":"Zack: coming to Billy's shelter now with my 16 dirt to help close the wall.","intent":{"goal":"help_wall_at_billy","program":"travel","arguments":{"target":{"x":-431,"y":68,"z":348}},"wake_on"
+- 23:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-431,"y":68,"z":348}},{"do":"place","block":"dirt","at":{"x":-429,"y":68,"z":348}},{"do":"place","block":"dirt","at":{"x":-430,"y":68,"z":347}},{"do"
+- 23:13 act: {"say":"Zack: my dirt placements are blocked here. I'm at -430,68,348 beside Kimberly, with 16 dirt and 2 cobblestone to add to your wall. Billy, tell me where the wall is."}
+- 23:13 act: {"say":"Zack: I'm sealed in by stone at -430,68,348 now, so I'll stay put. Trini, bring the wheat to Kimberly or Billy."}
+- 23:30 say: {"text":"Morning. Billy, Jason, Kimberly: I'm fine on food for now. Has anyone seen cows or sheep? A bow was heard to the north, so let's stay together."}
+- 23:31 say: {"text":"Billy, yes, let's go southwest together looking for sheep. Stay in view of each other. I'll follow you."}
+- 23:31 act: {"say":"Billy, I'm coming after you southwest.","intent":{"goal":"follow_billy_southwest","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage"],"
+- 23:31 say: {"text":"Billy, I'll wait here for you. My follow stopped short, so tell me when you're clear."}
+- 23:36 act: {"say":"Billy, I'll dig stone toward you now.","actions":[{"do":"mine","block":"stone","count":4}]}
