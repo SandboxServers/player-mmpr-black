@@ -864,3 +864,10 @@
 - 09:39 say: {"text":"Zack here, at the beds. I have 33 cobblestone and 46 dirt. Jason, Tommy, Billy: say the exact spot and I'll drop blocks there."}
 - 09:41 say: {"text":"Tommy, Jason is at -240,51,345, so the spot that matters is the shaft rim at -239,69,345. I can't reach it safely from here at night, so I'll stay at the beds. Jason, we'll try again at first
 - 09:42 act: {"say":"Zack here, at the beds at -240,69,343. Jason, Tommy and Billy are on the stair, and it's night, so I'm sleeping in the bed. I'll come to the rim at first light.","actions":[{"do":"goto","targe
+- 09:42 act: {"intent":{"goal":"help_jason_shaft","program":"travel","arguments":{"x":-239,"y":69,"z":343},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"ma
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":344}}],"say":"Jason, I'm moving to the rim now. I'll place one cobblestone at -239,68,345 as soon as I'm in reach."}
+- 09:43 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":68,"z":345}}],"say":"Jason, I placed one cobblestone at -239,68,345. Tell me if you can reach it."}
+- 09:44 act: {"actions":[],"say":"Zack at the shaft rim. Jason, the cobble at -239,68,345 is placed. I'll hold 46 dirt and 33 cobble here. Billy or Tommy, tell me any cell you want filled and I'll place it from th
+- 09:49 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Jason, -239,56,345 is 13 blocks below me, out of reach from the rim. Someone at the stair needs to place it. Kimberly, 
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":342}}],"say":"Trini, I'm at the beds with 33 cobblestone. Come to the beds and I'll give you 13 for your shelter. Billy, I'll cover Trini so Tomm
+- 09:55 act: {"actions":[],"say":"Trini, you have 11 cobblestone. Place one block on the water in front of you to step out, then another, and walk back along them. I'm staying at the beds and won't go near the poo
