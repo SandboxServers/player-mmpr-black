@@ -1396,3 +1396,17 @@
 - 18:29 act: {"intent":{"goal":"search_food_east","program":"travel","arguments":{"x":-215,"y":69,"z":344},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"ma
 - 18:31 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Zack here. East had nothing for me. I'm heading to the old farm at -251, 68, 353 to help Tommy and Trini look for wheat.","intent":
 - 18:31 act: {"actions":[],"say":"Zack, at the old farm now. I have nothing in hand. I'll look for animals or wheat in the trees to the south and call out anything I find."}
+- 18:34 act: {"say":"Trini, Jason: I have no food either, hunger 20 for now. I'll search south for animals or wheat and call out anything I find. There is a villager nearby that looks like it is attacking, so I'm 
+- 18:34 act: {"intent":{"goal":"search_further_south_for_food","program":"travel","arguments":{"target":{"x":-252,"y":67,"z":410}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 18:34 act: {"say":"An iron golem is attacking me just south of here. I'm backing off north, away from it.","actions":[{"do":"goto","target":{"x":-252,"y":67,"z":380}}],"intent":{"goal":"flee_golem_north","progra
+- 18:38 act: {"say":"Kimberly, Zack here with no food, hunger 20 and nothing in my pack. I'm heading west to the cows near (-313, 81, 369). If you still have beef when I get there, I'd be grateful for one.","inten
+- 18:39 act: {"say":"Zack here, I'm at the cow spot (-313, 80, 369) now, but I can't see any cows from here. Kimberly, Trini, if you have beef spare, please bring it here or tell me where you are. I'm still hungry
+- 18:39 act: {"actions":[{"do":"eat"}],"say":"Thank you Trini, I have the beef and I'm eating it now. Tommy and Jason, Trini has one more beef for you."}
+- 18:39 act: {"say":"Eat refused, I'm not hungry yet, so I'll keep the beef for later. The iron golem is closing from the north-east, so I'm moving away south-west.","intent":{"goal":"flee_golem_southwest","progra
+- 18:39 act: {"intent":{"goal":"get_away_from_golem","program":"travel","arguments":{"target":{"x":-335,"y":75,"z":395}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 18:40 act: {"say":"A skeleton with a bow is 5 blocks south-west and a zombie is further west. I have no sword, so I'm moving away from both.","intent":{"goal":"flee_skeleton_and_zombie","program":"flee","argumen
+- 18:40 act: {"say":"Zack here. I was shot on the way but I'm at 14 health. A reflex made me eat the beef, so my hunger is full. Tommy, Trini, the beef is yours if you need it. I have no shelter tonight, so I'm st
+- 18:41 act: {"say":"Zack here. A zombie is 10 blocks east and something keeps hitting me, health is 10. Kimberly, where are the beds exactly? I'm coming to the yellow bed.","intent":{"goal":"get_clear_of_zombie",
+- 18:41 act: {"say":"Zack is alive, at 4 health. Kimberly, I'm heading to the yellow bed at -263, 67, 353 now, away from the golems to the south-east.","intent":{"goal":"reach_yellow_bed","program":"travel","argum
+- 18:41 act: {"say":"I'm at the yellow bed now, health 4. I'm going into the bed for the night, away from the villager fight.","intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-2
+- 18:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
