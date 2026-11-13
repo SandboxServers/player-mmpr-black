@@ -1006,3 +1006,27 @@
 - 12:57 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-187,"y":64,"z":330}}],"reasoning":"Boxed in by stone; mine a way out, then head north."}
 - 12:57 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-187,"y":64,"z":330}}],"reasoning":"Keep digging out of the stone pocket toward the north."}
 - 12:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_
+- 13:00 act: {"actions":[{"do":"unstick"}],"reasoning":"Enclosed in a pit. Unstick first, then check.","say":"Trying to dig out of the pit."}
+- 13:00 act: {"actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Still enclosed after unstick. Mine nearby stone walls to get out."}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}],"intent":{"goal":"find_food_animal","program":"travel","arguments":{"target":{"x":-200,"y":64,"z":340}},"wake_on":["goal_completed","unexp
+- 13:00 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-200,"y":64,"z":340}}],"reasoning":"Still boxed in; mine walls then retry travel."}
+- 13:00 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-196,"y":64,"z":346}},{"do":"goto","target":{"x":-200,"y":64,"z":340}}],"reasoning":"Dig through stone toward northwest, 
+- 13:00 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-200,"y":64,"z":340}}],"reasoning":"Clear the stuck state and try the travel again."}
+- 13:00 act: {"reasoning":"Out of pit, no food. Retry the animal search with a fresh errand.","say":"I'm out of the pit. No food yet, looking for animals to the north-west.","intent":{"goal":"find_food_animals","p
+- 13:00 act: {"reasoning":"Free of the pit. Travel intent failed; try a direct step toward the animal area.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
+- 13:01 act: {"reasoning":"Goto moved zero blocks. Unstick first, then try a short step.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":64,"z":348}}]}
+- 13:01 act: {"reasoning":"Paths are blocked and I have no pickaxe. Craft a stone pickaxe at the nearby table, then mine a way out.","actions":[{"do":"goto","target":{"x":-190,"y":64,"z":353}},{"do":"craft","item"
+- 13:01 act: {"reasoning":"I have a stone pickaxe now. Mine a few stone to open a path, then head west toward the animal area.","actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-200,"y
+- 13:01 act: {"reasoning":"Position unchanged after the goto. Try a closer target west, one step at a time.","actions":[{"do":"goto","target":{"x":-195,"y":64,"z":352}}]}
+- 13:01 act: {"reasoning":"I am sealed by dirt and planks. Mine dirt to open a way out, then move west.","actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"dirt","count":2},{"do":"goto","targe
+- 13:01 act: {"reasoning":"Movement keeps failing in the dark. Stay put, let dawn come, then retry with the pickaxe.","say":"Still stuck in the dark at -192,64,352. Hungry, no food. Waiting for daylight, then I'll
+- 13:08 act: {"reasoning":"Daylight. Head north-west after food, as Billy and Jason are doing.","say":"Morning. Heading north-west for animals too.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
+- 13:08 act: {"reasoning":"Dirt walls all around in the west. Mine through the dirt ahead, then step west.","actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-194,"y":64,"z":352}},{"do":
+- 13:08 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-193,"y":64,"z":352}}],"reasoning":"Clear the west wall one block at a time."}
+- 13:08 act: {"actions":[{"do":"goto","target":{"x":-195,"y":64,"z":351}},{"do":"goto","target":{"x":-200,"y":64,"z":340}}],"intent":{"goal":"find_food_animal","program":"travel","arguments":{"target":{"x":-200,"y
+- 13:08 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-193,"y":64,"z":352}}],"reasoning":"Movement blocked; unstick and clear dirt."}
+- 13:08 act: {"actions":[{"do":"goto","target":{"x":-193,"y":64,"z":351}},{"do":"goto","target":{"x":-195,"y":64,"z":350}},{"do":"goto","target":{"x":-198,"y":64,"z":345}}],"reasoning":"Head north-west toward the 
+- 13:08 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-193,"y":64,"z":351}}],"reasoning":"Path blocked by stone; mine through it."}
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":-193,"y":64,"z":351}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-194,"y":64,"z":350}},{"do":"mine","block":"stone","count":2},{"do":"got
+- 13:09 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Last attempt to open a path; if it fails, report."}
+- 13:09 act: {"reasoning":"Walls on all sides. Try digging upward toward the surface with the pickaxe, then travel north-west from above.","actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{
