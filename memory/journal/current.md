@@ -891,3 +891,12 @@
 - 11:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, my give of cobble didn't land. I'm trying again now. If it fails, tell me and I'll drop it on the ground next
 - 11:17 act: {"say":"Trini, I'm here by the beds with 8 cobblestone and 39 dirt. Tell me if you need any of it.","intent":{"goal":"share_with_neighbors","program":"wait","arguments":{},"wake_on":["directly_address
 - 11:19 act: {"say":"Night is here. I have no food either, but I'm building a dirt shelter next to the beds so I'm sealed in.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelt
+- 11:20 act: {"say":"Zack here, in the pit by the beds with Trini. I have no food, but I hold 8 cobblestone and 33 dirt. Jason, say the word and I'll drop some at your feet.","actions":[]}
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_co
+- 11:20 act: {"say":"Jason, sending you 16 dirt now. Stay safe till daylight.","actions":[{"do":"give","to":"jason","item":"dirt","count":16}]}
+- 11:23 act: {"say":"Kimberly, I'm sealed in a pit by the beds and can't reach you. I've given dirt to Jason. Wall yourself in with what you have.","actions":[{"do":"sleep"}]}
+- 11:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 11:23 act: {"say":"Jason, I'm out of the pit and you're 3 blocks off. Here's 16 dirt for you.","actions":[{"do":"give","to":"jason","item":"dirt","count":16},{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do
+- 11:23 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":16}]}
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_c
+- 11:28 act: {"say":"Morning all. I have no food, but I'm carrying 8 cobblestone and 19 dirt. I'm heading to Kimberly's stone now to help wall her in.","intent":{"goal":"reach_kimberly_stone","program":"travel","a
