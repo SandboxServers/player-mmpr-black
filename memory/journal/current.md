@@ -1282,3 +1282,8 @@
 - 17:01 act: {"actions":[],"intent":{"goal":"pillar_up_for_night","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"l
 - 17:01 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}]}
 - 17:01 act: {"actions":[],"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits
+- 17:02 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit at night with no food. Getting out first.","reasoning":"Hungry, no food, trapped in a pit at night. Get out before anything else."}
+- 17:02 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Enclosed on all sides by stone and cobble. Dig the nearest stone to open a way, then try to climb out.","say":"Diggin
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}],"say":"I'm out. Going to Kimberly's beetroot near here.","reasoning":"Out of the pit now. Hunger 13 with no food; head to the beetroot Kim
+- 17:02 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-199,"y":61,"z":352}}],"reasoning":"Goto to Kimberly's spot did not move me. Clear a stone and try a nearby cell instead.
+- 17:02 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
