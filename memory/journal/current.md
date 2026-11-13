@@ -425,3 +425,16 @@
 - 00:13 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Check if unstick freed me; retry the farm goto once."}
 - 00:13 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"cobblestone","count":4}]}
 - 00:13 act: {"actions":[{"do":"mine","block":"grass_block","count":3},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:14 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:15 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Errand: goto farm. Start with goto directly.","say":null}
+- 00:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Interrupted goto while perched. Unstick then retry.","say":null}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Retry goto from new position.","say":null}
+- 00:16 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Enclosed by dirt; mine out then goto.","say":null}
+- 00:16 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"reasoning":"Single dirt mine to test whether digging works.","say":null}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Retry goto after clearing a block.","say":null}
+- 00:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Tommy escaped via unstick then walking; try once more.","say":null}
+- 00:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Pillar
+- 00:18 act: {"actions":[{"do":"goto","target":{"x":-274,"y":64,"z":319}}],"reasoning":"No jump verb exists, so try goto upward to see if movement climbs the placed dirt."}
+- 00:18 act: {"actions":[{"do":"unstick"}],"reasoning":"Placing dirt at feet and goto up did not raise me; try unstick."}
+- 00:18 say: {"text":"Trini, Tommy: I'm still at y=62. Placing dirt at my feet and goto upward didn't raise me, and unstick didn't either."}
+- 00:18 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
