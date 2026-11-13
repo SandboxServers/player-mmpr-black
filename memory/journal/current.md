@@ -1552,3 +1552,7 @@
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Dusk is coming, so I'm heading to the yellow bed to rest."}
 - 20:40 act: {"actions":[{"do":"sleep"}]}
 - 20:41 say: {"text":"Zack here, waking at camp by the yellow beds. Night is here, so I'm going to bed."}
+- 20:50 act: {"intent":{"goal":"check_dropped_items_south","program":"travel","arguments":{"x":-267,"y":67,"z":374},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 20:50 act: {"intent":{"goal":"check_dropped_items_south","program":"travel","arguments":{"target":{"x":-267,"y":67,"z":374}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 20:50 act: {"intent":{"goal":"explore_for_food","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":374}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 20:50 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":355}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
