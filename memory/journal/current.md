@@ -871,3 +871,9 @@
 - 09:49 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Jason, -239,56,345 is 13 blocks below me, out of reach from the rim. Someone at the stair needs to place it. Kimberly, 
 - 09:54 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":342}}],"say":"Trini, I'm at the beds with 33 cobblestone. Come to the beds and I'll give you 13 for your shelter. Billy, I'll cover Trini so Tomm
 - 09:55 act: {"actions":[],"say":"Trini, you have 11 cobblestone. Place one block on the water in front of you to step out, then another, and walk back along them. I'm staying at the beds and won't go near the poo
+- 10:00 act: {"say":"Zack here, awake at the beds. Jason, if you can reach a cell, tell me the exact spot and I will place cobblestone if I'm in reach.","intent":{"goal":"watch_for_jason_and_trini","program":"rest
+- 10:07 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat","count":1}],"say":"Kimberly, I'm giving you my one wheat. It's all I have for food."}
+- 10:12 act: {"actions":[],"say":"Jason is out of the shaft, good. Kimberly, my wheat is still in my pack, so the give did not go through. Ask Jason to hand the potatoes over where you can reach them."}
+- 10:25 act: {"actions":[],"say":"Tommy, I have not sent you dirt, so that was not me. I am at the beds, out of reach of the pool, and I can't place into water. Keep walling your stone cell."}
+- 10:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 10:38 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
