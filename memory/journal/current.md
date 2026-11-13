@@ -629,3 +629,4 @@
 - 04:42 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
 - 04:46 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Build did not progress. Unstick, then test a single placement to find the cause."}
 - 04:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":350}},{"do":"place","block":"dirt","at":{"x":-232,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-234,"y":57,"z":350}},{"do"
+- 04:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-233,"y":57,"z":349}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":350}},{"do"
