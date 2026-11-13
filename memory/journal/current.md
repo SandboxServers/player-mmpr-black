@@ -683,3 +683,8 @@
 - 06:30 act: {"say":"Zack, still in the pit at -230,55,346. I have 33 cobblestone and 61 dirt to give. Trini, Tommy, Jason: tell me who is nearest and I will drop some at the edge if I can reach it.","reasoning":"
 - 06:31 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"reasoning":"Trini needs blocks to climb. Give 12 cobblestone."}
 - 06:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10}],"reasoning":"Billy is stuck at -237,51,349 and asked for blocks."}
+- 06:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack here. I'm at -230,55,346 with dirt and cobblestone. I'm t
+- 06:36 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8},{"do":"give","to":"ag_billy_01","item":"dirt","count":8}],"say":"Trini and Billy: I'm sending you blocks now, 8 cobblestone 
+- 06:36 act: {"actions":[],"say":"Trini, good, keep climbing north. Tommy, Jason and Billy: say what blocks you need and I'll send them.","intent":{"goal":"help_stuck_neighbors","program":"rest","arguments":{"note
+- 06:37 act: {"actions":[],"say":"Tommy, Jason, Billy: I can send more blocks. Tell me what you need.","intent":{"goal":"help_stuck_neighbors","program":"rest","arguments":{"note":"stay put and supply blocks on re
+- 06:37 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_jason_01","item":"dirt","count":8}],"say":"Tommy: sent you 10 cobblestone. Jason: 8 dirt. Place at fe
