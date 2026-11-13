@@ -981,3 +981,20 @@
 - 12:30 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Place the table so I can craft the pickaxe."}
 - 12:37 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
 - 12:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 12:46 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}],"say":"Zack here, waking in my pit at -191,66,354 with hunger 17 and no food. Digging out now, then looking for animals.","reasonin
+- 12:46 act: {"intent":{"goal":"find_food_south","program":"gather","arguments":{"block":"wheat","count":2},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 12:46 say: {"text":"Zack: I'm out of the pit at -191,66,354. Jason, bring the wheat here when you can. Looking for animals to eat now."}
+- 12:46 act: {"intent":{"goal":"search_food_south","program":"travel","arguments":{"target":{"x":-191,"y":65,"z":375}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_o
+- 12:47 act: {"intent":{"goal":"search_food_south","program":"travel","arguments":{"target":{"x":-191,"y":65,"z":375}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_o
+- 12:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-191,"y":65,"z":375}}]}
+- 12:49 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-191,"y":65,"z":375}}]}
+- 12:49 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-191,"y":65,"z":360}},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-191,"y":65,"z":375}}]}
+- 12:49 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-191,"y":64,"z":358}},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-191,"y":64,"z":362}},{"do":"min
+- 12:50 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-191,"y":65,"z":358}},{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-191,"y":65,"z":362}}]}
+- 12:50 act: {"actions":[{"do":"mine","block":"stone","count":5},{"do":"goto","target":{"x":-189,"y":68,"z":356}},{"do":"goto","target":{"x":-190,"y":70,"z":358}}]}
+- 12:51 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"say":"Zack: I'm boxed in a stone tunnel at -189,64,356, no food. Digging up toward the surface. Jason, I'm coming to you once I'm
+- 12:51 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"mine","block":"stone","count":4}],"reasoning":"Still boxed in stone. Keep digging up toward open air."}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-190,"y":68,"z":352}}],"reasoning":"Try a direct path upward to open ground; read the error if blocked."}
+- 12:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-187,"y":65,"z":354}}],"reasoning":"Goto upward failed. Try a sideways step after unstick."}
+- 12:51 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-188,"y":65,"z":355}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-188,"y":66,"z":355}}],"reasonin
+- 12:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-186,"y":64,"z":355}},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-186,"y":64,"z":353}}],"reasonin
