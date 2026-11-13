@@ -557,3 +557,11 @@
 - 02:06 act: {"actions":[{"do":"mine","block":"potatoes","count":2},{"do":"mine","block":"wheat","count":2}],"reasoning":"The previous mine used the wrong id. The farm lists block ids as potatoes and wheat, so use
 - 02:06 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Got 5 potatoes from the farm. Eating one.","reasoning":"I have potatoes now. Eat to bring hunger down, then keep the rest for later."}
 - 02:06 act: {"actions":[{"do":"eat"}],"reasoning":"Hunger is 17 and rising. Eat another potato and then record the morning."}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-253,"y":68,"z":351}},{"do":"mine","block":"potatoes","count":1},{"do":"mine","block":"wheat","count":1}],"reasoning":"Walk to the crops at the west edge, harves
+- 02:08 act: {"actions":[{"do":"mine","block":"potatoes","count":3},{"do":"goto","target":{"x":-252,"y":68,"z":351}},{"do":"mine","block":"wheat","count":2},{"do":"goto","target":{"x":-251,"y":68,"z":352}},{"do":"
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-249,"y":68,"z":353}},{"do":"mine","block":"wheat","count":3},{"do":"goto","target":{"x":-251,"y":68,"z":354}},{"do":"mine","block":"wheat","count":3}],"reasonin
+- 02:08 act: {"actions":[{"do":"eat"}],"reasoning":"Try eating the potato once more; hunger has stayed at 19."}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-254,"y":68,"z":351}},{"do":"mine","block":"potatoes","count":3}],"reasoning":"Errand is to gather potatoes near the farm, eat when hunger under 18."}
+- 02:08 act: {"actions":[{"do":"mine","block":"wheat","count":1},{"do":"mine","block":"wheat","count":1},{"do":"mine","block":"wheat","count":1}],"reasoning":"Errand says try wheat at nearby spots; check what drop
+- 02:09 act: {"reasoning":"Hunger 19, health steady. Food at farm is unripe; I hold 1 potato. I have 112 dirt, enough for a shelter. Build shelter now in daylight.","say":"Zack here. The farm wheat is unripe. I'm 
+- 02:10 act: {"reasoning":"Shelter build still not visible. Tommy needs food; I only have 1 potato and hunger is 19. I'll tell him the farm wheat is unripe and I'll share the potato if needed.","say":"Tommy, the f
