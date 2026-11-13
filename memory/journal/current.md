@@ -790,3 +790,21 @@
 - 08:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-225,"y":63,"z":347}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"x":-225,"y
 - 08:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-225,"y":64,"z":347}},"wake_on":["goal_complet
 - 08:25 act: {"say":"Zack: I'm out of the pit at -225,61,347. Jason, Tommy: I have 60+ dirt; I'll drop some down the shaft once I find the rim.","intent":{"goal":"shelter","program":"build","arguments":{"blueprint
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":346}}],"reasoning":"Walk to the shaft rim per errand step 1.","say":"Zack here, going to the shaft rim to drop dirt for Jason and Tommy.","intent
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:29 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-226,"y":61,"z":347}},{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:29 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:30 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":62,"z":346}}]}
+- 08:34 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-228,"y":62,"z":346}}],"say":"Zack: I'm heading to the shaft near -230,62,346 with dirt for Jason and Tommy.","intent":{"goal":"reach_shaft_rim"
+- 08:34 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-228,"y":62,"z":346}}]}
+- 08:34 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"},{"do":"mine","block":"stone","count":4}],"intent":{"goal":"dig_out_north","program":"travel","arguments":{"target":{"x":-226,"y":62
+- 08:34 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-228,"y":61,"z":346}}],"intent":{"goal":"dig_west_to_shaft","program":"travel","arguments":{"target":{"x
+- 08:40 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],
+- 08:40 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 08:40 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 08:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"I'm climbing out of this pit with dirt."}
+- 08:41 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
+- 08:41 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
