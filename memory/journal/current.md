@@ -402,3 +402,26 @@
 - 23:59 act: {"actions":[{"do":"sleep"}]}
 - 23:59 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-281,"y":67,"z":321}}]}
 - 23:59 act: {"actions":[{"do":"goto","target":{"x":-279,"y":66,"z":320}}]}
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}]}
+- 00:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 00:08 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:09 act: {"actions":[{"do":"mine","block":"oak_planks","count":3},{"do":"mine","block":"dirt","count":4}]}
+- 00:09 act: {"actions":[{"do":"mine","block":"oak_planks","count":6},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:09 act: {"actions":[{"do":"craft","item":"ladder","count":6},{"do":"place","block":"ladder","at":{"x":-275,"y":66,"z":317}},{"do":"place","block":"ladder","at":{"x":-275,"y":67,"z":317}}]}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-275,"y":68,"z":317}}]}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:10 act: {"actions":[{"do":"craft","item":"oak_stairs","count":8},{"do":"place","block":"oak_stairs","at":{"x":-274,"y":65,"z":315}},{"do":"place","block":"oak_stairs","at":{"x":-274,"y":66,"z":314}}]}
+- 00:10 act: {"actions":[{"do":"mine","block":"grass_block","count":3}]}
+- 00:10 act: {"actions":[{"do":"mine","block":"grass_block","count":4},{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Errand is to reach the farm at -251,68,353. Try goto first; if walled in, fall back to mining out."}
+- 00:12 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-272,"y":65,"z":314}}],"reasoning":"Goto failed while walled in. Mine an adjacent block and step into it, then keep diggin
+- 00:12 act: {"actions":[{"do":"mine","block":"grass_block","count":1},{"do":"goto","target":{"x":-272,"y":65,"z":314}}],"reasoning":"View shows solid grass directly east. Mine it and step in to dig out."}
+- 00:12 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-273,"y":65,"z":316}},{"do":"mine","block":"grass_block","count":1},{"do":"goto","target":{"x":-273,"y":65,"z":317}}],"rea
+- 00:12 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-273,"y":65,"z":316}}],"reasoning":"South is oak_planks walls. Mine one plank and step in."}
+- 00:12 act: {"actions":[{"do":"goto","target":{"x":-273,"y":65,"z":316}}],"reasoning":"Plank south is mined; step into that gap."}
+- 00:12 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-273,"y":65,"z":316}},{"do":"goto","target":{"x":-273,"y":65,"z":317}}],"reasoning":"Keep clearing south planks and 
+- 00:13 act: {"actions":[{"do":"unstick"}],"reasoning":"Goto keeps failing and mining does not move me. Try unstick once before reporting back."}
+- 00:13 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Check if unstick freed me; retry the farm goto once."}
+- 00:13 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"cobblestone","count":4}]}
+- 00:13 act: {"actions":[{"do":"mine","block":"grass_block","count":3},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
