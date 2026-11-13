@@ -1143,3 +1143,6 @@
 - 14:50 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"say":"Jason, I'm still boxed in at the stone. I'm opening a way toward you now."}
 - 14:50 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"say":"Jason, I'm at -200,61,352 on stone, boxed by stone and water to the north. I'm digging out now. Kimberly, I'll try to reach
 - 14:54 say: {"text":"Tommy, Jason, I'm at -199,61,352 on open stone, not boxed in. I have no food, but I have 12 wheat seeds for whoever plants."}
+- 14:59 say: {"text":"Kimberly, Billy: I'm at -199, 61, 352 on open stone. It's night, so I'm building a shelter here. I still have 12 wheat seeds for you both."}
+- 14:59 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 14:59 act: {"actions":[{"do":"note","text":"Night at -199,61,352. Built partial shelter, now enclosed. Told Billy and Kimberly the seeds are here. Hunger 17, no food."}]}
