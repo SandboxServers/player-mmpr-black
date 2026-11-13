@@ -1645,3 +1645,16 @@
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini, good. I'll sleep in this white bed tonight. Tell Billy I'll help with the wool at first light."}
 - 22:00 act: {"actions":[{"do":"sleep"}]}
 - 22:00 act: {"say":"Thanks Trini. I'll be here at first light to help Billy with the wool."}
+- 22:01 act: {"say":"Morning, Trini. Did you bring Billy's wool? I am here to help."}
+- 22:02 act: {"say":"Sounds good, Trini. I will stay here at the beds until it is light and help you find Billy."}
+- 22:04 act: {"say":"Thanks, Jason. I am fine on food for now. I am staying at the white beds until light, when I will help Trini find Billy's wool."}
+- 22:11 act: {"say":"Morning all. I have no food to spare, sorry. I have oak planks and logs, and a spare torch and cobblestone. Billy, Tommy, Kimberly, if you need wood or stone to make tools, say so and I will b
+- 22:11 act: {"say":"Billy, I am at the white beds. Come close and I will hand you planks and cobblestone for tools."}
+- 22:12 act: {"say":"Billy, I am at the white beds by -270, 67, 319. Tell me where you stand and I will walk over to you."}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-279,"y":67,"z":320}}],"say":"Coming to you now, Billy. I have my wooden pickaxe and sword, but I can lend the sword if you need it."}
+- 22:12 act: {"say":"Billy, I am at -279, 67, 319 now and I cannot see you. Are you still at -280, 67, 320? I will wait here with the planks and stone."}
+- 22:14 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":6},{"do":"give","to":"ag_billy_01","item":"cobblestone","count":3}],"say":"Billy, I am trying to hand you 6 planks and 3 cobbles
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":320}},{"do":"give","to":"ag_billy_01","item":"oak_planks","count":6},{"do":"give","to":"ag_billy_01","item":"cobblestone","count":3}],"say":"Bill
+- 22:16 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":3},{"do":"give","to":"ag_billy_01","item":"oak_planks","count":3}]}
+- 22:16 act: {"say":"Billy, I gave you the planks and cobblestone. Trini has your wool at the beds. Stay away from the iron golem to the west."}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I am going to the white bed by -270, 67, 318 to sleep. Goodnight, Trini and Billy."}
