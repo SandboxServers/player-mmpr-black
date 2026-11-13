@@ -612,3 +612,5 @@
 - 03:10 act: {"reasoning":"Boxed in on all sides. Mining the nearest stone may open a way out.","actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
 - 03:10 act: {"reasoning":"The mine opened a path and I moved to 57. There is a drop to the west, so avoid it. Travel to the beds now.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"
 - 03:14 act: {"actions":[{"do":"give","to":"Billy","item":"dirt","count":10},{"do":"give","to":"Kimberly","item":"dirt","count":10},{"do":"give","to":"Trini","item":"dirt","count":10}],"say":"Billy, Kimberly, Trin
+- 03:16 act: {"say":"Still here with 90 dirt. Billy, Kimberly, Trini, Jason: if you're still stuck and need more, say how many and where you are.","intent":{"goal":"hold_position_and_answer_dirt_requests","program
+- 03:16 act: {"say":"Got it, Billy. Placing blocked where you stand, so try a step to the side or mine one stone for room. Shout if you need more dirt."}
