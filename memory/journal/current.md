@@ -617,3 +617,5 @@
 - 03:25 act: {"say":"Heading to the beds for the night. Trini, Kimberly, Billy, Jason, I'm close if you need dirt.","actions":[{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"intent":{"goal":"reach_bed_and_slee
 - 03:28 act: {"say":"Kimberly, I'm coming to the pit edge with dirt. Hold tight.","actions":[{"do":"goto","target":{"x":-236,"y":56,"z":348}}],"intent":{"goal":"reach_pit_edge_with_dirt","program":"travel","argume
 - 03:28 act: {"say":"Kimberly, Trini sent you 10 dirt. I can't reach the pit from here. If you need more, say the count and I'll drop it at the edge."}
+- 03:41 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 03:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
