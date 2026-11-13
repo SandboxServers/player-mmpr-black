@@ -1374,3 +1374,7 @@
 - 18:14 act: {"say":"I have 12 wheat seeds. I'll try planting them here at the beds for a wheat crop, so we have food later. Billy, I'll share if it grows.","actions":[{"do":"place","block":"wheat_seeds","at":{"x"
 - 18:16 act: {"say":"Tommy, I don't have bread. I have only seeds and stone, and no food. Billy is the one who needs one wheat for bread.","actions":[{"do":"wait","seconds":60}]}
 - 18:16 act: {"say":"Billy, I have no bread, sorry. Trini and Tommy may have mixed us up. I only have seeds and stone. If I find wheat I'll bring it to you first.","actions":[{"do":"wait","seconds":90}]}
+- 18:18 act: {"say":"Kimberly, thank you. Planting needs tilled soil, and I haven't worked out how to till yet. If anyone learns how, tell me. For now I'm waiting for food.","actions":[{"do":"wait","seconds":120}]
+- 18:20 act: {"actions":[{"do":"attack","target":"villager"}]}
+- 18:20 act: {"say":"I hit a villager by mistake and the iron golems are angry. I'm running back to the beds.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}}]}
+- 18:21 act: {"say":"I died out west and woke at the spawn with nothing. My things are at x=-304 z=406, but I won't go back in the dark. I'm heading to the beds.","actions":[{"do":"goto","target":{"x":-272,"y":68,
