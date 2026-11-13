@@ -1287,3 +1287,16 @@
 - 17:02 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}],"say":"I'm out. Going to Kimberly's beetroot near here.","reasoning":"Out of the pit now. Hunger 13 with no food; head to the beetroot Kim
 - 17:02 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-199,"y":61,"z":352}}],"reasoning":"Goto to Kimberly's spot did not move me. Clear a stone and try a nearby cell instead.
 - 17:02 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 17:03 act: {"say":"Kimberly, Billy, I'm sealed in here at -200,60,351 and will stay put. Kimberly, the 2 beetroot at first light would help a lot. I'm short on food too.","reasoning":"Night, sheltered. Others ar
+- 17:08 act: {"say":"Morning, Kimberly. I'm digging up out of the shelter now. Bring the beetroot to me.","reasoning":"Dawn; food first. Dig out upward toward Kimberly.","actions":[{"do":"mine","block":"dirt","cou
+- 17:08 act: {"say":"I'm out, at -199,59,351. Kimberly, where are you? I could really use that beetroot.","reasoning":"Out of pit. Kimberly was above at -200,64,351 but is not in view. Call out and hold still."}
+- 17:10 act: {"say":"Kimberly, I'm at -199,59,351, standing on stone, one block east of my old pit, with open air above me. Come down to me or I'll come up. Jason, I'd gladly take your 2 wheat if you pass this way
+- 17:11 act: {"say":"On my way up to you, Kimberly.","reasoning":"Kimberly asked me to come to her spot. Goto her position.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}]}
+- 17:11 act: {"say":"No path from here. I'm building a pillar of dirt to climb up to you.","reasoning":"Perched, no path. Pillar up with dirt, which I have 56 of.","intent":{"goal":"pillar_up_to_kimberly","program
+- 17:11 act: {"say":"Kimberly, I'm right below you now. Please give me the beetroot, I'm very hungry.","reasoning":"Kimberly is in reach. Ask for the food directly."}
+- 17:13 act: {"say":"Thank you, Kimberly. I ate it. Billy, I'm going toward the farm for more food and will bring word back.","reasoning":"Ate the beetroot. Hunger still 14. Next find food at the farm around -294,
+- 17:13 act: {"actions":[{"do":"unstick"}],"reasoning":"Travel failed: trapped in pit. Unstick before retrying.","say":"I'm still stuck in this pit, so I'm getting out first. Billy, I'll come to you once I'm free.
+- 17:13 act: {"say":"I'm out, Billy. Going to the farm now for food. Trini, I heard you're stuck at -257,58,351; I'll come help once I've eaten.","reasoning":"Free of the pit. Hunger 14, no food. Travel to the far
+- 17:13 act: {"say":"Jason, I'm free now at -199,61,351 on dirt. My hunger is 14 and I have no food. Could you bring me the 2 wheat when you can reach me? Billy, Kimberly can drop the beetroot at the ledge; I'll c
+- 17:18 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":20}],"reasoning":"Billy and Kimberly need blocks for a pillar. I have 54 dirt. Give Billy 20 so he can build up.","say":"Billy, I'm gi
+- 17:19 act: {"say":"Dusk now. I'm building a dirt shelter here at -199,61,351 for the night. Billy, I'm sorry I can't reach you with dirt; stay on your ledge and wall it in. Tommy, I have no spare food, only bloc
