@@ -786,3 +786,7 @@
 - 08:18 act: {"intent":{"goal":"seal_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_ope
 - 08:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":61,"z":347}},{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":347}},{"do"
 - 08:23 say: {"text":"Zack: Thanks Trini, no worries. I'm sealed in for the night and will hunt animals on the grass at daylight. Anyone who finds food, please tell me."}
+- 08:23 act: {"actions":[{"do":"eat"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Zack here, stuck in a pit at -225,60,347 with hunger 17. Eating my last wheat and b
+- 08:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-225,"y":63,"z":347}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"x":-225,"y
+- 08:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-225,"y":64,"z":347}},"wake_on":["goal_complet
+- 08:25 act: {"say":"Zack: I'm out of the pit at -225,61,347. Jason, Tommy: I have 60+ dirt; I'll drop some down the shaft once I find the rim.","intent":{"goal":"shelter","program":"build","arguments":{"blueprint
