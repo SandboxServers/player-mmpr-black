@@ -1556,3 +1556,16 @@
 - 20:50 act: {"intent":{"goal":"check_dropped_items_south","program":"travel","arguments":{"target":{"x":-267,"y":67,"z":374}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 20:50 act: {"intent":{"goal":"explore_for_food","program":"travel","arguments":{"target":{"x":-280,"y":67,"z":374}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
 - 20:50 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":355}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 20:51 act: {"say":"Morning. I'm heading out to search for cows, chickens or sheep. I have no food either. Whoever finds an animal, shout the place.","intent":{"goal":"search_animals_se","program":"travel","argum
+- 20:51 act: {"intent":{"goal":"search_animals_se","program":"travel","arguments":{"target":{"x":-245,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 20:51 act: {"say":"No animals here at the south-east edge of the oak trees. I'm going further south to look.","intent":{"goal":"search_animals_south","program":"travel","arguments":{"target":{"x":-245,"y":66,"z"
+- 20:51 act: {"actions":[{"do":"unstick"}]}
+- 20:52 act: {"intent":{"goal":"search_animals_far_south","program":"travel","arguments":{"target":{"x":-260,"y":66,"z":450}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 20:52 act: {"say":"Zack here, at -260,67,450. No animals or food seen on the south-east route. I'll search west next. Billy, I'll send word if I find meat.","intent":{"goal":"search_animals_west","program":"trav
+- 20:52 act: {"intent":{"goal":"search_animals_sw","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":470}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 20:53 act: {"say":"I see a dropped item to my south-east. I'll check it.","actions":[{"do":"goto","target":{"x":-299,"y":65,"z":475}}]}
+- 20:53 act: {"say":"Nothing edible here, just an empty item spot. I'm heading back north to the yellow beds for the night and will keep watch for cows at first light.","intent":{"goal":"reach_bed_for_night","prog
+- 20:54 act: {"say":"Morning. I'm at the yellow beds now. Still no animals on the south and south-west routes. I'll search west-north-west next. Jason, the wheat pond is a good idea.","intent":{"goal":"search_anim
+- 20:54 act: {"say":"Trini, I have no food either, sorry. I'm searching the west for cows. An iron golem is near me, so I'm keeping my distance.","intent":{"goal":"search_animals_far_west","program":"travel","argu
+- 20:55 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","u
+- 20:55 act: {"say":"Jason, I'm too far off to reach you tonight. I'm sealed in stone at -335,70,356 for the night."}
