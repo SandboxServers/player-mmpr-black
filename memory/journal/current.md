@@ -664,3 +664,11 @@
 - 06:06 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
 - 06:06 act: {"intent":{"goal":"shelter_dirt_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
 - 06:06 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Build keeps stopping. Try a hand placement to see whether it closes the open air above."}
+- 06:10 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}],"intent":{"goal":"leave_pit","program":"travel","arguments":{"x":-222,"y":62,"z":350},"wake_on":["goal_completed","unexpected_damag
+- 06:11 act: {"intent":{"goal":"leave_pit","program":"travel","arguments":{"x":-222,"y":60,"z":350},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":32}},"ac
+- 06:11 act: {"actions":[{"do":"mine","block":"stone","count":4}],"intent":{"goal":"dig_out_of_pit","program":"gather","arguments":{"block":"stone","count":8},"wake_on":["goal_completed","unexpected_damage"],"limi
+- 06:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-231,"y":57,"z":343}}],"reasoning":"Use Billy's proven exit: dirt under feet, unstick, then walk north
+- 06:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-231,"y":57,"z":346}},{"do":"goto","target":{"x":-231,"y":57,"z":344}}],"reasoning":"Placement blocked. Unstick, then walk north in short steps.
+- 06:16 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-230,"y":57,"z":344}}],"reasoning":"Walking is blocked by stone. Mine through northward, then move."}
+- 06:16 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":57,"z":343}}],"reasoning":"Keep digging north, then try to walk out."}
+- 06:16 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-230,"y":57,"z":343}},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-230,"y":57,"z":340}}],"reasonin
