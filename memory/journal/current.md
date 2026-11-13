@@ -579,3 +579,19 @@
 - 02:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 02:57 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","di
 - 02:57 act: {"actions":[{"do":"sleep"}]}
+- 02:58 act: {"actions":[{"do":"eat"}],"intent":{"goal":"harvest_farm_wheat","program":"gather","arguments":{"block":"wheat","count":10},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limit
+- 03:00 act: {"actions":[{"do":"eat"}]}
+- 03:00 act: {"actions":[{"do":"eat"}],"intent":{"goal":"harvest_farm_wheat","program":"gather","arguments":{"block":"wheat","count":10},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limit
+- 03:01 act: {"intent":{"goal":"harvest_farm_wheat","program":"gather","arguments":{"block":"wheat","count":10},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operatio
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-245,"y":68,"z":349}},{"do":"eat"}]}
+- 03:01 act: {"actions":[{"do":"eat"}]}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-249,"y":68,"z":353}},{"do":"mine","block":"wheat","count":4}]}
+- 03:01 act: {"actions":[{"do":"eat"}]}
+- 03:01 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-248,"y":68,"z":352}}]}
+- 03:01 act: {"actions":[{"do":"mine","block":"wheat","count":3}]}
+- 03:05 act: {"actions":[{"do":"eat"}]}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-243,"y":69,"z":344}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-243,"y":69,"z":344}},"wake_on":["goal_completed","directl
+- 03:06 act: {"actions":[{"do":"eat"}]}
+- 03:06 act: {"actions":[{"do":"eat"}]}
+- 03:06 act: {"reasoning":"Hunger 19 is just under the eat threshold. Stop any leftover intent by setting a simple wait, then try eating once with nothing else running.","intent":{"goal":"rest_at_beds","program":"
+- 03:06 act: {"reasoning":"Tommy is sending potatoes. Try eating the held potato once more, alone, with no intent running.","actions":[{"do":"eat"}],"say":"Thanks Tommy, I'll eat them and then take dirt to Billy a
