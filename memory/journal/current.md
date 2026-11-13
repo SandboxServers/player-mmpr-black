@@ -1057,3 +1057,28 @@
 - 13:33 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-197,"y":64,"z":352}}]}
 - 13:33 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-196,"y":64,"z":353}},{"do":"goto","target":{"x":-197,"y":64,"z":353}}]}
 - 13:41 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-196,"y":64,"z":353}},{"do":"place","block":"cobblestone","at":{"x":-194,"y":64,"z":353}},{"do":"place","block":"cobblestone","at":{"x":-195,"
+- 13:50 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Still no food. I'm digging out of this stone to find dirt I can till for wheat.","reasoning":"Sealed in stone, hunger 17, no food. Open a wa
+- 13:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"wheat_seeds","at":"feet"}],"reasoning":"Test whether dirt can take seeds directly after tilling. Read the reason if it fail
+- 13:50 act: {"actions":[{"do":"place","block":"wheat_seeds","at":"feet"}],"reasoning":"Body is awake. One more try planting seeds on the dirt under me; if it fails, I learn tilling is the missing step."}
+- 13:50 act: {"intent":{"goal":"reach_tommy_kimberly","program":"travel","arguments":{"x":-241,"y":62,"z":343},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-241,"y":62,"z":343}}],"reasoning":"The travel intent did not move me. Try a direct goto toward Tommy at the lake."}
+- 13:51 act: {"actions":[{"do":"unstick"}],"reasoning":"Goto moved 0 with walls around me. Unstick to get free, then decide the way out."}
+- 13:51 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-200,"y":64,"z":352}}],"reasoning":"Still walled in. Dig stone out toward the west, the way to the lake, then try to walk
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-236,"y":63,"z":346}}],"say":"I'm out of the stone, at -196, 64, 354. I have a stone hoe and 12 wheat seeds. Tommy, I'm coming to the dry side for the wheat.","r
+- 13:52 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-210,"y":63,"z":350}}],"reasoning":"Goto moved 0 again. Dig stone around me, unstick, then try a short h
+- 13:52 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-200,"y":64,"z":352}}],"reasoning":"Still mostly walled. Mine two more stone, then try a short walk west."}
+- 13:52 act: {"actions":[],"say":"Tommy, I'm still walled in at -195, 64, 355. Every path fails and I can't reach you. I'm mining out, but please keep the wheat for Kimberly and Trini.","reasoning":"Walls block me
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-239,"y":63,"z":348}}],"say":"Kimberly, glad you're dry. I'm still stuck at -196, 64, 354 and digging. I'll come if I can
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"say":"Tommy or Trini, I'm at -197, 64, 354, dug into the stone and still boxed in. If you can reach me, dig a tunnel to me from t
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":-239,"y":68,"z":345}}],"reasoning":"Unstick worked and moved me. Try the walk to Kimberly's dry grass now."}
+- 13:54 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-210,"y":66,"z":350}}],"reasoning":"Path toward Kimberly is blocked. Clear dirt and stone toward the west
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-220,"y":66,"z":348}}],"say":"Tommy, I moved a few blocks and I'm at -198, 64, 353. Digging west toward you now.","reason
+- 13:54 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-210,"y":65,"z":350}}],"reasoning":"Trini is digging toward the same spot. Keep digging west in short st
+- 13:54 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"stone","count":1},{"do":"unstick"}],"reasoning":"Enclosed by dirt and stone on all sides. Dig through the dirt ahead to the wes
+- 13:54 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-205,"y":64,"z":352}}],"reasoning":"Dirt cleared ahead. Walk further west through the gap."}
+- 13:55 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-206,"y":64,"z":351}}],"reasoning":"Each cycle gains a block or two. Keep digging west toward Trini's tunnel."}
+- 13:55 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-203,"y":64,"z":353}}],"reasoning":"Only one block gained last time. Dig two more dirt ahead and step int
+- 13:55 act: {"actions":[{"do":"mine","block":"dirt","count":3}],"say":"Trini, I'm digging toward you from the east. I have no wheat to spare, but I have seeds and cobblestone.","reasoning":"Path west is blocked b
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":-203,"y":64,"z":353}},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-206,"y":64,"z":351}}],"reasoning":"Tommy sent wheat to Trini, and Kimber
+- 13:55 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2}],"reasoning":"Path still blocked. Unstick, then dig more dirt."}
+- 13:58 act: {"say":"Dusk. I'm at -199,64,353 in a dirt pocket, not sealed. I'll wall myself in for the night with dirt. Keep the wheat for whoever is hungriest.\"","intent":{"goal":"shelter_for_night","program":"
