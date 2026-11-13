@@ -1301,3 +1301,57 @@
 - 17:18 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":20}],"reasoning":"Billy and Kimberly need blocks for a pillar. I have 54 dirt. Give Billy 20 so he can build up.","say":"Billy, I'm gi
 - 17:19 act: {"say":"Dusk now. I'm building a dirt shelter here at -199,61,351 for the night. Billy, I'm sorry I can't reach you with dirt; stay on your ledge and wall it in. Tommy, I have no spare food, only bloc
 - 17:19 act: {"say":"I'm sealed in here with no food, hunger 14. Billy, Tommy, Trini: I have dirt and cobblestone to share once I can reach you. Jason's wheat is my hope.","intent":{"goal":"wait_for_food_and_dawn"
+- 17:29 act: {"actions":[{"do":"wait","seconds":1}],"say":"Jason, I hear you, I'm waiting here at -199,61,352. Billy, I'm close by with 48 dirt and cobblestone. If you can see me, say so and I'll hand you what you
+- 17:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":10}],"say":"Billy, sending you 10 dirt now. Pillar up with it."}
+- 17:29 act: {"actions":[{"do":"wait","seconds":60}],"say":"Billy, I can't see you from here, so the dirt didn't go through. Stand where I can see you and I'll hand it up. Jason, I'm still waiting for your wheat."
+- 17:30 act: {"actions":[{"do":"wait","seconds":20}],"say":"Jason, I'm right below you at -199,61,352. Bring the wheat. Kimberly, I'm here, if you can see me, the beetroot would help."}
+- 17:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Jason, Kimberly, I'm raising myself with dirt under my feet. Give me a moment to come up level w
+- 17:31 act: {"actions":[{"do":"mine","block":"cobblestone","count":1},{"do":"mine","block":"cobblestone","count":1}]}
+- 17:32 act: {"actions":[{"do":"wait","seconds":5}],"say":"Billy, swim up toward the air, away from the water's bottom. Don't dig sideways into the water. I'm at -200,59,352 and I'm digging up toward Jason and Kim
+- 17:32 act: {"actions":[],"say":"Jason, Kimberly, I'm at -200,59,352 and can see you now. I'm level enough to take the wheat and beetroot. Hand them over when you're close."}
+- 17:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Billy, I can't see you yet. Jason, I'm at y=59, rising a block to get level with you."}
+- 17:32 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"wait","seconds":3}]}
+- 17:32 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"say":"Kimberly, I'm at -202,59,352, a few blocks below you and open to the sky now. I'm digging up toward you. Billy, I see you below me."}
+- 17:32 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":10}],"say":"Billy, I'm giving you 10 dirt now to help you climb out of the water."}
+- 17:32 act: {"actions":[],"say":"Jason, I'm holding still at -201,58,350 on grass. Billy is beside me. Come level and I'll take the wheat."}
+- 17:34 act: {"actions":[],"say":"Kimberly, I'm hungry at 14. If you can reach me, please give me the beetroot. Jason, keep your wheat for Billy if you can't get to me."}
+- 17:40 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 17:40 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"say":"Kimberly, I'm at -201,58,350 and night is here. Digging up toward you now. I'm close."}
+- 17:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-201,"y":58,"z":350}}]}
+- 17:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-199,"y":57,"z":350}}]}
+- 17:42 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-201,"y":58,"z":350}}],"intent":{"goal":"reach_solid_ground","program":"travel","arguments":{"target":{"x":-201,"y":58,"z
+- 17:43 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-195,"y":54,"z":349}}]}
+- 17:43 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 17:43 act: {"say":"I'm on a stone block in the water at -197,55,351. Billy, can you see me? Kimberly, Jason, I need the food.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 17:44 act: {"say":"I'm on dirt now, out of the water. Billy is beside me. Kimberly, Jason, please hand me the beetroot or wheat, I'm starving.","actions":[]}
+- 17:44 act: {"say":"Thank you Billy. I have the 2 wheat. Kimberly, I'm right here on the dirt at -199,56,349.","actions":[{"do":"eat"}]}
+- 17:46 act: {"say":"Kimberly, Jason: I have Billy's 2 wheat. Bread needs 3, so one more wheat or the beetroot would let me eat. I'm on the dirt at -199,56,349.","actions":[]}
+- 17:47 act: {"say":"Kimberly, I'll pillar up toward you with cobblestone. Stay where you can see me.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 17:47 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 17:47 act: {"say":"I'm at -199,59,349 now, with a stone pillar under me. Something is blocking above. Kimberly, can you see me? Hand down the beetroot.","actions":[]}
+- 17:48 act: {"say":"Kimberly, I'm at -199,59,349 on a pillar. The block above me is blocked, so I'll dig a way around to get level with you.","actions":[{"do":"mine","block":"stone","count":2}],"intent":{"goal":"
+- 17:48 act: {"say":"I'm in the water at -199,54,348. Getting out first.","actions":[{"do":"unstick"}]}
+- 17:48 act: {"say":"I'm still in the water at -197,54,349. Jason, Kimberly, I can see you now; I'm getting out.","actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
+- 17:48 act: {"actions":[{"do":"unstick"}]}
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":-199,"y":64,"z":351}}]}
+- 17:49 act: {"say":"I'm out of the water at -203,55,345, standing on andesite. Kimberly, I'm hungry; bring the beetroot here when you can see me.","actions":[]}
+- 17:50 act: {"say":"I'm on solid ground at -200,64,351 with you all in reach. Kimberly, the beetroot to me please, I'm at hunger 14. Tommy, once you have the 3 wheat, I'll make bread at the table at -202,58,351."
+- 17:50 act: {"say":"Tommy's wheat never reached me; I still have only 2. Jason, you hold 3 wheat: give me 1 now and I'll make bread here. Billy gets the other 2 from you when he's in sight, and Kimberly's beetroo
+- 17:51 act: {"say":"My pack is full of dirt and cobblestone. I'm dropping 27 dirt to Tommy, who has room, then Kimberly can try the beetroot again.","actions":[{"do":"give","to":"ag_tommy_01","item":"dirt","count
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":-202,"y":59,"z":351}},{"do":"craft","item":"bread","count":1}]}
+- 17:51 act: {"say":"Tommy, I'm putting 59 cobblestone in your pack to clear room for Jason's wheat. Jason, try the wheat again.","actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":59}]}
+- 17:51 act: {"say":"Tommy's pack seems full, so the cobblestone give was refused. Jason, can you still give me the wheat? I have room for three now if I drop a stack here.","actions":[{"do":"unstick"}],"intent":{
+- 17:51 act: {"say":"Jason, give your 3 wheat to Billy, the hungriest. Billy, I'm holding 2 wheat too. Tell me when you're in reach and I'll hand them over.","actions":[{"do":"goto","target":{"x":-202,"y":59,"z":3
+- 17:52 act: {"say":"Billy, I'm digging toward you now. Hold on.","actions":[{"do":"goto","target":{"x":-200,"y":60,"z":352}},{"do":"mine","block":"stone","count":2}]}
+- 17:52 act: {"say":"Billy, you're in reach. Here are my 2 wheat. Jason, bring your 3 wheat up to Billy.","actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":2}]}
+- 17:52 act: {"say":"Billy, your pack is probably full of dirt, so I'll try the wheat again after you drop some. I'm mining a gap above you now.","actions":[{"do":"goto","target":{"x":-199,"y":60,"z":352}},{"do":"
+- 17:52 act: {"say":"Billy, you're close now. Trying my 2 wheat again.","actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":2}]}
+- 17:52 act: {"say":"Billy, my give was refused, so I still have the 2 wheat. Drop some dirt to make room, then tell me and I'll give them again.","actions":[]}
+- 17:53 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":2}],"say":"Billy, I'm giving you my 2 wheat now. With Jason's 3 you'll have enough to craft bread at the table."}
+- 17:53 act: {"actions":[],"say":"Billy, my give failed again, so your pack may be full of dirt. Drop some on the ground and I'll try once more. Jason, Billy has room only if he drops things, so hold your wheat fo
+- 17:57 act: {"actions":[],"say":"Billy, Trini: I have no food either, hunger 14. I'll come west with you to look for animals. If you find any, tell me where."}
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-212,"y":62,"z":352}}],"say":"Heading west after you, Billy and Trini. Call out if you see animals."}
+- 17:58 act: {"actions":[],"say":"Tommy, I'm Zack, at -208,60,355. I have no food and hunger is 14. If you can craft bread, I'd be grateful for one. I'll come to the table at -261,68,352 when you're there."}
+- 17:58 act: {"actions":[],"say":"Trini, you're hungrier than me, so take the first bread. I'll wait here and go to the table after."}
+- 17:59 act: {"actions":[{"do":"goto","target":{"x":-203,"y":59,"z":353}}],"say":"Tommy, I'm coming to your table at -202,58,351. I'll stand close and wait for bread."}
+- 17:59 act: {"actions":[],"say":"Trini, I'm not going to be far. I'm building a cobblestone shelter here for the night, next to the table. Bread for you first when it comes.","intent":{"goal":"night_shelter","pro
