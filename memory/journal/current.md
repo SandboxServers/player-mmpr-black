@@ -644,3 +644,5 @@
 - 05:10 act: {"say":"Trying a new spot: I'll place dirt blocks around me to wall in.","actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":350}},{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":
 - 05:11 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":350}}]}
 - 05:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"intent":{"goal":"seal_overhead_and_wait","program":"rest","arguments":{"note":"wait in place until shelter works or daylight passes"},"wake_on":
+- 05:24 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":350}}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_com
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":-228,"y":59,"z":352}}],"intent":{"goal":"find_open_spot_to_shelter","program":"travel","arguments":{"x":-228,"y":59,"z":352},"wake_on":["goal_completed","unexpec
