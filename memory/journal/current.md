@@ -970,3 +970,14 @@
 - 12:20 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
 - 12:20 act: {"intent":{"goal":"shelter_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
 - 12:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-190,"y":66,"z":352}},{"do":"place","block":"dirt","at":{"x":-192,"y":66,"z":352}},{"do":"place","block":"dirt","at":{"x":-191,"y":66,"z":353}},{"do"
+- 12:20 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 12:20 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 12:29 act: {"actions":[{"do":"mine","block":"diorite","count":2},{"do":"unstick"}],"reasoning":"Enclosed in stone; need to dig out to search for food.","say":"Zack here. Hunger 17, no food. Digging out to search
+- 12:29 act: {"actions":[{"do":"mine","block":"diorite","count":3},{"do":"mine","block":"stone","count":3}],"reasoning":"Previous mining left me in place; try again to dig out."}
+- 12:29 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-191,"y":66,"z":358}}],"reasoning":"Dig out southward toward open grass, searching for animals."}
+- 12:29 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 12:30 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"mine","block":"diorite","count":2}]}
+- 12:30 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Worker failed to find food and is boxed in. Craft a table and pickaxe from m
+- 12:30 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Place the table so I can craft the pickaxe."}
+- 12:37 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 12:38 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
