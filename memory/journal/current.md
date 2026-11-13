@@ -547,3 +547,7 @@
 - 01:44 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-272,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-271,"y":67,"z":328}},{"do"
 - 01:53 act: {"say":"Zack at -270,67,327, by the yellow beds. Trini, I'm still here waiting for cobblestone. No food seen yet.","reasoning":"Trini has not arrived. Ping her with my location and keep waiting."}
 - 01:55 act: {"say":"Trini, don't risk the pit for me. Keep your 19 cobblestone and stay safe. I'll work out my own shelter.","reasoning":"Trini keeps falling back into the pit trying to reach me. I should release
+- 01:58 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_opera
+- 02:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-269,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-271,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"z":328}},{"do"
+- 02:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Earlier placements did not change inventory, so try the simplest form, placing at my feet, and check."}
+- 02:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-269,"y":67,"z":327}}],"reasoning":"Test one adjacent placement and read the exact failure message to learn why."}
