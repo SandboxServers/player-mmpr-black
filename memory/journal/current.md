@@ -1642,3 +1642,5 @@
 - 21:55 act: {"actions":[{"do":"mine","block":"pumpkin","count":2}],"say":"Jason, I'm at the pumpkin patch too. I'm full, so I'll mine a couple to see what they give. Tommy, if you're hungry, Jason's porkchop and 
 - 21:58 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"ma
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini, good. I'll sleep in this white bed tonight. Tell Billy I'll help with the wool at first light."}
+- 22:00 act: {"actions":[{"do":"sleep"}]}
