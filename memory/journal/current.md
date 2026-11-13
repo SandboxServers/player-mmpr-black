@@ -1637,3 +1637,8 @@
 - 21:42 act: {"reasoning":"Night, I'm beside the yellow bed at spawn, health and hunger full, nothing near. Sleep now.","actions":[{"do":"sleep"}]}
 - 21:43 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Night is here. I'm going to the yellow bed by the spawn to sleep."}
 - 21:43 act: {"actions":[{"do":"sleep"}]}
+- 21:48 act: {"intent":{"goal":"reach_pumpkin_patch","program":"travel","arguments":{"x":-366,"y":64,"z":319},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":-366,"y":64,"z":319}}]}
+- 21:55 act: {"actions":[{"do":"mine","block":"pumpkin","count":2}],"say":"Jason, I'm at the pumpkin patch too. I'm full, so I'll mine a couple to see what they give. Tommy, if you're hungry, Jason's porkchop and 
+- 21:58 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"ma
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"
