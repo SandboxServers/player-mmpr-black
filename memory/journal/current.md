@@ -568,3 +568,14 @@
 - 02:14 act: {"reasoning":"Shelter build stalls. Try the smaller wall blueprint with dirt, which needs only 15 blocks.","intent":{"goal":"wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"
 - 02:18 act: {"reasoning":"Night, no shelter built, builds keep failing. Nearest bed is about 13 tiles northeast at -241,69,343. Walk there and sleep in it.","say":"Night is here. I'm walking to the yellow bed at 
 - 02:18 act: {"reasoning":"At the bed, night, health steady, hunger 19. Sleep here.","actions":[{"do":"sleep"}]}
+- 02:23 act: {"reasoning":"Tommy and Billy are coming to these beds, hungry. I'll share my one potato and wheat with Tommy when he arrives, and keep the seeds.","say":"Tommy, Billy, come to the beds. I'm here. I h
+- 02:24 act: {"intent":{"goal":"share_food_with_tommy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":4}},"actions":[{"do":
+- 02:27 act: {"say":"Morning, all. Thank you, Jason, Tommy, Kimberly. I'm at the beds and will check the wheat as it ripens.","intent":{"goal":"check_farm_for_ripe_wheat","program":"travel","arguments":{"target":{
+- 02:31 act: {"say":"Jason, Kimberly, Billy: I have plenty of dirt. Sending Jason 20 dirt to climb out. A villager is attacking near me, so I'm moving off.","actions":[{"do":"give","to":"Jason","item":"dirt","coun
+- 02:39 act: {"intent":{"goal":"rest_at_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":
+- 02:48 act: {"say":"Morning, day 112. Still in the pit, Trini, Billy, Jason, Kimberly? I have 112 dirt and can drop more. Tell me who needs it and where.","intent":{"goal":"check_farm_wheat_for_ripeness","program
+- 02:48 act: {"say":"Jason, Billy, I'm sending you 20 dirt each. Stack up and climb out, and tell me if you need more.","actions":[{"do":"give","to":"Jason","item":"dirt","count":20},{"do":"give","to":"Billy","ite
+- 02:48 act: {"say":"Billy, I already gave you 20 dirt; check your pack. I can't drop blocks into the pit from here, so stack up from there. Jason, good luck with the stone."}
+- 02:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","di
+- 02:57 act: {"actions":[{"do":"sleep"}]}
