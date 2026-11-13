@@ -541,3 +541,7 @@
 - 01:35 act: {"actions":[{"do":"unstick"}]}
 - 01:35 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}]}
 - 01:38 say: {"text":"Trini, I'm at -273,63,318 on the crafting table. Not enclosed yet, hunger 14. Dirt and planks are ready if you need them."}
+- 01:42 act: {"say":"Zack here at -273,63,318, on the crafting table. Trini, cobblestone to me when you can. I have dirt to seal sides.","reasoning":"Night, unsheltered, Trini is en route. Wait for her cobblestone
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Beds are one block north. Get into the bed area, then seal and sleep."}
+- 01:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in bed area. Try to sleep in the bed."}
+- 01:44 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-272,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-271,"y":67,"z":328}},{"do"
