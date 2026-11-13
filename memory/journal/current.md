@@ -623,3 +623,4 @@
 - 03:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
 - 04:10 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":347}},{"do"
 - 04:13 act: {"say":"Trini, I'm at -233,58,348, too far from the pit to drop anything reliably. I'm holding here, safe at health 20. Anyone who can reach me, I have 89 dirt.","intent":{"goal":"hold_and_wait_for_re
+- 04:25 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_at_dawn","program":"travel","arguments":{"x":-241,"y":69,"z":344},"wake_on":["goal_completed"
