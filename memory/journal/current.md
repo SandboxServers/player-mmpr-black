@@ -886,3 +886,6 @@
 - 10:58 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"night_shelter_3","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addresse
 - 11:06 act: {"say":"Morning. Kimberly, please share the potatoes now. Tommy and Trini need them most. I can give cobble or dirt back.","intent":{"goal":"share_food_dawn","program":"wait","arguments":{},"wake_on":
 - 11:07 act: {"say":"Trini, I don't have the potatoes. Kimberly is taking them to Tommy herself. I'll stay here with you and share cobble or dirt if you need it.","intent":{"goal":"stay_near_trini_dawn","program":
+- 11:07 act: {"say":"Zack here at the beds. I have 16 cobblestone and 39 dirt. Trini, Tommy, tell me what you need and where to drop it.","intent":{"goal":"wait_for_requests","program":"rest","arguments":{},"wake_
+- 11:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, I'm giving you 8 cobblestone for Tommy at the pool. I still have 8 cobble and 39 dirt if anyone needs more.",
+- 11:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, my give of cobble didn't land. I'm trying again now. If it fails, tell me and I'll drop it on the ground next
