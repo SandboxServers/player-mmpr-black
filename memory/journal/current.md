@@ -1521,3 +1521,16 @@
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"Night, outdoors, iron golem closing. Get to the yellow bed 6 west and sleep there.","intent":{"goal":"reach_bed_for_night","p
 - 20:23 act: {"say":"Kimberly, hello. I'm Trini, just woke by the white beds. Is there anything you need?","intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected
 - 20:23 act: {"actions":[{"do":"sleep"}]}
+- 20:24 say: {"text":"Tommy, I'll wait here at the white beds for you. Come on in and we'll go for the cows at first light."}
+- 20:28 act: {"say":"Trini here: I am still at the white beds (-272,67,336), not at the cow field. Dawn now. I'm heading to the cow near -252,68,447 to hunt food. Kimberly and Billy, keep clear of the skeleton and
+- 20:28 act: {"say":"Zack here, still at the beds. Heading to Trini's spot at -276,69,379 to join the group, then the cow.","intent":{"goal":"join_group_at_meeting_spot","program":"travel","arguments":{"target":{"
+- 20:29 act: {"say":"I'm here with Tommy and Trini at -276,69,379. Going to the cow at -240,69,440 together now. Stay close.","intent":{"goal":"reach_cow_field_with_group","program":"travel","arguments":{"target":
+- 20:29 act: {"say":"I'm at the cow field. There are dropped items to the west, around -249,69,438. I'll check them for food.","intent":{"goal":"check_dropped_items_for_food","program":"travel","arguments":{"targe
+- 20:29 act: {"intent":{"goal":"sweep_dropped_items_west","program":"travel","arguments":{"target":{"x":-253,"y":69,"z":434}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 20:29 act: {"say":"A skeleton with a bow is to the southwest. I have no weapon, so I'm moving north to the drops and away from it.","intent":{"goal":"pick_up_north_drops_away_from_skeleton","program":"travel","a
+- 20:29 act: {"say":"A skeleton and a wolf are coming from the south, and I have no weapon. Pulling back north to the group. The drops here are only leaf litter and dirt.","intent":{"goal":"retreat_north_from_skel
+- 20:30 act: {"say":"I have no weapon, and a skeleton and wolf are south of me, so I'm not going for the cow. I'm heading to the ripe wheat near -294,69,290 where Billy and Kimberly are.","intent":{"goal":"reach_r
+- 20:30 act: {"actions":[{"do":"unstick"}]}
+- 20:30 act: {"say":"I'm stuck in a pit near -261,66,385 and unstick failed. I have a stone pickaxe and will try digging out. If anyone is near, please tell me what you see.","actions":[{"do":"mine","block":"stone
+- 20:30 act: {"say":"I'm out of the pit and fine, health 20, no food. Billy, Kimberly: I'll come to your table for the bread. Where is it? I'm heading to the crafting table at -268,67,366 first.","intent":{"goal":
+- 20:30 act: {"say":"I'm at the crafting table at -268,67,366, free and healthy. Billy, if you have bread, bring it here or tell me where you are. I'll wait here."}
