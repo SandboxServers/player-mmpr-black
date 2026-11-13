@@ -503,3 +503,36 @@
 - 01:05 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_o
 - 01:06 act: {"actions":[{"do":"mine","block":"oak_leaves","count":5},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
 - 01:07 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 01:08 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-282,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 01:10 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Errand is to reach Billy's beds. Try goto first, then climb out if blocked."}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Retry goto to Billy's beds; earlier intents failed. Check result after."}
+- 01:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Goto blocked by running action. Stack dir
+- 01:11 act: {"actions":[{"do":"unstick"}],"reasoning":"An old intent seems stuck and blocks every action. Unstick clears it."}
+- 01:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Retry stacking dirt and goto after unstic
+- 01:11 act: {"intent":{"goal":"reach_billy_beds","program":"travel","arguments":{"target":{"x":-282,"y":69,"z":371}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
+- 01:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Intent cleared; try stacking dirt to climb out o
+- 01:11 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"villager"}],"reasoning":"Villager is attacking me and goto and placing are failing. Craft a sword and fight back."}
+- 01:11 act: {"actions":[{"do":"attack","target":"villager"},{"do":"attack","target":"villager"},{"do":"place","block":"crafting_table","at":{"x":-275,"y":63,"z":318}},{"do":"craft","item":"wooden_sword","count":1
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Villager backed off. Try goto once more now that the queue is clear."}
+- 01:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Position moved up one block. Keep stackin
+- 01:11 act: {"actions":[{"do":"unstick"}],"reasoning":"Clear the stale running action so placing and goto can run."}
+- 01:11 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Body reports stuck. Try unstick, then stack dirt."}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"reasoning":"Unstick worked. Try goto to the beds now."}
+- 01:12 act: {"intent":{"goal":"shelter_here","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block
+- 01:13 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Zack: I'm stuck in a hole at -273,62,
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-275,"y":63,"z":316}},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Unstick moved me; try walking to a nearby open cell, then place dirt under feet."}
+- 01:13 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Zack: still boxed in at -274,62,318. Trying to craft a pickaxe here; if anyone 
+- 01:13 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Out of the hole onto grass. Place the table and craft the pickaxe."}
+- 01:13 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-275,"y":63,"z":315}},{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Feet placement is blocked by my own body. Place table 
+- 01:13 act: {"say":"Zack: I'm at -274,63,316 on grass. Placing blocks keeps failing (\"way blocked\"), so I can't craft or build yet. If anyone nearby can spare a pickaxe or a few cobblestone, please drop it at m
+- 01:19 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
+- 01:26 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":63,"z":320}}],"say":"Zack: morning. Still at -274,63,316 with no pickaxe. Trini, thank you for the cobblestone. Billy, I'm waiting for 
+- 01:31 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-271,"y":62,"z":318}},{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Still can't wait on Billy forever. Try once more to pl
+- 01:31 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-273,"y":62,"z":318}},{"do":"place","block":"crafting_table","at":{"x":-272,"y":62,"z":319}},{"do":"craft","item":"wooden_pickaxe","count":
+- 01:31 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Table now placed one block west. Craft the pickaxe with planks and sticks I already hold."}
+- 01:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-272,"y":62,"z":317}},{"do":"place","block":"oak_planks","at":{"x":-271,"y":62,"z":318}},{"do":"place","block":"oak_planks","at":{"x":-272,"y":
+- 01:31 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-271,"y":62,"z":318}},{"do":"place","block":"oak_planks","at":{"x":-272,"y":62,"z":319}},{"do":"place","block":"oak_planks","at":{"x":-272,"y":
+- 01:31 act: {"actions":[{"do":"mine","block":"stone","count":8}],"reasoning":"Placement keeps failing as I stand in the way. Mine nearby stone for cobblestone to wall myself in and to make a way out."}
