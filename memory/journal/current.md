@@ -1581,3 +1581,4 @@
 - 20:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":3}],"say":"Here's the pork, Trini. Eat well."}
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Trini, I'm going to sleep in the bed here. Good night."}
 - 20:59 act: {"actions":[{"do":"sleep"}]}
+- 21:00 act: {"say":"Good night, Trini. I'm in the bed here at -281,69,292 for the night.","actions":[{"do":"sleep"}],"reasoning":"Dusk, health and hunger full, yellow bed beside me, nothing pending. Sleep here, t
