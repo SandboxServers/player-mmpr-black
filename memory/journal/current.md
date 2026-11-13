@@ -1249,3 +1249,36 @@
 - 16:37 act: {"actions":[],"say":"Kimberly, I'm beside you now at -202,60,351. Please give me the wheat. Billy, I'm sorry about your gear; I have spare cobblestone and dirt if you need to dig."}
 - 16:38 act: {"actions":[],"say":"Kimberly, my 2 wheat has not come into my pack yet. Could you give me the wheat by name? I'm standing right beside you."}
 - 16:38 act: {"actions":[],"say":"Kimberly, thank you. Go to the farm and bring ripe wheat or carrots if you can. Billy and I will shelter here for the night.","intent":{"goal":"shelter_for_night","program":"build
+- 16:39 act: {"say":"I'm starving (hunger 13) and have no food. I'm heading to the farm near -251, 68, 353 for wheat.","intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":
+- 16:39 act: {"actions":[{"do":"unstick"}]}
+- 16:39 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 16:39 act: {"say":"Jason, I'm coming to you for the wheat. I'm at -202, 59, 351.","actions":[{"do":"goto","target":{"x":-256,"y":61,"z":351}}]}
+- 16:39 act: {"actions":[{"do":"mine","block":"dirt","count":2}]}
+- 16:39 act: {"say":"Thanks Jason. I'm dug out and walking west toward you.","actions":[{"do":"goto","target":{"x":-255,"y":61,"z":351}}]}
+- 16:40 act: {"say":"Jason, my walk west is blocked by stone. I'm standing at -202, 59, 351 in the open now. Can you come east to me?","actions":[]}
+- 16:41 act: {"say":"Jason, first light is fine. I'll stay here near Billy. Thank you.","actions":[]}
+- 16:49 act: {"say":"Morning, Jason. I'm standing here at -202, 59, 351, open to you from the west.","actions":[]}
+- 16:50 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 16:50 act: {"say":"Billy, I have a stone pickaxe now. I'm digging toward you.","actions":[{"do":"mine","block":"stone","count":2}]}
+- 16:51 act: {"say":"I'm digging through the cobblestone to reach you, Billy.","actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"goto","target":"ag_billy_01"}]}
+- 16:53 act: {"say":"Billy, I'm right beside you with a stone pickaxe. I'll dig any stone wall you point me to. I have no food yet; Jason's wheat is coming.","actions":[]}
+- 16:53 act: {"actions":[{"do":"mine","block":"coal_ore","count":3}],"intent":{"goal":"open_way_out_north","program":"travel","arguments":{"target":{"x":-203,"y":60,"z":349}},"wake_on":["goal_completed","directly_
+- 16:54 act: {"say":"Good, Billy. Go find food at the farm. I'll wait here for Jason's wheat.","actions":[{"do":"goto","target":{"x":-203,"y":58,"z":350}}]}
+- 16:54 act: {"actions":[{"do":"goto","target":{"x":-203,"y":58,"z":350}}]}
+- 16:54 act: {"actions":[{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"unstick"},{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"unstick"},{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 16:54 act: {"say":"Jason, I'm out in the lake at about -192,49,348, drifting. Please meet me on the shore near -203,58,350 with the wheat.","actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 16:54 act: {"actions":[{"do":"goto","target":{"x":-202,"y":58,"z":349}}]}
+- 16:55 act: {"actions":[{"do":"goto","target":{"x":-203,"y":58,"z":350}}]}
+- 16:55 act: {"actions":[{"do":"goto","target":{"x":-203,"y":57,"z":350}}],"say":"Jason, I'm starving too, so bring the wheat to whoever is closest. I'm on the shore at -203,57,350."}
+- 16:57 act: {"actions":[],"say":"Kimberly, I'm hungry and have no food. Jason's wheat is coming, so I'll wait for it here. If he does not come soon, I'll walk to you for the beetroot."}
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":-199,"y":64,"z":352}}],"say":"Kimberly, I'm coming up to you now. Thank you."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}],"say":"Kimberly, it is night and I am on the shore with no food. Please let me know if you can give me something after Billy."}
+- 17:01 act: {"actions":[],"intent":{"goal":"pillar_up_for_night","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"l
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":351}}]}
+- 17:01 act: {"actions":[],"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits
