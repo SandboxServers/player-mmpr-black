@@ -1587,3 +1587,36 @@
 - 21:01 act: {"actions":[{"do":"mine","block":"pumpkin","count":3}],"say":"I'm at the pumpkins near -370,64,320. Taking what I can, then I'll head back toward the beds.","reasoning":"Food is the priority. Zombie i
 - 21:01 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"reasoning":"Zombie adjacent and attacking. Health 
 - 21:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"say":"Kimberly, I'm going to the yellow bed at -272,68,364 to sleep. I died outside tonight and have nothing left.","reaso
+- 21:03 say: {"text":"Zack here, by the yellow beds at -281,69,371. Pack empty, hunger 20. I'll join the cow and sheep search at first light and stay within sight of you all."}
+- 21:07 say: {"text":"Zack: dawn now. Heading to Trini at -270,67,319 to join the search. Calling out as I go."}
+- 21:07 act: {"intent":{"goal":"join_trini_search","program":"travel","arguments":{"x":-270,"y":67,"z":319},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"m
+- 21:07 act: {"intent":{"goal":"join_trini_search","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 21:08 say: {"text":"Zack here at Trini's beds. I'll search the north side while you take the south. Call out any cow or sheep."}
+- 21:12 say: {"text":"Zack: heading west to the pig and pumpkin field near -375,64,319. My old pack should be there too."}
+- 21:12 act: {"intent":{"goal":"reach_pumpkin_field","program":"travel","arguments":{"target":{"x":-375,"y":64,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":319}},{"do":"mine","block":"pumpkin","count":2}]}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-368,"y":64,"z":321}},{"do":"mine","block":"pumpkin","count":3}]}
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":-368,"y":64,"z":329}}],"say":"I have 4 pumpkins now, thanks Jason and Kimberly. Tommy warned about something on the west side, so I'll check the item here first,
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":-374,"y":64,"z":320}}],"say":"I'm holding 4 pumpkins. Tommy and Trini, say if you want one and I'll give it. I'm checking my death pile at the west sign now, car
+- 21:13 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"pumpkin","count":2}],"say":"Zack here at my death sign. My pack isn't on the ground by it. Trini, I'm giving you 2 pumpkins; I think they can be tur
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":-366,"y":64,"z":322}}],"say":"Zack: my pack isn't here at the death sign, so I think it's gone. Billy, thanks. I'm full. I'm holding 4 pumpkins and will share th
+- 21:13 act: {"actions":[],"say":"Zack: Tommy, I have 4 pumpkins. I won't travel in the dark, so I'll bring you some at first light. Kimberly, Jason, stay near me here until then."}
+- 21:18 act: {"actions":[{"do":"mine","block":"dirt","count":24}],"say":"Zack: dusk, I'm not sheltered yet. Jason, I'll dig dirt and join your shelter. Kimberly, stay close to us."}
+- 21:19 act: {"actions":[{"do":"mine","block":"dirt","count":17}],"say":"Zack: I dug in a bit at -366,69,330 when a threat came close. I'm mining more dirt to seal myself in. Jason, which way is your shelter?"}
+- 21:19 act: {"actions":[{"do":"mine","block":"dirt","count":18}]}
+- 21:19 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Zack: I'm heading to Kimberly to join Jason's shelter for the night."}
+- 21:19 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Zack: Kimberly, I'm coming to your spot now. Jason, is the shelter open?"}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":316}}],"say":"Zack: Jason, I'm on my way to your shelter at -369,64,316. I'll stay close."}
+- 21:19 act: {"actions":[{"do":"wait","seconds":5},{"do":"goto","target":{"x":-369,"y":64,"z":316}}]}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":316}}],"say":"Zack: On my way into Jason's shelter now."}
+- 21:19 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-369,"y":64,"z":316}}]}
+- 21:20 act: {"intent":{"goal":"reach_jason_shelter","program":"travel","arguments":{"target":{"x":-369,"y":64,"z":316}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":317}}]}
+- 21:20 act: {"say":"Zack: I'm at Jason's shelter spot. Where are you two? I have 13 dirt to plug the gap."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-369,"y":65,"z":316}},{"do":"place","block":"dirt","at":{"x":-369,"y":66,"z":316}}],"say":"Zack: Coming into the hole at -369,65,316 now. I'll put dirt over the 
+- 21:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-369,"y":66,"z":316}}]}
+- 21:20 act: {"say":"Zack: I'm in the hole with you both now. The dirt would not go above me (\"no free space next to you\"), so I can't seal the top. Jason, tell me which gap is still open and I'll block it."}
+- 21:23 act: {"say":"Zack: Kimberly, come into the hole. I'm here with Jason. I have no sword, so I'll hit anything that comes in."}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":-369,"y":65,"z":316}}],"say":"Zack: I'm at -385,66,325, health 8.5, hit from several sides. Heading back to the hole at -369,65,316 now."}
+- 21:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-369,"y":65,"z":316}}],"say":"Zack: health 1.5, hungry, falling. Trying to get back to the hole."}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
