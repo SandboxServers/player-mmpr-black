@@ -641,3 +641,4 @@
 - 05:02 act: {"actions":[{"do":"goto","target":{"x":-226,"y":58,"z":356}}]}
 - 05:02 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
 - 05:07 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 05:10 act: {"say":"Trying a new spot: I'll place dirt blocks around me to wall in.","actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":350}},{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":
