@@ -754,3 +754,14 @@
 - 07:30 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"say":"Zack: I slipped back to -229,59,348. Climbing again, sta
 - 07:30 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack: Jason, I'm about 10 blocks away at -229,59,349, too far 
 - 07:31 act: {"actions":[{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"reasoning":"Keep trying to climb; one step at a time."}
+- 07:32 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say
+- 07:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"say
+- 07:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zac
+- 07:32 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Keep climbing; one more pair of steps."}
+- 07:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
+- 07:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Zack: I'm at -224,59,348 on stone, not -227. Something hit me,
+- 07:32 say: {"text":"Zack: I'm out at -220,60,348, health 20. Hunger is 17 and I still need food. Anyone with bread or meat, please share."}
+- 07:35 say: {"text":"Zack: Billy, I'm at -220,60,348, about 17 blocks east of your shaft, too far to drop. Billy says he's climbing on his own now. I'm out and looking for food."}
+- 07:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-219,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-220,"y":60,"z":347}},{"do"
+- 07:39 say: {"text":"Zack: Trini, I'm at -220,60,348 with hunger 17 and no food. If you can spare bread or anything, please bring it. I'm still walling myself in."}
+- 07:39 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-219,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-220,"y":60,"z":347}},{"do"
