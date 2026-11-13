@@ -672,3 +672,9 @@
 - 06:16 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-230,"y":57,"z":344}}],"reasoning":"Walking is blocked by stone. Mine through northward, then move."}
 - 06:16 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":57,"z":343}}],"reasoning":"Keep digging north, then try to walk out."}
 - 06:16 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-230,"y":57,"z":343}},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-230,"y":57,"z":340}}],"reasonin
+- 06:17 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bl
+- 06:17 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"mine","block":"stone","count":1}],"reasoning":"Build left me open. Try placing at feet and check result."}
+- 06:17 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-230,"y":56,"z":345}}],"reasoning":"Dig into stone for a pocket, then seal the way I came."}
+- 06:17 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":56,"z":345}}],"reasoning":"Movement blocked; unstick then retry the dig and st
+- 06:17 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Test whether a block placed here seals me in."}
+- 06:22 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning
