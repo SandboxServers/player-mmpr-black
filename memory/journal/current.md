@@ -785,3 +785,4 @@
 - 08:18 act: {"say":"Trini, I'm at -225,59,347 and have 48 dirt. Want me to drop some down to you? Please pass the carrots whenever you can.","actions":[{"do":"place","block":"dirt","at":"feet"}]}
 - 08:18 act: {"intent":{"goal":"seal_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_ope
 - 08:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":61,"z":347}},{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":347}},{"do"
+- 08:23 say: {"text":"Zack: Thanks Trini, no worries. I'm sealed in for the night and will hunt animals on the grass at daylight. Anyone who finds food, please tell me."}
