@@ -1489,3 +1489,33 @@
 - 19:55 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":363}},"wake_on":["directly_addressed"
 - 19:55 act: {"say":"I'm back at the yellow beds. Still no food; if anyone has spare food, I'd be grateful. I'll wait here for news."}
 - 20:00 say: {"text":"Thanks Tommy. I have no food either. It's night, so I'll rest in this bed and go for the pig at first light."}
+- 20:01 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"x":-257,"y":66,"z":375},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"ma
+- 20:04 act: {"say":"Jason, I have seen no sheep or pigs yet and no food. I am hungry too. I'm heading to the sheep spot at -257, 66, 375 now.","actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}]}
+- 20:04 act: {"say":"No sheep here, only logs. I'll go to the yellow bed and ask Tommy where the farm is.","intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"x":-263,"y":67,"z":354},"wake_on":["g
+- 20:05 act: {"say":"No food found here either. I'll wait out the night near here and search for animals at first light, same as you, Jason and Trini."}
+- 20:09 act: {"say":"Morning. I'm going to the farm near -251, 68, 353 for wheat, carrots or beetroot. Billy, I have a stone pickaxe; tell me where you are and I'll dig you out.","intent":{"goal":"reach_farm","pro
+- 20:09 act: {"say":"Billy, on my way to dig you out from the west now.","actions":[{"do":"goto","target":{"x":-266,"y":66,"z":352}}]}
+- 20:09 act: {"actions":[{"do":"mine","block":"white_terracotta","count":2}],"say":"Billy, I'm digging the white terracotta from the west now."}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Billy, you're out. I'm heading to the farm for food too."}
+- 20:10 act: {"actions":[{"do":"note","text":"Farm at -251,68,353 is water and logs, no crops. Ask Tommy/Billy for real food location."}],"say":"Tommy, Billy: I'm at -251,68,353 and see no crops here, only water. 
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":352}}],"say":"Billy, I'm coming back to the beds to dig you out again."}
+- 20:11 act: {"actions":[{"do":"note","text":"At beds -265,67,352. Billy's pit not visible yet; asked him for his exact spot."}],"say":"Billy, I'm at the beds. Where exactly is your pit? I can't see you yet."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"say":"Billy, no pit in sight at the beds, so I'm going to the sheep spot to look for food with you."}
+- 20:11 say: {"text":"I'm at the sheep spot now. Billy, Jason, Kimberly: has anyone seen sheep or cows nearby? I need food."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":400}}],"say":"I'll search southeast, toward the old pig area, since the rest of you have the south, east and west."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-248,"y":68,"z":438}}],"say":"Thank you Kimberly. I'm coming toward the cow at -251,68,444. Please share it if you get it; I'm very hungry."}
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":440}},{"do":"attack","target":"cow"}],"say":"I'm going for the cow to the east now."}
+- 20:12 say: {"text":"Kimberly, thank you. I died to an explosion by the cow and respawned at the beds with nothing. Could you bring me the beef here, near the yellow beds at -273,68,365? I'm going to stay here."}
+- 20:13 say: {"text":"Billy, thank you. My items are at -240,69,432: stone pickaxe, cobblestone, planks, dirt, a torch and coal. If you can carry them, please bring them to me here at the beds. Keep clear of the b
+- 20:13 say: {"text":"Thank you, Billy, Trini, Tommy and Kimberly. I'm full now at 20. I'll wait here at the beds for my things."}
+- 20:14 say: {"text":"Thank you, Billy. I'll check my pack. The stone pickaxe is still at the blast site if anyone can find it."}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Billy, thank you for bringing back my things. It's getting dark, so I'm going to the yellow bed to sleep."}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 20:15 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_free_and_reach_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected
+- 20:17 act: {"actions":[{"do":"unstick"}]}
+- 20:17 say: {"text":"Zack here: I am boxed in by cobblestone at -273,68,365 and cannot get out. Billy or Jason, if you pass by, please break a block beside me. I have no food."}
+- 20:19 say: {"text":"Thank you, Trini, Billy, Tommy and Jason. I am waiting inside here; break the stone when you are ready. Please take care going around at night."}
+- 20:19 act: {"actions":[{"do":"unstick"}]}
+- 20:19 say: {"text":"Trini, I am still fully enclosed. Please break the cobblestone directly above my head first, then the block to my north-east."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"Night, outdoors, iron golem closing. Get to the yellow bed 6 west and sleep there.","intent":{"goal":"reach_bed_for_night","p
