@@ -459,3 +459,6 @@
 - 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":64,"z":314}}]}
 - 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":70,"z":314}}]}
 - 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":70,"z":314}},{"do":"note","text":"Out of pit, heading north to oak trees."}]}
+- 00:35 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 00:36 act: {"actions":[{"do":"sleep"}]}
+- 00:36 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
