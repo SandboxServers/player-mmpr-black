@@ -1367,3 +1367,10 @@
 - 18:09 act: {"say":"Zack at the beds, in sight. Trini, Billy, I'm hungry, I have no food. Trini, the 2 wheat please. I can offer seeds or cobblestone in return.","actions":[],"reasoning":"Reached the beds, Billy 
 - 18:11 act: {"say":"Trini, thank you, but my pack shows no wheat, so the hand-over did not land. Billy, Jason, I still have no food. I'll take the nearest bed for the night.","actions":[{"do":"goto","target":{"x"
 - 18:11 act: {"say":"Trini, I think the wheat went to Billy, so it's his now. Billy, if you make bread, I'd be glad of a share. I'm going to look for animals to eat, and I'll come back here before dark.","actions"
+- 18:12 act: {"say":"Zack here. I have no food either, hunger 17. I'll look for animals nearby and share anything I find, Trini.","actions":[{"do":"wait","seconds":30}]}
+- 18:12 act: {"say":"Trini, I'll search west so we cover more ground. Whoever finds an animal, shout.","actions":[{"do":"goto","target":{"x":-290,"y":68,"z":365}}]}
+- 18:13 act: {"say":"Nothing found west either, only iron golems that I'll leave alone. I'm heading back to the beds to wait with you, Trini. Jason, shout if you find food.","actions":[{"do":"goto","target":{"x":-
+- 18:14 act: {"say":"Jason, get behind your dirt wall and stay low. I'm at the beds with Billy and Tommy. Nobody here has food, so we all look at first light.","actions":[{"do":"wait","seconds":20}]}
+- 18:14 act: {"say":"I have 12 wheat seeds. I'll try planting them here at the beds for a wheat crop, so we have food later. Billy, I'll share if it grows.","actions":[{"do":"place","block":"wheat_seeds","at":{"x"
+- 18:16 act: {"say":"Tommy, I don't have bread. I have only seeds and stone, and no food. Billy is the one who needs one wheat for bread.","actions":[{"do":"wait","seconds":60}]}
+- 18:16 act: {"say":"Billy, I have no bread, sorry. Trini and Tommy may have mixed us up. I only have seeds and stone. If I find wheat I'll bring it to you first.","actions":[{"do":"wait","seconds":90}]}
