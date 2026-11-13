@@ -1446,3 +1446,38 @@
 - 19:13 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Thanks Tommy. I'll walk to the old farm and look for animals along the way.","reasoning":"The beef will not reach me here, and food
 - 19:14 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}],"reasoning":"The direct path to the old farm was blocked. Try a nearer waypoint at Billy's spot north of the beds, a different way."}
 - 19:14 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"note","text":"Paths to the old farm and north were blocked and it turned dark. Returning to the yellow beds to hold until morning; n
+- 19:15 act: {"actions":[{"do":"mine","block":"cobblestone","count":1}],"say":"Kimberly, I'm at -273, 68, 365, inside the stone I dug. I can see you now. Please hand me one beef, I'm hungry at 16.","intent":{"goal
+- 19:16 act: {"actions":[],"say":"Kimberly, I'm standing right here at -273, 68, 365 on the planks. Please give the beef now, one at a time, I'll take it."}
+- 19:16 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, I'm at -273, 68, 365 and walled in by stone. I'm trying to dig out toward you now."}
+- 19:16 act: {"actions":[],"say":"I'm out of the stone now, at -271, 68, 365 by the yellow bed, standing in the open. Kimberly, I can see you if you are close. Hand me the beef."}
+- 19:19 act: {"actions":[],"say":"Kimberly, Zack here at the yellow bed, -271, 68, 365, in the open. Dusk is coming and I am still hungry at 16. If you can come, the beef please. I'll build a shelter next to the b
+- 19:20 act: {"actions":[],"say":"Kimberly, I'm at -271, 68, 365, on the planks, nothing between us. Please give one beef now."}
+- 19:21 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"li
+- 19:21 act: {"actions":[{"do":"unstick"}]}
+- 19:22 act: {"actions":[{"do":"mine","block":"cobblestone","count":1},{"do":"unstick"}]}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"Going to the yellow bed to sleep for the night. Kimberly, the beef whenever you can see me, Trini and Tommy too. Tha
+- 19:22 act: {"actions":[{"do":"sleep"}]}
+- 19:29 act: {"say":"Morning. Zack at -271, 68, 365 by the yellow bed, in the open. Hunger 16, health 4.3. Kimberly, I'm here for the beef when you can see me.","intent":{"goal":"wait_for_beef","program":"rest","a
+- 19:29 act: {"say":"Kimberly, Zack here at -271, 68, 365, standing in the open, one block from the yellow bed. I have NO beef in my pack, so none reached me. Hunger 16. If you still have one, I'm right here."}
+- 19:29 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm walking to you now. Zack."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":363}}],"say":"Kimberly, Zack. I'm trying to get to the north side of the bed to be in your sight."}
+- 19:30 act: {"actions":[{"do":"unstick"}]}
+- 19:30 act: {"actions":[{"do":"mine","block":"glass_pane","count":1}]}
+- 19:30 act: {"say":"Kimberly, I'm out of the glass cage now, standing on dirt at -271, 69, 365, open to the sky. Please come see me for the beef. Hunger 16."}
+- 19:30 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to you now."}
+- 19:35 act: {"say":"Kimberly, Zack is standing in the open at -271, 69, 365, in your sight I hope. Please hand over the beef. Hunger 16."}
+- 19:36 act: {"say":"Kimberly, I'm at -271, 69, 365, on dirt, right beside the yellow bed's south side. Walls of glass are around the bed. Come to the south side and I'll stand still."}
+- 19:36 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, I'm boxed in by stone and dirt, trying to dig out to the open ground now."}
+- 19:36 act: {"say":"Kimberly, I'm out now, standing on oak planks at -271, 68, 365. Please give me the beef."}
+- 19:44 act: {"say":"Kimberly, Zack is alive, I'm at -271, 68, 365. That sign is old. I'm hungry, 16, and I'd gladly take the beef at first light."}
+- 19:48 act: {"say":"Kimberly, dawn. Zack is at -271, 68, 365 in the open, hungry 16. Please hand me your last beef."}
+- 19:49 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, I'm still boxed in by planks at -271, 68, 365. I'm trying to get out now.","reasoning":"View shows walls on every side with only a gap above. Unstick fir
+- 19:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":2}],"say":"Still walled in by oak planks. I'm digging out now. Trini, the pig would be a great help, thank you.","reasoning":"Unstick found no exi
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":365}}],"say":"Kimberly, I'm moving toward you now. Jason, thank you for keeping watch.","reasoning":"Snapshot says not enclosed, so try walking t
+- 19:49 act: {"actions":[{"do":"unstick"}],"say":"The goto was blocked. I'm trying unstick again. Kimberly, I can see the dirt and planks around me but no clear gap yet.","reasoning":"Try once more to get free, th
+- 19:50 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"say":"Jason, the planks are all around me at my level. Break the planks on the north side of me and I'll dig south toward Kimberly. Thank you both.
+- 19:50 act: {"actions":[{"do":"unstick"}],"say":"Trini, if you can, break the planks on my west side. Jason, stay near. I'll keep trying to get out.","reasoning":"Ask for help from the west, and try unstick once 
+- 19:51 act: {"actions":[],"say":"Trini, the planks are all around me at my feet level: west, east, north and south. Start on the west side, the planks next to me. Thank you.","reasoning":"Help is coming with a pi
+- 19:52 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"I'm out! Kimberly, I can see you now. Please hand over the beef. Thank you, Trini and Jason.","reasoning":"Kimberly is in reach; get the bee
+- 19:52 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":1}],"say":"Kimberly, I'm beside you now. Please hand me the beef. Thank you.","reasoning":"Kimberly is in reach. Ask for beef; she 
+- 19:52 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly! I have the beef and I'm eating it now.","reasoning":"Beef is in my hand. Eat it to stop the hunger."}
