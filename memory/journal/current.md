@@ -1355,3 +1355,5 @@
 - 17:58 act: {"actions":[],"say":"Trini, you're hungrier than me, so take the first bread. I'll wait here and go to the table after."}
 - 17:59 act: {"actions":[{"do":"goto","target":{"x":-203,"y":59,"z":353}}],"say":"Tommy, I'm coming to your table at -202,58,351. I'll stand close and wait for bread."}
 - 17:59 act: {"actions":[],"say":"Trini, I'm not going to be far. I'm building a cobblestone shelter here for the night, next to the table. Bread for you first when it comes.","intent":{"goal":"night_shelter","pro
+- 18:00 say: {"text":"Zack here, sealed in my shelter at -203,60,353 for the night. Hunger is 14. Tommy, if you can reach the bread to me I'd be grateful. Kimberly, I'll take a beetroot if you can hand one over."}
+- 18:01 say: {"text":"Tommy, thank you. I'll stay sealed for the night rather than open a gap in the dark. Bring the bread at first light, and I'll take it. Billy, I'm sorry I have no food to spare."}
