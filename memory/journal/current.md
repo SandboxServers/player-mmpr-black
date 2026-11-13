@@ -1110,3 +1110,15 @@
 - 14:17 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_trini_grass_2","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addre
 - 14:17 act: {"say":"Billy, Trini, I'm out on stone at -201,63,353. I'll walk west to the beds now. I have no food yet, only spare stone and dirt.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
 - 14:18 act: {"say":"Going nowhere by walking; the land around me is blocked. It's dusk, so I'll build a cobblestone shelter right here and rest for the night. Food first thing in the morning.","intent":{"goal":"s
+- 14:22 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"cobblestone","count":2}],"say":"I'm still walled in at night. Digging out to the north, then heading for the beds to find food
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-198,"y":67,"z":352}}],"say":"I'm out of the pit. Heading toward Trini's grass to look for food.","reasoning":"Trapped is now none. Try a short move to the known
+- 14:22 act: {"actions":[{"do":"unstick"}],"reasoning":"Goto moved 0 blocks. Unstick is the recovery step for being stuck in a pit."}
+- 14:23 act: {"actions":[{"do":"mine","block":"cobblestone","count":1},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Facing east, the walls ahead are cobblestone and stone. Mine through, t
+- 14:26 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"mine","block":"dirt","count":2}],"say":"Morning, Trini. I'm still in the stone pit at -201,63,353, walled in on every side. I have no f
+- 14:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Facing west, all walls are stone. Mine two stone then try unstick to walk out."}
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"I'm out of the pit at -199,63,353. Heading to the yellow beds to find food with Billy and Trini.","reasoning":"Out of the pit. Go t
+- 14:27 act: {"actions":[],"say":"Kimberly, I have no food either, sorry. I'm starving slowly (hunger 17). I have spare cobblestone, dirt, wheat seeds and a few oak logs if they help you. Still trying to get out o
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-197,"y":66,"z":352}}],"say":"Thanks, Trini. Agreed: let's look for animals or seeds to plant. I'm heading to the grass by you now.","reasoning":"Food is scarce 
+- 14:28 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"reasoning":"Still walled in. Dig two dirt and two stone ahead, then unstick to walk out to
+- 14:28 act: {"actions":[],"say":"Billy, Trini: I'm at -199,63,352, perched on the edge of a dug hole with dirt on most sides. Hunger is 17. If anyone sees an animal or food, please say where. I'll keep digging to
+- 14:28 act: {"actions":[],"say":"Tommy, I haven't seen any animals or food yet. I'm still stuck near the grass at -199,62,352. If you find one, call out the spot and I'll come.","reasoning":"Nothing new to act on
