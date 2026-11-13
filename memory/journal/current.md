@@ -780,3 +780,8 @@
 - 08:04 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":62,"z":344}}]}
 - 08:05 act: {"actions":[{"do":"goto","target":{"x":-236,"y":62,"z":344}}]}
 - 08:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":62,"z":344}}]}
+- 08:08 act: {"say":"Zack: Trini, Kimberly, Jason, Tommy, I'm still here on stone near -225,59,347. I have 48 dirt for whoever can reach it. Trini, bring the carrots when you're free.","intent":{"goal":"reach_frie
+- 08:15 act: {"say":"Thanks Trini! Hand them over, I'm right here at -225,59,347. Then I'll share my dirt."}
+- 08:18 act: {"say":"Trini, I'm at -225,59,347 and have 48 dirt. Want me to drop some down to you? Please pass the carrots whenever you can.","actions":[{"do":"place","block":"dirt","at":"feet"}]}
+- 08:18 act: {"intent":{"goal":"seal_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_ope
+- 08:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":61,"z":347}},{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":347}},{"do"
