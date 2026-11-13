@@ -1229,3 +1229,23 @@
 - 16:17 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 16:17 say: {"text":"Good night, Kimberly. I'm sealed in at -203,61,350. Hand over the wheat when we meet in the morning."}
 - 16:18 act: {"say":"Morning, Kimberly. I'm sealed in at -205,61,350, in stone. I can't see you through the wall. When you can see me, please hand over the wheat."}
+- 16:27 act: {"actions":[{"do":"unstick"}],"say":"Dawn. I'm out of this pit and going to find food. Kimberly, I'll come for my wheat.","intent":{"goal":"get_out_of_pit","program":"travel","arguments":{"x":-205,"y"
+- 16:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"}]}
+- 16:27 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, I'm free of the pit at -205,61,350, hungry, no food. Please bring my 2 wheat if you can."}
+- 16:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-205,"y":63,"z":350}}]}
+- 16:28 act: {"actions":[],"say":"Kimberly, I'm in the stone pit at -205,61,350, a few blocks off the open ground. Come to the edge and say so, I can see you there. I'll dig up toward you."}
+- 16:28 act: {"actions":[],"say":"Thank you, Kimberly. I don't see wheat in my pack yet. Could you drop it down the hole, or give it to me, if you're still right above?"}
+- 16:29 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"unstick"}],"say":"Kimberly, I'm digging up toward you now. Stay put."}
+- 16:29 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-205,"y":62,"z":350}},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-205,"y":63,"z":350}}]}
+- 16:29 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-205,"y":62,"z":349}},{"do":"place","block":"dirt","at":"feet"}]}
+- 16:33 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 16:34 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-205,"y":62,"z":350}}]}
+- 16:34 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-205,"y":62,"z":350}},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-205,"y":63,"z":350}},{"do":"mine"
+- 16:34 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"unstick"},{"do":"goto","target":{"x":-205,"y":63,"z":350}}],"say":"Kimberly, still boxed in at -205,61,350. Digging up now."}
+- 16:34 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-205,"y":62,"z":350}}],"intent":{"goal":"reach_open_ground","program":"travel","arguments":{"target":{"x":-205,"y":66,"z":
+- 16:36 act: {"actions":[],"say":"I'm out, at -203,59,351, on the grass. Kimberly, where are you? I need my wheat."}
+- 16:36 act: {"actions":[{"do":"goto","target":{"x":-202,"y":63,"z":351}}]}
+- 16:37 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-202,"y":61,"z":351}}],"say":"Kimberly, I'm building steps up from the low grass. Stay there."}
+- 16:37 act: {"actions":[],"say":"Kimberly, I'm beside you now at -202,60,351. Please give me the wheat. Billy, I'm sorry about your gear; I have spare cobblestone and dirt if you need to dig."}
+- 16:38 act: {"actions":[],"say":"Kimberly, my 2 wheat has not come into my pack yet. Could you give me the wheat by name? I'm standing right beside you."}
+- 16:38 act: {"actions":[],"say":"Kimberly, thank you. Go to the farm and bring ripe wheat or carrots if you can. Billy and I will shelter here for the night.","intent":{"goal":"shelter_for_night","program":"build
