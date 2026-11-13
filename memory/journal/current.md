@@ -1484,3 +1484,7 @@
 - 19:53 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":363}},{"do":"eat"}],"say":"Thank you, Kimberly. I'll pick up the beef from the ground and eat it.","reasoning":"Beef is on the ground near Kimber
 - 19:53 act: {"actions":[],"say":"Kimberly, I don't see the beef on the ground. I ate some of it earlier, and I think the rest fell out of reach. Thank you for trying. I'll look for food and a bed.","reasoning":"T
 - 19:53 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":375}},{"do":"attack","target":"sheep"}],"say":"Jason, thank you. I'm going for the sheep at -257, 66, 375 now.","reasoning":"Hunger is 16 and the
+- 19:54 act: {"say":"Thanks, Tommy. Nothing in view here either. I'll head south over the open grass to look for animals.","intent":{"goal":"find_food_animals","program":"travel","arguments":{"target":{"x":-258,"y
+- 19:55 act: {"actions":[{"do":"unstick"}]}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":363}},"wake_on":["directly_addressed"
+- 19:55 act: {"say":"I'm back at the yellow beds. Still no food; if anyone has spare food, I'd be grateful. I'll wait here for news."}
