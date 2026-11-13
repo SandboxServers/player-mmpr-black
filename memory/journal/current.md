@@ -808,3 +808,12 @@
 - 08:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"I'm climbing out of this pit with dirt."}
 - 08:41 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
 - 08:41 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
+- 08:41 act: {"actions":[{"do":"goto","target":{"x":-229,"y":66,"z":346}}],"say":"Going to the shaft rim to drop dirt for Jason and Tommy."}
+- 08:41 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}],"say":"Jason, To
+- 08:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":66,"z":346}}]}
+- 08:41 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}]}
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-230,"y":66,"z":345}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}],"say":"Morning. 
+- 08:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}]
+- 08:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-230,"y":65,"z":345}}]}
+- 08:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}],"say
+- 08:50 say: {"text":"Zack here, at the shaft rim. My drops keep getting blocked. Has either of you got dirt down to Jason and Tommy yet?"}
