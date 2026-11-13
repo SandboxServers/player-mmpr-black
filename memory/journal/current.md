@@ -601,3 +601,7 @@
 - 03:08 act: {"reasoning":"Kimberly asks for dirt placed east and north of her at (-238,53,346). Try placing dirt at (-237,53,346) and (-238,53,345). Then try eating a potato.","actions":[{"do":"place","block":"di
 - 03:08 act: {"reasoning":"I drifted to the north-east of the pit. Move to the pit rim near (-236,57,348), then place dirt for Trini on her east side and for Kimberly on the north side.","actions":[{"do":"goto","t
 - 03:08 act: {"reasoning":"Goto failed; I am stuck on granite. Unstick, then try eating the potato again.","actions":[{"do":"unstick"},{"do":"eat"}]}
+- 03:08 act: {"reasoning":"Hunger is 20, so I'm fine for now. Go back to the beds and build a sealed shelter with the oak planks I have before dark. Oak planks: 22.","intent":{"goal":"build_shelter_at_beds","progr
+- 03:08 act: {"reasoning":"The build failed on a blocked spot here on granite. Return to the flat ground at the beds and try the shelter build again.","intent":{"goal":"return_to_beds_for_shelter","program":"trave
+- 03:08 act: {"reasoning":"Travel changed nothing; I am boxed in on coal ore. Unstick, then travel to the beds again.","actions":[{"do":"unstick"}],"intent":{"goal":"return_to_beds_for_shelter","program":"travel",
+- 03:09 act: {"reasoning":"Perched with no clear path. Place dirt at my feet to make a step, then goto the beds directly.","actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-236,"y":6
