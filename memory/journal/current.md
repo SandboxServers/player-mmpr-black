@@ -765,3 +765,7 @@
 - 07:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-219,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-220,"y":60,"z":347}},{"do"
 - 07:39 say: {"text":"Zack: Trini, I'm at -220,60,348 with hunger 17 and no food. If you can spare bread or anything, please bring it. I'm still walling myself in."}
 - 07:39 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-219,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-220,"y":60,"z":347}},{"do"
+- 07:48 say: {"text":"Zack: morning, day 127. Still at -220,60,348, hunger 17, no carrots yet. Trini, if you're near, I'm on the stone here; drop them down or walk over. Anyone with bread, I'll take it."}
+- 07:50 act: {"say":"Trini, I'm at -220,60,348, still hungry. If you can't reach me, drop the carrots near the shaft top and I'll come get them.","intent":{"goal":"await_food_from_trini","program":"rest","argument
+- 07:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-219,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-221,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-220,"y":60,"z":347}},{"do"
+- 07:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-220,"y":61,"z":348}},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
