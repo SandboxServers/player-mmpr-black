@@ -456,3 +456,5 @@
 - 00:30 act: {"actions":[{"do":"mine","block":"grass_block","count":3},{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-270,"y":64,"z":322}}]}
 - 00:31 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operations":300}}
 - 00:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":63,"z":320}}]}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":64,"z":314}}]}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":70,"z":314}}]}
