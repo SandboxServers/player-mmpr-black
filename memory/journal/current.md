@@ -468,3 +468,6 @@
 - 00:41 act: {"actions":[{"do":"unstick"}]}
 - 00:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 00:42 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 00:45 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 00:46 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":69,"z":368}}]}
+- 00:46 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"mine","block":"oak_log","count":1}]}
