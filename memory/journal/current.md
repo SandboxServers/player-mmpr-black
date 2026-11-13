@@ -1034,3 +1034,25 @@
 - 13:09 act: {"reasoning":"Moved a few blocks south-east by digging. Now try the north-west route again.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
 - 13:11 act: {"reasoning":"Idle now. Try the north-west route once more.","actions":[{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
 - 13:12 act: {"reasoning":"There is a dropped item six blocks south. It could be food. Go pick it up.","actions":[{"do":"goto","target":{"x":-192,"y":64,"z":358}}]}
+- 13:16 say: {"text":"Zack: boxed in near -192,355, no food, hunger 17. Digging west a block at a time. Anyone with food, tell me."}
+- 13:18 say: {"text":"Tommy, thanks. I'm at -192,64,353, dirt and stone around me. Dig toward me from the east at first light; I'll dig west to meet you. Keep the wheat."}
+- 13:27 act: {"intent":{"goal":"reach_food_area","program":"travel","arguments":{"target":{"x":-200,"y":64,"z":340}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 13:27 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-193,"y":64,"z":351}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-196,"y":64,"z":352}}]}
+- 13:27 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-200,"y":64,"z":340}}]}
+- 13:27 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-194,"y":64,"z":352}},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-195,"y":64,"z"
+- 13:28 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-195,"y":64,"z":353}}],"reasoning":"Mine one block west, then step into it, heading toward the animal area."}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-195,"y":64,"z":353}},{"do":"goto","target":{"x":-196,"y":64,"z":352}}],"reasoning":"West block seems open (item drop there), so step west and check progress."}
+- 13:28 act: {"actions":[{"do":"unstick"}],"reasoning":"goto moved 0 blocks; unstick first."}
+- 13:28 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-195,"y":64,"z":353}}],"reasoning":"Mining whatever is adjacent to open a path wes
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-194,"y":64,"z":353}},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-193,"y":64,"z":353}}],"reasoning":"Path is slow; keep stepping west in 
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-191,"y":64,"z":356}}],"reasoning":"Keep moving toward the west-northwest; hops are short."}
+- 13:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-190,"y":64,"z":357}}],"reasoning":"Previous goto was blocked by a running action; clear it and retry a short hop."}
+- 13:28 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-188,"y":64,"z":359}}],"reasoning":"Block above feet is air, so mining up needs a higher block. Try nearest stone, then h
+- 13:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":64,"z":350}}],"say":"Still boxed in near -189,358, no food, hunger 17. Trying a path north-west now."}
+- 13:28 say: {"text":"Zack at -190,354, daylight now, still stuck in stone, hunger 17. Tommy, keep your wheat. Kimberly, thanks for coming. I'll keep digging toward the surface."}
+- 13:28 act: {"actions":[{"do":"mine","block":"stone","count":1}]}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-193,"y":64,"z":354}},{"do":"goto","target":{"x":-195,"y":64,"z":353}}]}
+- 13:29 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-196,"y":64,"z":353}}]}
+- 13:33 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-197,"y":64,"z":352}}]}
+- 13:33 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-196,"y":64,"z":353}},{"do":"goto","target":{"x":-197,"y":64,"z":353}}]}
