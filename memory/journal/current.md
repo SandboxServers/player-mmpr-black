@@ -487,3 +487,6 @@
 - 00:56 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":20}}}
 - 00:56 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":317}}]}
 - 00:57 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":3}]}
+- 00:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 00:59 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 00:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
