@@ -1549,3 +1549,5 @@
 - 20:39 act: {"say":"Kimberly, welcome. I'm Zack. I'm hungry and it's getting dark, so I'll stay by the trees near the old table tonight. Tomorrow I'll look for cows to the south-east, and I'd be glad of your comp
 - 20:39 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","goal_completed","unexpected_damage","precondition_failed"],
 - 20:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}}]}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Dusk is coming, so I'm heading to the yellow bed to rest."}
+- 20:40 act: {"actions":[{"do":"sleep"}]}
