@@ -967,3 +967,6 @@
 - 12:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 12:19 act: {"actions":[{"do":"unstick"}],"say":"Thanks Jason. Wheat alone won't fill me, but I'll take it. Can you give me the 2 wheat by hand, and tell me where you're sheltering?"}
 - 12:19 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 12:20 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 12:20 act: {"intent":{"goal":"shelter_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 12:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-190,"y":66,"z":352}},{"do":"place","block":"dirt","at":{"x":-192,"y":66,"z":352}},{"do":"place","block":"dirt","at":{"x":-191,"y":66,"z":353}},{"do"
