@@ -551,3 +551,9 @@
 - 02:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-269,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-271,"y":67,"z":327}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"z":328}},{"do"
 - 02:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Earlier placements did not change inventory, so try the simplest form, placing at my feet, and check."}
 - 02:00 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-269,"y":67,"z":327}}],"reasoning":"Test one adjacent placement and read the exact failure message to learn why."}
+- 02:05 act: {"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max
+- 02:05 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Kimberly, I'm heading to the farm at -251,68,353 too. I'll share what I find.","reasoning":"The travel intent did not move me; send
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":351}},{"do":"mine","block":"potato","count":2},{"do":"mine","block":"wheat","count":3}],"say":"Found the farm: wheat and potatoes at -250,68,351.
+- 02:06 act: {"actions":[{"do":"mine","block":"potatoes","count":2},{"do":"mine","block":"wheat","count":2}],"reasoning":"The previous mine used the wrong id. The farm lists block ids as potatoes and wheat, so use
+- 02:06 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Got 5 potatoes from the farm. Eating one.","reasoning":"I have potatoes now. Eat to bring hunger down, then keep the rest for later."}
+- 02:06 act: {"actions":[{"do":"eat"}],"reasoning":"Hunger is 17 and rising. Eat another potato and then record the morning."}
