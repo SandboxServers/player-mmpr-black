@@ -633,3 +633,5 @@
 - 04:51 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_opera
 - 04:51 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"shelter_dirt_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_wor
 - 04:51 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":352}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":353}},{"do"
+- 04:55 say: {"text":"Zack, still at -233,58,352, health 20, not enclosed. Shelter placement keeps hitting blocked cells. Trying another spot next."}
+- 04:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_opera
