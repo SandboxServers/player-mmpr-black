@@ -1393,3 +1393,6 @@
 - 18:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
 - 18:23 act: {"actions":[{"do":"sleep"}],"say":"Zack here. I died at the white beds to the west and respawned at spawn with nothing. Going to sleep in the yellow bed here."}
 - 18:24 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}}]}
+- 18:29 act: {"intent":{"goal":"search_food_east","program":"travel","arguments":{"x":-215,"y":69,"z":344},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"ma
+- 18:31 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Zack here. East had nothing for me. I'm heading to the old farm at -251, 68, 353 to help Tommy and Trini look for wheat.","intent":
+- 18:31 act: {"actions":[],"say":"Zack, at the old farm now. I have nothing in hand. I'll look for animals or wheat in the trees to the south and call out anything I find."}
