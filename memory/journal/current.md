@@ -626,3 +626,6 @@
 - 04:25 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_at_dawn","program":"travel","arguments":{"x":-241,"y":69,"z":344},"wake_on":["goal_completed"
 - 04:33 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
 - 04:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":347}},{"do"
+- 04:42 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_t
+- 04:46 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Build did not progress. Unstick, then test a single placement to find the cause."}
+- 04:47 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":350}},{"do":"place","block":"dirt","at":{"x":-232,"y":57,"z":350}},{"do":"place","block":"dirt","at":{"x":-234,"y":57,"z":350}},{"do"
