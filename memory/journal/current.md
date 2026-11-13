@@ -1659,3 +1659,8 @@
 - 22:16 act: {"say":"Billy, I gave you the planks and cobblestone. Trini has your wool at the beds. Stay away from the iron golem to the west."}
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. I am going to the white bed by -270, 67, 318 to sleep. Goodnight, Trini and Billy."}
 - 22:23 say: {"text":"Morning is coming. I'll stay by the beds and see what the day brings."}
+- 22:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"reasoning":"Health and hunger full. Try crafting planks from logs, something new here.","say":"I'm turning my logs into planks to see how thi
+- 22:32 act: {"actions":[],"say":"Kimberly, Trini, Zack here. I'm at the beds with 4 planks and full health. Tell me where the food is and I'll go look.","intent":{"goal":"find_food_by_beds","program":"gather","ar
+- 22:33 act: {"actions":[],"say":"Jason, I have no food either, but I'm gathering logs by the beds. Tommy has pumpkins if you need them."}
+- 22:36 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Glad Jason has mutton now. I'm not hungry yet, so I'll make a crafting table here by the beds and keep an eye out for animals.","re
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, beds nearby, health and food full. Go to bed."}
