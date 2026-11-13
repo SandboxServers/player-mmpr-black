@@ -921,3 +921,16 @@
 - 11:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":69,"z":320}}],"reasoning":"Previous goto was blocked. Unstick, then retry heading north."}
 - 11:32 act: {"actions":[{"do":"goto","target":{"x":-188,"y":69,"z":340}}],"reasoning":"Trees block the northern path. Try a northeast route toward open ground."}
 - 11:32 act: {"actions":[{"do":"goto","target":{"x":-200,"y":70,"z":312}}],"reasoning":"Keep pushing north away from the skeleton, looking for animals."}
+- 11:32 act: {"actions":[{"do":"goto","target":{"x":-199,"y":70,"z":300}}],"reasoning":"One more push north through the forest to look for open grass and animals."}
+- 11:33 act: {"actions":[{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"reasoning":"Cow is close and closing. Attack it for food."}
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":-189,"y":77,"z":319}}],"reasoning":"Cow walked out of view; move to where it was last seen."}
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":-187,"y":79,"z":320}},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"eat"}],"
+- 11:33 act: {"actions":[{"do":"goto","target":"jason"}],"reasoning":"Errand: deliver 2 beef to Jason. Travel to him first."}
+- 11:33 act: {"actions":[{"do":"give","to":"jason","item":"beef","count":2}]}
+- 11:33 act: {"actions":[{"do":"goto","target":"jason"},{"do":"give","to":"jason","item":"beef","count":2}]}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":-186,"y":74,"z":316}}]}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"reasoning":"Errand: get out of archer range and go to Zack's dirt wall at -192,69,350.","say":"Moving to Zack, away from the archer."}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"reasoning":"First goto did not move me; retry toward Zack."}
+- 11:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"reasoning":"Position unchanged after two gotos; unstick then retry."}
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"reasoning":"Progressing south; continue to Zack."}
+- 11:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":24}],"intent":{"goal":"shelter_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","une
