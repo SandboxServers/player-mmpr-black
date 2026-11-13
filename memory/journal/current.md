@@ -595,3 +595,9 @@
 - 03:06 act: {"actions":[{"do":"eat"}]}
 - 03:06 act: {"reasoning":"Hunger 19 is just under the eat threshold. Stop any leftover intent by setting a simple wait, then try eating once with nothing else running.","intent":{"goal":"rest_at_beds","program":"
 - 03:06 act: {"reasoning":"Tommy is sending potatoes. Try eating the held potato once more, alone, with no intent running.","actions":[{"do":"eat"}],"say":"Thanks Tommy, I'll eat them and then take dirt to Billy a
+- 03:07 act: {"reasoning":"Tommy holds potatoes until I am near. Kimberly is in the pit needing dirt. Go to the pit edge, give dirt to Kimberly and Billy.","intent":{"goal":"reach_pit_with_dirt","program":"travel"
+- 03:07 act: {"reasoning":"I'm at the pit edge. Kimberly is stacking dirt to get out. Give her a stack.","actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":50}],"say":"Kimberly, here's 50 dirt. To
+- 03:07 act: {"reasoning":"Give failed: Kimberly is not in reach from the pit edge. Tell her I'm at the edge with dirt, and ask her to come up or tell me where to place it.","actions":[],"say":"Kimberly, Tommy, I'
+- 03:08 act: {"reasoning":"Kimberly asks for dirt placed east and north of her at (-238,53,346). Try placing dirt at (-237,53,346) and (-238,53,345). Then try eating a potato.","actions":[{"do":"place","block":"di
+- 03:08 act: {"reasoning":"I drifted to the north-east of the pit. Move to the pit rim near (-236,57,348), then place dirt for Trini on her east side and for Kimberly on the north side.","actions":[{"do":"goto","t
+- 03:08 act: {"reasoning":"Goto failed; I am stuck on granite. Unstick, then try eating the potato again.","actions":[{"do":"unstick"},{"do":"eat"}]}
