@@ -1106,3 +1106,7 @@
 - 14:14 act: {"say":"Trini, the block east of me is solid, so place failed. Please mine the dirt/stone on the east side at my level and one step up, so I can walk out to the grass.","actions":[{"do":"mine","block"
 - 14:17 act: {"say":"Still enclosed. I'm mining my way up on the east side toward Trini.","actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2}]}
 - 14:17 act: {"intent":{"goal":"reach_trini_grass","program":"travel","arguments":{"target":{"x":-198,"y":67,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 14:17 act: {"say":"Morning. Still in my pit at -200,63,353. Trini, Billy, I'm digging up on the east side now. I have plenty of dirt and cobblestone to share.","actions":[{"do":"mine","block":"dirt","count":2},{
+- 14:17 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_trini_grass_2","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage","directly_addre
+- 14:17 act: {"say":"Billy, Trini, I'm out on stone at -201,63,353. I'll walk west to the beds now. I have no food yet, only spare stone and dirt.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 14:18 act: {"say":"Going nowhere by walking; the land around me is blocked. It's dusk, so I'll build a cobblestone shelter right here and rest for the night. Food first thing in the morning.","intent":{"goal":"s
