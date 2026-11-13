@@ -1633,3 +1633,4 @@
 - 21:34 act: {"intent":{"goal":"gather_pumpkins","program":"gather","arguments":{"block":"pumpkin","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,
 - 21:39 act: {"intent":{"goal":"reach_yellow_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":69,"z":370}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
 - 21:39 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm at the yellow beds by spawn. Going to sleep for the night."}
+- 21:41 act: {"actions":[{"do":"sleep"}],"say":"Going to bed in the yellow beds by spawn for the night.","reasoning":"Night, bed adjacent, health and hunger fine. Sleep here."}
