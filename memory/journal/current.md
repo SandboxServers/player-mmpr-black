@@ -705,3 +705,12 @@
 - 06:57 act: {"actions":[{"do":"mine","block":"crafting_table","count":1},{"do":"unstick"}],"reasoning":"The table under me is blocking the way. Pick it back up."}
 - 06:57 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-228,"y":56,"z":346}},{"do":"unstick"},{"do":"goto","target":{"x":-228,"y":57,"z":346}}],"reasoning":"Use the pit method: place a block beside
 - 07:01 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_blo
+- 07:02 act: {"say":"Zack here, I'm enclosed in my stone shelter at night. Digging out now. Tommy, I'll send you dirt and cobblestone once I'm free.","actions":[{"do":"mine","block":"cobblestone","count":1}],"reas
+- 07:02 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"unstick"}],"intent":{"goal":"get_out_of_shelter","program":"travel","arguments":{"target":{"x":-230,"y":62,"z":346}},"wake_on":["goal_c
+- 07:02 act: {"actions":[{"do":"goto","target":{"x":-234,"y":56,"z":347}}],"intent":{"goal":"reach_billy_pit_edge","program":"travel","arguments":{"target":{"x":-234,"y":56,"z":347}},"wake_on":["goal_completed","d
+- 07:03 act: {"actions":[{"do":"mine","block":"cobblestone","count":1},{"do":"unstick"},{"do":"goto","target":{"x":-234,"y":56,"z":347}}],"reasoning":"Goto failed because I am stuck on the table. Mining an adjacen
+- 07:03 act: {"actions":[{"do":"mine","block":"crafting_table","count":1}],"reasoning":"Still standing on my crafting table with the way blocked. Breaking the table under my feet should let me drop down to ground.
+- 07:03 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"goto","target":{"x":-230,"y":56,"z":345}}],"reasoning":"View shows solid blocks all around. Mining the cobblestone ahead to open a path
+- 07:04 say: {"text":"Zack: I'm stuck on my crafting table at -229,56,346 and can't move. Billy and Tommy, I'll drop cobblestone once I can reach. Trini, can you come near?"}
+- 07:04 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
+- 07:04 say: {"text":"Trini, thanks. I'm climbing up by placing at my feet. Stay above me and I'll come up."}
