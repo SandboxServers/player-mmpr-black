@@ -614,3 +614,6 @@
 - 03:14 act: {"actions":[{"do":"give","to":"Billy","item":"dirt","count":10},{"do":"give","to":"Kimberly","item":"dirt","count":10},{"do":"give","to":"Trini","item":"dirt","count":10}],"say":"Billy, Kimberly, Trin
 - 03:16 act: {"say":"Still here with 90 dirt. Billy, Kimberly, Trini, Jason: if you're still stuck and need more, say how many and where you are.","intent":{"goal":"hold_position_and_answer_dirt_requests","program
 - 03:16 act: {"say":"Got it, Billy. Placing blocked where you stand, so try a step to the side or mine one stone for room. Shout if you need more dirt."}
+- 03:25 act: {"say":"Heading to the beds for the night. Trini, Kimberly, Billy, Jason, I'm close if you need dirt.","actions":[{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"intent":{"goal":"reach_bed_and_slee
+- 03:28 act: {"say":"Kimberly, I'm coming to the pit edge with dirt. Hold tight.","actions":[{"do":"goto","target":{"x":-236,"y":56,"z":348}}],"intent":{"goal":"reach_pit_edge_with_dirt","program":"travel","argume
+- 03:28 act: {"say":"Kimberly, Trini sent you 10 dirt. I can't reach the pit from here. If you need more, say the count and I'll drop it at the edge."}
