@@ -1708,3 +1708,31 @@
 - 23:39 act: {"intent":{"goal":"gather_night_stone","program":"gather","arguments":{"block":"stone","count":20},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
 - 23:39 act: {"intent":{"goal":"gather_shelter_stone","program":"gather","arguments":{"block":"stone","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12
 - 23:39 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 23:40 act: {"say":"Billy, I'm sealed in too, safe for the night. Food at first light, I'm with you.","intent":{"goal":"rest_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpecte
+- 23:49 act: {"say":"Morning, Billy. I'm in a stone pit at -432,67,340 and I'm getting out now. I have no food either. I'll look for sheep and cows to the southwest with you.","actions":[{"do":"unstick"}]}
+- 23:49 act: {"intent":{"goal":"search_food_southwest","program":"travel","arguments":{"target":{"x":-450,"y":67,"z":365}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","new_agent_within_8"]
+- 23:49 act: {"say":"Billy, I'm right here. Let's head southwest together and call out if we see any sheep or cows.","intent":{"goal":"search_food_southwest_closer","program":"travel","arguments":{"target":{"x":-4
+- 23:49 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 23:49 act: {"intent":{"goal":"search_food_southwest_2","program":"travel","arguments":{"target":{"x":-452,"y":67,"z":362}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","new_agent_within_8
+- 23:49 act: {"say":"Billy, I'll follow you west. Keep calling out if you see sheep or cows.","intent":{"goal":"follow_billy_for_food","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_a
+- 23:50 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
+- 23:50 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"search_food_southwest_3","program":"travel","arguments":{"target":{"x":-460,"y":67,"z":370}},"wake_on":["directly_addressed","unexpected_damage","goal_c
+- 23:50 act: {"say":"Billy, I'm digging west too. There's a dropped item just west of me, I'm checking it.","actions":[{"do":"goto","target":{"x":-454,"y":68,"z":352}}]}
+- 23:51 say: {"text":"Jason, Billy, I'm right here with you at -446,67,351. I'll dig west with you and call out when I see an opening."}
+- 23:51 act: {"actions":[{"do":"mine","block":"stone","count":2}]}
+- 23:52 act: {"say":"Jason, yes, let's go to the sheep at -257,66,375 together. I'm heading there now.","intent":{"goal":"reach_sheep_at_east_meadow","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":3
+- 23:52 act: {"intent":{"goal":"reach_sheep_east_leg","program":"travel","arguments":{"target":{"x":-340,"y":66,"z":365}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","new_agent_within_8"],
+- 23:53 act: {"intent":{"goal":"reach_sheep_east_leg_2","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":368}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","new_agent_within_8"
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":-392,"y":67,"z":341}}]}
+- 23:53 act: {"intent":{"goal":"reach_sheep_east_leg_3","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":368}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","new_agent_within_8"
+- 23:54 act: {"intent":{"goal":"reach_sheep_with_jason","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":368}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 23:54 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-385,"y":67,"z":341}}],"intent":{"goal":"reach_sheep_short_hops","program":"travel","arguments":{"target
+- 23:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":66,"z":368}}],"say":"Jason, I'm still boxed in by stone here at -394,67,341. Trying to get out toward the sheep now."}
+- 23:54 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"},{"do":"goto","target":{"x":-384,"y":67,"z":341}}]}
+- 23:54 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-300,"y":66,"z":368}}],"say":"Kimberly, I'm still stuck in stone at -398,67,341, digging east toward you. Jason, Trini, i
+- 23:55 act: {"intent":{"goal":"follow_jason_to_sheep","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":4000,"max_block_opera
+- 23:55 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-394,"y":68,"z":340}}]}
+- 23:55 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"say":"Billy, I'm stuck in stone at -398,68,338 too. Digging east. Jason, when you're out, I'll follow you."}
+- 23:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":66,"z":368}}],"intent":{"goal":"reach_kimberly_sheep","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":368}},"wake_on":["d
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":-330,"y":66,"z":360}}],"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":370}},"wake_on":["directly_addressed","u
+- 23:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
