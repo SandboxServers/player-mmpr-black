@@ -934,3 +934,6 @@
 - 11:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"reasoning":"Position unchanged after two gotos; unstick then retry."}
 - 11:35 act: {"actions":[{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"reasoning":"Progressing south; continue to Zack."}
 - 11:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":24}],"intent":{"goal":"shelter_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","une
+- 11:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Step 1 of errand: craft 8 planks."}
+- 11:36 say: {"text":"Zack here, at -193,69,351 with no food. I'm finishing a plank shelter here, then looking for animals."}
+- 11:36 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
