@@ -889,3 +889,5 @@
 - 11:07 act: {"say":"Zack here at the beds. I have 16 cobblestone and 39 dirt. Trini, Tommy, tell me what you need and where to drop it.","intent":{"goal":"wait_for_requests","program":"rest","arguments":{},"wake_
 - 11:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, I'm giving you 8 cobblestone for Tommy at the pool. I still have 8 cobble and 39 dirt if anyone needs more.",
 - 11:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":8}],"say":"Trini, my give of cobble didn't land. I'm trying again now. If it fails, tell me and I'll drop it on the ground next
+- 11:17 act: {"say":"Trini, I'm here by the beds with 8 cobblestone and 39 dirt. Tell me if you need any of it.","intent":{"goal":"share_with_neighbors","program":"wait","arguments":{},"wake_on":["directly_address
+- 11:19 act: {"say":"Night is here. I have no food either, but I'm building a dirt shelter next to the beds so I'm sealed in.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelt
