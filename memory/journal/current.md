@@ -822,3 +822,4 @@
 - 08:53 say: {"text":"Zack: tilling does not work here, so no wheat farm yet. Still no food. Trini, carrots when you can. Anyone who spots animals to the west or south, please call out."}
 - 08:57 say: {"text":"Billy, how did you till with the stone hoe? I tried and tilling is not available for me. Please tell me what worked."}
 - 08:57 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_oper
+- 09:02 act: {"intent":{"goal":"night_shelter_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_op
