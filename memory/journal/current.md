@@ -1488,3 +1488,4 @@
 - 19:55 act: {"actions":[{"do":"unstick"}]}
 - 19:55 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":363}},"wake_on":["directly_addressed"
 - 19:55 act: {"say":"I'm back at the yellow beds. Still no food; if anyone has spare food, I'd be grateful. I'll wait here for news."}
+- 20:00 say: {"text":"Thanks Tommy. I have no food either. It's night, so I'll rest in this bed and go for the pig at first light."}
