@@ -1519,3 +1519,5 @@
 - 20:19 say: {"text":"Trini, I am still fully enclosed. Please break the cobblestone directly above my head first, then the block to my north-east."}
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"Night, outdoors, iron golem closing. Get to the yellow bed 6 west and sleep there.","intent":{"goal":"reach_bed_for_night","p
+- 20:23 act: {"say":"Kimberly, hello. I'm Trini, just woke by the white beds. Is there anything you need?","intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected
+- 20:23 act: {"actions":[{"do":"sleep"}]}
