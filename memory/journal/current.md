@@ -661,3 +661,6 @@
 - 06:00 act: {"intent":{"goal":"shelter_for_night_2","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
 - 06:02 act: {"intent":{"goal":"dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wo
 - 06:05 act: {"actions":[{"do":"unstick"}],"say":"Dawn. Getting out of the pit to look for food.","intent":{"goal":"leave_pit_find_food","program":"travel","arguments":{"target":"open_ground_near_pit"},"wake_on":[
+- 06:06 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 06:06 act: {"intent":{"goal":"shelter_dirt_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block
+- 06:06 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Build keeps stopping. Try a hand placement to see whether it closes the open air above."}
