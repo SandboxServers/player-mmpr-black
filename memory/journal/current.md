@@ -621,3 +621,4 @@
 - 03:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
 - 03:49 say: {"text":"Billy, Jason, Kimberly, Trini: I'm at -233,58,348, out of reach of the pit, and my travel is stuck. I still have 90 dirt if you need it, but I can't reliably drop it to you from here."}
 - 03:57 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
+- 04:10 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-232,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-233,"y":58,"z":347}},{"do"
