@@ -846,3 +846,12 @@
 - 09:09 act: {"actions":[{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
 - 09:09 act: {"actions":[{"do":"eat"},{"do":"eat"}]}
 - 09:09 say: {"text":"Zack: found a pig north-east of the forest. I ate and I'm full now. Another pig is near -203,71,363. Billy, Trini, Kimberly, go there for food."}
+- 09:09 act: {"intent":{"goal":"build_shelter_cobblestone","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directl
+- 09:09 act: {"intent":{"goal":"build_wall_cobblestone","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"
+- 09:10 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 09:10 act: {"intent":{"goal":"shelter_manual_attempt","program":"build","arguments":{"blueprint":"wall","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 09:11 act: {"intent":{"goal":"shelter_wall","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 09:15 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-159,"y":88,"z":361}},{"do":"place","block":"cobblestone","at":{"x":-161,"y":88,"z":361}},{"do":"place","block":"cobblestone","at":{"x":-160,"
+- 09:16 act: {"intent":{"goal":"shelter_retry","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":24
+- 09:19 act: {"say":"Night, I'm in the open at -160,88,361. Building a shelter with the dirt I carry.","intent":{"goal":"shelter_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on
+- 09:23 act: {"intent":{"goal":"shelter_wall_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
