@@ -817,3 +817,4 @@
 - 08:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-230,"y":65,"z":345}}]}
 - 08:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-230,"y":63,"z":346}}],"say
 - 08:50 say: {"text":"Zack here, at the shaft rim. My drops keep getting blocked. Has either of you got dirt down to Jason and Tommy yet?"}
+- 08:51 say: {"text":"Zack here. I'm at -228,65,346 with no food yet, hunger 17. Sending a worker to till dirt and plant my wheat seeds. Trini, the carrots are welcome whenever you're out."}
