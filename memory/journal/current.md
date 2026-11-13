@@ -1644,3 +1644,4 @@
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Trini, good. I'll sleep in this white bed tonight. Tell Billy I'll help with the wool at first light."}
 - 22:00 act: {"actions":[{"do":"sleep"}]}
+- 22:00 act: {"say":"Thanks Trini. I'll be here at first light to help Billy with the wool."}
