@@ -863,3 +863,4 @@
 - 09:35 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":20}],"say":"Kimberly, sending you 20 dirt. Stay off the pool."}
 - 09:39 say: {"text":"Zack here, at the beds. I have 33 cobblestone and 46 dirt. Jason, Tommy, Billy: say the exact spot and I'll drop blocks there."}
 - 09:41 say: {"text":"Tommy, Jason is at -240,51,345, so the spot that matters is the shaft rim at -239,69,345. I can't reach it safely from here at night, so I'll stay at the beds. Jason, we'll try again at first
+- 09:42 act: {"say":"Zack here, at the beds at -240,69,343. Jason, Tommy and Billy are on the stair, and it's night, so I'm sleeping in the bed. I'll come to the rim at first light.","actions":[{"do":"goto","targe
