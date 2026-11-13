@@ -690,3 +690,6 @@
 - 06:37 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_jason_01","item":"dirt","count":8}],"say":"Tommy: sent you 10 cobblestone. Jason: 8 dirt. Place at fe
 - 06:42 act: {"actions":[],"say":"Tommy: my inventory did not drop after the give, so I can't confirm it went through. I'm not standing near you, so I can't drop blocks at your feet. Try mining north-facing stone 
 - 06:47 act: {"actions":[],"say":"Tommy, I'm at -230,55,346, higher than you and not near the water. Digging down toward you could flood the path, so I'll hold. Kimberly is closer. I'll help with blocks when I can
+- 06:47 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":10},{"do":"give","to":"ag_tommy_01","item":"cobblestone","count":10}],"say":"Billy, Tommy: I've sent 10 cobblestone to each of 
+- 06:47 act: {"intent":{"goal":"find_food_and_farm_spot","program":"travel","arguments":{"x":-225,"y":64,"z":340},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1
+- 06:48 act: {"intent":{"goal":"find_food","program":"travel","arguments":{"target":{"x":-225,"y":64,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200
