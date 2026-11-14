@@ -14,3 +14,4 @@
 - 08:18 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":293}}],"say":"No cow out here, and night is close. I'm heading to the white beds at -298, 68, 295 with Billy and Tommy. Let's regroup there and h
 - 08:18 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}}],"say":"I'm at the beds. Tommy, take the one at -298, 68, 295 and I'll take -298, 68, 294. Billy, stay on the grass, away from the water to
 - 08:18 act: {"actions":[],"say":"Billy, I'm going to sleep in the bed at -298, 68, 294. Stay on the grass by the beds and wake me if anything comes. We hunt at first light. Tommy has the other bed."}
+- 08:19 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Billy, thanks. I'm at the bed, health and hunger full. I'll sleep as soon as it is night and hunt cows at first light.","intent":{"
