@@ -1898,3 +1898,38 @@
 - 05:19 act: {"actions":[{"do":"note","text":"Dusk. Heading to the old yellow bed for the night, with the others."}],"intent":{"goal":"reach_old_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y
 - 05:20 say: {"text":"Zack here. I have no food either, hunger 18. I'm at the white beds near (-270, 67, 336) for the night. Will look for food at first light, and I'll share what I find."}
 - 05:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 05:21 say: {"text":"Zack here, awake. Looking for food first, then shelter. If anyone has spare food, tell me."}
+- 05:21 act: {"intent":{"goal":"find_food_animals","program":"travel","arguments":{"x":-300,"y":67,"z":300},"wake_on":["goal_completed","directly_addressed","unexpected_damage","new_agent_within_20"],"limits":{"ma
+- 05:21 act: {"intent":{"goal":"find_food_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 05:25 act: {"actions":[{"do":"goto","target":{"x":-289,"y":68,"z":301}},{"do":"attack","target":"sheep"},{"do":"attack","target":"sheep"},{"do":"attack","target":"sheep"}],"say":"A sheep to the east. Going for i
+- 05:26 act: {"actions":[{"do":"eat"}],"say":"Got 3 mutton from a sheep. Eating one now. I'll share the rest with Tommy and Billy."}
+- 05:26 act: {"intent":{"goal":"flee_to_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":15
+- 05:27 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":352}},{"do":"give","to":"Billy","item":"mutton","count":2}],"say":"Billy, coming to you with 2 mutton now."}
+- 05:27 act: {"say":"Billy, I'm at the yellow beds now with 3 mutton. Where are you?","intent":{"goal":"wait_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"give","to":"ag_billy_01","item":"mutton","count":2}],"say":"Billy, coming to you now with mutton.","intent":{"goal":"share_food_with
+- 05:28 act: {"say":"Got it Billy, 2 mutton given. Stay near the beds; I'll keep one for later. Anything new you've learned?"}
+- 05:28 act: {"say":"Morning Jason. Billy has mutton, and I have one left. Sheep are east of the beds, and an iron golem is north-west near (-281,67,343). Let's build a shelter here before dark."}
+- 05:30 act: {"say":"Tommy, I'll give you my last mutton. Come to me at the beds. Billy and I head east to the sheep.","intent":{"goal":"meet_tommy_for_mutton","program":"follow","arguments":{"target":"ag_tommy_01
+- 05:30 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is my last mutton. Then we all go east to the sheep."}
+- 05:31 act: {"say":"Tommy got the mutton. I'm out of food now, so I'll go east with you all to the sheep.","intent":{"goal":"find_sheep_east","program":"travel","arguments":{"target":{"x":-243,"y":67,"z":352}},"w
+- 05:31 act: {"actions":[{"do":"unstick"}],"say":"Tommy, I'm stuck on the water's edge at (-249,69,353). Wait for me by the beds; I'll get out and we'll look for sheep together."}
+- 05:31 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 05:31 act: {"actions":[{"do":"eat"}],"say":"Billy, thanks. I have 2 wheat and 2 pumpkin; I'll check whether they can be eaten. Where else could sheep be?","reasoning":"Hunger 19 with no meat. Try eating the whea
+- 05:31 act: {"say":"Tommy, I'm at the beds at (-262,67,350), next to the yellow beds. I don't know the sheep spot; I have no food. Wheat and pumpkin can't be eaten. If anyone finds meat, tell me.","reasoning":"Fo
+- 05:32 act: {"intent":{"goal":"search_north_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 05:32 act: {"intent":{"goal":"search_further_north_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":
+- 05:32 act: {"intent":{"goal":"search_north_for_animals_again","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":260}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 05:32 act: {"say":"North of the beds is a big lake at (-262,62,260). No animals here either. Billy and Trini are searching south; I'll sweep west along the lake shore.","reasoning":"North is water and no animals
+- 05:32 act: {"intent":{"goal":"sweep_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":-297,"y":66,"z":264}},{"do":"attack","target":"sheep"}],"say":"I see a sheep north-west of me at (-299,66,262). Going to it now.","reasoning":"Food is the top ne
+- 05:33 act: {"actions":[{"do":"eat"}],"say":"I killed a sheep at the lake, west of the beds, and have 2 mutton. Eating now. Everyone: sheep are at (-299,66,262), west of the lake.","reasoning":"Hunger 19. Eat one
+- 05:33 act: {"say":"I ate one mutton; hunger is back to 20. I'm keeping one mutton in my pack. Tommy, Jason, Billy, Trini: the sheep spot is at the lake, (-299,66,262). Come there if you need food.","reasoning":"
+- 05:33 act: {"say":"Good, Trini. I'm right here at the sheep spot, (-300,65,262). I'll keep one mutton and you can take the rest of the sheep.","reasoning":"Trini is coming for the sheep. Hold position and let he
+- 05:35 act: {"say":"Billy, I'm at the sheep spot, (-300,65,262). I'm holding my last mutton for you. Come close and I'll hand it over.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":
+- 05:35 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"mutton","count":1}],"say":"Billy, here's your mutton. Eat it. Trini, the sheep at (-299,66,262) is still there for the rest of us."}
+- 05:36 act: {"say":"Billy has the mutton. The sheep at (-299,66,262) is still there, Trini. Next I'll head back to the beds and build a shelter before night."}
+- 05:36 act: {"say":"Billy, the mutton went to you already, it said the give worked. Trini, the sheep are at (-299,66,262), about 2 blocks west and a bit south of me, along the shore. I'm at (-298,65,260)."}
+- 05:37 act: {"say":"Tommy, I have no mutton left. My last one went to Billy. I don't see the sheep now, so it may have wandered. Trini, I'm going to the beds to build a shelter before night."}
+- 05:37 act: {"say":"Heading to the beds at (-262,66,356) to join Jason, Tommy and Billy for the night. Salmon in the lake is a good food plan for the morning, and sheep at first light.","intent":{"goal":"reach_be
+- 05:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":66,"z":356}}],"say":"My travel failed, so I'm getting free and heading for the beds again."}
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm at the beds. I'll sleep in the bed here, and we meet at first light for the lake sheep."}
