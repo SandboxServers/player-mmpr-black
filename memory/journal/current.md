@@ -63,3 +63,9 @@
 - 21:50 act: {"say":"Zack: dawn of day 241. Trini has the chicken, good. I have no food, hunger 17. I'll scout the grass near the beds in sight of the group and call out any animal."}
 - 21:58 say: {"text":"Zack: still no food here, hunger 17. I'll stay by the beds with my sword and watch the grass. Any cow, sheep or chicken, call it out."}
 - 22:18 act: {"say":"Zack, morning of day 242. No food, hunger 17. I'm staying at the white beds with the group, sword in hand. Trini first for any food, then Riker. I won't go to the sheep field alone.","intent":
+- 22:20 act: {"say":"Zack at the white beds, dusk of day 242. Health 0.67, hunger 17, no food. Trini and Data first for anything found. I'm going to the bed for the night with the group.","actions":[{"do":"goto","
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"wait","seconds":30},{"do":"sleep"}],"reasoning":"Sleep refused for monsters nearby. Lesson: retry after a short wait, try the second
+- 22:20 act: {"say":"Zack: sleep refused twice for monsters nearby. I'm at the white beds with the group, sword in hand. I'll wait and try the bed again shortly.","actions":[{"do":"wait","seconds":120},{"do":"slee
+- 22:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no monsters listed in view now. Try the bed once more."}
+- 22:23 act: {"say":"Zack: night of day 242 at the white bed. Sleep refused again for monsters. I'm staying with the group, sword in hand. Trini first for any food at dawn.","actions":[{"do":"wait","seconds":180},
+- 22:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep at the bed after the longer wait."}
