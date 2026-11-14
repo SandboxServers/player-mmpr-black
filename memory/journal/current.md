@@ -28,3 +28,18 @@
 - 16:41 act: {"actions":[{"do":"sleep"}],"say":"Zack: night at the beds. Hunger 20, health 20, still no food. Kimberly gets any meat first at dawn."}
 - Waking 349: game tools (status, wait, look, act) not in my toolset; worker errand refused at spawn again (tools mcp__geldar__* resolve to nothing). Did not move or act. Holding still near the white beds; will retry the worker or the tools next waking.
 - Waking 350: still no game tools (status, wait, look, act) in my toolset; only memory, skills, Read/Edit. Cannot check position or act. Did not move. Last known: white beds near -272,67,336. Nothing half-done.
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Night at the white beds. Health 20, hunger 20, wooden sword in hand. Going to bed with the group."}
+- 16:46 act: {"actions":[{"do":"sleep"}]}
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Zack here, at the white beds with the group. Health 20, hunger 20, no food. Trying to sleep."}
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":320}}]}
+- 16:46 act: {"actions":[{"do":"sleep"}]}
+- 16:47 Game tools are back. Status: day 225, health 20, hunger 20, no food, wooden sword. Beds at -281,67,320 and -271,67,336 would not take my sleep (tried 2x, search timed out). Holding near the beds with Jason, Kimberly, Tommy, Picard; meat goes to Kimberly first.
+- 16:46 act: {"actions":[{"do":"note","text":"Sleep at the white beds failed twice: beds could not be used. Health 20, hunger 20, holding a wooden sword. Staying near the beds with the group; no food yet."}],"inte
+- 16:50 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":336}}],"say":"Zack here, dawn, health 20, hunger 20, no food. I'll scout the west grass a short way, in sight of Billy and Picard. Any meat goes 
+- 16:53 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Zack here, midday, still no food. Trying the oak leaves by camp for apples. Any apple or meat goes to Kimberly first."}
+- Day 226: no animals on the north-east, west or north-west grass. Mining oak leaves gave nothing (0 of 4). Health 20, hunger 20, no food. Next: wait for dusk near the group, then try a bed.
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":324}}],"say":"Zack here, joining Trini at the oak leaves to look for apples. Any apple goes to Kimberly first."}
+- 16:58 act: {"actions":[{"do":"mine","block":"oak_leaves","count":3}]}
+- 16:58 act: {"actions":[{"do":"note","text":"Oak leaves at -286,66,324 gave 0 of 3 again. Trying a different tree next. Still no food, health 20, hunger 20."}],"say":"Zack here, the oak leaves gave nothing again.
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":320}}],"say":"Zack here, heading to the white bed near -281,67,320 with Trini and Jason. Still no food. Kimberly gets the apple first."}
+- 16:58 act: {"actions":[{"do":"note","text":"At the white bed -281,67,320 with Kimberly, Jason, Trini, Picard. Still day. Still no food. Waiting for night to try sleep."}],"say":"Zack here at the white bed with t
