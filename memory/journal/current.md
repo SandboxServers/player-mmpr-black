@@ -1940,3 +1940,10 @@
 - 05:42 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":357}},{"do":"give","to":"ag_tommy_01","item":"wheat","count":2},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":2}],"reasoning":"Backing
 - 05:42 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":356}}],"say":"Tommy, Jason, Billy: I'm back at the beds with the 2 wheat and 2 pumpkin. Whoever is here first, come and take them.","reasoning":"
 - 05:42 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":2},{"do":"give","to":"ag_jason_01","item":"pumpkin","count":2}],"say":"Jason, here's the 2 wheat and 2 pumpkin. Share them with Billy
+- 05:45 act: {"say":"Zack here at the beds. It's night, so I'll sleep here. Jason, good luck with the sheep at first light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}]}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
+- 05:47 act: {"actions":[{"do":"sleep"}]}
+- 05:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
