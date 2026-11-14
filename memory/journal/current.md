@@ -8,3 +8,9 @@
 - 16:08 act: {"intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"target":{"x":-288,"y":66,"z":344}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 16:08 act: {"say":"Zack here, holding at the south-west grass with no meat in sight. Call me if a cow, pig or sheep shows up and I will come."}
 - 16:09 act: {"say":"Jason, I have nothing either, hands empty. I am heading south-west with you to look for animals. Anyone who finds meat, Kimberly first, then me.","actions":[{"do":"goto","target":{"x":-296,"y"
+- 16:15 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":356}}],"say":"Zack here, hunger 20 and no food. Heading east-south a short way to scout for cow, pig or sheep. Any meat goes to Kimberly first.",
+- 16:15 act: {"actions":[{"do":"goto","target":{"x":-296,"y":67,"z":358}}],"say":"Iron golems are closing in from the east. I'm backing off south-west, away from them, and I'm still hungry with no food."}
+- 16:16 act: {"actions":[{"do":"unstick"}]}
+- 16:16 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}],"say":"I'm free now. Heading to Trini's spot at -292,66,330 to rejoin the group, away from the golems."}
+- 16:16 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":330}}],"say":"Zack here, back with the group at -292,66,331. Still no food and no animals seen. I'll wait near the beds and call out any cow, pig
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"say":"Dusk. Going to the white bed at -282,67,320 with the group for the night. Still no food; first light I scout again."}
