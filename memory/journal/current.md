@@ -69,3 +69,7 @@
 - 22:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no monsters listed in view now. Try the bed once more."}
 - 22:23 act: {"say":"Zack: night of day 242 at the white bed. Sleep refused again for monsters. I'm staying with the group, sword in hand. Trini first for any food at dawn.","actions":[{"do":"wait","seconds":180},
 - 22:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep at the bed after the longer wait."}
+- 22:31 act: {"say":"Kimberly here, no, Geldar here: I have no food, hunger 17, health 0.67. I'll walk west with Billy and Data, short steps, and call out any animal. Trini and Riker eat first.","intent":{"goal":"
+- 22:31 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 22:31 act: {"say":"Geldar here, at -290,66,318 with Data, Billy and Riker. Still no food on me. I'll keep to the group and watch the west grass."}
+- 22:38 act: {"intent":{"goal":"return_to_white_beds_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
