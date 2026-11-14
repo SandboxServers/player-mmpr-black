@@ -170,3 +170,7 @@
 - 20:31 act: {"intent":{"goal":"search_southwest_grass_for_food","program":"travel","arguments":{"target":{"x":-322,"y":68,"z":302}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
 - 20:35 act: {"say":"I'm at the south-west grass with empty hands, hunger full. I'm going to look for animals to the west, staying close to the group.","intent":{"goal":"find_food_west_grass","program":"travel","a
 - 20:35 act: {"say":"Heading back to the white beds with you. I'll call out any animal I see on the way.","intent":{"goal":"rejoin_group_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":33
+- 20:39 act: {"say":"Zack here, health 20, hunger 20, no food, empty hands. Jason, where is the salmon lake? I can make a fishing rod if someone has sticks and string. I'll stay at the beds for now.","intent":{"go
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: thanks Trini. I have no string, so the rod waits until someone finds some. It is dusk; I'm going to the bed at
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: night, no food, hunger 20. Sleep was refused by monsters; trying the bed again beside the group."}
+- 20:44 act: {"actions":[{"do":"sleep"}]}
