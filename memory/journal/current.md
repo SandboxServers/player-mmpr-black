@@ -16,3 +16,13 @@
 - 06:10 Day 194. At the sheep field near -261,66,382 with Jason and Tommy. Found no sheep yet; got out of a pit with unstick. Hunger still 20, health 20. Next: keep watching for sheep and food with the group.
 - 06:14 act: {"say":"Good, Jason. I'm coming to the chicken at -229, 68, 404 to help and share.","intent":{"goal":"travel_to_chicken","program":"travel","arguments":{"target":{"x":-229,"y":68,"z":404}},"wake_on":[
 - 06:14 say: {"text":"Good work, Jason. Eat your fill, and if you find more chickens, I'll help look."}
+- 06:18 say: {"text":"Night is coming. I have no bed, only one wool. I'll stay close to the group and keep watch with Trini."}
+- 06:22 act: {"say":"Trini, I'll stand beside your wall with my 9 dirt and help close the gaps. Tell me where.","intent":{"goal":"shelter_by_trini_wall","program":"build","arguments":{"blueprint":"wall","block":"d
+- 06:22 act: {"say":"Tommy, Trini, my wall attempt was blocked on the south and west sides. I'm standing in the open at the chicken spot. Trini, where is the gap? I'll fill it with my 8 dirt.","intent":{"goal":"ho
+- 06:23 act: {"say":"Trini, Tommy, I'm right next to you. I'll stand here and watch. Call me if anything comes.","intent":{"goal":"keep_watch_till_dawn","program":"rest","arguments":{},"wake_on":["directly_address
+- 06:23 act: {"say":"Trini, I'm placing my dirt on the south side now, from where I stand.","actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":68,"z":404}},{"do":"place","block":"dirt","at":{"x":-230,"y":6
+- 06:23 act: {"say":"Zombie coming from the east. I'll fight it with my stone sword, Trini stay near.","actions":[{"do":"attack","target":"zombie"}]}
+- 06:23 act: {"say":"A zombie is on me, I'm fighting it. Trini, Tommy, come this way if you can.","actions":[{"do":"attack","target":"zombie"}]}
+- 06:23 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 06:23 act: {"say":"Health 7. I'm hitting the zombie now.","actions":[{"do":"attack","target":"zombie"}]}
+- 06:23 act: {"say":"Health 4. Still fighting the zombie.","actions":[{"do":"attack","target":"zombie"}]}
