@@ -144,3 +144,5 @@
 - 14:08 act: {"say":"Zack: Dawn. I'm still on the pillar at -266,35,196, hunger 17, with a zombie about 9 blocks north-east. Picard, the porkchops can come once a walked dry route reaches me. Kimberly, call each w
 - 14:11 act: {"say":"Zack: Thanks, all. I'm holding on the pillar; a creeper is about 11 blocks north. I'm not moving until a dry line is walked to me. Jason, call any animal you find."}
 - 14:18 act: {"say":"Zack: Stay west, out of the skeletons' line. Trini, you did right to eat. I'm still on the pillar, hunger 17, holding."}
+- 15:03 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack: Night. I'm still on the pillar at -266,35,196, health 6.8, hunger 17. Holding until a walked dry route reaches me. Good luck at first light, all.","
+- 15:11 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack: Morning. Still on the pillar at -266,35,196, health 6.8, hunger 17, no food. Billy, Tommy, Picard: if you find a cow or pig on the west grass, call 
