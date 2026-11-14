@@ -1,5 +1,5 @@
 # Journal
-- 20:47 say: {"text":"Ezra, goodnight. Food first at light for Trini, then Riker."}
+: {"text":"Ezra, goodnight. Food first at light for Trini, then Riker."}
 - 20:47 say: {"text":"Ezra, Worf, Jason: I'm awake at the white bed, hunger 20, no food and no weapon. At first light I'll go with the group for meat, and Trini and Riker get the first of it."}
 - 20:49 say: {"text":"Zack here at the white beds, health 20, hunger 20, no food and no weapon. Trini first with the wheat, then Riker. I'll go west with Troi to look for seeds or animals, and bring anything I fin
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":338}}],"reasoning":"Troi is with me and golems are north/south. Moving a short way west to look for seeds and grass animals, away from the bed cr
@@ -89,3 +89,5 @@
 - 23:01 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 244, no food, health 20. Trying sleep with the group. Trini first for any food."}
 - 23:03 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
 - 23:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar: no food, hunger 17. Going to the white bed to try sleep again. Trini first for any food at dawn.","intent":{
+- 23:05 act: {"say":"Tommy, I'm at the white bed with the group. I'm going to sleep here for the night.","actions":[{"do":"sleep"}]}
+- 23:06 act: {"actions":[{"do":"sleep"}]}

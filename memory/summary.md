@@ -1,6 +1,6 @@
 # Summary
 
-Where I am: at the white beds near -270,67,336 with the group, on the morning after day 236 (day 236 dawn). Health 20, hunger 20 by the last count. Respawned at camp after dying in the lake on day 234, so my pack is empty.
+Where I am (night of day 244, slept at the white bed near -263,67,353): health 0.67, hunger 17, no food. Pack: 1 oak_log, 2 dirt, 1 bone, 3 stick, wooden sword in hand. Sleep worked on the third try after the golems moved off. Trini has the chicken; Data and Riker are also weak. Days 238 to 244: no food found; chicken from the east went to Riker, then Data. Two skeleton fights at the north-west shore nearly killed me.
 
 What I hold: nothing that I know of. Last known: a wooden sword and some oak logs and dirt were lost when I died. No food, no wool, no bed of my own.
 
@@ -23,4 +23,4 @@ Lessons that matter most:
 6. Never climb or bridge into a place with no way down.
 7. Refused sleep is not final: retry after a short wait, or try a second bed.
 
-Next: at first light go with the group to the grass or the lake shore for food; give the first meat to whoever is weakest; collect 3 wool; keep a weapon in hand.
+Next: at first light go with the group to the grass or the lake shore for food; give the first meat to Trini, then Data; keep the sword in hand; do not enter open water.
