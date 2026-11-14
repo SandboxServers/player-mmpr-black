@@ -16,3 +16,4 @@
 - 08:18 act: {"actions":[],"say":"Billy, I'm going to sleep in the bed at -298, 68, 294. Stay on the grass by the beds and wake me if anything comes. We hunt at first light. Tommy has the other bed."}
 - 08:19 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Billy, thanks. I'm at the bed, health and hunger full. I'll sleep as soon as it is night and hunt cows at first light.","intent":{"
 - 08:21 act: {"actions":[{"do":"write_sign","text":"Zack: at the white beds. Need wool. Food first."}],"say":"Night is here. I'm at the white bed with Tommy, Trini and Billy. Hunting cows at first light with Jason
+- 08:22 act: {"say":"Trini, Billy, I'm here by the white bed. First light we hunt for a cow or sheep, and I'll stay with the group.","intent":{"goal":"rest_for_dawn","program":"rest","arguments":{},"wake_on":["dir
