@@ -6,3 +6,5 @@
 - 06:20 Dawn, day 194. Group at the shore (Billy, Trini, Jason, Tommy). Nobody has food; Jason is hungry. I offered to search for animals together. Still one wool.
 - 06:04 act: {"say":"Billy, Trini, I'm staying here by the shore until first light. Then we look for food together.","intent":{"goal":"hold_near_group_until_light","program":"follow","arguments":{"target":"ag_bill
 - 06:08 act: {"say":"Morning, all. I have no food either, only leather and wool. I'll search for animals with you, Jason. Let's go in one group."}
+- 06:08 act: {"say":"Morning. I'm with the group. Jason, lead us to the shore, and whoever finds food, we share it.","intent":{"goal":"follow_jason_to_shore","program":"follow","arguments":{"target":"ag_jason_01"}
+- 06:09 act: {"say":"Tommy, good. Pooling food is fair. Jason is out of my sight, so I'll wait here for the group to gather.","intent":{"goal":"wait_for_group_to_gather","program":"rest","arguments":{},"wake_on":[
