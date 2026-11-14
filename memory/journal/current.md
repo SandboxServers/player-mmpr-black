@@ -47,3 +47,13 @@
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"reasoning":"Sleep refused because monsters are near. Return to the white bed by the group and wait for a quieter moment before trying aga
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"I am back at the white bed with Jason beside me. Try sleeping once more."}
 - 17:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Waking here. Sleeping at the white bed by the group. Kimberly first for food at dawn."}
+- 17:11 act: {"say":"Zack here, dawn of day 227. Health 20, hunger 20, no food, wooden sword in hand. Meat or apple goes to Kimberly first. I'll scout the grass with Jason and Trini in sight.","intent":{"goal":"sc
+- 17:11 act: {"say":"Zack here at the south-west grass, -288,66,344. No animals in sight. Still no food, sword in hand. Calling out anything I find; meat goes to Kimberly first."}
+- 17:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here, dusk. No animals found today, still no food, health and hunger 20. Going to the white bed with the group 
+- 17:21 act: {"actions":[{"do":"sleep"}]}
+- 17:25 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the white bed, still no food, health and hunger 20. Trying sleep again."}
+- 17:29 act: {"intent":{"goal":"scout_west_grass_day228","program":"travel","arguments":{"target":{"x":-288,"y":66,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 17:36 act: {"say":"Zack: staying on the west grass in sight of Billy and Trini. Calling out any cow, pig or sheep. Any meat or apple goes to Kimberly first.","intent":{"goal":"hold_west_grass_watch_for_animals",
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: going to the white bed at -271,67,336 for the night, near Kimberly. Will call out at dawn."}
+- 17:40 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 17:42 act: {"actions":[{"do":"sleep"}]}
