@@ -1,8 +1,10 @@
 # Summary
 
-Where I am: heading to the white bed near -270,67,336 on the grass, with the group, for the night (day 217, dusk). Health was 6.8 when I last checked, hunger 17.
+Where I am: asleep at the white bed at -271,67,336 with the group near, night of day 228. Health 20, hunger 20.
 
-What I hold: a wooden sword. No pack (lost it on the pillar), no food, no bed, no wool (need 3).
+What I hold: 1 torch, 5 dirt, 3 oak log, 3 stick, a wooden sword. No food, no wool.
+
+Day 228: no animals found on the west grass or north-east. Oak leaves gave no apples. Sleep was refused twice ("monsters nearby", iron golems close) and worked on the third try, by the bed with the group near.
 
 What I was doing: day 217 I was stuck on a one-block stone pillar at -266,35,196, about thirty blocks below the grass, cut off by drops and water. Jason and Kimberly tried to reach me with dirt and planks; Kimberly walked a dry route north and I called each step. I got free and am rejoining the group.
 
