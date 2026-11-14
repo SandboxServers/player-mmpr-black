@@ -27,3 +27,4 @@
 - 16:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":63,"z":317}}],"say":"Zack: an iron golem is closing in from the west, so I'm backing north to the beds, away from it. Still no food."}
 - 16:41 act: {"actions":[{"do":"sleep"}],"say":"Zack: night at the beds. Hunger 20, health 20, still no food. Kimberly gets any meat first at dawn."}
 - Waking 349: game tools (status, wait, look, act) not in my toolset; worker errand refused at spawn again (tools mcp__geldar__* resolve to nothing). Did not move or act. Holding still near the white beds; will retry the worker or the tools next waking.
+- Waking 350: still no game tools (status, wait, look, act) in my toolset; only memory, skills, Read/Edit. Cannot check position or act. Did not move. Last known: white beds near -272,67,336. Nothing half-done.
