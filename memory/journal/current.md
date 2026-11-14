@@ -97,3 +97,4 @@
 - 18:16 act: {"say":"Zack, still at the south-west grass, hunger 20. Worf, you are weakest, so you get any apple after Kimberly. I'll stay here and watch the west.","actions":[{"do":"note","text":"Midday day 230: 
 - 18:16 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":334}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
 - 18:16 act: {"actions":[{"do":"note","text":"Back at the white beds near -271,67,336. Still no food. Bow drawn to the east, so watch that side. Waiting for evening to sleep."}]}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here, night at the white bed with the group. Health 20, hunger 20, no food. Trying to sleep.","intent":{"goal":
