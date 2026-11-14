@@ -62,3 +62,4 @@
 - 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"x":-270,"y":67,"z":319},"wake_on":["directly_addressed","unexpecte
 - 21:50 act: {"say":"Zack: dawn of day 241. Trini has the chicken, good. I have no food, hunger 17. I'll scout the grass near the beds in sight of the group and call out any animal."}
 - 21:58 say: {"text":"Zack: still no food here, hunger 17. I'll stay by the beds with my sword and watch the grass. Any cow, sheep or chicken, call it out."}
+- 22:18 act: {"say":"Zack, morning of day 242. No food, hunger 17. I'm staying at the white beds with the group, sword in hand. Trini first for any food, then Riker. I won't go to the sheep field alone.","intent":
