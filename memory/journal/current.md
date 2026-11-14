@@ -25,3 +25,11 @@
 - 21:09 act: {"say":"Zack here at dawn with a wooden sword, no food. Heading north toward the sheep field for mutton. Any mutton goes to Riker, then Trini.","intent":{"goal":"reach_sheep_field","program":"travel",
 - 21:09 act: {"intent":{"goal":"search_north_for_sheep","program":"travel","arguments":{"target":{"x":-277,"y":67,"z":240}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 21:10 act: {"say":"Zack: no animals yet at (-277,240). Going further north to look for the sheep field. Mutton goes to Riker, then Trini.","intent":{"goal":"search_further_north_for_sheep","program":"travel","ar
+- 21:10 act: {"intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":200}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":-236,"y":67,"z":203}},{"do":"attack","target":"chicken"}],"say":"Zack: I see a chicken to the east. Going to take it for food. It goes to Riker, then Trini."}
+- 21:10 act: {"say":"Zack: I have a chicken. Heading back to the white beds now. Riker first, then Trini.","intent":{"goal":"carry_chicken_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":330
+- 21:11 act: {"say":"Zack: I'm at the white beds with a chicken. Riker, where are you? Trini, come to me; the chicken goes to Riker first, then you. A golem is 21 blocks south-west, so I'm staying near the craftin
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"say":"Zack: golem 8 blocks south-west, so I'm moving north-east. Trini, meet me there. Riker is not here; the chicken goes to Riker first
+- 21:11 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Zack: Riker, here is the chicken for you, as agreed. Trini gets the next food."}
+- 21:11 act: {"actions":[{"do":"give","to":"Riker","item":"chicken","count":1}],"say":"Zack: Riker, the chicken is yours. Please eat it or share it with Trini."}
+- 21:12 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, the chicken is for you, since Trini said it goes to you first."}
