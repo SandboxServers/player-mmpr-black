@@ -1,6 +1,8 @@
 # Summary
 
-Where I am: asleep at the white bed at -270,67,336 with the group near, night of day 230. Health 20, hunger 20.
+Where I am: asleep at the white bed at -270,67,336 with the group near, night of day 230 into 231. Health 20, hunger 20. Slept (days_since_sleep 0).
+
+Day 230 digest: no animals or apples on the north-west, south-west or west grass. Oak leaves gave nothing. Sleep was refused for monsters, then worked at the bed. Still no food; meat goes to Kimberly first.
 
 What I hold: 1 torch, 4 dirt, 3 oak log, 3 stick, a wooden sword. No food, no wool.
 

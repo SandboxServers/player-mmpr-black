@@ -108,3 +108,8 @@
 - 18:26 act: {"actions":[{"do":"sleep"}]}
 - 18:28 act: {"intent":{"goal":"scout_north_for_animals_day231","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
 - 18:28 act: {"intent":{"goal":"return_to_white_beds_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
+- 18:34 act: {"say":"Zack here. No food in my pack, hunger full. I'll scout the grass north-west for cows, pigs, sheep or apples and call out anything I find.","intent":{"goal":"scout_north_west_for_food","program
+- 18:37 act: {"say":"Zack here, still no food and hunger full. Trying the grass south-west of the beds next, within sight of the group. Calling out any cow, pig, sheep or apple.","intent":{"goal":"scout_south_west
+- 18:38 act: {"say":"Zack: no food on the south-west grass. The ground is broken here with drops. I'm heading back to the white bed to stay with the group.","intent":{"goal":"return_to_white_bed_with_group","progr
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Zack: night at the white bed, health and hunger 20, no food. Data, you can share this bed or the next one when it's 
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"wait","seconds":30},{"do":"sleep"}],"reasoning":"Sleep refused for monsters nearby; golems 12-13 away. Move onto the bed, wait, retr
