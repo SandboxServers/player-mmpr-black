@@ -5,3 +5,9 @@
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":338}}],"reasoning":"Troi is with me and golems are north/south. Moving a short way west to look for seeds and grass animals, away from the bed cr
 - 20:50 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"reasoning":"Grass can drop wheat seeds when broken. Try breaking grass nearby for seeds, which could grow into food."}
 - 20:53 say: {"text":"Zack: I have no weapon, so I'll stay near the beds and not join the sheep trip. I'll keep watch here. Any food found goes to Trini first, then Riker."}
+- 20:55 act: {"say":"Zack at the white beds, day 238. Health 20, hunger 20, no food, no weapon. I'll stay near the beds and keep watch. Trini and Riker first for anything found.","intent":{"goal":"keep_watch_at_be
+- 20:57 act: {"say":"Zack: Billy, I'm coming west with you. Staying in sight. Trini first for any animal we find.","intent":{"goal":"follow_billy_west_for_animals","program":"follow","arguments":{"target":"ag_bill
+- 20:57 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Zack: On my way to you, Billy. Let's go west together."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":-282,"y":66,"z":337}}],"say":"Zack: It's getting dark and I have no weapon, so I'm going back to the white beds with you, Billy. We can try the west grass at fir
+- 20:58 act: {"say":"Zack: Agreed, Tommy. West at first light, together. I'm at the white beds with no weapon, and I'll sleep in a bed tonight."}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: Night. Going to the white bed to sleep. West at first light, with whoever is still awake."}
