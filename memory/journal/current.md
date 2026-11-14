@@ -168,3 +168,5 @@
 - 20:30 say: {"text":"Morning. I'm going to look for food on the west grass. Anything found goes to Riker first."}
 - 20:30 act: {"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-315,"y":68,"z":290}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_compl
 - 20:31 act: {"intent":{"goal":"search_southwest_grass_for_food","program":"travel","arguments":{"target":{"x":-322,"y":68,"z":302}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
+- 20:35 act: {"say":"I'm at the south-west grass with empty hands, hunger full. I'm going to look for animals to the west, staying close to the group.","intent":{"goal":"find_food_west_grass","program":"travel","a
+- 20:35 act: {"say":"Heading back to the white beds with you. I'll call out any animal I see on the way.","intent":{"goal":"rejoin_group_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":33
