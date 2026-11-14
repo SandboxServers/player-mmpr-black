@@ -58,3 +58,10 @@
 - 06:43 act: {"actions":[{"do":"eat"}],"say":"Night, Trini and Billy. I'm eating and then going to the bed north of me."}
 - 06:43 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}]}
 - 06:43 act: {"actions":[{"do":"sleep"}]}
+- 06:44 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Picard, Billy, Trini and Tommy, we search for food at first light."}
+- 06:45 act: {"actions":[{"do":"sleep"}],"say":"Billy, Trini, I heard you. First light, we search for food together."}
+- 06:49 act: {"intent":{"goal":"join_group_search_for_food","program":"travel","arguments":{"target":{"x":-229,"y":68,"z":403}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":365}}],"say":"Trini, I'm heading to the sign by the crafting table to meet you. I'll take the west side with you."}
+- 06:50 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"rotten_flesh","count":2}],"say":"Tommy, here are my two rotten flesh. You can eat them once your hunger is 6 or below. I have no other food; I'll ke
+- 06:58 say: {"text":"Thank you, Tommy and Trini. My health is up to 5.7 from the porkchop. Jason, you are closest to starving, so I'll stay here near you both."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"reasoning":"Sun is low and Tommy wants everyone at the sign before dark. Moving to the nearest yellow bed for the night, near Jason, whil
