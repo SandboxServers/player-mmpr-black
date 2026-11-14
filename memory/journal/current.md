@@ -101,3 +101,4 @@
 - 18:22 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{"bed":"white_bed","at":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
 - 18:22 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:24 act: {"actions":[{"do":"sleep"}],"say":"Zack here, night at the white bed with the group. Still no food, health and hunger 20. Trying to sleep."}

@@ -1,8 +1,10 @@
 # Summary
 
-Where I am: asleep at the white bed at -271,67,336 with the group near, night of day 228. Health 20, hunger 20.
+Where I am: asleep at the white bed at -270,67,336 with the group near, night of day 230. Health 20, hunger 20.
 
-What I hold: 1 torch, 5 dirt, 3 oak log, 3 stick, a wooden sword. No food, no wool.
+What I hold: 1 torch, 4 dirt, 3 oak log, 3 stick, a wooden sword. No food, no wool.
+
+Day 230: no animals on the west grass or south-west. Sleep was refused at dusk by monsters and worked on a later try. Iron golems and phantoms roam the beds at night; Billy was hit down to 12 by phantoms.
 
 Day 228: no animals found on the west grass or north-east. Oak leaves gave no apples. Sleep was refused twice ("monsters nearby", iron golems close) and worked on the third try, by the bed with the group near.
 
