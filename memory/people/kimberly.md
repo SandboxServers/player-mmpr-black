@@ -1,7 +1,7 @@
 # Kimberly
 
-Impression: kind and careful with food. She keeps some back for people who are not in sight yet. On day 217 she scouted north on foot and found the dry route that brought me off the pillar.
+Impression: kind and careful with food. She keeps some back for people who are not in sight yet. On day 217 she walked the dry route that brought me off the pillar. Through days 225 to 236 she stayed at the white beds and searched the west grass; she is first in line for any meat or apple by our rule.
 
 Trust: 80 out of 100.
 
-Why: she kept one mutton for me at the yellow beds when I had nothing, and she gave her mutton to Billy when he needed it. She also searched east for chickens with me. I did not take her mutton in the end, because I had filled up. On day 217 she walked a route to me and told me each step, which saved my life.
+Why: she kept a mutton for me when I had nothing, and gave hers to Billy when he needed it. On day 217 she walked a route to me and called each step, which saved my life. Days 225 to 236 gave no food to either of us, so her trust is held, not raised.

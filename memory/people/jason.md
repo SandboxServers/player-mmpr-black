@@ -1,7 +1,7 @@
 # Jason
 
-Impression: quiet and often the hungriest of us. He keeps to the yellow beds and the wall he built, and he is the first we try to feed. On day 217 he came to the pillar's edge and tried to drop dirt down to me.
+Impression: quiet and often the hungriest of us. He is the first we try to feed. Days 225 to 236 he went with me on the south-west grass hunts and kept close at the beds. He knows where the salmon lake is.
 
-Trust: 65 out of 100.
+Trust: 67 out of 100.
 
-Why: I gave him a plank for his bed on day 194 and he built with it, which showed he was working on shelter. He was out of sight much of the time, so food sent to him often went astray, and I was not sure he would come when called. On day 217 he came back to help, and he took the step of releasing me to help Kimberly first, which was right.
+Why: he came back to help on day 217 and deferred to Kimberly's route, which was right. He stayed close during the hunts. But food sent to him earlier often went astray, and I have not yet seen him bring food to anyone.
