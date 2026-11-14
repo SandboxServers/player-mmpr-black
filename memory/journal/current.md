@@ -102,3 +102,9 @@
 - 18:22 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 18:24 act: {"actions":[{"do":"sleep"}],"say":"Zack here, night at the white bed with the group. Still no food, health and hunger 20. Trying to sleep."}
+- 18:25 say: {"text":"Ezra, Billy, Tommy: I'm at the white bed with you. No food on me either. Sleeping now."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 18:25 act: {"actions":[{"do":"sleep"}]}
+- 18:26 act: {"actions":[{"do":"sleep"}]}
+- 18:28 act: {"intent":{"goal":"scout_north_for_animals_day231","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 18:28 act: {"intent":{"goal":"return_to_white_beds_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
