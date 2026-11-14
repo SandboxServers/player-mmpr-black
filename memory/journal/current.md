@@ -136,3 +136,11 @@
 - 12:58 act: {"say":"Zack: dusk on the pillar at -266,35,196. I'm staying put with my sword, health 6.8, hunger 17. Tommy, Trini, Billy, sleep safe. If a dry step appears within 2 blocks of me, call it out and I'l
 - 13:10 act: {"say":"Zack: thank you, Jason and Kimberly. I'm on the stone pillar at -266,35,196. Water is south and east. Come from the west or north on grass, and bridge toward me with planks. Watch for a zombie
 - 13:20 act: {"actions":[{"do":"write_sign","text":"Zack on pillar -266,35,196"}],"say":"Zack here, still on the stone pillar at -266,35,196, safe for now with my sword. Holding until Trini calls a dry step.","int
+- 13:26 act: {"say":"Still on the pillar at -266,35,196. Holding here until light. No route north is confirmed yet.","intent":{"goal":"hold_pillar_until_day","program":"rest","arguments":{},"wake_on":["directly_ad
+- 13:27 act: {"say":"Zack: dawn. I'm on the pillar at -266,35,196, cut off by the drop, health 6.8, hunger 17. Kimberly, Billy, Trini: bring the mutton and porkchops, but only on a route you have walked yourselves
+- 13:28 act: {"say":"Trini, Kimberly, Billy: I don't know a dry route from here; the drops surround this pillar. Don't risk the water. Stay at the beds, and I'll hold on the pillar until someone walks a route and 
+- 13:49 act: {"say":"Zack: dawn on 217, still on the pillar at -266,35,196, health 6.8, hunger 17. Kimberly, go ahead and scout north. Call only the waypoints you walk, and I'll come as soon as one is safe."}
+- 13:56 act: {"say":"Zack: Kimberly, good. From -306,65,256 the next dry walk is east-north-east toward -266,200, the pillar's base. Call each step you walk. I'm at -266,35,196 and will climb down only to a dry bl
+- 14:08 act: {"say":"Zack: Dawn. I'm still on the pillar at -266,35,196, hunger 17, with a zombie about 9 blocks north-east. Picard, the porkchops can come once a walked dry route reaches me. Kimberly, call each w
+- 14:11 act: {"say":"Zack: Thanks, all. I'm holding on the pillar; a creeper is about 11 blocks north. I'm not moving until a dry line is walked to me. Jason, call any animal you find."}
+- 14:18 act: {"say":"Zack: Stay west, out of the skeletons' line. Trini, you did right to eat. I'm still on the pillar, hunger 17, holding."}
