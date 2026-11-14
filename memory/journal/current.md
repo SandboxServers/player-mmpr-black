@@ -152,3 +152,19 @@
 - 19:31 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":330}}],"intent":{"goal":"rejoin_camp_group","program":"travel","arguments":{"target":{"x":-285,"y":67,"z":330}},"wake_on":["goal_completed","unex
 - 19:32 say: {"text":"Zack back at the white beds, -286,67,330. Health 20, no items (lost them when I died). Riker, stay still out of the skeleton line. I'll go to any food call."}
 - 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"intent":{"goal":"sleep_at_camp_bed","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","direc
+- 19:49 act: {"intent":{"goal":"reach_salmon_pond_look_for_food","program":"travel","arguments":{"target":{"x":-291,"y":68,"z":290}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 19:49 act: {"actions":[{"do":"note","text":"Day 235 dawn: at salmon pond -291,68,290. Only water, no salmon. No food, health 20, hunger 20. Trini is on oak leaves at -297,292; Wesley went to bed. Holding by the 
+- 19:53 act: {"actions":[{"do":"note","text":"Day 235 midday: still at salmon pond edge, no fish, no food, hunger 20. Group spread out: Worf checking west shore, Billy and LaForge breaking grass for seeds. Staying
+- 20:01 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comple
+- 20:02 act: {"actions":[{"do":"sleep"}],"say":"Going to bed at the white bed. No food tonight; food first thing at dawn."}
+- 20:06 act: {"actions":[{"do":"sleep"}]}
+- 20:06 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 20:11 say: {"text":"Zack, dawn 236: no food, empty hands. I slept at the white bed by the crafting table. I'll scout the west shore with LaForge, in sight. Anything found goes to Riker first."}
+- 20:11 act: {"intent":{"goal":"scout_west_shore_for_food","program":"travel","arguments":{"target":{"x":-305,"y":68,"z":284}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comple
+- 20:13 say: {"text":"Billy, I have no salmon. My pack is empty. I never caught any at the pond. Keep looking for food; I'm holding at the west shore."}
+- 20:17 act: {"intent":{"goal":"scout_west_grass_with_group","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_
+- 20:18 act: {"intent":{"goal":"rest_at_beds_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Going to bed for the night at the white bed. No food yet; first light, Riker first."}
+- 20:30 say: {"text":"Morning. I'm going to look for food on the west grass. Anything found goes to Riker first."}
+- 20:30 act: {"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-315,"y":68,"z":290}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_compl
+- 20:31 act: {"intent":{"goal":"search_southwest_grass_for_food","program":"travel","arguments":{"target":{"x":-322,"y":68,"z":302}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
