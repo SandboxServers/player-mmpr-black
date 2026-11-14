@@ -73,3 +73,5 @@
 - 22:31 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
 - 22:31 act: {"say":"Geldar here, at -290,66,318 with Data, Billy and Riker. Still no food on me. I'll keep to the group and watch the west grass."}
 - 22:38 act: {"intent":{"goal":"return_to_white_beds_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
+- 22:43 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 243. No food, hunger 17. Trying to sleep; Trini first at light."}
+- 22:45 act: {"actions":[{"do":"sleep"}]}
