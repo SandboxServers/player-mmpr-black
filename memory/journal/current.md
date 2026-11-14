@@ -17,3 +17,20 @@
 - 08:19 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Billy, thanks. I'm at the bed, health and hunger full. I'll sleep as soon as it is night and hunt cows at first light.","intent":{"
 - 08:21 act: {"actions":[{"do":"write_sign","text":"Zack: at the white beds. Need wool. Food first."}],"say":"Night is here. I'm at the white bed with Tommy, Trini and Billy. Hunting cows at first light with Jason
 - 08:22 act: {"say":"Trini, Billy, I'm here by the white bed. First light we hunt for a cow or sheep, and I'll stay with the group.","intent":{"goal":"rest_for_dawn","program":"rest","arguments":{},"wake_on":["dir
+- 08:24 act: {"say":"Goodnight, Jason, Tommy, Kimberly. I'm with you. First light, we hunt together."}
+- 08:25 act: {"say":"Morning. Heading south to the cows and sheep near -293,64,177 with Tommy and Kimberly.","intent":{"goal":"hunt_cow_or_sheep","program":"travel","arguments":{"target":{"x":-293,"y":64,"z":200}}
+- 08:25 act: {"say":"Tommy, I'm holding here by the beds with Billy and Trini until full light. Then south with you.","intent":{"goal":"hold_until_light","program":"rest","arguments":{},"wake_on":["directly_addres
+- 08:29 act: {"say":"Morning all. Zack here, health and hunger full, a wooden sword, no food. I'm heading south-west for the cows at -295,64,205, staying off the north line. Billy, Tommy, come with me.","intent":{
+- 08:29 act: {"say":"Zack here, out at -294,205. The dropped items to the north are in the archer's line, so I'm not going there. Jason, Kimberly: I'm going to the sheep at -257,66,375 with you. Meeting point is t
+- 08:29 act: {"say":"Zack: my travel failed and I heard a bow drawn to the southeast. I'm holding at -290,209 for a moment. Billy, come to me. Trini, Jason, Kimberly: go slowly, and tell me when you move."}
+- 08:30 act: {"say":"Zack moving to meet you at -264,66,356 for the sheep. Wait for me there.","intent":{"goal":"join_group_at_sheep","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":356}},"wake_on":[
+- 08:30 act: {"say":"Zack heading to the group at -264,66,356 now. Jason, Kimberly, wait for me.","intent":{"goal":"reach_sheep_group","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":350}},"wake_on":
+- 08:31 act: {"say":"I'm here with the group, with a wooden sword. I'll go to the sheep with you, Jason. I'm staying south of the north line.","intent":{"goal":"follow_group_to_sheep","program":"follow","arguments
+- 08:31 act: {"intent":{"goal":"join_group_at_sheep","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":356}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 08:31 act: {"intent":{"goal":"reach_sheep_with_group","program":"travel","arguments":{"target":{"x":-258,"y":66,"z":372}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 08:31 act: {"say":"Scouting south-east with you, Tommy. I'll call out anything I see.","intent":{"goal":"scout_sheep_south_east","program":"travel","arguments":{"target":{"x":-254,"y":66,"z":378}},"wake_on":["di
+- 08:31 act: {"say":"I'm at -254,67,378 and see no sheep or animals here. Jason, Tommy, where are you? I'll wait here.","intent":{"goal":"hold_for_group","program":"rest","arguments":{},"wake_on":["directly_addres
+- 08:32 act: {"say":"Tommy, I'm coming to you at -252,67,380. No sheep seen here either.","intent":{"goal":"join_tommy","program":"travel","arguments":{"target":{"x":-252,"y":67,"z":380}},"wake_on":["directly_addr
+- 08:32 act: {"say":"I'm with Tommy at -252,67,381. Thunder is coming, so let's stay together and head back toward the beds if no sheep turn up."}
+- 08:33 act: {"say":"Coming back to Jason at -257,66,374 with Tommy.","intent":{"goal":"regroup_with_jason","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":374}},"wake_on":["directly_addressed","prec
+- 08:35 act: {"say":"Heading back to the yellow beds with you, Jason.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","
