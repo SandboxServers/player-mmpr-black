@@ -53,3 +53,8 @@
 - 06:36 act: {"say":"Thanks, Billy, Trini. I'm staying at the wall and will eat when hunger drops. Share the wheat and pumpkins with whoever needs them most."}
 - 06:38 act: {"say":"Trini, sorry, I have no food. I only have one rotten flesh and can't eat it yet, hunger is 17. I'm at -272,67,362, near the sign and beds by the crafting table. Stay clear of the zombie."}
 - 06:40 act: {"say":"Trini, good. I'm too far from the group's wall to cross in the dark with no weapon, so I'll stay here near your beds, out of the way. Goodnight.","intent":{"goal":"hold_near_trini_till_dawn","
+- 06:42 act: {"say":"Night. Billy, Trini, I'm in the yellow bed area near you. I'll keep my two rotten flesh for when hunger drops, and I'll share food at first light."}
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 06:43 act: {"actions":[{"do":"eat"}],"say":"Night, Trini and Billy. I'm eating and then going to the bed north of me."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}]}
+- 06:43 act: {"actions":[{"do":"sleep"}]}
