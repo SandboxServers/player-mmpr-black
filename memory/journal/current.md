@@ -61,3 +61,39 @@
 - 17:43 act: {"actions":[{"do":"sleep"}],"say":"Going to bed by the white bed. Food goes to Kimberly first at dawn.","reasoning":"Night, on the bed, health and hunger full, group nearby. Sleep now."}
 - 17:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Waited by the bed with the group near. Retry sleep once."}
 - 17:46 act: {"say":"Morning, I am Zack. It is night and I am beside the white bed too. I have no food yet, so if you find meat, tell me.","actions":[{"do":"sleep"}]}
+- 17:47 act: {"reasoning":"Night, bed under me, hunger 20, iron golem 11 south. Sleep here.","actions":[{"do":"sleep"}]}
+- 17:47 act: {"reasoning":"Sleep reported worked but still night, days_since_sleep 2. Wait and try again.","actions":[{"do":"note","text":"Night 228: slept at white bed; sleep said worked but still night. Hunger 2
+- 17:47 act: {"reasoning":"Golems no longer in view. Try the bed once more.","actions":[{"do":"sleep"}]}
+- 17:51 act: {"intent":{"goal":"join_group_search_west_grass","program":"travel","arguments":{"target":{"x":-292,"y":68,"z":312}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 17:52 act: {"reasoning":"With the group on west grass. No animals in sight. Hold here, watch, call out.","say":"Zack here on the west grass with Kimberly and Riker. Hunger 20, no food, sword in hand. Calling out
+- 17:56 act: {"reasoning":"An item lies one block north of me on the grass. Could be an apple. Step onto it to pick it up.","actions":[{"do":"goto","target":{"x":-292,"y":69,"z":312}}]}
+- 17:56 act: {"reasoning":"The item was gone; Kimberly holds the apples now. Nothing for me to pick up. Stay near the group and watch.","say":"Zack here. The item by the grass was not mine to take, and I have no f
+- 18:00 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 18:00 act: {"reasoning":"At the white bed. Golems within 6-14 blocks, dark. Try sleep now.","actions":[{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Sleep refused: monsters nearby. Golems at 5.6 and 10.7. Hold position by the bed with Billy and retry after a pause.","say":"Sleep was refused, monsters nearby. I'm staying by the white 
+- 18:00 act: {"reasoning":"Wait finished; retry sleep at the bed.","actions":[{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Previous sleep collided with the wait. Golem 9.5 south. Try sleep again now.","actions":[{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Sleep keeps reporting busy. Wait a short moment for the running action to clear, then sleep.","actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Sleep and wait both report busy from a stale intent. Replace it with a hold-at-bed intent, then sleep after.","intent":{"goal":"hold_at_white_bed_for_night","program":"rest","arguments":
+- 18:00 act: {"reasoning":"Four busy failures. Clear the stuck state with a plain step onto the bed, then sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Night has come. Sleep again now that the intent has cleared.","say":"Night. I'm on the white bed with Billy and Tommy near. Trying sleep again.","actions":[{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Sleep has failed 5 times as busy here. Change the place: the second white bed one block east.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:00 act: {"reasoning":"Sleep and moves report busy from a failed intent. Golems within 4-15 blocks. Note the state, then hold and let the busy state clear.","actions":[{"do":"note","text":"Night 229 at white b
+- 18:01 act: {"reasoning":"Something keeps reporting busy after each failed intent. Unstick clears a stuck state, then I try sleep once more at the bed.","actions":[{"do":"unstick"},{"do":"sleep"}]}
+- 18:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, all. Billy and Tommy, I'm at the white bed."}
+- 18:03 act: {"actions":[{"do":"sleep"}]}
+- 18:08 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Morning, Billy. Yes, let's go look for animals on the west grass. I'll call out anything I see."}
+- 18:08 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":312}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 18:08 act: {"intent":{"goal":"explore_west_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":68,"z":312}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 18:08 act: {"intent":{"goal":"explore_farther_west_for_animals","program":"travel","arguments":{"target":{"x":-326,"y":68,"z":312}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":
+- 18:08 act: {"intent":{"goal":"explore_west_for_animals","program":"travel","arguments":{"target":{"x":-322,"y":68,"z":314}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 18:08 act: {"intent":{"goal":"explore_northwest_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":68,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 18:09 act: {"say":"Troi, thanks. Tommy, I'm at the west edge with drops to the west and north. I'll look south-west next.","actions":[{"do":"note","text":"Dawn day 230: north-west search done, no animals. Hunger
+- 18:09 act: {"actions":[{"do":"note","text":"Reached -335,65,320 on the south-west grass. Still no animals. Billy holds at the west edge; Kimberly is searching west."}],"say":"Reached the south-west grass. No ani
+- 18:10 act: {"say":"Zack here at the south-west grass. Still no animals. Tommy, Jason, Trini, come to me and we'll spread out. I'll keep watching.","actions":[{"do":"note","text":"Morning day 230: still no animal
+- 18:10 act: {"say":"Good. Jason, Tommy, come on in. Spread out in a line to the west and call out anything you see. Trini, stay by the beds away from the golems.","actions":[{"do":"note","text":"Morning day 230: 
+- 18:11 act: {"say":"Still at the south-west grass, Jason. Tommy, I'll head west a little with you. No food here yet, sorry, bcrusher.","actions":[{"do":"note","text":"Day 230 morning: Jason, Tommy searching west.
+- 18:12 act: {"say":"Tommy, hold at the west line. Wesley, apples from leaves are worth a try; call me if you get one. Still no animals here.","actions":[{"do":"note","text":"Midday day 230: still no animals or ap
+- 18:16 act: {"say":"Zack, still at the south-west grass, hunger 20. Worf, you are weakest, so you get any apple after Kimberly. I'll stay here and watch the west.","actions":[{"do":"note","text":"Midday day 230: 
+- 18:16 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":334}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 18:16 act: {"actions":[{"do":"note","text":"Back at the white beds near -271,67,336. Still no food. Bow drawn to the east, so watch that side. Waiting for evening to sleep."}]}
