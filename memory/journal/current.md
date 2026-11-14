@@ -12,3 +12,16 @@
 - 20:58 act: {"say":"Zack: Agreed, Tommy. West at first light, together. I'm at the white beds with no weapon, and I'll sleep in a bed tonight."}
 - 21:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: Night. Going to the white bed to sleep. West at first light, with whoever is still awake."}
 - 21:03 act: {"actions":[{"do":"sleep"}],"say":"Zack here, night on 238, no food, no weapon. Trying the bed beside me now. Food to Trini first at light."}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night is dark and golems are near. I'm at the white bed with full health and hunger. Trying to sleep here."}
+- 21:04 act: {"actions":[{"do":"sleep"}]}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 21:05 act: {"actions":[{"do":"sleep"}],"say":"Still at the white beds with full health and hunger, no weapon. Trying to sleep again."}
+- 21:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 21:05 act: {"actions":[{"do":"sleep"}]}
+- 21:08 act: {"say":"Zack: dawn. No food, no weapon, health 20. Trini first for any mutton I find. I'm getting logs near the crafting table to make a wooden sword, then I'll join the sheep search north.","intent":
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":325}},{"do":"craft","item":"oak_planks","count":4}],"say":"Zack: a phantom is near me in the dark, and I have no weapon. Moving to the crafting t
+- 21:08 act: {"actions":[{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}]}
+- 21:09 act: {"say":"Zack: I have a wooden sword now. Heading north with anyone going to the sheep field. Any mutton goes to Trini first.","intent":{"goal":"walk_north_to_sheep_field","program":"travel","arguments
+- 21:09 act: {"say":"Zack here at dawn with a wooden sword, no food. Heading north toward the sheep field for mutton. Any mutton goes to Riker, then Trini.","intent":{"goal":"reach_sheep_field","program":"travel",
+- 21:09 act: {"intent":{"goal":"search_north_for_sheep","program":"travel","arguments":{"target":{"x":-277,"y":67,"z":240}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 21:10 act: {"say":"Zack: no animals yet at (-277,240). Going further north to look for the sheep field. Mutton goes to Riker, then Trini.","intent":{"goal":"search_further_north_for_sheep","program":"travel","ar
