@@ -1,4 +1,6 @@
 # Journal
+- 07:40 Day 197. Chicken spot east: no animals, no food. Heading west to cows near -262,67,244 with travel intent. Health 10.6, hunger 17.
+- 07:20 Day 197 waking. Hunger 17, no food, no weapon. Reached sheep field (-257,379): no animals. Now heading to chicken spot east (-229,68,404). Billy hunting sheep south with me.
 - 06:00 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":1}],"say":"Jason, I have one oak plank. Passing it to you for the bed.","reasoning":"Night, no bed. Jason needs one plank for hi
 - 06:00 act: {"actions":[],"say":"Jason, you have your bed now, so I'll keep my plank. Good night, all.","intent":{"goal":"keep_watch_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","une
 - 06:03 act: {"say":"Night. I'm with Billy by the shore. I'll stay near the group until light and look for food with them.","intent":{"goal":"hold_near_group_until_light","program":"follow","arguments":{"target":"
@@ -76,3 +78,12 @@
 - 07:09 act: {"actions":[{"do":"eat"}],"say":"Jason is out of my sight, so I could not give him the mutton. I ate one because my hunger was low, and I have one left for Tommy or Jason when they are in sight."}
 - 07:10 say: {"text":"Jason, I have no mutton left. I ate both before I could reach you, and I am sorry. Billy and I are both empty-handed. Tommy's beef is with Kimberly."}
 - 07:11 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 07:15 act: {"say":"Morning. I have no food, hunger 17. Billy, Trini, Tommy, Jason: I'll search the sheep field and chicken area for animals now, and share anything I catch.","intent":{"goal":"search_animals_for_
+- 07:15 act: {"intent":{"goal":"search_animals_for_food","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:16 act: {"say":"Trini, I'm right beside you. Billy and I will hunt the sheep to the south in daylight. Whoever finds meat, Jason and Tommy first.","intent":{"goal":"hunt_sheep_south_with_billy","program":"tra
+- 07:16 act: {"say":"I'm at the sheep field now and see no animals. I'll check the chicken spot to the east, near -229, 68, 404.","intent":{"goal":"hunt_chickens_east","program":"travel","arguments":{"target":{"x"
+- 07:16 act: {"intent":{"goal":"hunt_cows_west_for_food","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:17 act: {"intent":{"goal":"kill_cow_for_food","program":"travel","arguments":{"target":{"x":-248,"y":68,"z":244}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 07:17 act: {"intent":{"goal":"bring_beef_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":363}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 07:17 act: {"intent":{"goal":"bring_beef_to_beds_near_tommy","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 07:18 act: {"say":"Picard, I'm here at the beds. My beef was eaten by reflex when my hunger dropped, sorry. I have no food left. Trini has a cow 6 blocks north-west of her; she'll share."}
