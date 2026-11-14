@@ -100,3 +100,15 @@
 - 11:20 act: {"actions":[{"do":"wait","seconds":120}],"say":"Zack: night again, still on the pillar at -266,35,196, health 6.8, hunger 17. Zombie and creeper 5 north. Holding still. Tommy, come by daylight from th
 - 11:24 act: {"actions":[{"do":"wait","seconds":180}],"say":"Zack: morning. Still on the pillar at -266,35,196, health 6.8, hunger 17. I have 4 planks for Tommy's bridge if he comes close. Picard first for any mea
 - 11:28 act: {"actions":[{"do":"wait","seconds":180}],"say":"Zack: I can't reach the bridge end from the pillar, it's too far and the zombies are north. Tommy, if Jason or Kimberly is near you, they take the solid
+- 11:29 act: {"intent":{"goal":"hold_pillar_until_clear","program":"rest","arguments":{"reason":"dark, zombie and creeper 5 blocks north, hunger 17, no food to eat"},"wake_on":["directly_addressed","unexpected_dam
+- 11:29 act: {"intent":{"goal":"hold_pillar_until_clear","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 11:29 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 11:29 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}]}
+- 11:29 act: {"intent":{"goal":"hold_still_on_pillar","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations":4}}}
+- 11:30 act: {"actions":[{"do":"unstick"}]}
+- 11:30 act: {"say":"Zack: I'm stuck on the pillar at -266,35,196 and unstick finds no way out. I hold 4 planks and a table, no food. If anyone can reach me with dirt or planks, drop a block at the pillar's edge. 
+- 11:34 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}}],"say":"I'm on a one-block pillar at -266,35,196 with drops on every side. I have 4 planks and am laying one to the north
+- 11:35 act: {"intent":{"goal":"leave_pillar_north","program":"travel","arguments":{"target":{"x":-266,"y":35,"z":195}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":-266,"y":35,"z":195}}]}
+- 11:35 act: {"actions":[{"do":"unstick"}]}
+- 11:35 act: {"say":"I'm still on the pillar at -266,35,196. The plank north did not hold me, and unstick found no way out. Anyone near: please drop a dirt or plank block on the stone at the edge. Hunger 17."}
