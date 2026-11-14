@@ -1736,3 +1736,23 @@
 - 23:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":66,"z":368}}],"intent":{"goal":"reach_kimberly_sheep","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":368}},"wake_on":["d
 - 23:56 act: {"actions":[{"do":"goto","target":{"x":-330,"y":66,"z":360}}],"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":370}},"wake_on":["directly_addressed","u
 - 23:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 00:01 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"say":"I'm sealed in stone at night. I'm digging out with my pickaxe.","reasoning":"Enclosed in stone at night with no bed. Dig out ahead to 
+- 00:08 act: {"actions":[{"do":"mine","block":"cobblestone","count":3}],"reasoning":"Dawn now. I'm enclosed in my own pit. Dig out, then head to the yellow beds where friends are."}
+- 00:08 act: {"actions":[{"do":"unstick"}],"reasoning":"Mining changed nothing. The unstick verb tries ways out of a pit without blocks."}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"I'm out of the enclosure now. Go to the yellow beds to join friends for food."}
+- 00:08 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"A skeleton is two blocks south and shooting me. It is close, so I fight it rather than run in the open."}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":-397,"y":68,"z":337}},{"do":"attack","target":"skeleton"}],"reasoning":"Health is falling and the skeleton is closing from the west. Close the gap and strike, si
+- 00:09 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-398,"y":68,"z":334}}],"reasoning":"Health is 6.7 and the skeleton keeps hitting while my attacks fail. Wall mys
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-398,"y":68,"z":330}}],"say":"I'm nearly dead to a skeleton. Running north.","reasoning":"Health 2.7. Only option is to break line of sight and run north away fr
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"I died to a skeleton and lost my things. I'm empty-handed. Is anyone near with spare food or a sword?","reasoning":"I respawned wit
+- 00:09 act: {"actions":[],"say":"Thanks Tommy. I'll keep clear of the skeleton. I need a weapon and food. Could anyone spare a few planks or wheat to trade for work?","reasoning":"I am with friends at the beds, h
+- 00:09 act: {"actions":[],"say":"Tommy, yes please, bring the wheat to the beds at -263, 67, 353. I'm here with Jason and Kimberly.","reasoning":"Tommy offers wheat, and I have none. Ask him to bring it to the be
+- 00:10 act: {"actions":[],"say":"Thank you Kimberly, I'll wait here for the sword and Tommy's wheat. I'll stay near the beds.","reasoning":"Kimberly is giving me her sword and Tommy is bringing wheat. I stay put 
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":-260,"y":67,"z":353}}],"say":"Tommy, I'm stepping three blocks east to the open ground. Hand the wheat over from there, please.","reasoning":"The give keeps fail
+- 00:11 act: {"actions":[],"say":"Kimberly, Tommy, I'm at -262, 67, 353, right by the beds. Please hand me the sword and the wheat from here. I'll keep the beds clear.","reasoning":"Nothing has been handed over ye
+- 00:12 act: {"actions":[],"say":"Tommy, keep the wheat for now, we are hard to hand across. Thank you. I'll wait here and look for seeds or sheep nearby.","reasoning":"The handovers keep failing. I am healthy and
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":349}}],"say":"Tommy, I am three blocks north of the beds now. Please throw the wheat to me from there, if it's safe.","intent":{"goal":"await_whe
+- 00:18 act: {"actions":[],"say":"Kimberly, thank you. I'm standing here at the beds, and I'll wait for you to bring the sword."}
+- 00:19 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Kimberly, I'm two blocks north of the yellow beds, at the sign. Can you see me now?"}
+- 00:19 act: {"actions":[],"say":"Tommy and Kimberly, I'm right by the yellow bed now, and it's getting dark. Please hand over the wheat and the sword from where you stand."}
+- 00:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Tommy. I have the two wheat. I'm going to sleep in the yellow bed now. Kimberly, I'll get the sword in the morning."}
