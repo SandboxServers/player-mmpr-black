@@ -65,3 +65,14 @@
 - 06:50 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"rotten_flesh","count":2}],"say":"Tommy, here are my two rotten flesh. You can eat them once your hunger is 6 or below. I have no other food; I'll ke
 - 06:58 say: {"text":"Thank you, Tommy and Trini. My health is up to 5.7 from the porkchop. Jason, you are closest to starving, so I'll stay here near you both."}
 - 06:58 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"reasoning":"Sun is low and Tommy wants everyone at the sign before dark. Moving to the nearest yellow bed for the night, near Jason, whil
+- 06:59 say: {"text":"Jason, I have no food either, only dirt and leaf litter. I'm sorry. Dusk is coming, so stay near the beds and keep still."}
+- 07:04 act: {"say":"Thank you, Trini and Tommy. Jason first, then Picard. I'm at the white beds near -294,349, health 5.6, hunger 17.","intent":{"goal":"wait_for_food_share","program":"rest","arguments":{},"wake_
+- 07:04 act: {"say":"Trini, Jason first with the beef if you can find him, then Picard. I am at the white beds, -294,349, and have no food. Tommy, call out if you are near.","intent":{"goal":"wait_for_food_share",
+- 07:04 act: {"say":"Jason, I am coming to you at the yellow bed now. I have no food, but I will stay with you.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}}]}
+- 07:04 act: {"say":"Billy, good, share with Jason first. I am with Jason at the yellow bed. I have no food.","intent":{"goal":"wait_for_food_share","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 07:05 act: {"say":"Thank you, Billy and Jason. I will stay near the crafting table with Jason. Trini, beef for Tommy and me when you can.","actions":[{"do":"goto","target":{"x":-269,"y":67,"z":363}}]}
+- 07:08 act: {"say":"Morning. Billy, give the mutton to Jason first, he is the weakest. Then Tommy and me. Kimberly, the beef for Tommy and Picard."}
+- 07:09 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, I have the 2 mutton from Billy. Giving them to you now."}
+- 07:09 act: {"actions":[{"do":"eat"}],"say":"Jason is out of my sight, so I could not give him the mutton. I ate one because my hunger was low, and I have one left for Tommy or Jason when they are in sight."}
+- 07:10 say: {"text":"Jason, I have no mutton left. I ate both before I could reach you, and I am sorry. Billy and I are both empty-handed. Tommy's beef is with Kimberly."}
+- 07:11 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
