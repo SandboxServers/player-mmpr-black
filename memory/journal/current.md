@@ -1,4 +1,5 @@
 # Journal
+- 08:00 Day 197. Got beef from Trini's cow east of the wall; reflex-ate it on the way back at the beds (hunger was low). Health 20, hunger 17. Picard is beside me at the yellow beds. Trini hunting another cow NW. Still no food in my pack.
 - 07:40 Day 197. Chicken spot east: no animals, no food. Heading west to cows near -262,67,244 with travel intent. Health 10.6, hunger 17.
 - 07:20 Day 197 waking. Hunger 17, no food, no weapon. Reached sheep field (-257,379): no animals. Now heading to chicken spot east (-229,68,404). Billy hunting sheep south with me.
 - 06:00 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":1}],"say":"Jason, I have one oak plank. Passing it to you for the bed.","reasoning":"Night, no bed. Jason needs one plank for hi
@@ -87,3 +88,5 @@
 - 07:17 act: {"intent":{"goal":"bring_beef_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":363}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
 - 07:17 act: {"intent":{"goal":"bring_beef_to_beds_near_tommy","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
 - 07:18 act: {"say":"Picard, I'm here at the beds. My beef was eaten by reflex when my hunger dropped, sorry. I have no food left. Trini has a cow 6 blocks north-west of her; she'll share."}
+- 07:18 act: {"say":"Jason, I have no beef, sorry. It was eaten before I got back. Trini has 3 beef and is coming back to the beds. Trini, please give Jason the beef first, then Tommy and Picard."}
+- 07:19 act: {"say":"Trini, thanks. Jason first, then Tommy and Picard. I'm at the yellow bed by the stripped logs, with no food, waiting for dusk to pass."}
