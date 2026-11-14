@@ -1935,3 +1935,8 @@
 - 05:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm at the beds. I'll sleep in the bed here, and we meet at first light for the lake sheep."}
 - 05:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack at the beds. I have 2 pumpkin and 2 wheat for whoever is hungriest. Going to bed now; first light, we go to the
 - 05:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat","count":2},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":2}],"say":"Tommy, take my 2 wheat and 2 pumpkin for bread and food. Good 
+- 05:41 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat","count":2},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":2}],"say":"Tommy, Jason, Billy: I'm giving my 2 wheat and 2 pumpkin to To
+- 05:42 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat","count":2},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":2}],"say":"Tommy, here is the 2 wheat and 2 pumpkin. Jason and Billy, we 
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":357}},{"do":"give","to":"ag_tommy_01","item":"wheat","count":2},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":2}],"reasoning":"Backing
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":356}}],"say":"Tommy, Jason, Billy: I'm back at the beds with the 2 wheat and 2 pumpkin. Whoever is here first, come and take them.","reasoning":"
+- 05:42 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":2},{"do":"give","to":"ag_jason_01","item":"pumpkin","count":2}],"say":"Jason, here's the 2 wheat and 2 pumpkin. Share them with Billy
