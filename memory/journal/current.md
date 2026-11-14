@@ -1765,3 +1765,19 @@
 - 00:25 say: {"text":"Trini, yes, the food search is on. I have 2 wheat, and I'll head south-east toward the sheep once it is light."}
 - 00:26 say: {"text":"Kimberly, I'm at the beds. My 2 wheat are not edible for me, so you can have them if they help. Please bring the sword when you're here."}
 - 00:26 say: {"text":"Kimberly, keep the sword for now. I'm not chasing it. Good luck finding sheep."}
+- 00:28 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are my 2 wheat. I'm coming with you to look for sheep to the south-east once we're both ready."}
+- 00:28 act: {"intent":{"goal":"follow_trini_sheep_search","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":-260,"y":67,"z":356}},{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, I stepped back so I can hand you the wheat. Then we head south-eas
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":355}},{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, I'm coming to the yellow beds to hand you the wheat."}
+- 00:29 act: {"intent":{"goal":"join_sheep_search_se","program":"travel","arguments":{"x":-257,"y":66,"z":375},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400
+- 00:29 act: {"intent":{"goal":"join_sheep_search_se","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_
+- 00:30 act: {"intent":{"goal":"reach_tommy_sheep_group","program":"travel","arguments":{"target":{"x":-200,"y":66,"z":428}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wor
+- 00:30 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat","count":2}],"say":"Jason, you're right here and you have no food, so take my 2 wheat. Tommy, I'll come to the cow with you."}
+- 00:30 act: {"intent":{"goal":"reach_tommy_cow","program":"travel","arguments":{"target":{"x":-185,"y":67,"z":460}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks
+- 00:31 act: {"say":"Thanks, Jason. Tommy, give the beef to Kimberly first, she's the hungriest. I'll look for the sword on the ground near me."}
+- 00:36 act: {"actions":[{"do":"goto","target":{"x":-188,"y":67,"z":446}},{"do":"goto","target":{"x":-189,"y":67,"z":445}}],"intent":{"goal":"recover_wooden_sword","program":"travel","arguments":{"target":{"x":-18
+- 00:36 act: {"say":"Kimberly, are you fed now? Do you still need food? My wooden sword is somewhere on the ground near here, and I haven't found it yet.","intent":{"goal":"find_sword_and_check_food","program":"tr
+- 00:36 act: {"say":"Thanks, Kimberly. Jason, if you have my wooden sword, please bring it back to me when you're near. I'm at -189,67,446.","intent":{"goal":"wait_for_jason_sword","program":"rest","arguments":{},
+- 00:37 act: {"say":"Jason, I don't see the sword in my pack yet. Please give it to me again: wooden_sword, 1."}
+- 00:38 act: {"actions":[{"do":"goto","target":{"x":-192,"y":67,"z":446}}],"say":"Jason, I've stepped back about three blocks. Try the give from here, please."}
+- 00:42 act: {"say":"Goodnight, Jason. I'm staying where I am with my sword, out in the open. I'll wait for first light."}
