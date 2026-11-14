@@ -81,3 +81,8 @@
 - 22:48 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":332}}],"say":"Iron golem coming from the west. Moving east away from it, toward where the group went."}
 - 22:48 act: {"actions":[],"say":"Riker, I'm at -255,66,332, east of the beds, away from the golem. No fish yet. I'll hold here until the group moves."}
 - 22:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Zack heading back to the beds to join the group. Still no food; hunger 17."}
+- 22:55 act: {"say":"Geldar here at the beds, no food, hunger 17. I'll search the grass nearby for animals or seeds and give anything I find to Trini or Riker first.","intent":{"goal":"search_grass_for_food","prog
+- 22:55 act: {"say":"Zack: I have no food either. Trini, Data and Riker are weaker than I am, so I'll stay here at the beds and not wander. Trini, eat your chicken when you need it."}
+- 22:59 act: {"say":"Geldar: dusk, no food, hunger 17. Going to the white bed to try sleep with the group nearby.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 22:59 act: {"say":"Geldar: sleep refused, not night yet. Iron golems are closing in, so I'm stepping back toward the beds' edge, away from them.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":323}},{"do"
+- 23:00 act: {"say":"Geldar: it's getting dim. Trying the white bed again with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
