@@ -19,3 +19,5 @@
 - 16:30 act: {"actions":[{"do":"unstick"}],"say":"Zack here, stuck in a pit near -284,68,310. Getting out now. Still no food."}
 - 16:30 act: {"say":"Zack: free of the pit, at -287,69,310. No animals in the north-west grass. Dropping to the west and south. Heading back toward Kimberly at the white bed; I have no food to give.","intent":{"go
 - 16:30 act: {"say":"Zack here at the white beds with Kimberly, Tommy and Picard. No meat. I'll break the oak leaves nearby for apples; any apple goes to Kimberly first.","actions":[{"do":"mine","block":"oak_leave
+- 16:32 act: {"say":"Zack here, at the white beds near -275,65,318, health 20, hunger 20. I have no food, only a torch and 8 dirt. Any meat or bread goes to Kimberly first. I'll hold with the group and watch for a
+- 16:33 act: {"say":"Zack here, with Kimberly at the white beds. Trini, I'm with you on the dry grass scout. Still no food. Meat goes to Kimberly first."}
