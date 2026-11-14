@@ -5,3 +5,12 @@
 - 08:03 act: {"actions":[{"do":"goto","target":{"x":-330,"y":69,"z":260}}],"say":"Heading west now toward the cow spot. Meet you on the way, Tommy and Billy.","intent":{"goal":"reach_cow_spot_west","program":"trav
 - 08:07 act: {"actions":[{"do":"goto","target":{"x":-320,"y":64,"z":268}}],"say":"I'm in deep water, heading to the grass to the south-east, then I'll hold there till dawn."}
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":240}}],"say":"Zack here, out of the water on the grass. I'm coming to the group with a sword to help hunt. Trini and Jason, tell me if you need f
+- 08:14 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Zack here, full and with a sword. I'll follow Billy to the next cow and help with the hunt.","intent":{"goal":"help_group_hunt","program":"follow","a
+- 08:14 act: {"actions":[],"say":"Jason, I'm sorry. Billy has porkchops and I'll help with the next cow. I'm staying on the shore and won't go into the deep water after the items there."}
+- 08:15 act: {"actions":[],"say":"Billy, swim toward me, I'm on the grass at -300, 63, 240. I'll hit the drowned when it reaches the shore. Don't stay in the water."}
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-286,"y":65,"z":236}}],"say":"Billy, good that you're out. I'm going to the cow near -285, 65, 235 on the grass, away from the lake. Let's get meat for Trini and
+- 08:17 act: {"actions":[],"say":"I'm at -286, 65, 236 on the grass. No cow in sight here, only a donkey east at -263, 67, 234. Billy, where did you see the cow? I'll search north-east of here."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":242}}],"say":"Tommy, with you. I'm going east over the grass toward -274, 67, 242 to look for the cow. The water to the north-east is deep, so I'
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":293}}],"say":"No cow out here, and night is close. I'm heading to the white beds at -298, 68, 295 with Billy and Tommy. Let's regroup there and h
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}}],"say":"I'm at the beds. Tommy, take the one at -298, 68, 295 and I'll take -298, 68, 294. Billy, stay on the grass, away from the water to
+- 08:18 act: {"actions":[],"say":"Billy, I'm going to sleep in the bed at -298, 68, 294. Stay on the grass by the beds and wake me if anything comes. We hunt at first light. Tommy has the other bed."}
