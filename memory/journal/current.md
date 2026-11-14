@@ -8,3 +8,11 @@
 - 06:08 act: {"say":"Morning, all. I have no food either, only leather and wool. I'll search for animals with you, Jason. Let's go in one group."}
 - 06:08 act: {"say":"Morning. I'm with the group. Jason, lead us to the shore, and whoever finds food, we share it.","intent":{"goal":"follow_jason_to_shore","program":"follow","arguments":{"target":"ag_jason_01"}
 - 06:09 act: {"say":"Tommy, good. Pooling food is fair. Jason is out of my sight, so I'll wait here for the group to gather.","intent":{"goal":"wait_for_group_to_gather","program":"rest","arguments":{},"wake_on":[
+- 06:09 act: {"say":"Agreed, Jason. I'm heading to the sheep area near -257, 66, 375 now.","intent":{"goal":"travel_to_sheep_area","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["di
+- 06:09 say: {"text":"No sheep in sight here yet. I'll walk a short loop nearby and call out if I see any."}
+- 06:09 act: {"intent":{"goal":"search_near_sheep_field","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":382}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 06:10 act: {"actions":[{"do":"unstick"}]}
+- 06:10 say: {"text":"I got out of a pit. No sheep or animals nearby that I can see. Only trees around here. I'll stay near the field and keep watch."}
+- 06:10 Day 194. At the sheep field near -261,66,382 with Jason and Tommy. Found no sheep yet; got out of a pit with unstick. Hunger still 20, health 20. Next: keep watching for sheep and food with the group.
+- 06:14 act: {"say":"Good, Jason. I'm coming to the chicken at -229, 68, 404 to help and share.","intent":{"goal":"travel_to_chicken","program":"travel","arguments":{"target":{"x":-229,"y":68,"z":404}},"wake_on":[
+- 06:14 say: {"text":"Good work, Jason. Eat your fill, and if you find more chickens, I'll help look."}
