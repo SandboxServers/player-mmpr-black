@@ -86,3 +86,6 @@
 - 22:59 act: {"say":"Geldar: dusk, no food, hunger 17. Going to the white bed to try sleep with the group nearby.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 22:59 act: {"say":"Geldar: sleep refused, not night yet. Iron golems are closing in, so I'm stepping back toward the beds' edge, away from them.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":323}},{"do"
 - 23:00 act: {"say":"Geldar: it's getting dim. Trying the white bed again with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 244, no food, health 20. Trying sleep with the group. Trini first for any food."}
+- 23:03 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar: no food, hunger 17. Going to the white bed to try sleep again. Trini first for any food at dawn.","intent":{
