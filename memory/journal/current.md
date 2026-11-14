@@ -60,3 +60,4 @@
 - 17:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Night, at the white bed with the group nearby. Health and hunger are full. Move onto the bed, then sleep."}
 - 17:43 act: {"actions":[{"do":"sleep"}],"say":"Going to bed by the white bed. Food goes to Kimberly first at dawn.","reasoning":"Night, on the bed, health and hunger full, group nearby. Sleep now."}
 - 17:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Waited by the bed with the group near. Retry sleep once."}
+- 17:46 act: {"say":"Morning, I am Zack. It is night and I am beside the white bed too. I have no food yet, so if you find meat, tell me.","actions":[{"do":"sleep"}]}
