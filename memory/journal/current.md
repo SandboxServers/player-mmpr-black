@@ -1896,3 +1896,5 @@
 - 05:17 act: {"actions":[{"do":"goto","target":{"x":-349,"y":59,"z":270}},{"do":"attack","target":"salmon"}],"say":"There are salmon in the water here. I'm going after them for food."}
 - 05:19 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_shore_for_night","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_add
 - 05:19 act: {"actions":[{"do":"note","text":"Dusk. Heading to the old yellow bed for the night, with the others."}],"intent":{"goal":"reach_old_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y
+- 05:20 say: {"text":"Zack here. I have no food either, hunger 18. I'm at the white beds near (-270, 67, 336) for the night. Will look for food at first light, and I'll share what I find."}
+- 05:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
