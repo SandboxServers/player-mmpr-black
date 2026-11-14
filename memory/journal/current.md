@@ -1958,3 +1958,9 @@
 - 05:53 act: {"actions":[{"do":"goto","target":{"x":-350,"y":60,"z":270}},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}]}
 - 05:53 act: {"actions":[{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}],"reasoning":"Salmon are closing in. Goto failed because another action was still runn
 - 05:54 act: {"actions":[{"do":"unstick"}],"reasoning":"Still perched in deep water and the attacks queued as busy. Unstick to get out first, then try the salmon."}
+- 05:54 act: {"actions":[{"do":"wait","seconds":10},{"do":"attack","target":"salmon"}],"reasoning":"Prior actions reported busy. Pause briefly so the running action clears, then try a salmon attack once."}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":287}}],"reasoning":"Keeps perching in deep water and salmon drift off. Head back to the shore spot I reached before, where the ground is solid, t
+- 05:54 act: {"intent":{"goal":"shore_out_of_water","program":"travel","arguments":{"target":{"x":-325,"y":66,"z":287}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":-346,"y":60,"z":270}},{"do":"attack","target":"salmon"}],"reasoning":"Standing on dirt now and the action queue is free. Move west toward the nearest salmon and 
+- 05:54 act: {"say":"The salmon lake is at about x -345, y 60, z 270, past the shore at -325,66,287. I'm in the water and can't reach them yet. Come to the shore and I'll share any I get.","actions":[{"do":"attack
+- 05:54 act: {"actions":[{"do":"unstick"}],"reasoning":"Still perched in deep water with salmon out of reach. Unstick once more to get back to solid ground."}
