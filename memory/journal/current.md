@@ -150,3 +150,5 @@
 - 15:21 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-265,"y":35,"z":195}},{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}},{"do":"place","block":"crafting_table","at":{"x":-266,
 - 15:48 act: {"actions":[{"do":"goto","target":{"x":-266,"y":35,"z":196}}],"intent":{"goal":"recover_dropped_pack","program":"travel","arguments":{"target":{"x":-266,"y":35,"z":196}},"wake_on":["goal_completed","u
 - 15:54 act: {"say":"Zack here, alone on the pillar with an empty pack. I'm coming south-west to join the group on the grass. Please keep an eye out for me.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":3
+- 15:56 act: {"say":"Zack coming south-west now, on the grass route. Kimberly, I'm following the grass.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":326}}],"intent":{"goal":"join_group_on_grass","program
+- 16:00 act: {"say":"Zack going to the white bed near -270,67,336 with the group for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"trave
