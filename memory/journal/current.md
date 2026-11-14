@@ -41,3 +41,24 @@
 - 21:16 act: {"say":"Zack at -290,67,269: no animals here. I'll try a bit further north-west and call out anything I see.","intent":{"goal":"scout_further_northwest","program":"travel","arguments":{"target":{"x":-
 - 21:16 act: {"say":"Zack: Jason, if you get a salmon it goes to Trini first. I'll come to the shore to help, but I won't go into the water, since that is how I died last time.","intent":{"goal":"join_jason_at_sho
 - 21:16 act: {"say":"Zack at the shore edge, -300,66,256. Salmon is in the water to the north-west. I have no fishing rod and won't enter the water. Jason and Tommy, you have it: Trini first."}
+- 21:23 act: {"say":"Zack here at the shore, -300,66,256. Health 20, hunger 20, no food. Night has come, so I'm staying close to Tommy. Jason, if you find sheep or cows east, call the spot and I'll come.","intent"
+- 21:23 act: {"say":"Zack: phantoms are circling. I have a wooden sword. Tommy, stay beside me and hit anything that comes close. I'll strike back.","actions":[{"do":"wait","seconds":15}]}
+- 21:24 act: {"say":"Zack: Tommy, I can't see you now. I'll keep my sword for myself, but I'm sorry. Run to the group east and stay near them."}
+- 21:27 act: {"say":"Zack: I'm being shot at. Moving east toward the group at -274,67,289.","actions":[{"do":"goto","target":{"x":-274,"y":67,"z":289}}]}
+- 21:27 act: {"say":"Zack: a skeleton with a bow is shooting me from the north-east. I'm closing in to fight it with my sword.","actions":[{"do":"goto","target":{"x":-299,"y":64,"z":251}},{"do":"attack","target":"
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":-299,"y":65,"z":253}},{"do":"attack","target":"skeleton"}]}
+- 21:27 act: {"actions":[{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"}]}
+- 21:27 act: {"say":"Zack: health 4.7, skeleton and phantom on me. Running south-east out of its sight toward the group.","actions":[{"do":"goto","target":{"x":-280,"y":67,"z":285}}]}
+- 21:27 act: {"say":"Zack: health 0.7, no food. I'm moving away from the skeleton. If I die, I had no weapon or food to stop it.","actions":[{"do":"goto","target":{"x":-276,"y":67,"z":300}}]}
+- 21:29 act: {"say":"Zack: dawn, health 0.7, hunger 17, no food. Troi, thank you for coming. I'll stay next to you and head to the group at the white beds. Trini gets any food first.","intent":{"goal":"stay_with_t
+- 21:29 act: {"say":"Zack: Riker, I'm at 0.7 health with hunger 17. If Trini is not with you, I'll take the chicken. If she is, give it to her first.","intent":{"goal":"reach_riker_for_chicken","program":"travel",
+- 21:29 act: {"say":"Zack: I'm at the white beds with Trini, Worf, Billy and Laforge in reach. Riker, if the chicken is still with you, give it to Trini. I'm at 0.7 health and will wait for the next food. Anyone w
+- 21:30 act: {"say":"Zack: Trini, you get the chicken first; I'm not eating before you. A bow is being drawn to the south, so stay close to the beds with Troi and Billy."}
+- 21:30 act: {"say":"Zack: agreed, Trini first, then me. I'm staying at the white beds with Troi and Billy, sword in hand.","intent":{"goal":"hold_at_white_beds_with_group","program":"follow","arguments":{"target"
+- 21:31 act: {"say":"Zack: Riker, Trini is right here next to me at the white beds. Give the chicken to her now. I'll take the next food."}
+- 21:32 act: {"say":"Zack: good, the chicken went to Data, who is weakest. Trini gets the next food, then me. I'll stay with the group and keep my sword ready."}
+- 21:35 act: {"say":"Zack: good, Trini eats the chicken from Jason. I'm still at the beds with no food, so I'll keep watch and take whatever comes next."}
+- 21:38 say: {"text":"Zack: Trini, eat your rotten flesh when your hunger hits 6, don't wait longer. I have no food. Anything found goes to you first, then Data."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"x":-270,"y":67,"z":319},"wake_on":["directly_addressed","unexpecte
+- 21:50 act: {"say":"Zack: dawn of day 241. Trini has the chicken, good. I have no food, hunger 17. I'll scout the grass near the beds in sight of the group and call out any animal."}
+- 21:58 say: {"text":"Zack: still no food here, hunger 17. I'll stay by the beds with my sword and watch the grass. Any cow, sheep or chicken, call it out."}
