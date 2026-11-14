@@ -1933,3 +1933,5 @@
 - 05:37 act: {"say":"Heading to the beds at (-262,66,356) to join Jason, Tommy and Billy for the night. Salmon in the lake is a good food plan for the morning, and sheep at first light.","intent":{"goal":"reach_be
 - 05:37 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":66,"z":356}}],"say":"My travel failed, so I'm getting free and heading for the beds again."}
 - 05:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"I'm at the beds. I'll sleep in the bed here, and we meet at first light for the lake sheep."}
+- 05:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack at the beds. I have 2 pumpkin and 2 wheat for whoever is hungriest. Going to bed now; first light, we go to the
+- 05:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat","count":2},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":2}],"say":"Tommy, take my 2 wheat and 2 pumpkin for bread and food. Good 
