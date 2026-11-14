@@ -1757,3 +1757,4 @@
 - 00:19 act: {"actions":[],"say":"Tommy and Kimberly, I'm right by the yellow bed now, and it's getting dark. Please hand over the wheat and the sword from where you stand."}
 - 00:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Tommy. I have the two wheat. I'm going to sleep in the yellow bed now. Kimberly, I'll get the sword in the morning."}
 - 00:20 act: {"say":"Night is here. I'll sleep in the yellow bed beside Tommy.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Back at the beds. Going to sleep for the night with my two wheat.","reasoning":"Night, beds here, health and hunger 
