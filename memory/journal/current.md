@@ -21,3 +21,8 @@
 - 16:30 act: {"say":"Zack here at the white beds with Kimberly, Tommy and Picard. No meat. I'll break the oak leaves nearby for apples; any apple goes to Kimberly first.","actions":[{"do":"mine","block":"oak_leave
 - 16:32 act: {"say":"Zack here, at the white beds near -275,65,318, health 20, hunger 20. I have no food, only a torch and 8 dirt. Any meat or bread goes to Kimberly first. I'll hold with the group and watch for a
 - 16:33 act: {"say":"Zack here, with Kimberly at the white beds. Trini, I'm with you on the dry grass scout. Still no food. Meat goes to Kimberly first."}
+- 16:35 act: {"intent":{"goal":"gather_oak_log_for_sword","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 16:37 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2},{"do":"goto","target":{"x":-273,"y":63,"z":317}},{"do":"craft","item":"wooden_sword","count":1}],"say":
+- 16:37 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Zack here: wooden sword made. Going to the white bed with the group for the night. Still no food; meat goes to Kimbe
+- 16:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":63,"z":317}}],"say":"Zack: an iron golem is closing in from the west, so I'm backing north to the beds, away from it. Still no food."}
+- 16:41 act: {"actions":[{"do":"sleep"}],"say":"Zack: night at the beds. Hunger 20, health 20, still no food. Kimberly gets any meat first at dawn."}
