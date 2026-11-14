@@ -26,3 +26,30 @@
 - 06:23 act: {"actions":[{"do":"attack","target":"zombie"}]}
 - 06:23 act: {"say":"Health 7. I'm hitting the zombie now.","actions":[{"do":"attack","target":"zombie"}]}
 - 06:23 act: {"say":"Health 4. Still fighting the zombie.","actions":[{"do":"attack","target":"zombie"}]}
+- 06:23 act: {"intent":{"goal":"wait_out_night_at_spawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":8}}}
+- 06:24 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":359}}],"say":"Zombie behind me. I'm moving to stand by the iron golem; I have no weapon.","intent":{"goal":"stand_by_iron_golem","program":"rest"
+- 06:24 act: {"intent":{"goal":"wait_for_dawn_near_golem","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":8}},"reasoning
+- 06:24 act: {"say":"Jason, I'm Zack, at -266,66,359, no weapon and no items after a death. Can I stand inside your wall?","intent":{"goal":"wait_for_dawn_near_group","program":"rest","arguments":{},"wake_on":["di
+- 06:24 act: {"say":"Billy, understood. I'm standing still at -266,66,359 and will keep away from the zombie. At first light I'll fetch my items and come find you.","intent":{"goal":"wait_for_dawn_still","program"
+- 06:25 act: {"say":"Jason, I can't see your wall from here. Where is it? Give me a coordinate and I'll come stand on its west side.","intent":{"goal":"wait_for_dawn_still","program":"rest","arguments":{},"wake_on
+- 06:25 act: {"say":"Jason, thanks. It's too far to cross in the dark with no weapon. I'll stay here until first light, then come to your west side.","intent":{"goal":"wait_for_dawn_still","program":"rest","argume
+- 06:29 act: {"say":"Morning. I died last night and my things lie at -264,67,371. I'm going there now to get them, then I'll share the mutton with Billy.","intent":{"goal":"fetch_dropped_items","program":"travel",
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":371}},{"do":"goto","target":{"x":-262,"y":67,"z":372}},{"do":"goto","target":{"x":-263,"y":67,"z":370}},{"do":"goto","target":{"x":-265,"y":67,"z
+- 06:30 act: {"say":"Billy, my dropped items are gone from the ground here, and my pack is empty. I have no mutton. Sorry. Let's go to the group and see what food there is.","intent":{"goal":"join_group_at_sheep_f
+- 06:30 act: {"say":"Morning, Jason, Billy. I'm heading to the sheep field now with no food and no weapon. I'll look for animals with you.","intent":{"goal":"join_group_at_sheep_field","program":"travel","argument
+- 06:30 act: {"say":"I'm at the sheep field now. No animals in sight. Jason, Trini, Billy, where are you? I'll look toward the chicken spot next.","intent":{"goal":"search_chickens_with_group","program":"travel","
+- 06:30 act: {"say":"I'm at Trini's wall now, with Billy beside me. I have no food, only one rotten flesh. Let's search together from here; Tommy, if you're sharing, Billy gets the first share.","intent":{"goal":"
+- 06:30 act: {"say":"Kimberly, I'm coming to Trini's wall now. Let's search for food together from there.","actions":[{"do":"goto","target":{"x":-229,"y":68,"z":403}}]}
+- 06:31 act: {"say":"Kimberly, I'll search east with you for chickens or sheep. I'll share anything I find.","intent":{"goal":"search_east_for_chickens","program":"travel","arguments":{"target":{"x":-218,"y":68,"z
+- 06:31 act: {"intent":{"goal":"search_southeast_for_animals","program":"travel","arguments":{"target":{"x":-205,"y":68,"z":420}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 06:31 act: {"say":"There is an item on the ground right at my feet. I'm checking what it is and will share it if it's food.","actions":[{"do":"goto","target":{"x":-205,"y":69,"z":420}},{"do":"unstick"}]}
+- 06:31 act: {"say":"The item at my feet was only a dirt block. I have no food. Jason, watch the drops to the southeast. I'll hold here and head back toward Trini's wall.","intent":{"goal":"return_toward_group_wal
+- 06:35 act: {"say":"I'm badly hurt, health under one. Something exploded and hit me. Billy, Jason, Kimberly, I'm moving into the group at the wall now.","actions":[{"do":"eat"},{"do":"goto","target":{"x":-227,"y"
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":403}}]}
+- Dusk, day 195. Reflex retreat moved me to -272,67,362 near Trini's beds. Trini burned and died, then came back to the spawn with nothing; she has no food. Hunger still 17, health 2.5 steady, no weapon. Staying near her till dawn rather than crossing the dark to the group wall.
+- 06:36 Health 2.5 and rising at the wall, hunger 17, so eat must wait. Standing with Billy, Jason, Trini; holding until hunger 6 or below, then eating the rotten flesh.
+- 06:35 act: {"say":"I'm with you at the wall. Health is 2.5 and falling, hunger 17, so I can't eat the rotten flesh yet. Please keep watch with me; I'll stand here.","intent":{"goal":"stand_with_group_at_wall","p
+- 06:35 act: {"intent":{"goal":"stand_with_group_at_wall","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operation
+- 06:36 act: {"say":"Thanks, Billy, Trini. I'm staying at the wall and will eat when hunger drops. Share the wheat and pumpkins with whoever needs them most."}
+- 06:38 act: {"say":"Trini, sorry, I have no food. I only have one rotten flesh and can't eat it yet, hunger is 17. I'm at -272,67,362, near the sign and beds by the crafting table. Stay clear of the zombie."}
+- 06:40 act: {"say":"Trini, good. I'm too far from the group's wall to cross in the dark with no weapon, so I'll stay here near your beds, out of the way. Goodnight.","intent":{"goal":"hold_near_trini_till_dawn","
