@@ -106,3 +106,4 @@
 - 23:23 act: {"actions":[{"do":"sleep"}]}
 - 23:24 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the bed, night of day 245, hunger 16, health 0.67, no food. Trying to sleep now. Food first at light."}
 - 23:25 act: {"say":"Night is here, and I am beside the white beds. Sleeping now.","actions":[{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"say":"Geldar at the white bed, night of day 245. No food, hunger 16, health 0.67. Trying sleep again with the group nearby; Trini first at light
