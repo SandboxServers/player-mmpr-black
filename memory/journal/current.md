@@ -1,4 +1,7 @@
 # Journal
+- day191 dusk: found salmon in the lake at (-350,59,270) but could not reach them; got pulled into deep water, got out. Reached the old bed at dusk with Tommy and Billy. Hunger 18.
+- day191 afternoon: at (-300,68,300). Group is planting wheat at the old farm by the water. Iron golem seen NE near (-241,68,347); keeping clear. Hunger 18. Heading north-west for animals.
+- day191 midday: hunger 18, no food in pack. Made a crafting table, gave 2 wheat to Tommy, searched west and north of the old farm for animals. None seen yet. Next: keep searching, then food with the group.
 - 17:40 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operat
 - 17:41 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":12},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_
 - 17:44 act: {"say":"Spiders are on me at night. Stopping the birch gather until it's clear."}
@@ -1880,3 +1883,16 @@
 - 02:09 act: {"actions":[],"say":"Tommy, I'm here at -299,66,327, right beside you. Please give me the beef. I'm starving."}
 - 02:09 act: {"actions":[{"do":"eat"}],"say":"Thank you Tommy, eating now. Billy, I'll come to the pig with Kimberly."}
 - 02:09 act: {"actions":[],"intent":{"goal":"reach_billys_pig","program":"travel","arguments":{"target":{"x":-249,"y":68,"z":460}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,
+- 05:13 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"reasoning":"Hunger 19, no edible food in pack, 15 days since sleep. Oak planks in pack suffice for a crafting table; a base spot helps. T
+- 05:13 act: {"actions":[{"do":"wait","seconds":60}],"say":"I have a crafting table now. I am hungry and looking for food and animals nearby."}
+- 05:14 act: {"intent":{"goal":"join_old_farm","program":"travel","arguments":{"x":-250,"y":68,"z":355},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max_b
+- 05:14 act: {"intent":{"goal":"join_old_farm","program":"travel","arguments":{"target":{"x":-250,"y":68,"z":355}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 05:14 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat","count":2}],"say":"Zack here at the old farm. I have no food, just 2 wheat and 2 pumpkins. Tommy, I gave you my 2 wheat for the farm. I can d
+- 05:15 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, I'll put my 2 wheat in your chest-free hands when we are not so close. Does anyone know where animals or berries are?"}
+- 05:15 act: {"intent":{"goal":"search_food_west","program":"travel","arguments":{"target":{"x":-280,"y":68,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 05:15 act: {"intent":{"goal":"search_food_far_west","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":340}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 05:15 act: {"intent":{"goal":"search_food_north","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 05:16 act: {"actions":[{"do":"note","text":"Searching north-west for animals; others cover south, south-east and north."}],"intent":{"goal":"search_northwest_food","program":"travel","arguments":{"target":{"x":-
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":-349,"y":59,"z":270}},{"do":"attack","target":"salmon"}],"say":"There are salmon in the water here. I'm going after them for food."}
+- 05:19 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_shore_for_night","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_add
+- 05:19 act: {"actions":[{"do":"note","text":"Dusk. Heading to the old yellow bed for the night, with the others."}],"intent":{"goal":"reach_old_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y
