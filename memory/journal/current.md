@@ -91,3 +91,16 @@
 - 23:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar: no food, hunger 17. Going to the white bed to try sleep again. Trini first for any food at dawn.","intent":{
 - 23:05 act: {"say":"Tommy, I'm at the white bed with the group. I'm going to sleep here for the night.","actions":[{"do":"sleep"}]}
 - 23:06 act: {"actions":[{"do":"sleep"}]}
+- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Trying the white bed again with the group. No food yet; first light, food hunt."}
+- Night 244: sleep worked at the white bed (-263,67,353) with the group near. Hunger 17, health 0.67 steady, no food. Plan: food hunt at first light, Trini first.
+- Day 245 morning: scouted east grass (-241,350) and south-east (-223,369). No animals, only oak and birch logs. Hunger 17, health 0.67.
+- Day 245 midday: scouted south (-230,395) and back. Broke oak leaves: got one oak sapling, no apples. Worf says salmon are across the west lake. Sleep refused at the bed (not night yet); waiting at the bed for dusk.
+- 23:11 act: {"intent":{"goal":"scout_east_grass_for_food","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 23:11 act: {"intent":{"goal":"scout_southeast_grass_for_food","program":"travel","arguments":{"target":{"x":-222,"y":67,"z":368}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 23:12 act: {"intent":{"goal":"scout_south_grass_for_food","program":"travel","arguments":{"target":{"x":-230,"y":67,"z":395}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 23:12 act: {"actions":[{"do":"mine","block":"oak_leaves","count":8}],"say":"Geldar: no animals here either. I'll break some oak leaves in case they drop apples."}
+- 23:12 act: {"intent":{"goal":"return_to_white_beds_with_group","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Geldar: dusk, day 245. No food found east or south. Going to the white bed with the group. Hunger 16."}
+- 23:21 act: {"actions":[{"do":"sleep"}]}
+- 23:21 act: {"actions":[{"do":"wait","seconds":30}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 23:23 act: {"actions":[{"do":"sleep"}]}
