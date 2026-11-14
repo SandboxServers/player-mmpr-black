@@ -146,3 +146,5 @@
 - 14:18 act: {"say":"Zack: Stay west, out of the skeletons' line. Trini, you did right to eat. I'm still on the pillar, hunger 17, holding."}
 - 15:03 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack: Night. I'm still on the pillar at -266,35,196, health 6.8, hunger 17. Holding until a walked dry route reaches me. Good luck at first light, all.","
 - 15:11 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack: Morning. Still on the pillar at -266,35,196, health 6.8, hunger 17, no food. Billy, Tommy, Picard: if you find a cow or pig on the west grass, call 
+- 15:21 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-266,"y":36,"z":196}},{"do":"place","block":"crafting_table","at":{"x":-265,"y":35,"z":196}}],"say":"Zack: Something is shooting me in the dark
+- 15:21 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-265,"y":35,"z":195}},{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}},{"do":"place","block":"crafting_table","at":{"x":-266,
