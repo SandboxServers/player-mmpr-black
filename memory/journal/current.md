@@ -11,3 +11,4 @@
 - 20:57 act: {"actions":[{"do":"goto","target":{"x":-282,"y":66,"z":337}}],"say":"Zack: It's getting dark and I have no weapon, so I'm going back to the white beds with you, Billy. We can try the west grass at fir
 - 20:58 act: {"say":"Zack: Agreed, Tommy. West at first light, together. I'm at the white beds with no weapon, and I'll sleep in a bed tonight."}
 - 21:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: Night. Going to the white bed to sleep. West at first light, with whoever is still awake."}
+- 21:03 act: {"actions":[{"do":"sleep"}],"say":"Zack here, night on 238, no food, no weapon. Trying the bed beside me now. Food to Trini first at light."}
