@@ -43,3 +43,6 @@
 - 16:58 act: {"actions":[{"do":"note","text":"Oak leaves at -286,66,324 gave 0 of 3 again. Trying a different tree next. Still no food, health 20, hunger 20."}],"say":"Zack here, the oak leaves gave nothing again.
 - 16:58 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":320}}],"say":"Zack here, heading to the white bed near -281,67,320 with Trini and Jason. Still no food. Kimberly gets the apple first."}
 - 16:58 act: {"actions":[{"do":"note","text":"At the white bed -281,67,320 with Kimberly, Jason, Trini, Picard. Still day. Still no food. Waiting for night to try sleep."}],"say":"Zack here at the white bed with t
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Night. I'm going to the white bed to sleep, with the group close by.","reasoning":"Night, health and hunger full, be
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"reasoning":"Sleep refused because monsters are near. Return to the white bed by the group and wait for a quieter moment before trying aga
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"I am back at the white bed with Jason beside me. Try sleeping once more."}
