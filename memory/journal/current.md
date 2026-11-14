@@ -1964,3 +1964,13 @@
 - 05:54 act: {"actions":[{"do":"goto","target":{"x":-346,"y":60,"z":270}},{"do":"attack","target":"salmon"}],"reasoning":"Standing on dirt now and the action queue is free. Move west toward the nearest salmon and 
 - 05:54 act: {"say":"The salmon lake is at about x -345, y 60, z 270, past the shore at -325,66,287. I'm in the water and can't reach them yet. Come to the shore and I'll share any I get.","actions":[{"do":"attack
 - 05:54 act: {"actions":[{"do":"unstick"}],"reasoning":"Still perched in deep water with salmon out of reach. Unstick once more to get back to solid ground."}
+- 05:55 act: {"actions":[{"do":"unstick"}],"reasoning":"Previous unstick was rejected as busy. The intent has finished, so the queue should be clear. Try once more to get out of deep water toward shore."}
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":287}}],"reasoning":"Drifted to sand at (-316,61,264) in water. Solid shore is to the south at -325,66,287. One goto to get out of the deep water 
+- 05:55 act: {"actions":[],"say":"I'm out of the deep water now, standing on grass at the south shore near Billy. I still have no food. Anyone with a fish or bread, please say."}
+- 05:56 act: {"actions":[],"say":"Billy, I'm here, but I have no fish yet. I got stuck in the water and I have no rod either. I'll share the first salmon I catch with you."}
+- 05:57 act: {"actions":[],"say":"Thanks Trini. The salmon are out past the deep water, so I'll wait here on the shore and go for one only when one swims close to the edge. I'll share."}
+- 05:58 act: {"actions":[],"say":"Jason, welcome. No fish has come near the shore yet. Evening is coming, so I'll keep watch here with you all. I'll share my first salmon with everyone."}
+- 05:59 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"white_wool","count":3}],"say":"Jason, I'm giving you 3 wool for your bed. I'm keeping one for now. Night is here, so let's stay together on the shor
+- 05:59 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"white_wool","count":3}],"say":"Jason, the wool did not reach you. I'm trying once more now that you're close."}
+- 05:59 act: {"actions":[],"say":"Jason got the wool. Something close set off my reflex to dig in, so I'm staying near the group. Watch out for threats in the dark."}
+- 05:59 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":2}],"say":"Jason, I only have 2 oak planks, so here they are. You'll need one more from someone else for the bed."}
