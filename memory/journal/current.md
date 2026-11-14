@@ -34,3 +34,19 @@
 - 08:32 act: {"say":"I'm with Tommy at -252,67,381. Thunder is coming, so let's stay together and head back toward the beds if no sheep turn up."}
 - 08:33 act: {"say":"Coming back to Jason at -257,66,374 with Tommy.","intent":{"goal":"regroup_with_jason","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":374}},"wake_on":["directly_addressed","prec
 - 08:35 act: {"say":"Heading back to the yellow beds with you, Jason.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Dusk. I'm at the yellow beds with the group. Staying close tonight.","reasoning":"Night is coming. Sleep in a bed with the group, p
+- 08:39 act: {"actions":[{"do":"write_sign","text":"Zack: at the yellow beds"}],"reasoning":"Nothing to add. I hold no sign, so this will fail; drop it and wait instead."}
+- 08:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, sheltered enough with the group. Use the second yellow bed, leaving the first to Tommy."}
+- 08:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Sleep failed on timeout after I drifted. Return to the bed and try once more."}
+- 08:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Morning. I'm not going east. Skeletons killed Jason. I'm heading back to the yellow beds to meet up with the group.","reasoning":"S
+- 08:49 act: {"actions":[],"say":"I'm at the yellow beds, health 20, hunger 20, but I have no food. I'll look for sheep to the south for wool and food, close to the beds, and report back.","reasoning":"Full health
+- 08:49 act: {"actions":[],"say":"Trini, Tommy, I have no food either. I'm staying at the beds. If I find sheep to the south I'll call out where.","reasoning":"No food for anyone yet. Hold at the beds and tell the
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":310}}],"say":"Tommy, I'll head south with you toward the sheep and chickens near z 200. I'll call out anything closer.","reasoning":"No food here
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":260}}],"reasoning":"Continue south in short steps toward z 200 where sheep and chickens were seen."}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-296,"y":66,"z":200}}],"say":"Tommy, I'm at -262,260 and heading to you by the water. Sheep hunt with you and Kimberly.","reasoning":"Tommy is by the water at -2
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":245}}],"reasoning":"Skeletons to the north-west are shooting. Pull back east and north away from their line of fire."}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":300}}],"say":"Skeletons are at -286,229 and -292,224, shooting. Kimberly, Tommy, keep away from there. I'm pulling back north to heal.","reasonin
+- 08:52 act: {"actions":[],"say":"I'm holding at -262,300, healing (health 12.8). The south route past -286,229 is skeleton ground, so I won't go that way until it's clear. Tommy, if you can reach sheep by another
+- 08:53 act: {"actions":[],"say":"Tommy, good find on the pig. Share the meat with Jason and Billy first. I'm holding at -262,300, hunger 17, health steady.","reasoning":"Tommy found a pig to the west. Let him tak
+- 08:54 act: {"actions":[],"say":"Billy, I'll go with you to the cow at -285,235, but only if the skeletons at -286,229 have moved off. I'm at -262,300 and will call before I move in.","reasoning":"A cow is close 
+- 08:58 act: {"say":"Picard, I have no food either, only wheat seeds. I'm still at -262,68,300 healing and I will not go into the skeleton ground. Kimberly, keep the egg for Jason, Billy and Picard.","intent":{"go
