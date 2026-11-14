@@ -1947,3 +1947,11 @@
 - 05:46 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
 - 05:47 act: {"actions":[{"do":"sleep"}]}
 - 05:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:48 say: {"text":"Zack here, at the beds. I have no food left, only wool, leather and planks. Hunger is 20 now. Let's go to the lake sheep together at first light."}
+- 05:50 act: {"say":"Going to the lake now with Billy and Jason. Trini, Tommy, follow when you can.","intent":{"goal":"reach_lake_sheep","program":"travel","arguments":{"x":-300,"y":66,"z":290},"wake_on":["goal_co
+- 05:50 act: {"say":"Going to the lake now with Billy and Jason. Trini, Tommy, follow when you can.","intent":{"goal":"reach_lake_sheep","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":290}},"wake_on
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}}]}
+- 05:50 act: {"intent":{"goal":"reach_lake_shore","program":"travel","arguments":{"target":{"x":-340,"y":62,"z":275}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":287}}],"say":"Heading to the lake now. Drops to the west, so going carefully. Jason, Tommy, Billy, Trini, come along.","intent":{"goal":"reach_la
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-335,"y":62,"z":280}}],"intent":{"goal":"reach_lake_shore","program":"travel","arguments":{"target":{"x":-340,"y":62,"z":275}},"wake_on":["goal_completed","unexp
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-345,"y":58,"z":271}},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}],"say":"Salmon here in the lake. Goin
