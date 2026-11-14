@@ -14,3 +14,8 @@
 - 16:16 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}],"say":"I'm free now. Heading to Trini's spot at -292,66,330 to rejoin the group, away from the golems."}
 - 16:16 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":330}}],"say":"Zack here, back with the group at -292,66,331. Still no food and no animals seen. I'll wait near the beds and call out any cow, pig
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"say":"Dusk. Going to the white bed at -282,67,320 with the group for the night. Still no food; first light I scout again."}
+- 16:21 act: {"say":"Zack here, awake at the white bed with the group, hunger 20, health 20, no food. Holding here through the night. First light I scout for animals; any meat goes to Kimberly first.","intent":{"g
+- 16:30 act: {"say":"Zack here, morning, day 225. Hunger 20, no food. I'm scouting north-west of the beds for cow, pig or sheep. Any meat goes to Kimberly first.","intent":{"goal":"scout_north_west_for_animals","p
+- 16:30 act: {"actions":[{"do":"unstick"}],"say":"Zack here, stuck in a pit near -284,68,310. Getting out now. Still no food."}
+- 16:30 act: {"say":"Zack: free of the pit, at -287,69,310. No animals in the north-west grass. Dropping to the west and south. Heading back toward Kimberly at the white bed; I have no food to give.","intent":{"go
+- 16:30 act: {"say":"Zack here at the white beds with Kimberly, Tommy and Picard. No meat. I'll break the oak leaves nearby for apples; any apple goes to Kimberly first.","actions":[{"do":"mine","block":"oak_leave
