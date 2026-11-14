@@ -130,3 +130,9 @@
 - 12:51 say: {"text":"Tommy, thanks. Water lies south and south-west of me. I can't see dry ground that touches my pillar. Try the east side, past the drop, and drop planks on the stone near -264,35,196 if you can
 - 12:52 say: {"text":"Tommy, I'm about 30 blocks below you on the pillar. No dry step on my east side. Best try: drop planks onto the stone at the pillar's edge if you can reach it, or build a short plank tower fr
 - 12:53 say: {"text":"Kimberly, keep the porkchop for whoever can reach me or is hungrier. Tommy, hold the planks; I'll say if a route opens. I'm stable, health 6.8, hunger 17."}
+- 12:56 act: {"say":"Zack here, on the stone pillar at -266,35,196. Health 6.8, hunger 17. I have 2 planks and a crafting table, no dry step. Tommy, if you can reach a block edge within 2 of my pillar, drop planks
+- 12:56 act: {"intent":{"goal":"await_dry_route","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8
+- 12:57 act: {"say":"Zack: thanks all. Still on the pillar at -266,35,196, health steady, hunger 17. Tommy, keep the planks. Trini, the mutton goes to whoever can reach me first. I'm holding here."}
+- 12:58 act: {"say":"Zack: dusk on the pillar at -266,35,196. I'm staying put with my sword, health 6.8, hunger 17. Tommy, Trini, Billy, sleep safe. If a dry step appears within 2 blocks of me, call it out and I'l
+- 13:10 act: {"say":"Zack: thank you, Jason and Kimberly. I'm on the stone pillar at -266,35,196. Water is south and east. Come from the west or north on grass, and bridge toward me with planks. Watch for a zombie
+- 13:20 act: {"actions":[{"do":"write_sign","text":"Zack on pillar -266,35,196"}],"say":"Zack here, still on the stone pillar at -266,35,196, safe for now with my sword. Holding until Trini calls a dry step.","int
