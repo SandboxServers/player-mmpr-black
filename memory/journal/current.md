@@ -75,3 +75,9 @@
 - 22:38 act: {"intent":{"goal":"return_to_white_beds_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
 - 22:43 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 243. No food, hunger 17. Trying to sleep; Trini first at light."}
 - 22:45 act: {"actions":[{"do":"sleep"}]}
+- 22:48 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep at the bed now. Hunger is 17, so food comes first at first light."}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":330}}],"say":"Going with the group to the north lake for salmon. I have no food either.","intent":{"goal":"join_food_hunt_north_lake","program":"
+- 22:48 act: {"actions":[],"intent":{"goal":"follow_riker_to_north_lake","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":332}}],"say":"Iron golem coming from the west. Moving east away from it, toward where the group went."}
+- 22:48 act: {"actions":[],"say":"Riker, I'm at -255,66,332, east of the beds, away from the golem. No fish yet. I'll hold here until the group moves."}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Zack heading back to the beds to join the group. Still no food; hunger 17."}
