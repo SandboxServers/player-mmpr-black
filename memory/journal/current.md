@@ -33,3 +33,5 @@
 - 21:11 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Zack: Riker, here is the chicken for you, as agreed. Trini gets the next food."}
 - 21:11 act: {"actions":[{"do":"give","to":"Riker","item":"chicken","count":1}],"say":"Zack: Riker, the chicken is yours. Please eat it or share it with Trini."}
 - 21:12 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, the chicken is for you, since Trini said it goes to you first."}
+- 21:12 act: {"say":"Zack here at the beds, health 20, hunger 20, no food in my pack. I'll head north with my wooden sword to look for sheep or cows. Iron golems are to the south, so I'm keeping away from them.","
+- 21:12 say: {"text":"Zack: I'm at the north spot, -274, 289, with Troi in sight. No food here. I'll wait here for the sheep group to call out. Trini first for any mutton."}
