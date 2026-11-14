@@ -105,3 +105,4 @@
 - 23:21 act: {"actions":[{"do":"wait","seconds":30}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
 - 23:23 act: {"actions":[{"do":"sleep"}]}
 - 23:24 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the bed, night of day 245, hunger 16, health 0.67, no food. Trying to sleep now. Food first at light."}
+- 23:25 act: {"say":"Night is here, and I am beside the white beds. Sleeping now.","actions":[{"do":"sleep"}]}
