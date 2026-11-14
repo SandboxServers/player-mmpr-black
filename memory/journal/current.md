@@ -1758,3 +1758,10 @@
 - 00:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Tommy. I have the two wheat. I'm going to sleep in the yellow bed now. Kimberly, I'll get the sword in the morning."}
 - 00:20 act: {"say":"Night is here. I'll sleep in the yellow bed beside Tommy.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
 - 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Back at the beds. Going to sleep for the night with my two wheat.","reasoning":"Night, beds here, health and hunger 
+- 00:21 say: {"text":"Kimberly, Tommy: I'm at the yellow beds. Morning is fine. Kimberly, bring the sword when you are a few blocks off."}
+- 00:22 say: {"text":"Thank you, Kimberly. Morning is here. I'll look for food with you all to the south-east."}
+- 00:22 say: {"text":"I'm still at the yellow beds with my 2 wheat. Kimberly, the sword has not reached me yet. Come back here when you can."}
+- 00:23 say: {"text":"Kimberly, I'm right here at the yellow beds, 262 west 354 south. Hand over the sword whenever you reach me."}
+- 00:25 say: {"text":"Trini, yes, the food search is on. I have 2 wheat, and I'll head south-east toward the sheep once it is light."}
+- 00:26 say: {"text":"Kimberly, I'm at the beds. My 2 wheat are not edible for me, so you can have them if they help. Please bring the sword when you're here."}
+- 00:26 say: {"text":"Kimberly, keep the sword for now. I'm not chasing it. Good luck finding sheep."}
