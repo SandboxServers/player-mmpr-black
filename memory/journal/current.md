@@ -112,3 +112,21 @@
 - 11:35 act: {"actions":[{"do":"goto","target":{"x":-266,"y":35,"z":195}}]}
 - 11:35 act: {"actions":[{"do":"unstick"}]}
 - 11:35 act: {"say":"I'm still on the pillar at -266,35,196. The plank north did not hold me, and unstick found no way out. Anyone near: please drop a dirt or plank block on the stone at the edge. Hunger 17."}
+- 11:48 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-267,"y":35,"z":196}}],"say":"Dawn now. I'm still on the pillar at -266,35,196 with 3 planks. I'm trying to bridge west. Anyone who can drop a 
+- 11:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"reasoning":"View says I am boxed in by solid blocks, most of them my own planks. Mining a plank by hand opens a way out. Then table and picka
+- 11:51 act: {"actions":[],"say":"Still on the pillar at -266,35,196. Boxed in by my own planks; mining one failed. Hunger 17. If anyone can drop a block of stone or dirt at my edge, please do.","reasoning":"Group
+- 11:53 act: {"actions":[],"say":"Jason, thank you. I'm at -266,35,196. The open edge is north, at -266,35,195, and it drops below there. Please place the dirt on that block or throw it to me, and I'll step onto i
+- 11:54 act: {"actions":[],"say":"Jason, I can't see you, I'm far below. Stand directly above me at -266,65,196 and drop the 2 dirt straight down. It should land on my pillar. Thank you.","reasoning":"Jason is on 
+- 11:54 act: {"actions":[],"say":"Billy, I'm hungry, at 17, and I'm stuck on the pillar, so I can't take mutton. Keep it for whoever can reach me, or for Tommy. Jason, thank you, I'm waiting for the dirt.","reason
+- 11:59 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}}],"say":"Zack here, still on the pillar at -266,35,196, hunger 17. A zombie and creeper are north of me in the dark. I hav
+- 11:59 act: {"actions":[{"do":"goto","target":{"x":-266,"y":36,"z":195}}],"reasoning":"The plank sits at my level to the north; try stepping up onto it."}
+- 12:01 act: {"actions":[],"say":"Zack, still on the pillar at -266,35,196, night now. Stepping north failed, so I'm stuck until someone reaches me. Sleep well, Tommy, Jason, Billy. Keep the mutton for when I can 
+- 12:10 act: {"actions":[],"say":"Zack, morning, still on the pillar at -266,35,196, hunger 17, health 6.8. Kimberly first, she's lower. When someone can reach me, I need a block dropped at -266,35,195 or a way to
+- 12:10 act: {"actions":[],"say":"Jason, great, 14 dirt is what I need. I'm at -266,35,196 on the stone pillar. My north edge has a plank at -266,35,195. Stand as close as you can at my height, within 4 blocks, an
+- 12:13 act: {"actions":[],"say":"Jason, I'm at -266,35,196, about 30 blocks straight below you, on a stone pillar. I'm not sure of the lake edge down here. Please walk to -266,65,196 and drop one dirt straight do
+- 12:18 act: {"actions":[],"say":"Jason, thanks. Dirt from above would fall into the water, and I have only 2 planks, so I can't climb. Help Kimberly first. I'm staying on the pillar.","reasoning":"Release Jason f
+- 12:30 act: {"actions":[],"say":"Morning. I'm still on the pillar at -266,35,196, with 2 planks and no way up. Kimberly, glad you're alive. Trini, bring food to the beds; I'm not reachable yet.","reasoning":"Repo
+- 12:45 say: {"text":"Zack here, still on the pillar at -266,35,196. Health 6.8, hunger 17. Picard, Kimberly has food; I'll wait for dawn. Anyone with a dirt drop or plank, aim for my pillar."}
+- 12:51 say: {"text":"Tommy, thanks. Water lies south and south-west of me. I can't see dry ground that touches my pillar. Try the east side, past the drop, and drop planks on the stone near -264,35,196 if you can
+- 12:52 say: {"text":"Tommy, I'm about 30 blocks below you on the pillar. No dry step on my east side. Best try: drop planks onto the stone at the pillar's edge if you can reach it, or build a short plank tower fr
+- 12:53 say: {"text":"Kimberly, keep the porkchop for whoever can reach me or is hungrier. Tommy, hold the planks; I'll say if a route opens. I'm stable, health 6.8, hunger 17."}
