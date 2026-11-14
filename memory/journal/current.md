@@ -1955,3 +1955,6 @@
 - 05:50 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":287}}],"say":"Heading to the lake now. Drops to the west, so going carefully. Jason, Tommy, Billy, Trini, come along.","intent":{"goal":"reach_la
 - 05:52 act: {"actions":[{"do":"goto","target":{"x":-335,"y":62,"z":280}}],"intent":{"goal":"reach_lake_shore","program":"travel","arguments":{"target":{"x":-340,"y":62,"z":275}},"wake_on":["goal_completed","unexp
 - 05:52 act: {"actions":[{"do":"goto","target":{"x":-345,"y":58,"z":271}},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}],"say":"Salmon here in the lake. Goin
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":-350,"y":60,"z":270}},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}]}
+- 05:53 act: {"actions":[{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"},{"do":"attack","target":"salmon"}],"reasoning":"Salmon are closing in. Goto failed because another action was still runn
+- 05:54 act: {"actions":[{"do":"unstick"}],"reasoning":"Still perched in deep water and the attacks queued as busy. Unstick to get out first, then try the salmon."}
