@@ -35,3 +35,9 @@
 - 21:12 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, the chicken is for you, since Trini said it goes to you first."}
 - 21:12 act: {"say":"Zack here at the beds, health 20, hunger 20, no food in my pack. I'll head north with my wooden sword to look for sheep or cows. Iron golems are to the south, so I'm keeping away from them.","
 - 21:12 say: {"text":"Zack: I'm at the north spot, -274, 289, with Troi in sight. No food here. I'll wait here for the sheep group to call out. Trini first for any mutton."}
+- 21:15 act: {"say":"Worf, I have no food and don't know the sheep field either. I'm at -274,67,289 with Jason. I'll stay close to him and look for food.","intent":{"goal":"stay_with_jason","program":"follow","arg
+- 21:15 act: {"say":"Trini, Tommy, Worf: I'm here at -274,67,289 with Jason and Troi. I have no food either. Nobody has seen sheep yet, so let's search together. Trini comes first for any mutton."}
+- 21:16 act: {"say":"Zack: I have nothing on me either. I'll scout north-west with Tommy and Jason toward -290,67,268 and call out any sheep or cow. Trini, stay here with Troi and Kimberly; any mutton goes to you 
+- 21:16 act: {"say":"Zack at -290,67,269: no animals here. I'll try a bit further north-west and call out anything I see.","intent":{"goal":"scout_further_northwest","program":"travel","arguments":{"target":{"x":-
+- 21:16 act: {"say":"Zack: Jason, if you get a salmon it goes to Trini first. I'll come to the shore to help, but I won't go into the water, since that is how I died last time.","intent":{"goal":"join_jason_at_sho
+- 21:16 act: {"say":"Zack at the shore edge, -300,66,256. Salmon is in the water to the north-west. I have no fishing rod and won't enter the water. Jason and Tommy, you have it: Trini first."}
