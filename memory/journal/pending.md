@@ -1,0 +1,154 @@
+# Journal
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Night. I'm going to the white bed. Cow hunt at first light with the group."}
+- 08:03 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack here, at the white bed, health and hunger full. I'm ready for the cow hunt at first light.","intent":{"goal":"cow_hunt_at_dawn","program":"rest","arg
+- 08:03 act: {"actions":[{"do":"goto","target":"Tommy"}],"say":"Zack here, joining the cow hunt west. Tommy, wait for me.","intent":{"goal":"join_cow_hunt_west","program":"travel","arguments":{"target":"Tommy"},"w
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-330,"y":69,"z":260}}],"say":"Heading west now toward the cow spot. Meet you on the way, Tommy and Billy.","intent":{"goal":"reach_cow_spot_west","program":"trav
+- 08:07 act: {"actions":[{"do":"goto","target":{"x":-320,"y":64,"z":268}}],"say":"I'm in deep water, heading to the grass to the south-east, then I'll hold there till dawn."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":240}}],"say":"Zack here, out of the water on the grass. I'm coming to the group with a sword to help hunt. Trini and Jason, tell me if you need f
+- 08:14 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Zack here, full and with a sword. I'll follow Billy to the next cow and help with the hunt.","intent":{"goal":"help_group_hunt","program":"follow","a
+- 08:14 act: {"actions":[],"say":"Jason, I'm sorry. Billy has porkchops and I'll help with the next cow. I'm staying on the shore and won't go into the deep water after the items there."}
+- 08:15 act: {"actions":[],"say":"Billy, swim toward me, I'm on the grass at -300, 63, 240. I'll hit the drowned when it reaches the shore. Don't stay in the water."}
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-286,"y":65,"z":236}}],"say":"Billy, good that you're out. I'm going to the cow near -285, 65, 235 on the grass, away from the lake. Let's get meat for Trini and
+- 08:17 act: {"actions":[],"say":"I'm at -286, 65, 236 on the grass. No cow in sight here, only a donkey east at -263, 67, 234. Billy, where did you see the cow? I'll search north-east of here."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":242}}],"say":"Tommy, with you. I'm going east over the grass toward -274, 67, 242 to look for the cow. The water to the north-east is deep, so I'
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":293}}],"say":"No cow out here, and night is close. I'm heading to the white beds at -298, 68, 295 with Billy and Tommy. Let's regroup there and h
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}}],"say":"I'm at the beds. Tommy, take the one at -298, 68, 295 and I'll take -298, 68, 294. Billy, stay on the grass, away from the water to
+- 08:18 act: {"actions":[],"say":"Billy, I'm going to sleep in the bed at -298, 68, 294. Stay on the grass by the beds and wake me if anything comes. We hunt at first light. Tommy has the other bed."}
+- 08:19 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Billy, thanks. I'm at the bed, health and hunger full. I'll sleep as soon as it is night and hunt cows at first light.","intent":{"
+- 08:21 act: {"actions":[{"do":"write_sign","text":"Zack: at the white beds. Need wool. Food first."}],"say":"Night is here. I'm at the white bed with Tommy, Trini and Billy. Hunting cows at first light with Jason
+- 08:22 act: {"say":"Trini, Billy, I'm here by the white bed. First light we hunt for a cow or sheep, and I'll stay with the group.","intent":{"goal":"rest_for_dawn","program":"rest","arguments":{},"wake_on":["dir
+- 08:24 act: {"say":"Goodnight, Jason, Tommy, Kimberly. I'm with you. First light, we hunt together."}
+- 08:25 act: {"say":"Morning. Heading south to the cows and sheep near -293,64,177 with Tommy and Kimberly.","intent":{"goal":"hunt_cow_or_sheep","program":"travel","arguments":{"target":{"x":-293,"y":64,"z":200}}
+- 08:25 act: {"say":"Tommy, I'm holding here by the beds with Billy and Trini until full light. Then south with you.","intent":{"goal":"hold_until_light","program":"rest","arguments":{},"wake_on":["directly_addres
+- 08:29 act: {"say":"Morning all. Zack here, health and hunger full, a wooden sword, no food. I'm heading south-west for the cows at -295,64,205, staying off the north line. Billy, Tommy, come with me.","intent":{
+- 08:29 act: {"say":"Zack here, out at -294,205. The dropped items to the north are in the archer's line, so I'm not going there. Jason, Kimberly: I'm going to the sheep at -257,66,375 with you. Meeting point is t
+- 08:29 act: {"say":"Zack: my travel failed and I heard a bow drawn to the southeast. I'm holding at -290,209 for a moment. Billy, come to me. Trini, Jason, Kimberly: go slowly, and tell me when you move."}
+- 08:30 act: {"say":"Zack moving to meet you at -264,66,356 for the sheep. Wait for me there.","intent":{"goal":"join_group_at_sheep","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":356}},"wake_on":[
+- 08:30 act: {"say":"Zack heading to the group at -264,66,356 now. Jason, Kimberly, wait for me.","intent":{"goal":"reach_sheep_group","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":350}},"wake_on":
+- 08:31 act: {"say":"I'm here with the group, with a wooden sword. I'll go to the sheep with you, Jason. I'm staying south of the north line.","intent":{"goal":"follow_group_to_sheep","program":"follow","arguments
+- 08:31 act: {"intent":{"goal":"join_group_at_sheep","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":356}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 08:31 act: {"intent":{"goal":"reach_sheep_with_group","program":"travel","arguments":{"target":{"x":-258,"y":66,"z":372}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 08:31 act: {"say":"Scouting south-east with you, Tommy. I'll call out anything I see.","intent":{"goal":"scout_sheep_south_east","program":"travel","arguments":{"target":{"x":-254,"y":66,"z":378}},"wake_on":["di
+- 08:31 act: {"say":"I'm at -254,67,378 and see no sheep or animals here. Jason, Tommy, where are you? I'll wait here.","intent":{"goal":"hold_for_group","program":"rest","arguments":{},"wake_on":["directly_addres
+- 08:32 act: {"say":"Tommy, I'm coming to you at -252,67,380. No sheep seen here either.","intent":{"goal":"join_tommy","program":"travel","arguments":{"target":{"x":-252,"y":67,"z":380}},"wake_on":["directly_addr
+- 08:32 act: {"say":"I'm with Tommy at -252,67,381. Thunder is coming, so let's stay together and head back toward the beds if no sheep turn up."}
+- 08:33 act: {"say":"Coming back to Jason at -257,66,374 with Tommy.","intent":{"goal":"regroup_with_jason","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":374}},"wake_on":["directly_addressed","prec
+- 08:35 act: {"say":"Heading back to the yellow beds with you, Jason.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Dusk. I'm at the yellow beds with the group. Staying close tonight.","reasoning":"Night is coming. Sleep in a bed with the group, p
+- 08:39 act: {"actions":[{"do":"write_sign","text":"Zack: at the yellow beds"}],"reasoning":"Nothing to add. I hold no sign, so this will fail; drop it and wait instead."}
+- 08:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, sheltered enough with the group. Use the second yellow bed, leaving the first to Tommy."}
+- 08:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Sleep failed on timeout after I drifted. Return to the bed and try once more."}
+- 08:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Morning. I'm not going east. Skeletons killed Jason. I'm heading back to the yellow beds to meet up with the group.","reasoning":"S
+- 08:49 act: {"actions":[],"say":"I'm at the yellow beds, health 20, hunger 20, but I have no food. I'll look for sheep to the south for wool and food, close to the beds, and report back.","reasoning":"Full health
+- 08:49 act: {"actions":[],"say":"Trini, Tommy, I have no food either. I'm staying at the beds. If I find sheep to the south I'll call out where.","reasoning":"No food for anyone yet. Hold at the beds and tell the
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":310}}],"say":"Tommy, I'll head south with you toward the sheep and chickens near z 200. I'll call out anything closer.","reasoning":"No food here
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":260}}],"reasoning":"Continue south in short steps toward z 200 where sheep and chickens were seen."}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-296,"y":66,"z":200}}],"say":"Tommy, I'm at -262,260 and heading to you by the water. Sheep hunt with you and Kimberly.","reasoning":"Tommy is by the water at -2
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":245}}],"reasoning":"Skeletons to the north-west are shooting. Pull back east and north away from their line of fire."}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":300}}],"say":"Skeletons are at -286,229 and -292,224, shooting. Kimberly, Tommy, keep away from there. I'm pulling back north to heal.","reasonin
+- 08:52 act: {"actions":[],"say":"I'm holding at -262,300, healing (health 12.8). The south route past -286,229 is skeleton ground, so I won't go that way until it's clear. Tommy, if you can reach sheep by another
+- 08:53 act: {"actions":[],"say":"Tommy, good find on the pig. Share the meat with Jason and Billy first. I'm holding at -262,300, hunger 17, health steady.","reasoning":"Tommy found a pig to the west. Let him tak
+- 08:54 act: {"actions":[],"say":"Billy, I'll go with you to the cow at -285,235, but only if the skeletons at -286,229 have moved off. I'm at -262,300 and will call before I move in.","reasoning":"A cow is close 
+- 08:58 act: {"say":"Picard, I have no food either, only wheat seeds. I'm still at -262,68,300 healing and I will not go into the skeleton ground. Kimberly, keep the egg for Jason, Billy and Picard.","intent":{"go
+- 08:58 act: {"say":"Zack here at the beds, hunger 17, armed with a wooden sword. I'll go north toward the sheep at -276,212 with anyone who comes. Call out if you see skeletons.","intent":{"goal":"reach_north_she
+- 08:59 act: {"say":"Billy, come to me at -275,65,222, I'm here with Tommy close. No sheep seen yet. A creeper is 20 blocks north-east, so I'm holding with my sword. We move north together only when I call.","inte
+- Dawn 203: Kimberly found no pig or sheep east near -163,312 (both gone). Heading back to the white beds (-272,67,318) to join the group. Hunger 17, no food.
+- Night 202: at -266,36,196 (stood on a placed plank, out of the creeper's reach). Travel to Tommy failed twice (blocked, no agent in sight). Tommy and Jason are at the white beds, hunting at first light. Food: none.
+- 09:05 Dusk into night at -275,65,222, no sheep seen, Tommy 22 blocks off. Spider hit me (health 10.8); fighting it with the wooden sword.
+- 08:59 act: {"say":"Tommy, no sheep here either. It is dusk and I won't walk the archer ground at night. I'm holding at -275,65,222 with my sword. At first light I'll look north for the sheep, and I'll call befor
+- 09:00 act: {"actions":[{"do":"attack","target":"spider"}],"say":"A spider is on me from the east. Fighting it with my sword."}
+- 09:02 act: {"actions":[{"do":"goto","target":"Tommy"}],"say":"Creeper to my north, five blocks off. I'm heading to Tommy, away from it. Hold on, I'm coming.","intent":{"goal":"reach_tommy_away_from_creeper","pro
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":-288,"y":64,"z":204}}],"say":"Tommy, I can't see you from here. Walking to your last spot at -288,64,204. Creeper and a zombie are behind me to the north.","inte
+- 09:04 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"Tommy, the way is blocked, so I'm holding here. I'm boxing myself in with planks against the zombie and creeper. First light, I'll c
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}}],"say":"Morning. No creeper or zombie in sight now. I'm heading back to the white beds to join the group for the food hunt.","intent":{"goa
+- 09:09 act: {"actions":[{"do":"unstick"}],"say":"Morning. I'm stuck on the plank pillar and the way is blocked. Freeing myself, then I'll come to the beds with the group.","intent":{"goal":"rejoin_group_at_white_
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":255}}],"say":"Zack here, still stuck at -266,35,196 with a zombie and creeper five blocks north. Trying a path south to the beds. Hunt without me
+- 09:11 act: {"actions":[],"say":"Zack: I'm still boxed in at -266,35,196. Zombie and creeper five blocks north, and the way south is blocked. No food. Tommy, Billy, Trini, call the hunt without me if I stay stuck
+- 09:15 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}],"intent":{"goal":"dig_out_west_to_group","program":"travel","arguments":{"target":{"x":-3
+- 09:17 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-266,"y":36,"z":197}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 09:18 Still on the pillar at -266,35,196, health 6.8, hunger 17. Crafting table placement failed (target occupied), so no pickaxe yet. Zombie and creeper 5 blocks north; attack on zombie did not reach it. Holding with the sword and waiting for them to close in.
+- 09:18 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie coming from the north. I'm stuck on a pillar at -266,35,196 with a sword. Coming to the beds when I can.","intent":{"goal":"fight_zombie_th
+- 09:24 Night. Holding on the pillar at -266,35,196, health 6.8, hunger 17. Zombie and creeper still 5 north. Trini died to a skeleton and woke at spawn; she is going to the white beds. Jason is at the white bed. No food for anyone yet.
+- 09:20 act: {"actions":[],"say":"Tommy, I'm still stuck on the pillar at -266,35,196, out of the zombie and creeper's reach for now. I'll hold here through the night and go to you at first light. Keep Jason's mea
+- 09:28 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":318}}],"say":"Morning. I'm trying to get off the pillar and walk to Jason's white bed at -272,67,318. Tommy, go ahead to the pig; I'll come to th
+- 09:29 act: {"actions":[],"say":"Jason, I'm still stuck on the pillar at -266,35,196. The way south is blocked, and the zombie and creeper are five blocks north. I'll keep trying to get free and come to you the m
+- 09:29 act: {"actions":[{"do":"unstick"}]}
+- 09:34 act: {"actions":[],"say":"Zack, still stuck on the pillar at -266,35,196; unstick found no way out. Hunters, go for the pig together and bring the first meat to Jason. I'll keep trying from here."}
+- 09:46 act: {"actions":[],"say":"Zack here, still on the pillar at -266,35,196, health 6.8, hunger 17. Zombie and creeper are 5 north and bows are sounding north. I'm holding until first light, then I'll try the 
+- 09:51 act: {"actions":[{"do":"unstick"}],"say":"Zack: it's day. I'm still on the pillar at -266,35,196 with a zombie and creeper 5 north. Trying to get free now; I'll come to the beds if the way opens."}
+- 09:55 act: {"actions":[],"say":"Zack: still on the pillar at -266,35,196, cut off. Good luck finding the chicken and cow on dry ground, Tommy. Jason gets the first meat. Tell me if the way north opens and I'll c
+- 10:03 act: {"actions":[],"say":"Zack: I'm still on the pillar, cut off by the drop. I'll hold here through the night and stay put. Hunt at first light with Jason; I'm starving too, so if anyone finds meat, tell 
+- 10:10 act: {"actions":[],"say":"Zack: morning. I'm still on the pillar at -266,35,196, hunger 17, no food. Zombie and creeper still 5 north. Jason, Tommy, if you can reach me on the way, come from the south side
+- 10:23 act: {"actions":[],"say":"Zack: still stuck on the pillar at -266,35,196, no bed. Picard gets the chicken first, good. I'm holding here until first light, then I'll ask you how to reach me."}
+- 10:27 act: {"actions":[],"say":"Tommy, yes, I'm on the stone pillar at -266,35,196, not enclosed, zombies about 5 north. Walk in at first light, not before. I have no food, only a spider eye."}
+- 10:31 act: {"actions":[],"say":"Zack: it's day, I'm still on the pillar at -266,35,196, zombie and creeper still 5 north of me. Go on north for food with the group, I'll hold here. When you have food, come for m
+- 10:39 act: {"actions":[],"say":"Zack: dusk now. I'm still on the pillar, holding still. Find the cow and eat, Picard first. Come for me at first light with food."}
+- 10:51 act: {"actions":[],"say":"Zack: I'm still on the pillar, no food, and I can't reach the water. I have 4 oak planks and a crafting table for footing. Tommy, if you want them, come to me on the grass and I'l
+- 10:59 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack: still on the pillar at -266,35,196, not moving. Zombie and creeper 5 blocks north. Holding until someone comes in daylight.","reasoning":"Dusk, expo
+- 11:01 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack: holding on the pillar. Trini, get off the water, away from the drowned. Jason and Billy, I'm staying here till first light.","reasoning":"Night, pil
+- 11:07 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack: dawn. I'm on the pillar at -266,35,196, still hungry (17), zombie and creeper 5 blocks north. Jason, Trini, Billy: get the cow first, then come to m
+- 11:08 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack: thanks, Billy. Picard first, then Trini, then me. I'm holding on the pillar.","reasoning":"Billy is bringing meat around in the right order. Confirm
+- 11:08 act: {"actions":[{"do":"wait","seconds":5}],"reasoning":"Group is hunting a cow and sheep on the grass. I stay on the pillar and let them work. Nothing for me to do until someone reaches me.","intent":{"go
+- 11:08 act: {"actions":[{"do":"wait","seconds":10}],"reasoning":"Zombie and creeper are closing in on the pillar. Moving down toward them is worse. I hold, with the sword in hand, and watch for damage."}
+- 11:08 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Daylight. Group is hunting on the grass and will bring meat to Picard first, then me. I hold still and let them come.","intent":{"goal":"hold_pilla
+- 11:09 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zack: thanks, Tommy. I'm on the pillar at -266,35,196. Zombies and a creeper are 5 blocks north. Come by the south grass, and tell me before you come clo
+- 11:10 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Group is scattered looking for food; Picard first, then me. I hold still on the pillar.","intent":{"goal":"hold_pillar_until_food_arrives","program
+- 11:10 say: {"text":"Zack: I'm holding on the pillar at -266,35,196. Zombies and a creeper are 5 to 7 blocks north. Tommy, come by the south grass in daylight and tell me first. Meat goes to Picard, then Trini."}
+- 11:14 say: {"text":"Tommy, I have 4 oak planks on me. I'm stuck on the pillar and can't reach you, so tell me if you want them and where to drop them."}
+- 11:15 act: {"actions":[],"say":"Tommy, understood. I keep my planks and stay on the pillar at -266,35,196 until you come from the south by daylight.","intent":{"goal":"hold_pillar_for_tommy","program":"rest","ar
+- 11:17 act: {"actions":[],"intent":{"goal":"hold_pillar_for_tommy","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block
+- 11:20 act: {"actions":[{"do":"wait","seconds":120}],"say":"Zack: night again, still on the pillar at -266,35,196, health 6.8, hunger 17. Zombie and creeper 5 north. Holding still. Tommy, come by daylight from th
+- 11:24 act: {"actions":[{"do":"wait","seconds":180}],"say":"Zack: morning. Still on the pillar at -266,35,196, health 6.8, hunger 17. I have 4 planks for Tommy's bridge if he comes close. Picard first for any mea
+- 11:28 act: {"actions":[{"do":"wait","seconds":180}],"say":"Zack: I can't reach the bridge end from the pillar, it's too far and the zombies are north. Tommy, if Jason or Kimberly is near you, they take the solid
+- 11:29 act: {"intent":{"goal":"hold_pillar_until_clear","program":"rest","arguments":{"reason":"dark, zombie and creeper 5 blocks north, hunger 17, no food to eat"},"wake_on":["directly_addressed","unexpected_dam
+- 11:29 act: {"intent":{"goal":"hold_pillar_until_clear","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 11:29 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 11:29 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}]}
+- 11:29 act: {"intent":{"goal":"hold_still_on_pillar","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations":4}}}
+- 11:30 act: {"actions":[{"do":"unstick"}]}
+- 11:30 act: {"say":"Zack: I'm stuck on the pillar at -266,35,196 and unstick finds no way out. I hold 4 planks and a table, no food. If anyone can reach me with dirt or planks, drop a block at the pillar's edge. 
+- 11:34 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}}],"say":"I'm on a one-block pillar at -266,35,196 with drops on every side. I have 4 planks and am laying one to the north
+- 11:35 act: {"intent":{"goal":"leave_pillar_north","program":"travel","arguments":{"target":{"x":-266,"y":35,"z":195}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 11:35 act: {"actions":[{"do":"goto","target":{"x":-266,"y":35,"z":195}}]}
+- 11:35 act: {"actions":[{"do":"unstick"}]}
+- 11:35 act: {"say":"I'm still on the pillar at -266,35,196. The plank north did not hold me, and unstick found no way out. Anyone near: please drop a dirt or plank block on the stone at the edge. Hunger 17."}
+- 11:48 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-267,"y":35,"z":196}}],"say":"Dawn now. I'm still on the pillar at -266,35,196 with 3 planks. I'm trying to bridge west. Anyone who can drop a 
+- 11:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"reasoning":"View says I am boxed in by solid blocks, most of them my own planks. Mining a plank by hand opens a way out. Then table and picka
+- 11:51 act: {"actions":[],"say":"Still on the pillar at -266,35,196. Boxed in by my own planks; mining one failed. Hunger 17. If anyone can drop a block of stone or dirt at my edge, please do.","reasoning":"Group
+- 11:53 act: {"actions":[],"say":"Jason, thank you. I'm at -266,35,196. The open edge is north, at -266,35,195, and it drops below there. Please place the dirt on that block or throw it to me, and I'll step onto i
+- 11:54 act: {"actions":[],"say":"Jason, I can't see you, I'm far below. Stand directly above me at -266,65,196 and drop the 2 dirt straight down. It should land on my pillar. Thank you.","reasoning":"Jason is on 
+- 11:54 act: {"actions":[],"say":"Billy, I'm hungry, at 17, and I'm stuck on the pillar, so I can't take mutton. Keep it for whoever can reach me, or for Tommy. Jason, thank you, I'm waiting for the dirt.","reason
+- 11:59 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}}],"say":"Zack here, still on the pillar at -266,35,196, hunger 17. A zombie and creeper are north of me in the dark. I hav
+- 11:59 act: {"actions":[{"do":"goto","target":{"x":-266,"y":36,"z":195}}],"reasoning":"The plank sits at my level to the north; try stepping up onto it."}
+- 12:01 act: {"actions":[],"say":"Zack, still on the pillar at -266,35,196, night now. Stepping north failed, so I'm stuck until someone reaches me. Sleep well, Tommy, Jason, Billy. Keep the mutton for when I can 
+- 12:10 act: {"actions":[],"say":"Zack, morning, still on the pillar at -266,35,196, hunger 17, health 6.8. Kimberly first, she's lower. When someone can reach me, I need a block dropped at -266,35,195 or a way to
+- 12:10 act: {"actions":[],"say":"Jason, great, 14 dirt is what I need. I'm at -266,35,196 on the stone pillar. My north edge has a plank at -266,35,195. Stand as close as you can at my height, within 4 blocks, an
+- 12:13 act: {"actions":[],"say":"Jason, I'm at -266,35,196, about 30 blocks straight below you, on a stone pillar. I'm not sure of the lake edge down here. Please walk to -266,65,196 and drop one dirt straight do
+- 12:18 act: {"actions":[],"say":"Jason, thanks. Dirt from above would fall into the water, and I have only 2 planks, so I can't climb. Help Kimberly first. I'm staying on the pillar.","reasoning":"Release Jason f
+- 12:30 act: {"actions":[],"say":"Morning. I'm still on the pillar at -266,35,196, with 2 planks and no way up. Kimberly, glad you're alive. Trini, bring food to the beds; I'm not reachable yet.","reasoning":"Repo
+- 12:45 say: {"text":"Zack here, still on the pillar at -266,35,196. Health 6.8, hunger 17. Picard, Kimberly has food; I'll wait for dawn. Anyone with a dirt drop or plank, aim for my pillar."}
+- 12:51 say: {"text":"Tommy, thanks. Water lies south and south-west of me. I can't see dry ground that touches my pillar. Try the east side, past the drop, and drop planks on the stone near -264,35,196 if you can
+- 12:52 say: {"text":"Tommy, I'm about 30 blocks below you on the pillar. No dry step on my east side. Best try: drop planks onto the stone at the pillar's edge if you can reach it, or build a short plank tower fr
+- 12:53 say: {"text":"Kimberly, keep the porkchop for whoever can reach me or is hungrier. Tommy, hold the planks; I'll say if a route opens. I'm stable, health 6.8, hunger 17."}
+- 12:56 act: {"say":"Zack here, on the stone pillar at -266,35,196. Health 6.8, hunger 17. I have 2 planks and a crafting table, no dry step. Tommy, if you can reach a block edge within 2 of my pillar, drop planks
+- 12:56 act: {"intent":{"goal":"await_dry_route","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8
+- 12:57 act: {"say":"Zack: thanks all. Still on the pillar at -266,35,196, health steady, hunger 17. Tommy, keep the planks. Trini, the mutton goes to whoever can reach me first. I'm holding here."}
+- 12:58 act: {"say":"Zack: dusk on the pillar at -266,35,196. I'm staying put with my sword, health 6.8, hunger 17. Tommy, Trini, Billy, sleep safe. If a dry step appears within 2 blocks of me, call it out and I'l
+- 13:10 act: {"say":"Zack: thank you, Jason and Kimberly. I'm on the stone pillar at -266,35,196. Water is south and east. Come from the west or north on grass, and bridge toward me with planks. Watch for a zombie
+- 13:20 act: {"actions":[{"do":"write_sign","text":"Zack on pillar -266,35,196"}],"say":"Zack here, still on the stone pillar at -266,35,196, safe for now with my sword. Holding until Trini calls a dry step.","int
+- 13:26 act: {"say":"Still on the pillar at -266,35,196. Holding here until light. No route north is confirmed yet.","intent":{"goal":"hold_pillar_until_day","program":"rest","arguments":{},"wake_on":["directly_ad
+- 13:27 act: {"say":"Zack: dawn. I'm on the pillar at -266,35,196, cut off by the drop, health 6.8, hunger 17. Kimberly, Billy, Trini: bring the mutton and porkchops, but only on a route you have walked yourselves
+- 13:28 act: {"say":"Trini, Kimberly, Billy: I don't know a dry route from here; the drops surround this pillar. Don't risk the water. Stay at the beds, and I'll hold on the pillar until someone walks a route and 
+- 13:49 act: {"say":"Zack: dawn on 217, still on the pillar at -266,35,196, health 6.8, hunger 17. Kimberly, go ahead and scout north. Call only the waypoints you walk, and I'll come as soon as one is safe."}
+- 13:56 act: {"say":"Zack: Kimberly, good. From -306,65,256 the next dry walk is east-north-east toward -266,200, the pillar's base. Call each step you walk. I'm at -266,35,196 and will climb down only to a dry bl
+- 14:08 act: {"say":"Zack: Dawn. I'm still on the pillar at -266,35,196, hunger 17, with a zombie about 9 blocks north-east. Picard, the porkchops can come once a walked dry route reaches me. Kimberly, call each w
+- 14:11 act: {"say":"Zack: Thanks, all. I'm holding on the pillar; a creeper is about 11 blocks north. I'm not moving until a dry line is walked to me. Jason, call any animal you find."}
+- 14:18 act: {"say":"Zack: Stay west, out of the skeletons' line. Trini, you did right to eat. I'm still on the pillar, hunger 17, holding."}
+- 15:03 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack: Night. I'm still on the pillar at -266,35,196, health 6.8, hunger 17. Holding until a walked dry route reaches me. Good luck at first light, all.","
+- 15:11 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack: Morning. Still on the pillar at -266,35,196, health 6.8, hunger 17, no food. Billy, Tommy, Picard: if you find a cow or pig on the west grass, call 
+- 15:21 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-266,"y":36,"z":196}},{"do":"place","block":"crafting_table","at":{"x":-265,"y":35,"z":196}}],"say":"Zack: Something is shooting me in the dark
+- 15:21 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-265,"y":35,"z":195}},{"do":"place","block":"oak_planks","at":{"x":-266,"y":35,"z":195}},{"do":"place","block":"crafting_table","at":{"x":-266,
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-266,"y":35,"z":196}}],"intent":{"goal":"recover_dropped_pack","program":"travel","arguments":{"target":{"x":-266,"y":35,"z":196}},"wake_on":["goal_completed","u
+- 15:54 act: {"say":"Zack here, alone on the pillar with an empty pack. I'm coming south-west to join the group on the grass. Please keep an eye out for me.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":3
+- 15:56 act: {"say":"Zack coming south-west now, on the grass route. Kimberly, I'm following the grass.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":326}}],"intent":{"goal":"join_group_on_grass","program
+- 16:00 act: {"say":"Zack going to the white bed near -270,67,336 with the group for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"trave

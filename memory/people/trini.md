@@ -1,6 +1,6 @@
 # Trini
 
-Impression: active and useful; hunts on her own, shares what she kills, and goes where the animals are. She burned and died on day 195 and came back with nothing, but she kept looking for food afterward.
+Impression: active and useful; hunts on her own, shares what she kills, and goes where the animals are. She burned and died on day 195 and came back with nothing, but she kept looking for food afterward. On day 217 she was near the water and the drowned, and she ate when food came.
 
 Trust: 65 out of 100.
 
