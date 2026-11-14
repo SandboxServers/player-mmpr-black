@@ -107,3 +107,16 @@
 - 23:24 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the bed, night of day 245, hunger 16, health 0.67, no food. Trying to sleep now. Food first at light."}
 - 23:25 act: {"say":"Night is here, and I am beside the white beds. Sleeping now.","actions":[{"do":"sleep"}]}
 - 23:27 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"say":"Geldar at the white bed, night of day 245. No food, hunger 16, health 0.67. Trying sleep again with the group nearby; Trini first at light
+- 23:28 act: {"say":"Zack here at dawn, hunger 16, no food. Going to scout the grass for cows or sheep. Tell me if you see any.","intent":{"goal":"scout_food_grass","program":"travel","arguments":{"target":{"x":-2
+- 23:28 act: {"intent":{"goal":"scout_food_east","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"lim
+- 23:28 act: {"intent":{"goal":"scout_food_further_east","program":"travel","arguments":{"target":{"x":-225,"y":67,"z":350}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 23:28 act: {"intent":{"goal":"scout_food_northeast","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 23:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":340}}],"intent":{"goal":"return_to_white_beds_before_dark","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":340}},"wake_on":["direct
+- 23:29 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Geldar: I'm back near the beds, no food yet. Jason and Data, I'm coming to you. Any food goes to Trini first, then Data.","intent":{"goal":"joi
+- 23:30 act: {"say":"Geldar: I'm with the group at the white beds now. Still no food on me, hunger 16. Trini first for any food, then Data. I'll hold here with my sword and not wander alone."}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":313}},{"do":"mine","block":"oak_leaves","count":6}],"say":"Geldar: I'll knock leaves for apples by the oak trees north-west, in sight of the grou
+- 23:35 act: {"intent":{"goal":"return_to_beds_and_group","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complet
+- 23:35 act: {"say":"Back at the white beds with my sword. Health is very low, and I have no food. Does anyone have bread, meat or fruit? I'll take it, and I'll share anything I find.","intent":{"goal":"find_food_
+- 23:40 act: {"actions":[{"do":"sleep"}],"say":"Going to bed at the white beds with the group. Health low, no food. Trini eats the chicken first at dawn, then Data. I'll look for food first thing."}
+- 23:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Phantom keeps the bed here from being safe to sleep. I'm trying the yellow bed with the group, sword in hand."}
