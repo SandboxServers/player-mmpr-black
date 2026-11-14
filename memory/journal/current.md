@@ -120,3 +120,4 @@
 - 23:40 act: {"actions":[{"do":"sleep"}],"say":"Going to bed at the white beds with the group. Health low, no food. Trini eats the chicken first at dawn, then Data. I'll look for food first thing."}
 - 23:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
 - 23:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Phantom keeps the bed here from being safe to sleep. I'm trying the yellow bed with the group, sword in hand."}
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the yellow bed, night of day 246. Health 0.67, hunger 16, no food. Trying to sleep; food first at light for whoever is weakest."}
