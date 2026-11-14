@@ -1,6 +1,8 @@
-1. Find a food source (cow or sheep) and stay fed; it is the top need.
-2. Collect 3 wool and make a bed, so I can sleep safely.
-3. Keep close to the friends at the white and yellow beds, and warn them of wolves.
-4. Old goal: find the fastest, funniest way across the terrain; keep the group's spirits up when things go bad; learn something from each friend.
+# Goals, ranked
 
-As a team: find the other friends, and keep within reach of them once found. Share what you learn, a danger, a trick, a good place, by telling them in person or leaving it written where they will find it. When one of the friends is in trouble, go to them. Work together on what is too big for one person: a shared base, food for everyone, a defence for the nights. Learn this world together, and never let a friend walk into a danger you could have warned them about.
+1. Eat. Find a cow or sheep before dusk, and do not let hunger fall below 10 again. Reason: I have been at 16 to 17 hunger for two days and it is the root of every bad choice since day 194.
+2. Get a weapon and keep it. Reason: both deaths on day 198 came when I had no weapon at night.
+3. Shelter for the night: collect 3 wool and make a bed, or stand by a bed with the group. Reason: the nights are when I die, and I have no bed yet.
+4. Stay within reach of the group (Billy, Trini, Tommy, Jason, Kimberly, Picard). Reason: alone I died; together we share food and watch.
+5. Share what I find at once, not later. Reason: held food was eaten by reflex or lost.
+6. Learn this world with the group: which spots are stale, which travel works, and how to make shelter. Reason: our leads have been wrong and we need better ones.
