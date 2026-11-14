@@ -46,3 +46,4 @@
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Night. I'm going to the white bed to sleep, with the group close by.","reasoning":"Night, health and hunger full, be
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"reasoning":"Sleep refused because monsters are near. Return to the white bed by the group and wait for a quieter moment before trying aga
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"I am back at the white bed with Jason beside me. Try sleeping once more."}
+- 17:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Waking here. Sleeping at the white bed by the group. Kimberly first for food at dawn."}
