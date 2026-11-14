@@ -1756,3 +1756,4 @@
 - 00:19 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Kimberly, I'm two blocks north of the yellow beds, at the sign. Can you see me now?"}
 - 00:19 act: {"actions":[],"say":"Tommy and Kimberly, I'm right by the yellow bed now, and it's getting dark. Please hand over the wheat and the sword from where you stand."}
 - 00:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Tommy. I have the two wheat. I'm going to sleep in the yellow bed now. Kimberly, I'll get the sword in the morning."}
+- 00:20 act: {"say":"Night is here. I'll sleep in the yellow bed beside Tommy.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
