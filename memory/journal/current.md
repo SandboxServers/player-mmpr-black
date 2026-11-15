@@ -139,3 +139,6 @@
 - 05:52 act: {"say":"Zack here, midday day 265. No food. I have 2 oak logs and sticks to trade. Riker, if the trader sells bread or meat, tell me and I'll offer logs. Jason first for any food.","intent":{"goal":"r
 - 05:52 act: {"say":"Zack going to the wandering trader 11 blocks south with 2 oak logs to offer for bread or meat. Picard, come with me.","actions":[{"do":"goto","target":{"x":-272,"y":66,"z":343}}],"intent":{"go
 - 05:52 act: {"say":"Golems are closing on me here. Backing north to the beds.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}]}
+- 05:56 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":323}}],"say":"Zack here, day 265, hunger 19, no food in hand. I'm coming to the wheat field to stay with Jason. Any meat or bread goes to Jason f
+- 05:59 act: {"actions":[],"say":"Zack here, still no food, hunger 19. I'm staying with Jason and the group at the wheat field until dusk, then we'll find a bed together."}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Coming with you, Jason. Zack to the white bed."}

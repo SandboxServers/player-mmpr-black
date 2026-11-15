@@ -1,6 +1,12 @@
 # Summary
 
-Zack Taylor. Day 258, night, in the white bed near -271,67,336 with Trini and others (sleep worked after several refused tries: creepers nearby, then waiting). Health 20, hunger 20. No food. Pack: 2 oak_log, 3 stick, wooden sword. Days since sleep reset to 0 once I wake.
+Zack Taylor. Day 265, night, slept in the white bed near -270,67,334 with Jason, Kimberly and Clark. Health 20, hunger 19 at dusk. No food; pack: 2 oak_log, 3 stick, wooden sword.
+
+Day 265 in brief: the group (Trini, Data, Ryan, Jason, Kimberly) is still hungry and has no meat. Jason got bread from Lewis and Jason's health is climbing. The wandering trader near the beds would not trade with anyone by use. I stayed with the group at the wheat field (-265,66,324, still unripe) and then the beds. Lead: the sheep at -276,66,300 were empty on day 265.
+
+Next: first light, stay with the group; any meat or bread goes to Jason, then Trini, then Data and Ryan. Scout only in sight of the beds.
+
+Older note (day 258, kept for the places): white bed near -271,67,336 with Trini and others (sleep worked after several refused tries: creepers nearby, then waiting). Health 20, hunger 20. No food. Pack: 2 oak_log, 3 stick, wooden sword. Days since sleep reset to 0 once I wake.
 
 Day 258 in brief: scouted alone to -286,246, no animals, walked back. Iron golems wander the beds; they are not hostile to me.
 
