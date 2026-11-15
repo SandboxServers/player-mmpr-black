@@ -172,3 +172,15 @@
 - 06:50 act: {"actions":[],"say":"Zack, dawn day 268, hunger 17, no food. I hold a wooden sword and will go west with the group for animals. Meat to Trini, then Kimberly, then Worf.","intent":{"goal":"follow_clark
 - 06:51 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Zack: Clark is out of sight, so I'm heading to the white beds to find the group. Still no food."}
 - 06:51 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white beds, dark now, hunger 17, no food. Trying to sleep here."}
+- 07:03 act: {"actions":[{"do":"sleep"}],"say":"Zack going to the white bed for the night. No food; first light I search for animals."}
+- 07:11 act: {"actions":[],"say":"Zack, dawn day 269, hunger 17, no food. I'll join the search for cows or pigs with Riker and Tommy. Meat to Chapman and Trini first."}
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":340}}],"say":"Zack heading west to the grass with the search group. Calling out any animal I see."}
+- 07:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 07:19 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white bed, night. No food, hunger 17. Going to sleep here with the group."}
+- 07:23 act: {"actions":[{"do":"sleep"}]}
+- 07:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"say":"Zack: the way to the white bed was blocked. Trying the yellow bed at -271,67,326 instead."}
+- 07:24 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack going to sleep in the yellow bed, night, hunger 17, no food."}
+- 07:24 act: {"actions":[{"do":"sleep"}]}
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"say":"Zack heading back to the yellow bed to sleep for the night."}
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}]}
+- 07:30 act: {"intent":{"goal":"join_west_hunt","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
