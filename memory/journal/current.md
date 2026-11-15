@@ -136,3 +136,6 @@
 - 00:13 act: {"say":"Geldar: no wheat visible at -263,321, so I'll break the tall grass here for seeds. Any food goes to Trini first.","actions":[{"do":"mine","block":"tall_grass","count":4}]}
 - 00:17 act: {"say":"Zack here. I have no food and hunger is 15. If anyone finds a cow, sheep, chicken or wheat, please call out. I will stay near the beds.","intent":{"goal":"search_food_near_beds","program":"tra
 - 00:19 act: {"say":"Zack here, day 248, hunger 15, no food. Heading north to Geldar's wheat at -263,66,321 to check if it is ripe. Trini first for anything I find.","intent":{"goal":"check_wheat_north","program":
+- 00:25 act: {"say":"Zack at night on day 248, no food, hunger 15, health 0.67. Going to the white bed at -271,67,336 with the group. Trini has the chicken and eats it; I'm not taking it.","actions":[{"do":"goto",
+- 00:25 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 00:26 act: {"actions":[{"do":"sleep"}]}

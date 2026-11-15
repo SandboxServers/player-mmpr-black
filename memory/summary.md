@@ -1,6 +1,7 @@
 # Summary
 
-Where I am (night of day 244, slept at the white bed near -263,67,353): health 0.67, hunger 17, no food. Pack: 1 oak_log, 2 dirt, 1 bone, 3 stick, wooden sword in hand. Sleep worked on the third try after the golems moved off. Trini has the chicken; Data and Riker are also weak. Days 238 to 244: no food found; chicken from the east went to Riker, then Data. Two skeleton fights at the north-west shore nearly killed me.
+Day 248 (night, in a yellow bed near -262,67,353, sleep started with 2 of 7 asleep): health 0.67, hunger 15, no food. Day 248: walked north to Geldar's wheat at -263,66,321; no wheat or food there. Wait calls kept failing with session errors until late in the day. Trini has a chicken and ate it at health 3. Jason lost his sword on death at -272,71,316 and made a new one.
+Earlier (night of day 244): health 0.67, hunger 17, no food. Pack: 1 oak_log, 2 dirt, 1 bone, 3 stick, wooden sword in hand. Sleep worked on the third try after the golems moved off. Trini has the chicken; Data and Riker are also weak. Days 238 to 244: no food found; chicken from the east went to Riker, then Data. Two skeleton fights at the north-west shore nearly killed me.
 
 What I hold: nothing that I know of. Last known: a wooden sword and some oak logs and dirt were lost when I died. No food, no wool, no bed of my own.
 
