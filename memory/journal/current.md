@@ -26,3 +26,6 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 11:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack, night 281. Going to the north white bed to try sleep again. No foo
 - 11:31 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack, dawn day 282. No food, hunger 14. Trying the other north bed. Meat goes to Trini, then Picard."}
 - 11:32 say: {"text":"Zack, day 282. Hunger 14, no food. Billy, I have seen no animals since the grass south-east of the beds. I'll stay here with Kimberly. Trini and Picard first for any meat."}
+- 11:50 say: {"text":"Zack, dawn day 283. No food, hunger 14. Leonardo, where is the pig lead? I'll come with the group. Meat goes to LaForge, Trini, then Picard."}
+- 11:51 say: {"text":"Kimberly, thank you, but keep the wheat: raw wheat can't be eaten. Give food to Picard now; he has the chicken. LaForge is at the crafting tables at -274,67,327."}
+- 11:58 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":327}}],"say":"Zack heading to the crafting tables to join the group for the pig hunt. No food on me."}
