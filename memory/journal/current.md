@@ -154,3 +154,4 @@
 - 06:18 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addressed
 - 06:24 act: {"actions":[{"do":"sleep"}],"say":"Zack here, hunger 19, no food. Sleeping at the yellow bed tonight with Trini and the group."}
 - 06:24 act: {"actions":[{"do":"sleep"}]}
+- 06:25 act: {"say":"Night again. Data and Trini are beside me at the yellow bed. I have no food, so we sleep here and go out for food at first light.","actions":[{"do":"sleep"}]}
