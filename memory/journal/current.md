@@ -119,3 +119,5 @@
 - 05:14 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 05:15 act: {"actions":[{"do":"note","text":"Day 263 midday: scouted west grass with group, no animals. Phantoms and bows to north-west; back at beds. I have no food to give; holding with the group."}],"say":"Bac
 - 05:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_tick
+- 05:23 act: {"actions":[{"do":"wait","seconds":30},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack here at the beds, night of day 263. No food, health 20, hunger 20. Sleep was refused
+- 05:24 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
