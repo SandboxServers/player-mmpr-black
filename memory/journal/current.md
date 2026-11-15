@@ -175,3 +175,20 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 16:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"The give failed again and I drifted to the water edge. Get back to the bed."}
 - 16:01 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, I am turning to face you now. Stand still.","reasoning":"Worf is in reach 
 - 16:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Worf, the give keeps failing with no such agent in sight, even when you are close. I will stop trying for now. I am at the yellow b
+- 16:04 act: {"actions":[{"do":"give","to":"Worf","item":"wooden_sword","count":1}],"say":"Worf, I am giving you a wooden sword now.","reasoning":"Worf asked for a sword and is nearby. One try, then tell him plain
+- 16:04 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is a wooden sword for you.","reasoning":"Leonardo is in sight, empty-handed, and asked for one. O
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Leonardo, Worf: the swords did not pass to you, sorry. I am heading to the yellow bed to sleep. I have spare wooden swords; ask me 
+- 16:04 act: {"actions":[{"do":"give","to":"Worf","item":"wooden_sword","count":1},{"do":"sleep"}],"say":"Worf, here is your wooden sword. Eat when you can.","reasoning":"Worf is in reach now. One give try, then s
+- 16:04 act: {"actions":[{"do":"sleep"}],"say":"Worf, the give did not go through even though you are in reach. I will try again later when you are in sight; I am sleeping now.","reasoning":"Give failed twice on W
+- 16:05 act: {"actions":[],"say":"Sleep is refused again here; I will hold still until dawn and try the bed then.","intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- 16:07 act: {"actions":[{"do":"sleep"}],"say":"I am at the white bed with the group, trying to sleep.","reasoning":"I drifted to the white bed with Kimberly and Wcrusher. It is night; try sleep here once."}
+- 16:12 act: {"actions":[],"say":"Zack at dawn 296, hunger 7, health 9. Clark, I will scout with you. Wesley, I have one rotten flesh: step into my reach and it is yours.","reasoning":"Wesley is weakest at health 
+- 16:19 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}],"say":"Zack here. It is getting dark, so I am going back to the white beds with the group instead of scouting east. Clark, come along. Wes
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
+- 16:24 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}]}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}},{"do":"sleep"}],"intent":{"goal":"rest_for_night_296","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","une
+- 16:29 act: {"actions":[],"say":"Zack at dawn 297, no food, hunger 10, health 9. I have 4 spare wooden swords and 12 oak logs for anyone who needs them. Clark and Billy, I will stay close to you. If I see an anim
+- 16:34 say: {"text":"Zack here, midday 297, health 9, hunger 10, no food. I have spare wooden swords for Worf or Leonardo when either is in sight. I will stay at the beds and call out any animal I see."}
+- 16:36 say: {"text":"Picard, give the wheat to Clark: he is hungrier than I am at hunger 17 against my 10. I will keep watch for animals here."}
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}}],"reasoning":"Dusk. Need a bed. Nearest white bed is 5 east. Move there, then sleep."}
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}}],"reasoning":"At the white bed area, sleep next.","say":"Zack at the white beds for the night. No food, hunger 10, health 9. Macdonald is w
