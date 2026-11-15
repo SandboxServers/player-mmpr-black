@@ -186,3 +186,23 @@
 - 07:30 act: {"intent":{"goal":"join_west_hunt","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
 - 07:32 act: {"actions":[{"do":"goto","target":{"x":-320,"y":72,"z":322}}],"say":"Zack scouting west at the grass edge for cows or pigs. Will call any I see."}
 - 07:36 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"say":"Zack: no animals west. Heading back to the beds with the group."}
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Going to the white bed with the group for the night. No food yet; any meat goes to Chapman and Trini first.","intent
+- 07:43 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Zack at the white beds, night of 270, no food, hunger 16. Trying the bed again. Trini first for any meat."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 07:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here, night of 270. No food, hunger 16, health 20. Heading to the white bed; Trini first for any meat."}
+- 07:45 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 07:46 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep here by the bed. Billy, if you are near the beds with the phantom, stay close to Lewis and me."}
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}]}
+- 07:47 act: {"actions":[{"do":"sleep"}]}
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":332}}],"say":"Zack holding at the beds with Jason and Trini. No food. Anyone with meat, call me; Trini first."}
+- 07:54 act: {"actions":[],"say":"Zack here at the beds, no food. Good work on the wheat. Bread to Trini first; I can carry or watch for anyone."}
+- 07:58 act: {"actions":[],"say":"Zack: no food or seeds. I have 2 oak logs and 3 sticks for anyone making tools or a hoe. Ask and I'll hand them over. Bread goes to Trini."}
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}]}
+- 08:02 act: {"actions":[{"do":"sleep"}]}
+- 08:04 act: {"actions":[{"do":"sleep"}],"say":"Phantom at the bed. I have a wooden sword, I can help Riker if it comes close."}
+- 08:04 act: {"actions":[{"do":"sleep"}]}
+- 08:06 act: {"actions":[{"do":"sleep"}]}
+- 08:06 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":321}},{"do":"sleep"}],"say":"Moving to the other bed at -281,67,320 to try sleep there."}
+- 08:08 act: {"actions":[],"say":"Morning. I have no food either, hunger 15. I'll stay near the beds and help anyone who finds meat or bread."}
