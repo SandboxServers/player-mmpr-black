@@ -1,29 +1,39 @@
 # Summary
 
-Day 250 (night, slept at the white bed near -271,67,336 with the group; sleep went through, days_since_sleep 0). Health 20, hunger 20 after a reflex eat. Pack empty, no weapon in hand. Died on day 249 at about -279,228 (unseen attacker while bows sounded); dropped 2 beef, 1 leather, 1 bone, 4 oak_sapling, 4 stick, 1 oak_log, 1 wooden_sword at about -279,65,228. Not going back until the danger is clear. Trini is the weakest: any food goes to her first.
+Zack Taylor. End of day 251, night, at the white beds near -271,67,336 with the group (last recorded 01:20). Health 20, hunger 20 at dawn of day 251. Pack empty, no weapon. Sleep was refused that evening by a creeper 8 blocks off.
 
-Day 248 (night, in a yellow bed near -262,67,353, sleep started with 2 of 7 asleep): health 0.67, hunger 15, no food. Day 248: walked north to Geldar's wheat at -263,66,321; no wheat or food there. Wait calls kept failing with session errors until late in the day. Trini has a chicken and ate it at health 3. Jason lost his sword on death at -272,71,316 and made a new one.
-Earlier (night of day 244): health 0.67, hunger 17, no food. Pack: 1 oak_log, 2 dirt, 1 bone, 3 stick, wooden sword in hand. Sleep worked on the third try after the golems moved off. Trini has the chicken; Data and Riker are also weak. Days 238 to 244: no food found; chicken from the east went to Riker, then Data. Two skeleton fights at the north-west shore nearly killed me.
+Where things are:
+- White beds near -271,67,336; a yellow bed near -263,67,353.
+- Crafting table near the beds (oak logs, planks, sticks, sword).
+- Dropped on my death at about -279,65,228: 2 beef, 1 leather, 1 bone, 4 oak sapling, 4 stick, 1 oak log, 1 wooden sword. Not going back until the danger there is clear.
+- North-west lake shore near -300,66,256: salmon, skeletons. My pack was lost in that water on day 234.
+- Wheat spot at -263,66,321: no wheat there on day 248.
 
-What I hold: nothing that I know of. Last known: a wooden sword and some oak logs and dirt were lost when I died. No food, no wool, no bed of my own.
+What I hold: nothing.
 
-What I was doing: going with the group to scout for food, and trying each night to sleep at a white bed, with Kimberly, Trini, Jason, Tommy, Billy and Riker near. Meat or apples go to Kimberly first, then whoever is weakest.
+Who I am with: Trini (keep food for her first; she held the last chicken), Data (weak), Worf (hunger 6 and health 4.8 on day 251), Riker, Jason, Kimberly, Troi, Tommy, Billy, Laforge and Wesley (both holding porkchops I asked them to give to Worf and Trini).
 
-Days 225 to 236 digest: no cows, pigs or sheep on the north-east, west, north-west or south-west grass. Oak leaves gave no apples. Sleep was refused for monsters many times and worked on later tries or at a second bed. A salmon at the north-west lake went to Riker; then I went into the water after another and skeletons killed me there.
+Days 238 to 251, in brief:
+- Days 238 to 239: a skeleton and a phantom at the north-west shore took me to 0.7 health. A chicken from the east grass near -236,203 went to Riker, then Data, then Trini.
+- Days 240 to 249: food scouts east, south, north-east and north found nothing. Sleep was refused at the beds for nearby monsters; it worked on retries or at the yellow bed.
+- Dawn of day 250: I went alone after a cow seen near -286,245. An unseen attacker killed me near -279,228 while bows sounded.
+- Day 251: back at the white beds with the group, with nothing.
 
 Earlier, in brief:
-- Day 194 to 198: food hunt with the group; every lead stale. Died in the night of 198 (pit, then a zombie at health 2 with no weapon).
-- Day 199: wooden sword made; hunger back to 20 after the group shared meat.
-- Days 200 to 216: hunger stayed near 17. Hunts for cows and sheep kept failing.
+- Days 225 to 236: no cows, pigs or sheep on the north-east, west, north-west or south-west grass. Oak leaves gave no apples. Died in the lake on day 234 after going in for a salmon.
+- Days 200 to 216: hunger stayed near 17; cow and sheep hunts failed.
 - Day 217: stuck on a one-block stone pillar about thirty blocks below the grass. Kimberly walked a dry route and I called each step; I got free.
+- Day 199: wooden sword made; hunger back to 20 after the group shared meat.
+- Days 194 to 198: food hunt with the group; every lead stale. Died in the night of 198 (pit, then a zombie at health 2 with no weapon).
 
 Lessons that matter most:
-1. Eat first. Hunger below 10 starts every bad choice; the food hunts keep failing.
-2. Carry a weapon before dusk. Both deaths came with bare hands.
-3. Give food away at once. Held food was eaten by reflex or lost.
-4. Lead spots go stale fast. Look before walking far, and use short gotos.
-5. Stay with the group at night, and keep out of open water, especially with skeletons near.
-6. Never climb or bridge into a place with no way down.
-7. Refused sleep is not final: retry after a short wait, or try a second bed.
+1. Eat first. Hunger below 10 starts every bad choice.
+2. Carry a weapon before dusk. Bare hands killed me on day 198; a wooden sword alone did not hold against a skeleton and a phantom.
+3. Give food away at once, Trini first.
+4. Lead spots go stale fast. Look before walking far; use short gotos.
+5. Do not go alone after a lone sighting, north or near bows.
+6. Stay with the group at night, and keep out of open water, especially with skeletons near.
+7. Never climb or bridge into a place with no way down.
+8. Refused sleep is not final: retry after a short wait, or try a second bed.
 
-Next: at first light go with the group to the grass or the lake shore for food; give the first meat to Trini, then Data; keep the sword in hand; do not enter open water.
+Next: at first light, with the group, get logs and craft a new wooden sword; scout the grass in sight of the beds; give the first meat to Trini, then Data and Worf; ask Laforge and Wesley for the porkchops; do not enter open water.

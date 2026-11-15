@@ -1,0 +1,170 @@
+# Journal
+- 248 day: walked north to the wheat at -263,66,321; no wheat visible, no food. Hunger 15, health 0.67. Next: check Geldar's wheat, then back to the group.
+: {"text":"Ezra, goodnight. Food first at light for Trini, then Riker."}
+- 20:47 say: {"text":"Ezra, Worf, Jason: I'm awake at the white bed, hunger 20, no food and no weapon. At first light I'll go with the group for meat, and Trini and Riker get the first of it."}
+- 20:49 say: {"text":"Zack here at the white beds, health 20, hunger 20, no food and no weapon. Trini first with the wheat, then Riker. I'll go west with Troi to look for seeds or animals, and bring anything I fin
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":338}}],"reasoning":"Troi is with me and golems are north/south. Moving a short way west to look for seeds and grass animals, away from the bed cr
+- 20:50 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"reasoning":"Grass can drop wheat seeds when broken. Try breaking grass nearby for seeds, which could grow into food."}
+- 20:53 say: {"text":"Zack: I have no weapon, so I'll stay near the beds and not join the sheep trip. I'll keep watch here. Any food found goes to Trini first, then Riker."}
+- 20:55 act: {"say":"Zack at the white beds, day 238. Health 20, hunger 20, no food, no weapon. I'll stay near the beds and keep watch. Trini and Riker first for anything found.","intent":{"goal":"keep_watch_at_be
+- 20:57 act: {"say":"Zack: Billy, I'm coming west with you. Staying in sight. Trini first for any animal we find.","intent":{"goal":"follow_billy_west_for_animals","program":"follow","arguments":{"target":"ag_bill
+- 20:57 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Zack: On my way to you, Billy. Let's go west together."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":-282,"y":66,"z":337}}],"say":"Zack: It's getting dark and I have no weapon, so I'm going back to the white beds with you, Billy. We can try the west grass at fir
+- 20:58 act: {"say":"Zack: Agreed, Tommy. West at first light, together. I'm at the white beds with no weapon, and I'll sleep in a bed tonight."}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack: Night. Going to the white bed to sleep. West at first light, with whoever is still awake."}
+- 21:03 act: {"actions":[{"do":"sleep"}],"say":"Zack here, night on 238, no food, no weapon. Trying the bed beside me now. Food to Trini first at light."}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night is dark and golems are near. I'm at the white bed with full health and hunger. Trying to sleep here."}
+- 21:04 act: {"actions":[{"do":"sleep"}]}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 21:05 act: {"actions":[{"do":"sleep"}],"say":"Still at the white beds with full health and hunger, no weapon. Trying to sleep again."}
+- 21:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 21:05 act: {"actions":[{"do":"sleep"}]}
+- 21:08 act: {"say":"Zack: dawn. No food, no weapon, health 20. Trini first for any mutton I find. I'm getting logs near the crafting table to make a wooden sword, then I'll join the sheep search north.","intent":
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":325}},{"do":"craft","item":"oak_planks","count":4}],"say":"Zack: a phantom is near me in the dark, and I have no weapon. Moving to the crafting t
+- 21:08 act: {"actions":[{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}]}
+- 21:09 act: {"say":"Zack: I have a wooden sword now. Heading north with anyone going to the sheep field. Any mutton goes to Trini first.","intent":{"goal":"walk_north_to_sheep_field","program":"travel","arguments
+- 21:09 act: {"say":"Zack here at dawn with a wooden sword, no food. Heading north toward the sheep field for mutton. Any mutton goes to Riker, then Trini.","intent":{"goal":"reach_sheep_field","program":"travel",
+- 21:09 act: {"intent":{"goal":"search_north_for_sheep","program":"travel","arguments":{"target":{"x":-277,"y":67,"z":240}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 21:10 act: {"say":"Zack: no animals yet at (-277,240). Going further north to look for the sheep field. Mutton goes to Riker, then Trini.","intent":{"goal":"search_further_north_for_sheep","program":"travel","ar
+- 21:10 act: {"intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":200}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":-236,"y":67,"z":203}},{"do":"attack","target":"chicken"}],"say":"Zack: I see a chicken to the east. Going to take it for food. It goes to Riker, then Trini."}
+- 21:10 act: {"say":"Zack: I have a chicken. Heading back to the white beds now. Riker first, then Trini.","intent":{"goal":"carry_chicken_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":330
+- 21:11 act: {"say":"Zack: I'm at the white beds with a chicken. Riker, where are you? Trini, come to me; the chicken goes to Riker first, then you. A golem is 21 blocks south-west, so I'm staying near the craftin
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"say":"Zack: golem 8 blocks south-west, so I'm moving north-east. Trini, meet me there. Riker is not here; the chicken goes to Riker first
+- 21:11 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Zack: Riker, here is the chicken for you, as agreed. Trini gets the next food."}
+- 21:11 act: {"actions":[{"do":"give","to":"Riker","item":"chicken","count":1}],"say":"Zack: Riker, the chicken is yours. Please eat it or share it with Trini."}
+- 21:12 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, the chicken is for you, since Trini said it goes to you first."}
+- 21:12 act: {"say":"Zack here at the beds, health 20, hunger 20, no food in my pack. I'll head north with my wooden sword to look for sheep or cows. Iron golems are to the south, so I'm keeping away from them.","
+- 21:12 say: {"text":"Zack: I'm at the north spot, -274, 289, with Troi in sight. No food here. I'll wait here for the sheep group to call out. Trini first for any mutton."}
+- 21:15 act: {"say":"Worf, I have no food and don't know the sheep field either. I'm at -274,67,289 with Jason. I'll stay close to him and look for food.","intent":{"goal":"stay_with_jason","program":"follow","arg
+- 21:15 act: {"say":"Trini, Tommy, Worf: I'm here at -274,67,289 with Jason and Troi. I have no food either. Nobody has seen sheep yet, so let's search together. Trini comes first for any mutton."}
+- 21:16 act: {"say":"Zack: I have nothing on me either. I'll scout north-west with Tommy and Jason toward -290,67,268 and call out any sheep or cow. Trini, stay here with Troi and Kimberly; any mutton goes to you 
+- 21:16 act: {"say":"Zack at -290,67,269: no animals here. I'll try a bit further north-west and call out anything I see.","intent":{"goal":"scout_further_northwest","program":"travel","arguments":{"target":{"x":-
+- 21:16 act: {"say":"Zack: Jason, if you get a salmon it goes to Trini first. I'll come to the shore to help, but I won't go into the water, since that is how I died last time.","intent":{"goal":"join_jason_at_sho
+- 21:16 act: {"say":"Zack at the shore edge, -300,66,256. Salmon is in the water to the north-west. I have no fishing rod and won't enter the water. Jason and Tommy, you have it: Trini first."}
+- 21:23 act: {"say":"Zack here at the shore, -300,66,256. Health 20, hunger 20, no food. Night has come, so I'm staying close to Tommy. Jason, if you find sheep or cows east, call the spot and I'll come.","intent"
+- 21:23 act: {"say":"Zack: phantoms are circling. I have a wooden sword. Tommy, stay beside me and hit anything that comes close. I'll strike back.","actions":[{"do":"wait","seconds":15}]}
+- 21:24 act: {"say":"Zack: Tommy, I can't see you now. I'll keep my sword for myself, but I'm sorry. Run to the group east and stay near them."}
+- 21:27 act: {"say":"Zack: I'm being shot at. Moving east toward the group at -274,67,289.","actions":[{"do":"goto","target":{"x":-274,"y":67,"z":289}}]}
+- 21:27 act: {"say":"Zack: a skeleton with a bow is shooting me from the north-east. I'm closing in to fight it with my sword.","actions":[{"do":"goto","target":{"x":-299,"y":64,"z":251}},{"do":"attack","target":"
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":-299,"y":65,"z":253}},{"do":"attack","target":"skeleton"}]}
+- 21:27 act: {"actions":[{"do":"attack","target":"skeleton"},{"do":"attack","target":"skeleton"}]}
+- 21:27 act: {"say":"Zack: health 4.7, skeleton and phantom on me. Running south-east out of its sight toward the group.","actions":[{"do":"goto","target":{"x":-280,"y":67,"z":285}}]}
+- 21:27 act: {"say":"Zack: health 0.7, no food. I'm moving away from the skeleton. If I die, I had no weapon or food to stop it.","actions":[{"do":"goto","target":{"x":-276,"y":67,"z":300}}]}
+- 21:29 act: {"say":"Zack: dawn, health 0.7, hunger 17, no food. Troi, thank you for coming. I'll stay next to you and head to the group at the white beds. Trini gets any food first.","intent":{"goal":"stay_with_t
+- 21:29 act: {"say":"Zack: Riker, I'm at 0.7 health with hunger 17. If Trini is not with you, I'll take the chicken. If she is, give it to her first.","intent":{"goal":"reach_riker_for_chicken","program":"travel",
+- 21:29 act: {"say":"Zack: I'm at the white beds with Trini, Worf, Billy and Laforge in reach. Riker, if the chicken is still with you, give it to Trini. I'm at 0.7 health and will wait for the next food. Anyone w
+- 21:30 act: {"say":"Zack: Trini, you get the chicken first; I'm not eating before you. A bow is being drawn to the south, so stay close to the beds with Troi and Billy."}
+- 21:30 act: {"say":"Zack: agreed, Trini first, then me. I'm staying at the white beds with Troi and Billy, sword in hand.","intent":{"goal":"hold_at_white_beds_with_group","program":"follow","arguments":{"target"
+- 21:31 act: {"say":"Zack: Riker, Trini is right here next to me at the white beds. Give the chicken to her now. I'll take the next food."}
+- 21:32 act: {"say":"Zack: good, the chicken went to Data, who is weakest. Trini gets the next food, then me. I'll stay with the group and keep my sword ready."}
+- 21:35 act: {"say":"Zack: good, Trini eats the chicken from Jason. I'm still at the beds with no food, so I'll keep watch and take whatever comes next."}
+- 21:38 say: {"text":"Zack: Trini, eat your rotten flesh when your hunger hits 6, don't wait longer. I have no food. Anything found goes to you first, then Data."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"x":-270,"y":67,"z":319},"wake_on":["directly_addressed","unexpecte
+- 21:50 act: {"say":"Zack: dawn of day 241. Trini has the chicken, good. I have no food, hunger 17. I'll scout the grass near the beds in sight of the group and call out any animal."}
+- 21:58 say: {"text":"Zack: still no food here, hunger 17. I'll stay by the beds with my sword and watch the grass. Any cow, sheep or chicken, call it out."}
+- 22:18 act: {"say":"Zack, morning of day 242. No food, hunger 17. I'm staying at the white beds with the group, sword in hand. Trini first for any food, then Riker. I won't go to the sheep field alone.","intent":
+- 22:20 act: {"say":"Zack at the white beds, dusk of day 242. Health 0.67, hunger 17, no food. Trini and Data first for anything found. I'm going to the bed for the night with the group.","actions":[{"do":"goto","
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"wait","seconds":30},{"do":"sleep"}],"reasoning":"Sleep refused for monsters nearby. Lesson: retry after a short wait, try the second
+- 22:20 act: {"say":"Zack: sleep refused twice for monsters nearby. I'm at the white beds with the group, sword in hand. I'll wait and try the bed again shortly.","actions":[{"do":"wait","seconds":120},{"do":"slee
+- 22:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no monsters listed in view now. Try the bed once more."}
+- 22:23 act: {"say":"Zack: night of day 242 at the white bed. Sleep refused again for monsters. I'm staying with the group, sword in hand. Trini first for any food at dawn.","actions":[{"do":"wait","seconds":180},
+- 22:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep at the bed after the longer wait."}
+- 22:31 act: {"say":"Kimberly here, no, Geldar here: I have no food, hunger 17, health 0.67. I'll walk west with Billy and Data, short steps, and call out any animal. Trini and Riker eat first.","intent":{"goal":"
+- 22:31 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 22:31 act: {"say":"Geldar here, at -290,66,318 with Data, Billy and Riker. Still no food on me. I'll keep to the group and watch the west grass."}
+- 22:38 act: {"intent":{"goal":"return_to_white_beds_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{
+- 22:43 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 243. No food, hunger 17. Trying to sleep; Trini first at light."}
+- 22:45 act: {"actions":[{"do":"sleep"}]}
+- 22:48 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep at the bed now. Hunger is 17, so food comes first at first light."}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":330}}],"say":"Going with the group to the north lake for salmon. I have no food either.","intent":{"goal":"join_food_hunt_north_lake","program":"
+- 22:48 act: {"actions":[],"intent":{"goal":"follow_riker_to_north_lake","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":332}}],"say":"Iron golem coming from the west. Moving east away from it, toward where the group went."}
+- 22:48 act: {"actions":[],"say":"Riker, I'm at -255,66,332, east of the beds, away from the golem. No fish yet. I'll hold here until the group moves."}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Zack heading back to the beds to join the group. Still no food; hunger 17."}
+- 22:55 act: {"say":"Geldar here at the beds, no food, hunger 17. I'll search the grass nearby for animals or seeds and give anything I find to Trini or Riker first.","intent":{"goal":"search_grass_for_food","prog
+- 22:55 act: {"say":"Zack: I have no food either. Trini, Data and Riker are weaker than I am, so I'll stay here at the beds and not wander. Trini, eat your chicken when you need it."}
+- 22:59 act: {"say":"Geldar: dusk, no food, hunger 17. Going to the white bed to try sleep with the group nearby.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 22:59 act: {"say":"Geldar: sleep refused, not night yet. Iron golems are closing in, so I'm stepping back toward the beds' edge, away from them.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":323}},{"do"
+- 23:00 act: {"say":"Geldar: it's getting dim. Trying the white bed again with the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 244, no food, health 20. Trying sleep with the group. Trini first for any food."}
+- 23:03 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar: no food, hunger 17. Going to the white bed to try sleep again. Trini first for any food at dawn.","intent":{
+- 23:05 act: {"say":"Tommy, I'm at the white bed with the group. I'm going to sleep here for the night.","actions":[{"do":"sleep"}]}
+- 23:06 act: {"actions":[{"do":"sleep"}]}
+- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Trying the white bed again with the group. No food yet; first light, food hunt."}
+- Night 244: sleep worked at the white bed (-263,67,353) with the group near. Hunger 17, health 0.67 steady, no food. Plan: food hunt at first light, Trini first.
+- Day 245 morning: scouted east grass (-241,350) and south-east (-223,369). No animals, only oak and birch logs. Hunger 17, health 0.67.
+- Day 245 midday: scouted south (-230,395) and back. Broke oak leaves: got one oak sapling, no apples. Worf says salmon are across the west lake. Sleep refused at the bed (not night yet); waiting at the bed for dusk.
+- 23:11 act: {"intent":{"goal":"scout_east_grass_for_food","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 23:11 act: {"intent":{"goal":"scout_southeast_grass_for_food","program":"travel","arguments":{"target":{"x":-222,"y":67,"z":368}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 23:12 act: {"intent":{"goal":"scout_south_grass_for_food","program":"travel","arguments":{"target":{"x":-230,"y":67,"z":395}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 23:12 act: {"actions":[{"do":"mine","block":"oak_leaves","count":8}],"say":"Geldar: no animals here either. I'll break some oak leaves in case they drop apples."}
+- 23:12 act: {"intent":{"goal":"return_to_white_beds_with_group","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Geldar: dusk, day 245. No food found east or south. Going to the white bed with the group. Hunger 16."}
+- 23:21 act: {"actions":[{"do":"sleep"}]}
+- 23:21 act: {"actions":[{"do":"wait","seconds":30}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 23:23 act: {"actions":[{"do":"sleep"}]}
+- 23:24 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the bed, night of day 245, hunger 16, health 0.67, no food. Trying to sleep now. Food first at light."}
+- 23:25 act: {"say":"Night is here, and I am beside the white beds. Sleeping now.","actions":[{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"say":"Geldar at the white bed, night of day 245. No food, hunger 16, health 0.67. Trying sleep again with the group nearby; Trini first at light
+- 23:28 act: {"say":"Zack here at dawn, hunger 16, no food. Going to scout the grass for cows or sheep. Tell me if you see any.","intent":{"goal":"scout_food_grass","program":"travel","arguments":{"target":{"x":-2
+- 23:28 act: {"intent":{"goal":"scout_food_east","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"lim
+- 23:28 act: {"intent":{"goal":"scout_food_further_east","program":"travel","arguments":{"target":{"x":-225,"y":67,"z":350}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 23:28 act: {"intent":{"goal":"scout_food_northeast","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 23:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":340}}],"intent":{"goal":"return_to_white_beds_before_dark","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":340}},"wake_on":["direct
+- 23:29 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Geldar: I'm back near the beds, no food yet. Jason and Data, I'm coming to you. Any food goes to Trini first, then Data.","intent":{"goal":"joi
+- 23:30 act: {"say":"Geldar: I'm with the group at the white beds now. Still no food on me, hunger 16. Trini first for any food, then Data. I'll hold here with my sword and not wander alone."}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":313}},{"do":"mine","block":"oak_leaves","count":6}],"say":"Geldar: I'll knock leaves for apples by the oak trees north-west, in sight of the grou
+- 23:35 act: {"intent":{"goal":"return_to_beds_and_group","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complet
+- 23:35 act: {"say":"Back at the white beds with my sword. Health is very low, and I have no food. Does anyone have bread, meat or fruit? I'll take it, and I'll share anything I find.","intent":{"goal":"find_food_
+- 23:40 act: {"actions":[{"do":"sleep"}],"say":"Going to bed at the white beds with the group. Health low, no food. Trini eats the chicken first at dawn, then Data. I'll look for food first thing."}
+- 23:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Phantom keeps the bed here from being safe to sleep. I'm trying the yellow bed with the group, sword in hand."}
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the yellow bed, night of day 246. Health 0.67, hunger 16, no food. Trying to sleep; food first at light for whoever is weakest."}
+- 23:49 act: {"say":"Zack here, dawn day 247, at the white beds. Health 0.67, hunger 16, no food. Riker, I'll come to the west lake with you for salmon. I'll stay on the shore and out of the water. Any meat goes t
+- 23:51 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Zack coming to the group at the logs, away from the bow sound to the north. Staying with you."}
+- 23:51 act: {"actions":[{"do":"goto","target":{"x":-246,"y":67,"z":353}}]}
+- 23:54 act: {"say":"Zack at the logs by the water, (-246, 67, 353), not in the water. Riker, I'm not going on the boat. If you bring fish back, Trini first. I'll wait here for the group."}
+- 00:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Zack heading back to the beds for the night with the group."}
+- 00:01 act: {"actions":[{"do":"sleep"}],"say":"Zack at the yellow bed, night of day 247. No food, hunger 15, health 0.67, sword in hand. Trying to sleep with the group near. Trini first for any food at light.","r
+- 00:09 act: {"say":"Dawn, day 248. Hunger 15, no food on me. I'll walk the grass with Riker and keep my sword out. Any meat goes to Trini first.","intent":{"goal":"hunt_food_grass","program":"travel","arguments":
+- 00:09 act: {"intent":{"goal":"hunt_food_grass","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"lim
+- 00:09 act: {"say":"Zack: dusk, day 248. No food, hunger 15, health 0.67. My food hunt failed, so I'm going back to the white bed by the group to sleep. Kimberly, Trini first at light.","actions":[{"do":"goto","t
+- 00:10 act: {"say":"Trini, thank you, but keep the chicken. You're at hunger 11 and I'm at 15, and you need it more. Eat it when you reach 6. If I find anything, I'll bring it to you."}
+- 00:12 act: {"say":"Geldar: I'll check the wheat at -263,66,321 now. Anything ripe goes to Trini first, then Data.","actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}]}
+- 00:13 act: {"say":"Geldar: no wheat visible at -263,321, so I'll break the tall grass here for seeds. Any food goes to Trini first.","actions":[{"do":"mine","block":"tall_grass","count":4}]}
+- 00:17 act: {"say":"Zack here. I have no food and hunger is 15. If anyone finds a cow, sheep, chicken or wheat, please call out. I will stay near the beds.","intent":{"goal":"search_food_near_beds","program":"tra
+- 00:19 act: {"say":"Zack here, day 248, hunger 15, no food. Heading north to Geldar's wheat at -263,66,321 to check if it is ripe. Trini first for anything I find.","intent":{"goal":"check_wheat_north","program":
+- 00:25 act: {"say":"Zack at night on day 248, no food, hunger 15, health 0.67. Going to the white bed at -271,67,336 with the group. Trini has the chicken and eats it; I'm not taking it.","actions":[{"do":"goto",
+- 00:25 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 00:26 act: {"actions":[{"do":"sleep"}]}
+- 00:27 act: {"say":"Zack here, coming to the white beds now. Trini, keep the chicken; I'll call when I'm in reach.","actions":[{"do":"goto","target":{"x":-269,"y":67,"z":338}}],"intent":{"goal":"reach_group_at_wh
+- 00:27 act: {"say":"Zack here, in reach. Trini, I'm weakest at 0.67 but you're at 3. If the chicken is still yours, eat it; if you can spare it, I'll take it. Tell me.","actions":[]}
+- 00:29 act: {"say":"Zack at dawn, day 249, health 0.67, hunger 15. Trini, you said the chicken is mine. Please give it to me now, I'm in reach. If you need it more, say so.","actions":[{"do":"wait","seconds":20}]
+- 00:29 act: {"say":"Zack: Trini has the chicken now, so I won't ask for it. I'm scouting east on short steps for animals, away from the golems. Any food goes to Trini first.","intent":{"goal":"scout_east_for_anim
+- 00:30 act: {"intent":{"goal":"scout_northeast_grass_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits"
+- 00:30 act: {"say":"Zack at -241,68,322, morning of day 249. No animals or apples here. Heading north-east a bit further; any animal I find goes to Trini first.","intent":{"goal":"scout_north_east_for_animals","p
+- 00:30 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-225,"y":67,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 00:30 act: {"say":"Trini, thank you. I'm at -225,68,270, standing still on the grass. Come to me and I'll take the chicken. Eat it yourself if your hunger drops below 6."}
+- 00:40 act: {"say":"Trini, it's getting dark and I'm alone out here. I'm heading back to the white beds near -272,67,337. Meet me there with the chicken.","intent":{"goal":"return_to_white_beds","program":"travel
+- 00:40 act: {"say":"Trini, I'm here at the white beds. Do you have the chicken? I'm at hunger 15, so give it to me if you can spare it, or eat it yourself if you need it more."}
+- 00:50 act: {"say":"Geldar, dawn of day 250. No food on me. Trini first for anything found. I'm scouting north toward the sheep field, staying within sight of the beds.","intent":{"goal":"scout_north_for_sheep","
+- 00:50 act: {"intent":{"goal":"scout_north_sheep_field","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":268}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 00:51 act: {"say":"Geldar: a cow was seen near -286,66,245. I'm going for it now. Any meat I get goes to Trini first.","intent":{"goal":"find_cow_near_286_245","program":"travel","arguments":{"target":{"x":-284,
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":241}},{"do":"attack","target":"cow"}],"intent":{"goal":"hunt_cow","program":"gather","arguments":{"block":"beef","count":1},"wake_on":["directly_
+- 00:51 act: {"say":"Geldar: I was killed near -279,228 while going for the cow. Something hit me there and bows were sounding. I dropped 2 beef and a leather at -279,65,228. I'm at the yellow beds with nothing. T
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Geldar: going to the white bed with Trini for the night. I have nothing on me."}
+- 00:56 act: {"say":"Geldar here at the white beds, day 250. No food on me, pack empty. Trini first for anything I find; I'll stay in sight of the group.","intent":{"goal":"stay_near_group_until_food","program":"f
+- 01:00 act: {"say":"Laforge, you are 1 block from Trini and Troi, and Trini can see you. Give her the porkchop now, please. I have no food.","intent":{"goal":"sleep_at_white_bed_with_group","program":"rest","argu
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Zack trying the white bed by the group, no food, health 20. Trini first at light."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack walking to the white bed for the night. No food; Trini first with Laforge's porkchop."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here at the white bed. Health 20, no food yet. Trini first when food turns up.","intent":{"goal":"rest_at_bed",
+- 01:06 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_b
+- 01:09 act: {"say":"Zack here, dawn of day 251. Health 20, hunger 20, no food, no weapon. I'll stay in sight of the group and search the grass for animals. Trini first for any food.","intent":{"goal":"search_gras
+- 01:09 act: {"say":"Zack: my follow failed, so I'll search the grass right here near the beds and call out any animal I see. Worf is at hunger 6; food goes to him or Trini first.","actions":[{"do":"mine","block":
+- 01:14 act: {"say":"Zack: I have no food and no weapon, so I'll stay at the beds with the group rather than go far. Data, with health 3, you should be first after Worf. Anyone who sees a cow or pig, call the spot
+- 01:16 act: {"say":"Zack: Troi, Worf is weakest now at health 4.8 and hunger 6, so give him the porkchop. Trini gets the next food. I have nothing to give, and I'm staying here at the beds.","actions":[{"do":"wai
+- 01:17 act: {"say":"Zack: Wesley, give the porkchops to Worf first, then Trini. I'm at 20 health and hunger 20 with no food, so I don't need one. I'll stay at the beds and sleep at dusk.","actions":[{"do":"wait",
+- 01:19 act: {"say":"Zack: dusk, going to the white bed to sleep with the group nearby. No food, health 20, hunger 20.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:20 act: {"say":"Zack: sleep was refused, a creeper is 8 blocks off. I'll wait a little and try the bed again. Wesley, the porkchops go to whoever is weakest.","actions":[{"do":"wait","seconds":30},{"do":"slee
