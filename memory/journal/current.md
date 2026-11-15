@@ -108,3 +108,13 @@
 - 19:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the white bed, night 306, health 20, hunger 20. Trying to sleep. No food needed here.","reasoning":"Night, shelte
 - 19:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed refused; try the second white bed as the plan says."}
 - 19:46 act: {"actions":[],"say":"Zack at the white beds, health 20, hunger 20. No food to spare right now. Worf, I still owe you a wooden sword; I'll hand it over when you are in sight.","reasoning":"Answering th
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is the wooden sword I owed you. Health 20, hunger 20, no food. Trini 
+- 20:00 act: {"actions":[{"do":"note","text":"Day 307 daytime. Health 20, hunger 20. Give to Worf failed: out of reach at 4.9. Holding 4 wooden swords for Worf and others."}],"intent":{"goal":"hold_at_beds_until_w
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, coming to you with a wooden sword. Dusk now; then back to the beds.","reas
+- 20:00 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the white bed, health 20, hunger 20. Worf has a sword now, so my spare swords stay with me. Trying to sleep for t
+- 20:00 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"reasoning":"Bed click was refused as a bed; sleep may just need full night. Wait a minute, then try sleep alone."}
+- 20:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Dim, dusk now. Sleep alone at the bed I stand on."}
+- 20:02 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, no monsters in sight, group at the beds. Try bed once more."}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Bed refused here. Move beside the second bed and try it from the s
+- 20:12 act: {"actions":[],"say":"Zack at the north beds, morning 308, health 20, hunger 20, no food. I'm armed with a stone sword and can walk with anyone going to Riker's pit or hunting in daylight.","reasoning"
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk; try the north bed once more from its side, group in sight."}
