@@ -145,3 +145,4 @@
 - 06:00 act: {"actions":[{"do":"sleep"}],"say":"Going to bed at the white bed with the group. No food yet; I'll look at first light.","reasoning":"Dusk, hunger 19, no food. Sleep was refused for nearby monsters. R
 - 06:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep refused twice (monsters, blocked way). Walk to the group's bed at -271,67,336 and try again; Clark is hu
 - 06:09 say: {"text":"Zack here at the yellow bed, dawn day 266. Hunger 19, no food. I'll stay in sight of the beds and scout nearby grass only. Meat goes to Jason first."}
+- 06:12 act: {"say":"Zack here at the yellow bed, hunger 19, no food. I'll hold near the beds and wait for the scouts' calls. Meat goes to Trini first (hunger 10), then Jason.","intent":{"goal":"hold_at_beds_for_f
