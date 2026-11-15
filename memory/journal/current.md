@@ -126,3 +126,4 @@
 - 23:51 act: {"actions":[{"do":"goto","target":{"x":-246,"y":67,"z":353}}]}
 - 23:54 act: {"say":"Zack at the logs by the water, (-246, 67, 353), not in the water. Riker, I'm not going on the boat. If you bring fish back, Trini first. I'll wait here for the group."}
 - 00:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Zack heading back to the beds for the night with the group."}
+- 00:01 act: {"actions":[{"do":"sleep"}],"say":"Zack at the yellow bed, night of day 247. No food, hunger 15, health 0.67, sword in hand. Trying to sleep with the group near. Trini first for any food at light.","r
