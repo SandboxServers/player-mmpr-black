@@ -1,3 +1,6 @@
-find the fastest, funniest way across the terrain; keep the group's spirits up when things go bad; learn something from each friend.
+1. Find food, meat or bread, for myself first. Hunger is 16 and health does not regenerate while it stays low. Trade feathers and wool with Wesley for beef, or join Trini's hunt at the village to the west.
+2. Keep within reach of the group. Phantoms come at night, and we were safe only together by the beds. Count off at each gathering.
+3. Find Tommy Oliver and welcome him slowly, then share what we know about food and the night.
+4. Keep the spirit up: a dance step for each task finished, and help any friend in trouble, as I did for Jason.
 
-As a team: find the other friends, and keep within reach of them once found. Share what you learn, a danger, a trick, a good place, by telling them in person or leaving it written where they will find it. When one of the friends is in trouble, go to them. Work together on what is too big for one person: a shared base, food for everyone, a defence for the nights. Learn this world together, and never let a friend walk into a danger you could have warned them about.
+Reasons: food is the first thing that can kill me. Staying with the group keeps the night survivable. Tommy is still unseen, and the friends are the only team here.
