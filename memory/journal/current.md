@@ -148,3 +148,7 @@
 - 06:12 act: {"say":"Zack here at the yellow bed, hunger 19, no food. I'll hold near the beds and wait for the scouts' calls. Meat goes to Trini first (hunger 10), then Jason.","intent":{"goal":"hold_at_beds_for_f
 - 06:15 act: {"say":"Zack here, hunger 19, no food. Picard, if you find a cow, sheep or pig, tell me the spot and I will come. Kimberly, Worf, LaForge and Trini eat first.","intent":{"goal":"scout_food_near_beds",
 - 06:15 act: {"intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":-240,"y":66,"z":353}}],"say":"Hungry, no food here. I'm scouting east of the beds for animals and will call out anything I find.","intent":{"goal":"scout_east_fo
+- 06:18 say: {"text":"Zack here, hunger 19, no food. I have seen no animals on the east side yet. I'm checking my footing now."}
+- 06:18 act: {"actions":[{"do":"unstick"}]}
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addressed
