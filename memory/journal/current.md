@@ -22,3 +22,7 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"reach_white_bed_and_sleep","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addr
 - 11:24 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 11:24 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"hold_near_beds_at_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpect
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack, night 281. Going to the north white bed to try sleep again. No foo
+- 11:31 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack, dawn day 282. No food, hunger 14. Trying the other north bed. Meat goes to Trini, then Picard."}
+- 11:32 say: {"text":"Zack, day 282. Hunger 14, no food. Billy, I have seen no animals since the grass south-east of the beds. I'll stay here with Kimberly. Trini and Picard first for any meat."}
