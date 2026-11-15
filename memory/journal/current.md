@@ -52,3 +52,6 @@
 - 18:09 say: {"text":"Zack, dawn 302, hunger 7, health 9, holding 2 mutton and 3 chicken. I'll eat at 6. Call out if you are lower."}
 - 18:10 say: {"text":"Zack, hunger 7, I have food and will eat at 6. Kimberly, keep your beef for whoever drops lower than me."}
 - 18:10 act: {"actions":[{"do":"eat"}],"say":"Zack, eating one mutton now at hunger 7, since the group says I am lowest. I still hold 1 mutton and 3 chicken for whoever drops next."}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack, night 302, hunger 9, health 9, going to the white bed with the group. Holding 1 mutton and 3 chicken for whoev
+- 18:23 say: {"text":"Zack at -261,66,347, dusk, hunger 9. Chapman and Jason, I have 1 mutton. Step into my sight and say so, and it's yours. Phantoms to the north-east."}
+- 18:23 say: {"text":"Jason, I can't see you from here, I'm at -281,67,319 with health 7. Step into my sight and I'll hand you the mutton at once. I was hit from the front just now, so I'm watching for phantoms."}
