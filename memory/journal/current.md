@@ -119,3 +119,59 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 14:18 say: {"text":"Troi, thank you. Leonardo was first, so if the chicken is in my hands I'll pass it straight to Leonardo, or keep it for whoever is lowest."}
 - 14:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Troi, I'm at the bed, one step north of you. Hand the chicken to Leonardo if he is in sight; otherwise to me."}
 - 14:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 14:26 act: {"say":"Zack here, morning. No food, hunger 10, health 9. I'll scout the grass near the beds for animals and stay in sight of the group.","intent":{"goal":"scout_near_beds_for_animals","program":"trav
+- 14:28 act: {"say":"Zack here, hunger 10. Troi, I can see you now; please give me the rotten flesh. Thank you. Lewis, Worf, Macdonald: I'll go east for the pigs once I've eaten."}
+- 14:28 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. Trying to eat it now."}
+- 14:29 act: {"say":"Troi, I'm at -270,66,345 by the trader and the golems, right where you can see me. Please hand me the rotten flesh now. Then I'll go east after the pigs."}
+- 14:29 act: {"actions":[{"do":"eat"}]}
+- 14:29 act: {"say":"Troi, I still have no flesh; my eat failed. Keep it for Leonardo if he is closer. I'm going east with the pig hunt now.","intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"
+- 14:30 act: {"say":"Troi, yes, I want it. I'm at -241,67,350 with Wesley and Lewis. Please come within arm's reach and give it to me."}
+- 14:32 act: {"say":"Troi, I'm right here with you. Please give me the rotten flesh now, I'm starving.","intent":{"goal":"hold_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_
+- 14:32 act: {"actions":[{"do":"eat"}],"say":"Thank you Jason, thank you Troi. Eating it now."}
+- 14:32 act: {"intent":{"goal":"wait_with_group_for_pig","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":4}},"say":"I'll
+- 14:37 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"say":"Heading east with the group to the pig area. I'll eat the flesh when my hunger hits 6."}
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"No pigs here. Going west with the group to the yellow beds for the night."}
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 14:43 act: {"actions":[{"do":"sleep"}]}
+- 14:45 act: {"actions":[],"say":"Zack awake, hunger 9, health 9. I will go east with the group for pigs. Keep me in sight, please.","intent":{"goal":"follow_group_east","program":"follow","arguments":{"target":"W
+- 14:45 act: {"actions":[],"say":"Worf, I am still at the yellow beds, -281,69,371. I cannot see you, so I will wait here for the group."}
+- 14:52 act: {"actions":[],"say":"Zack at the yellow beds, -283,69,372, hunger 9. Worf, Chapman, Leonardo: I cannot see you. Please wait for me or come back this way and I will join you."}
+- 15:00 act: {"actions":[{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"}]}
+- 15:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":340}}],"say":"Zack awake at dawn, hunger 9. Heading to the white beds to find the group. Any meat, I am with you."}
+- 15:09 act: {"actions":[],"say":"Zack here with Lewis, Picard, Riker and Kimberly at the white beds. Hunger 9. Does anyone have meat or food? Where are the pigs?"}
+- 15:12 act: {"actions":[],"say":"Zack at the white beds, hunger 9. LaForge is weakest at health 2 and Macdonald has no food: the chicken goes to them first. I still have rotten flesh for when I am lower."}
+- 15:13 act: {"actions":[],"say":"Jason, Riker is at health 3 and I am at hunger 9 with rotten flesh in my pack. Keep the chicken for Riker. If it reaches me later, I will take it."}
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Zack going to the white bed at -270,67,336 for the night, with the group in sight. Hunger 9, one rotten flesh kept f
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":334}}],"say":"Zack, dawn 294, hunger 9, health 9. Going with the group to the south farm. Any meat or wheat: weakest first, then me."}
+- 15:36 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wcrusher, Troi's chicken landed in my pack. You are at health 2, so it's yours. Eat it now."}
+- 15:36 act: {"actions":[],"say":"Data has the chicken now. Data, please give it to Wcrusher, he is at health 2.","intent":{"goal":"hold_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. Going to the white bed with the group for the night. My rotten flesh is kept for hunger 6. Wesley, the chicken
+- 15:41 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to my east, I am fighting it with my stone sword.","reasoning":"A phantom is attacking me and blocks sleep. Strike it with my sword."}
+- 15:43 act: {"actions":[{"do":"sleep"}],"say":"Staying by the bed with the group. Wesley, I will strike the phantom if it comes low.","reasoning":"The phantom is out of reach above. Try sleep again beside the gro
+- 15:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom left. Sleep at the white bed with the group."}
+- 15:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked by the way; I drifted to the north bed at z 318. Try sleep once more here beside the group."}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"The way was blocked here. Step to a clear spot by the white bed and try sleep again."}
+- 15:49 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is a wooden sword for you. Good luck finding animals with the group.","reasoning":"Dawn. Worf asked for a
+- 15:49 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"reasoning":"The first give failed on sight. Worf is in reach now, so retry once."}
+- 15:49 act: {"actions":[],"say":"Worf, I have spare wooden swords. Give me a moment and I will hand you one when you are near.","reasoning":"The give failed because we were too close to toss. Worf is heading out 
+- 15:50 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, here is a wooden sword. Take it.","reasoning":"Leonardo is in reach with an empty pack and no weapon. 
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":351}},{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, I am stepping back a little so I can toss the sword t
+- 15:50 act: {"actions":[],"say":"Leonardo, I have a wooden sword for you. Step back into sight and I will hand it over.","reasoning":"Leonardo is out of sight, so the give cannot work now. I will call him back an
+- 15:52 act: {"actions":[],"say":"Zack here, morning 295. I have no meat or wheat. Wesley first; I will hold my one rotten flesh until my hunger is 6 or below.","reasoning":"Food is moving toward Wesley through Ja
+- 15:54 act: {"actions":[],"say":"Worf, Leonardo: step into sight of me by the yellow beds. I will hand a wooden sword to whichever of you I can see first.","reasoning":"Worf and Leonardo are both back at the yell
+- 15:56 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is a wooden sword. Wesley and Trini first for food.","reasoning":"Worf asked for a sword and says he is i
+- 15:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"Evening is coming. Move to the yellow bed and stay with the group before the night."}
+- 15:59 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is a wooden sword.","reasoning":"Worf and Leonardo are both in reach now. Worf asked first, so give him t
+- 15:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"I drifted to the water alone and the give failed. Return to the yellow bed with the group."}
+- 15:59 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is a wooden sword.","reasoning":"Worf and Leonardo are in reach at the bed. Try the give to Worf now and 
+- 15:59 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"The give keeps failing as agents drift out of sight. Stop chasing the sword. Return to the bed and wait for night, away from 
+- 16:00 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Worf, Leonardo: I have wooden swords. Here, one 
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"Give failed again; they left sight. Dusk is coming, so I return to the bed away from the water."}
+- 16:00 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, here is a wooden sword.","reasoning":"Worf and Leonardo are in reach now. Give Worf one sword first."}
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"Give failed again. I drifted to the water edge. Return to the bed and wait for night."}
+- 16:00 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"reasoning":"Worf is in reach at the bed right now. One try for Worf."}
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"The give failed again and I drifted to the water edge. Get back to the bed."}
+- 16:01 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}],"say":"Worf, I am turning to face you now. Stand still.","reasoning":"Worf is in reach 
+- 16:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Worf, the give keeps failing with no such agent in sight, even when you are close. I will stop trying for now. I am at the yellow b
