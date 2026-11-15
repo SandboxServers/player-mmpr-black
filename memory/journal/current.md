@@ -72,3 +72,12 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 13:07 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":328}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
 - 13:20 act: {"intent":{"goal":"reach_south_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
 - 13:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Zack, dusk day 287, at the south white bed. Going to sleep."}
+- 13:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed for the night. No food yet. Food goes to whoever is weakest first.","intent":{"goal":"rest_at
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Lewis, eat that chicken now, you are at health 3. I have no food, hunger 12.","intent":{"goal":"rest_at_bed","program":"rest","argu
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack, night 287, no food, hunger 12. Going to the north bed with the group."}
+- 13:23 act: {"actions":[],"intent":{"goal":"wait_for_morning_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 13:28 act: {"actions":[{"do":"unstick"}]}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"intent":{"goal":"sleep_at_yellow_bed","program":"rest","arguments":{"at":{"x":-271,"y":67,"z":326}},"wake_on":["directly_a
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Zack, dawn day 287, no food, hunger 11, health 15. Going back to the yellow bed; I'll scout for animals in sight of the group after
