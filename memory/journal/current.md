@@ -29,3 +29,4 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 11:50 say: {"text":"Zack, dawn day 283. No food, hunger 14. Leonardo, where is the pig lead? I'll come with the group. Meat goes to LaForge, Trini, then Picard."}
 - 11:51 say: {"text":"Kimberly, thank you, but keep the wheat: raw wheat can't be eaten. Give food to Picard now; he has the chicken. LaForge is at the crafting tables at -274,67,327."}
 - 11:58 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":327}}],"say":"Zack heading to the crafting tables to join the group for the pig hunt. No food on me."}
+- 12:03 act: {"intent":{"goal":"hold_by_tables_till_light","program":"rest","arguments":{"near":{"x":-274,"y":66,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
