@@ -7,3 +7,8 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 10:50 act: {"say":"Zack, dawn of day 280. Hunger 15, no food. I'll scout the grass in sight of the beds for animals. Any meat goes to LaForge, then Trini.","intent":{"goal":"scout_animals_near_beds","program":"t
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Dusk, day 280. No food on me. Heading to the white bed at -270,67,336 with the group to sleep. Picard and Trini first for any food.
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 11:03 act: {"say":"Night, day 280. No food on me, hunger 15. Sleeping in the white bed with the group, and food goes to LaForge, then Trini, when I wake.","actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],
+- 11:03 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":
+- 11:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked twice. Step onto the bed block at 336 and try once more."}
+- 11:04 act: {"actions":[{"do":"wait","seconds":60},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"A creeper 7 blocks off is blocking sleep for under a minute. Wait it out, then walk
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Still night and the group is near. Walk to the 336 bed and try sleep once more; if blocked, wait again."}
