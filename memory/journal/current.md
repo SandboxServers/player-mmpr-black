@@ -118,3 +118,4 @@
 - 20:02 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Bed refused here. Move beside the second bed and try it from the s
 - 20:12 act: {"actions":[],"say":"Zack at the north beds, morning 308, health 20, hunger 20, no food. I'm armed with a stone sword and can walk with anyone going to Riker's pit or hunting in daylight.","reasoning"
 - 20:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk; try the north bed once more from its side, group in sight."}
+- 20:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the north white bed, health 20, hunger 20. Trying to sleep with 
