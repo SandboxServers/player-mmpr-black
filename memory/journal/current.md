@@ -110,3 +110,5 @@
 - 04:51 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Zack following LaForge west, in sight. Any meat goes to Worf, then Trini."}
 - 04:51 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Zack heading west to Billy, with LaForge. Watch the golems to the south."}
 - 05:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at dusk, day 262, going to the north white bed with the group. No food; meat goes to Worf, then Trini."}
+- 05:01 act: {"actions":[{"do":"note","text":"Night of day 262 at the white beds near -270,67,336. Health 20, hunger 20, no food. Pack: 2 oak_log, 3 stick, wooden sword."}],"say":"Zack here. No food, hunger 20. Tr
+- 05:01 act: {"actions":[{"do":"sleep"}]}
