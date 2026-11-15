@@ -57,3 +57,10 @@
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack at dusk, day 257. No food, health 20, hunger 20, wooden sword in pack. Heading to the white beds with the group
 - 03:20 act: {"actions":[{"do":"sleep"}]}
 - 03:20 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white beds, dusk day 257. Health 20, hunger 20, no food. Iron golems are coming from the south; I'm staying with Worf, Tommy and Picard. Meat goes to Ezr
+- 03:21 act: {"actions":[]}
+- 03:21 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white bed, night of 257. Health 20, hunger 20, no food. Trini, you are lowest; any meat I find goes to you first, then Ezra and Data."}
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 03:22 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the bed. Trini, I have nothing yet; I'll give you any meat first when I find some."}
+- 03:26 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white bed, night of day 257. No food yet; meat goes to Trini and Data first, then Ezra."}
+- 03:26 act: {"actions":[{"do":"sleep"}]}
+- 03:30 act: {"actions":[],"say":"Zack at dawn of day 258, at the white beds. No food yet, health 20, hunger 20. Trini, I will stay near you. Billy, if the sheep field to the south has meat, call me and I will com
