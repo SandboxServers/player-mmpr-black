@@ -123,3 +123,19 @@
 - 05:24 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
 - 05:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack here, night of day 263. No food yet. Going to the north white bed with the group to sleep. Meat goes to Worf, t
 - 05:26 act: {"actions":[{"do":"sleep"}]}
+- 05:28 act: {"say":"Zack, dawn of day 263. No food; I'll scout the grass near the beds for animals, short walks only, and meat goes to Worf, then Trini.","intent":{"goal":"scout_near_beds_for_animals","program":"
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"A phantom is closing from the south. Going back to the beds with the group.","reasoning":"Hostile phantom closing; the scout intent
+- 05:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, group at the beds, nothing else to do until dawn."}
+- 05:42 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying the bed with the group. No food; Jason first at dawn.","reasoning":"Night has come; the bed is next to me. Sleep is the plan."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep was blocked at this bed. Move to the other white bed with the group and try again."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Sleep refused for a creeper nearby. Stay by the bed with the group and retry after a short wait."}
+- 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Back at the bed with the group, no creeper in view now. Retry sleep."}
+- 05:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Creeper again blocks sleep at this bed. Try the other white bed at the south pair, away from the creeper."}
+- 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"At the south bed pair with the group. One fresh try here."}
+- 05:45 act: {"actions":[{"do":"sleep"}],"reasoning":"No creeper in the last wait. Retry sleep at the bed now."}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"reasoning":"Sleep blocked and I have drifted to a spot north-west of the beds. Return to the beds with the group."}
+- 05:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Back at the bed with Lewis and Worf nearby, no monsters in view. One more try."}
+- 05:49 act: {"say":"Zack at the white beds, dawn day 265. Health 20, hunger 19, no food. Jason first for any meat, then Worf and Trini. Going to check the wheat to the north-east with the group.","intent":{"goal"
+- 05:52 act: {"say":"Zack here, midday day 265. No food. I have 2 oak logs and sticks to trade. Riker, if the trader sells bread or meat, tell me and I'll offer logs. Jason first for any food.","intent":{"goal":"r
+- 05:52 act: {"say":"Zack going to the wandering trader 11 blocks south with 2 oak logs to offer for bread or meat. Picard, come with me.","actions":[{"do":"goto","target":{"x":-272,"y":66,"z":343}}],"intent":{"go
+- 05:52 act: {"say":"Golems are closing on me here. Backing north to the beds.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}]}
