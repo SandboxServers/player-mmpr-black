@@ -161,3 +161,10 @@
 - 01:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack walking to the white bed for the night. No food; Trini first with Laforge's porkchop."}
 - 01:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here at the white bed. Health 20, no food yet. Trini first when food turns up.","intent":{"goal":"rest_at_bed",
 - 01:06 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_b
+- 01:09 act: {"say":"Zack here, dawn of day 251. Health 20, hunger 20, no food, no weapon. I'll stay in sight of the group and search the grass for animals. Trini first for any food.","intent":{"goal":"search_gras
+- 01:09 act: {"say":"Zack: my follow failed, so I'll search the grass right here near the beds and call out any animal I see. Worf is at hunger 6; food goes to him or Trini first.","actions":[{"do":"mine","block":
+- 01:14 act: {"say":"Zack: I have no food and no weapon, so I'll stay at the beds with the group rather than go far. Data, with health 3, you should be first after Worf. Anyone who sees a cow or pig, call the spot
+- 01:16 act: {"say":"Zack: Troi, Worf is weakest now at health 4.8 and hunger 6, so give him the porkchop. Trini gets the next food. I have nothing to give, and I'm staying here at the beds.","actions":[{"do":"wai
+- 01:17 act: {"say":"Zack: Wesley, give the porkchops to Worf first, then Trini. I'm at 20 health and hunger 20 with no food, so I don't need one. I'll stay at the beds and sleep at dusk.","actions":[{"do":"wait",
+- 01:19 act: {"say":"Zack: dusk, going to the white bed to sleep with the group nearby. No food, health 20, hunger 20.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:20 act: {"say":"Zack: sleep was refused, a creeper is 8 blocks off. I'll wait a little and try the bed again. Wesley, the porkchops go to whoever is weakest.","actions":[{"do":"wait","seconds":30},{"do":"slee
