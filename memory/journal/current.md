@@ -157,3 +157,18 @@
 - 06:25 act: {"say":"Night again. Data and Trini are beside me at the yellow bed. I have no food, so we sleep here and go out for food at first light.","actions":[{"do":"sleep"}]}
 - 06:29 act: {"say":"Zack here at the yellow beds, hunger 19, health 20. I have no food. I'll scout the grass close by for animals and call out any I see. Meat goes to Trini first.","actions":[{"do":"goto","target
 - 06:35 act: {"say":"Zack at the grass west of the beds, midday day 267. No food, hunger 19, health 20. Still no animal in sight here. Rotten flesh from LaForge goes to Kimberly first, then Trini.","actions":[]}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_add
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack going into the yellow bed with the group for the night. No food; Kimberly, Trini and Riker get any meat first."
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 06:42 act: {"actions":[],"say":"Zack at the yellow bed with Trini, Clark and Data. Not night yet; I'll sleep here when it is. No food on me."}
+- 06:42 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack sleeping at the yellow bed with Trini, Clark and Data. Meat at dawn goes to Trini, then Kimberly and Riker."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 06:44 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 06:44 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Zack back at the yellow bed with Trini and Clark, trying to sleep now. No food."}
+- 06:44 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 06:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":67,"z":352}},{"do":"sleep"}]}
+- 06:46 act: {"actions":[],"say":"Zack: sleep keeps failing at the yellow bed ('way blocked'). I'll hold here in the open until dawn and try again in the light. No food."}
+- 06:50 act: {"actions":[],"say":"Zack, dawn day 268, hunger 17, no food. I hold a wooden sword and will go west with the group for animals. Meat to Trini, then Kimberly, then Worf.","intent":{"goal":"follow_clark
+- 06:51 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Zack: Clark is out of sight, so I'm heading to the white beds to find the group. Still no food."}
+- 06:51 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white beds, dark now, hunger 17, no food. Trying to sleep here."}
