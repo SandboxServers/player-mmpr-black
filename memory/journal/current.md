@@ -55,3 +55,5 @@
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack, night 302, hunger 9, health 9, going to the white bed with the group. Holding 1 mutton and 3 chicken for whoev
 - 18:23 say: {"text":"Zack at -261,66,347, dusk, hunger 9. Chapman and Jason, I have 1 mutton. Step into my sight and say so, and it's yours. Phantoms to the north-east."}
 - 18:23 say: {"text":"Jason, I can't see you from here, I'm at -281,67,319 with health 7. Step into my sight and I'll hand you the mutton at once. I was hit from the front just now, so I'm watching for phantoms."}
+- 18:27 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Zack, night 302, hunger 9, health 7. Nobody in my sight is at 6 or below, so I keep my mutton and 3 chicken. Trying the b
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
