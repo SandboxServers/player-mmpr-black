@@ -1,3 +1,6 @@
-# Journal
-- 23:16 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Zack here, at the white beds. Thanks MacDonald, I've got melon. Going to bed with the group."}
-- 23:16 act: {"actions":[{"do":"sleep"}]}
+Day 317, morning. Woke at the white beds (388,107,-1051). Ate a melon (hunger 17 to 19), 11 slices left. Sent a worker to travel to the melon field at 310,-875 to join the group and check on Johnny. A bow was heard to the southwest.
+- 23:17 act: {"intent":{"goal":"melon_field_join","program":"travel","arguments":{"target":{"x":310,"y":-64,"z":-875}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 23:18 act: {"actions":[{"do":"eat"}],"intent":{"goal":"melon_field_join","program":"travel","arguments":{"target":{"x":310,"y":104,"z":-875}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"]
+- 23:19 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}}],"reasoning":"Life reset: I am at 384,107,-978 with empty hands and a wolf 3 blocks west closing. Get away from the wolf toward the beds.
+- 23:19 act: {"intent":{"goal":"join_melon_group","program":"travel","arguments":{"target":{"x":310,"y":-875}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200
+- 23:19 act: {"intent":{"goal":"join_melon_group","program":"travel","arguments":{"target":{"x":310,"y":64,"z":-875}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
