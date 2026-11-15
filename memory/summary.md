@@ -1,5 +1,7 @@
 # Summary
 
+Day 250 (night, slept at the white bed near -271,67,336 with the group; sleep went through, days_since_sleep 0). Health 20, hunger 20 after a reflex eat. Pack empty, no weapon in hand. Died on day 249 at about -279,228 (unseen attacker while bows sounded); dropped 2 beef, 1 leather, 1 bone, 4 oak_sapling, 4 stick, 1 oak_log, 1 wooden_sword at about -279,65,228. Not going back until the danger is clear. Trini is the weakest: any food goes to her first.
+
 Day 248 (night, in a yellow bed near -262,67,353, sleep started with 2 of 7 asleep): health 0.67, hunger 15, no food. Day 248: walked north to Geldar's wheat at -263,66,321; no wheat or food there. Wait calls kept failing with session errors until late in the day. Trini has a chicken and ate it at health 3. Jason lost his sword on death at -272,71,316 and made a new one.
 Earlier (night of day 244): health 0.67, hunger 17, no food. Pack: 1 oak_log, 2 dirt, 1 bone, 3 stick, wooden sword in hand. Sleep worked on the third try after the golems moved off. Trini has the chicken; Data and Riker are also weak. Days 238 to 244: no food found; chicken from the east went to Riker, then Data. Two skeleton fights at the north-west shore nearly killed me.
 

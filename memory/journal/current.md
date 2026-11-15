@@ -143,3 +143,15 @@
 - 00:27 act: {"say":"Zack here, in reach. Trini, I'm weakest at 0.67 but you're at 3. If the chicken is still yours, eat it; if you can spare it, I'll take it. Tell me.","actions":[]}
 - 00:29 act: {"say":"Zack at dawn, day 249, health 0.67, hunger 15. Trini, you said the chicken is mine. Please give it to me now, I'm in reach. If you need it more, say so.","actions":[{"do":"wait","seconds":20}]
 - 00:29 act: {"say":"Zack: Trini has the chicken now, so I won't ask for it. I'm scouting east on short steps for animals, away from the golems. Any food goes to Trini first.","intent":{"goal":"scout_east_for_anim
+- 00:30 act: {"intent":{"goal":"scout_northeast_grass_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits"
+- 00:30 act: {"say":"Zack at -241,68,322, morning of day 249. No animals or apples here. Heading north-east a bit further; any animal I find goes to Trini first.","intent":{"goal":"scout_north_east_for_animals","p
+- 00:30 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-225,"y":67,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 00:30 act: {"say":"Trini, thank you. I'm at -225,68,270, standing still on the grass. Come to me and I'll take the chicken. Eat it yourself if your hunger drops below 6."}
+- 00:40 act: {"say":"Trini, it's getting dark and I'm alone out here. I'm heading back to the white beds near -272,67,337. Meet me there with the chicken.","intent":{"goal":"return_to_white_beds","program":"travel
+- 00:40 act: {"say":"Trini, I'm here at the white beds. Do you have the chicken? I'm at hunger 15, so give it to me if you can spare it, or eat it yourself if you need it more."}
+- 00:50 act: {"say":"Geldar, dawn of day 250. No food on me. Trini first for anything found. I'm scouting north toward the sheep field, staying within sight of the beds.","intent":{"goal":"scout_north_for_sheep","
+- 00:50 act: {"intent":{"goal":"scout_north_sheep_field","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":268}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 00:51 act: {"say":"Geldar: a cow was seen near -286,66,245. I'm going for it now. Any meat I get goes to Trini first.","intent":{"goal":"find_cow_near_286_245","program":"travel","arguments":{"target":{"x":-284,
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":241}},{"do":"attack","target":"cow"}],"intent":{"goal":"hunt_cow","program":"gather","arguments":{"block":"beef","count":1},"wake_on":["directly_
+- 00:51 act: {"say":"Geldar: I was killed near -279,228 while going for the cow. Something hit me there and bows were sounding. I dropped 2 beef and a leather at -279,65,228. I'm at the yellow beds with nothing. T
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Geldar: going to the white bed with Trini for the night. I have nothing on me."}
