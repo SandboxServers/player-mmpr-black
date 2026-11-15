@@ -57,3 +57,15 @@
 - 18:23 say: {"text":"Jason, I can't see you from here, I'm at -281,67,319 with health 7. Step into my sight and I'll hand you the mutton at once. I was hit from the front just now, so I'm watching for phantoms."}
 - 18:27 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Zack, night 302, hunger 9, health 7. Nobody in my sight is at 6 or below, so I keep my mutton and 3 chicken. Trying the b
 - 18:27 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 18:29 act: {"say":"Zack here, dawn day 303. Health 7, hunger 9. I hold 3 chicken and 1 mutton. Chapman is lowest: Chapman, come to me and I'll hand you the mutton. Bcrusher and Billy, tell me your hunger and I'l
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"say":"Zack going to the yellow bed to reach Chapman with the mutton.","reasoning":"Chapman at health 3 asked me to come to him. Walk over
+- 18:30 act: {"say":"Zack at the yellow bed, -273,67,327. Chapman, call out if you can see me. Mutton is ready for you.","reasoning":"Goto stopped short, but I am close to the yellow bed. Announce myself and wait 
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Zack back at the white beds. Chapman, I'm holding the mutton for you. Step into my sight and call your name; I'll hand it over.","r
+- 18:33 act: {"actions":[{"do":"eat"}],"say":"Zack: Chapman never came to the yellow bed, so I'm eating the mutton myself at hunger 9. Still holding 3 chicken for anyone at 6 or below in my sight.","reasoning":"Ch
+- 18:34 act: {"say":"Zack at the white beds with 3 chicken. LaForge and Chapman, if you can get in my sight I'll hand you one each. Chapman, I'm sorry about the mutton; I ate it at hunger 9 when you were not in si
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":351}}],"say":"Zack walking to Chapman at the yellow bed with chicken. Chapman, stay where you are.","reasoning":"Chapman is at 3 health and is ou
+- 18:35 act: {"say":"Zack at the yellow bed with 3 chicken. Chapman, LaForge: step into my sight and call your name.","reasoning":"Reached the spot, nobody in sight. Call out and wait for them to come in sight."}
+- 18:38 act: {"say":"Zack, 3 chicken in hand, health 7, hunger 11. Chapman, you are not hungry enough to eat meat yet; I'll keep the chicken for whoever drops to 6 or below in my sight.","reasoning":"Chapman says 
+- 18:43 act: {"intent":{"goal":"reach_the_group_with_chicken","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":338}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_
+- 18:43 act: {"say":"Zack at the white beds with 3 chicken. LaForge, Chapman: call your name when you are in my sight and I'll hand one over.","reasoning":"LaForge is not in sight yet. Stay put near the group and 
+- 18:45 act: {"say":"Zack here, 3 chicken, hunger 11. Chapman, at 6 or below I'll bring one to you at the yellow bed. Clark and Worf: call if you drop to 6 in my sight.","reasoning":"Hold the chicken for the lowes
