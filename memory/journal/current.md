@@ -8,3 +8,19 @@
 - 22:44 act: {"say":"Fair, Wesley. Picard eats first. When there is some left, my feathers and wool are yours for it.","actions":[]}
 - 22:48 act: {"intent":{"goal":"hold_at_beds_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 22:50 act: {"actions":[{"do":"sleep"}]}
+- 22:52 act: {"say":"Morning, Kimberly. Zack here, health 9, hunger 16. I have 3 feathers and white wool to trade for meat. Who needs it more, I will share.","intent":{"goal":"find_food_with_group","program":"trav
+- 22:52 act: {"actions":[{"do":"goto","target":"Kimberly"}],"say":"Kimberly, I'm coming to you. Bringing the feathers and wool."}
+- 22:52 act: {"say":"Jason, Kimberly, I'm at the white beds, health 9, no food. Feathers and wool are here for trade. Whoever has meat, call out and I'll come.","intent":{"goal":"wait_for_group_at_beds","program":
+- 22:52 act: {"actions":[{"do":"goto","target":"Kimberly"}],"say":"Thank you Kimberly! Coming now. Keep the chicken for the weakest if you need to, but I'll take it gladly."}
+- 22:56 act: {"say":"Worf, Zack here at the beds. I have white wool. I'll trade it for your melon slices. Give me some and I'll hand the wool over. Johnny first if he's weaker."}
+- 22:57 act: {"actions":[{"do":"goto","target":"Worf"}],"say":"Worf, I'm coming to you with the wool. Deal: 4 melons for my wool."}
+- 22:57 act: {"say":"Worf, I can't see you from here. I'm still at the white beds with the wool. Come into sight and I'll hand it over.","intent":{"goal":"hold_beds_for_trade","program":"rest","arguments":{},"wake
+- 22:59 act: {"actions":[{"do":"give","to":"Worf","item":"white_wool","count":1}],"say":"Worf, here is my white wool. Melons please, and give some to Johnny first if he's weaker."}
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-1072}}],"say":"Worf, walking to you now, 385,-1072."}
+- 23:00 act: {"actions":[{"do":"give","to":"Worf","item":"white_wool","count":1}],"say":"Worf, the wool is yours. Melon slices please, 4 of them."}
+- 23:00 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"Worf","item":"white_wool","count":1}],"say":"Worf, stepping closer. Wool for melons."}
+- 23:00 act: {"actions":[{"do":"give","to":"Worf","item":"white_wool","count":1}]}
+- 23:00 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"white_wool","count":1}]}
+- 23:00 act: {"say":"Wool is with you, Worf. I'm waiting on the 4 melon slices. Hunger is 16."}
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1050}}],"say":"Worf, dusk is here. Please hand me the melon slices at the beds. I'm heading there for the night."}
+- 23:02 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"feather","count":1}],"say":"Thank you, Worf. I'll pay with feathers if you want them too.","reasoning":"Melon slices were said to be given but are no
