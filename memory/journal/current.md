@@ -103,3 +103,5 @@
 - 19:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the white beds with Billy, Worf and Chapman. Health 20, hunger 20, night 305. Trying to sleep."}
 - 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"say":"Zack at the white beds, health 20, hunger 20. Retrying sleep once more with the group near."}
 - 19:32 act: {"intent":{"goal":"hold_at_beds_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Zack here, dusk 306, health 20, hunger 20. Trying the white bed now. Any meat goes to C
+- 19:40 act: {"actions":[{"do":"sleep"}]}
