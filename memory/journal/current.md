@@ -184,3 +184,5 @@
 - 07:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"say":"Zack heading back to the yellow bed to sleep for the night."}
 - 07:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}]}
 - 07:30 act: {"intent":{"goal":"join_west_hunt","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-320,"y":72,"z":322}}],"say":"Zack scouting west at the grass edge for cows or pigs. Will call any I see."}
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"say":"Zack: no animals west. Heading back to the beds with the group."}
