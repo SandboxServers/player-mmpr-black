@@ -29,3 +29,6 @@
 - 02:06 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":337}},"wake_on":["goal_completed","d
 - 02:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_with_group","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":336}},"wake_on":["goal_
 - 02:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}],"intent":{"goal":"rejoin_group_at_dawn","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":337}},"wake_on":["goal_completed","d
+- 02:16 say: {"text":"Zack here at the beds, health 20, hunger 20, no food. I'll scout the grass in sight for an animal and bring any meat to Trini and Jason first."}
+- 02:16 act: {"intent":{"goal":"scout_grass_near_beds","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":340}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 02:16 act: {"say":"No animals in sight yet. Iron golems are walking around the beds. I'm staying near the beds with the group."}
