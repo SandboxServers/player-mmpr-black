@@ -84,3 +84,9 @@
 - 19:02 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":342}},{"do":"use","at":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"reasoning":"Golem out of sight, phantom far. Try the yellow bed again from its
 - 19:04 act: {"actions":[{"do":"sleep"}],"reasoning":"No golem or phantom in view. Try sleep once more, a different try from the bed click."}
 - 19:05 act: {"actions":[{"do":"goto","target":{"x":-277,"y":67,"z":333}}],"reasoning":"Two iron golems 3.7 blocks east. Golems strike near me at health 1. Move west away from them, with the group still in reach."
+- 19:09 act: {"actions":[{"do":"goto","target":{"x":-277,"y":65,"z":333}}],"say":"Zack respawned. Going back to my dropped gear at -277,65,333 in daylight.","reasoning":"Respawned with nothing. My gear and chicken
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-279,"y":66,"z":334}},{"do":"goto","target":{"x":-280,"y":66,"z":332}},{"do":"goto","target":{"x":-274,"y":66,"z":334}},{"do":"goto","target":{"x":-273,"y":66,"z
+- 19:10 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"I have my three chicken back. Chapman, Clark, who is lowest on food? Say it and I will hand it over.","reasoning":"Gear recovered: 3 chicken 
+- 19:10 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":3}],"say":"Clark, I am giving you my three chicken. Eat them, you are the lowest.","reasoning":"Clark is at health 4.2 and hunger 1
+- 19:10 act: {"actions":[],"say":"Jason, the three chicken went to you by mistake. Please pass them to Clark, he is lowest at health 4.","reasoning":"The chicken went to Jason, not Clark. Ask Jason to hand them to
+- 19:13 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Zack, full at 20, no food. Joining Troi and Worf on the meat hunt east, in sight of the group. Meat goes to Chapman and Clark first.","reasoning
