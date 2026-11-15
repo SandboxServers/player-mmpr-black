@@ -20,3 +20,11 @@
 - 17:13 act: {"actions":[],"say":"Wesley, I have a raw chicken. It's yours when you are in reach. Tell me where you stand and I will hand it over.","intent":{"goal":"wait_for_wesley_at_beds","program":"rest","argu
 - 17:13 act: {"actions":[],"say":"Leonardo, I owe you a wooden sword and I have several. Come within reach and I will hand you one now.","intent":{"goal":"wait_for_leonardo_for_sword","program":"rest","arguments":
 - 17:14 act: {"actions":[],"say":"Worf, I owe you a wooden sword too. I'm at the white beds. Come to me and I'll hand it over."}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_bed_at_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed",
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"sleep_in_bed_at_night","program":"rest","arguments":{"bed":{"x":-271,"y":67,
+- 17:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed click refused. Trying the sleep verb while standing at the bed."}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"wait","seconds":30},{"do":"sleep"}],"reasoning":"Phantom is blocking sleep. Return to the beds with the group, wait, then retry."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Golems are around but the group is here. Retry sleep at the bed."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Bed at -270,336 is adjacent. Trying sleep there."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"intent":{"goal":"return_to_bed_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["directly_addressed"
+- 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"With the group at the beds, retry sleep once."}
