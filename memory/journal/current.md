@@ -80,3 +80,12 @@
 - 03:49 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":340}}]}
 - 03:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}]}
 - 04:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the north white bed to sleep. Trini first with any food at dawn.","reasoning":"Night, no food, sleep was re
+- 04:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep refused: way blocked. Try the adjacent south white bed directly."}
+- 04:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep here, the bed is adjacent. If refused, wait and try the other bed."}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep blocked again. Walk to the north white bed where Trini and the group are, then sleep."}
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Sleep keeps failing as blocked at this spot. Move onto the north bed cell itself, away from the golems."}
+- 04:04 act: {"actions":[{"do":"sleep"}],"say":"Zack at the north white bed with Trini, Jason, Tommy and Picard. No food yet; Trini first at dawn.","reasoning":"I am on the north bed with the group, world moving a
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":328}}],"say":"Zack, dawn of day 260. No food. Scouting the grass just east of the beds in sight of the group. Any meat goes to Trini, then Data."
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Night again, no meat found on the east grass. Going to the north white bed to sleep with the group.","reasoning":"Ni
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep was interrupted. Go to the north bed and try once more."}
