@@ -121,3 +121,8 @@
 - 23:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
 - 23:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Phantom keeps the bed here from being safe to sleep. I'm trying the yellow bed with the group, sword in hand."}
 - 23:43 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the yellow bed, night of day 246. Health 0.67, hunger 16, no food. Trying to sleep; food first at light for whoever is weakest."}
+- 23:49 act: {"say":"Zack here, dawn day 247, at the white beds. Health 0.67, hunger 16, no food. Riker, I'll come to the west lake with you for salmon. I'll stay on the shore and out of the water. Any meat goes t
+- 23:51 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Zack coming to the group at the logs, away from the bow sound to the north. Staying with you."}
+- 23:51 act: {"actions":[{"do":"goto","target":{"x":-246,"y":67,"z":353}}]}
+- 23:54 act: {"say":"Zack at the logs by the water, (-246, 67, 353), not in the water. Riker, I'm not going on the boat. If you bring fish back, Trini first. I'll wait here for the group."}
+- 00:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Zack heading back to the beds for the night with the group."}
