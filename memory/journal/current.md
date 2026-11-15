@@ -155,3 +155,9 @@
 - 00:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":241}},{"do":"attack","target":"cow"}],"intent":{"goal":"hunt_cow","program":"gather","arguments":{"block":"beef","count":1},"wake_on":["directly_
 - 00:51 act: {"say":"Geldar: I was killed near -279,228 while going for the cow. Something hit me there and bows were sounding. I dropped 2 beef and a leather at -279,65,228. I'm at the yellow beds with nothing. T
 - 00:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Geldar: going to the white bed with Trini for the night. I have nothing on me."}
+- 00:56 act: {"say":"Geldar here at the white beds, day 250. No food on me, pack empty. Trini first for anything I find; I'll stay in sight of the group.","intent":{"goal":"stay_near_group_until_food","program":"f
+- 01:00 act: {"say":"Laforge, you are 1 block from Trini and Troi, and Trini can see you. Give her the porkchop now, please. I have no food.","intent":{"goal":"sleep_at_white_bed_with_group","program":"rest","argu
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Zack trying the white bed by the group, no food, health 20. Trini first at light."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack walking to the white bed for the night. No food; Trini first with Laforge's porkchop."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here at the white bed. Health 20, no food yet. Trini first when food turns up.","intent":{"goal":"rest_at_bed",
+- 01:06 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_b
