@@ -1,4 +1,5 @@
 # Journal
+- 258 day: scouted alone to -286,246 (no animals; a salmon in the NW lake, not going in), walked back to the beds. Health 20, hunger 20, no meat. Troi and Jason planting seeds at the farm. Trini still first for any meat.
 - 01:23 act: {"say":"Zack here at the white beds, night of 251. I have nothing to give, pack empty. Worf, Riker has the porkchops; I will try the bed beside me.","actions":[{"do":"goto","target":{"x":-271,"y":67,"
 - 01:23 act: {"actions":[{"do":"sleep"}]}
 - 01:24 act: {"actions":[{"do":"sleep"}]}
@@ -64,3 +65,5 @@
 - 03:26 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white bed, night of day 257. No food yet; meat goes to Trini and Data first, then Ezra."}
 - 03:26 act: {"actions":[{"do":"sleep"}]}
 - 03:30 act: {"actions":[],"say":"Zack at dawn of day 258, at the white beds. No food yet, health 20, hunger 20. Trini, I will stay near you. Billy, if the sheep field to the south has meat, call me and I will com
+- 03:37 act: {"say":"Zack here, dawn of day 258. Health 20, hunger 20, no meat. Trini is with me; any meat I find goes to her first.","intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{
+- 03:38 act: {"say":"Zack at -286,66,246, no animals here. A salmon is in the water north-west near -303,61,233, but that is the lake where I died before, so I'm not going in. Heading back to the beds to the group
