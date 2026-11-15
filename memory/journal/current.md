@@ -30,3 +30,45 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 11:51 say: {"text":"Kimberly, thank you, but keep the wheat: raw wheat can't be eaten. Give food to Picard now; he has the chicken. LaForge is at the crafting tables at -274,67,327."}
 - 11:58 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":327}}],"say":"Zack heading to the crafting tables to join the group for the pig hunt. No food on me."}
 - 12:03 act: {"intent":{"goal":"hold_by_tables_till_light","program":"rest","arguments":{"near":{"x":-274,"y":66,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack here, heading to the white bed at -270,67,318 with the group. No food, hunger 14.","intent":{"goal":"reach_bed_
+- 12:08 act: {"actions":[],"say":"Zack here, dawn of day 284. No food, hunger 14. Sleep was blocked at the bed, so I'll scout the grass near the beds for animals with the group.","intent":{"goal":"scout_near_beds_
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":316}}],"say":"Zack here. Scouting the grass north with Troi, Kimberly and Billy. I'll call out any animal.","intent":{"goal":"scout_grass_north_f
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":327}}],"say":"A spider to the north, no animals. Heading back to the beds with the group.","intent":{"goal":"return_to_beds_with_group","program"
+- 12:11 act: {"actions":[],"say":"Zack, hunger 14, no food. Laforge, Picard has the lower hunger, so the chicken to him is right. I'll stay at the beds and call out any animal."}
+- 12:15 act: {"actions":[],"say":"Zack, hunger 14, no food. I have a wooden sword and will stay by the beds with the group against phantoms. Stay in sight, call out if you need a hand."}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"say":"Zack going to the white bed at -270,67,336 for the night. No food, hunger 14. Picard and Trini first at dawn.","inte
+- 12:25 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 12:25 act: {"actions":[{"do":"sleep"}]}
+- 12:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Sleep was blocked at the yellow bed. Trying the white bed at -271,67,336."}
+- 12:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"No creeper in range now. Trying the white bed once more."}
+- 12:30 act: {"actions":[{"do":"eat"}],"say":"Dawn. I have a raw chicken and hunger 13, so I'm eating it. Picard and Trini first for any wheat."}
+- 12:30 act: {"actions":[],"say":"I hold one raw chicken and can't eat it at hunger 13. Picard, Trini: who is lowest? I'll hand it over."}
+- 12:30 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, here is the raw chicken. Eat it when you reach hunger 6 or below."}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"say":"Night. Going to the white bed at -271,67,336 to sleep with the group. Food goes to Picard and Trini first at dawn."}
+- 12:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-271,"y":67,"z":335}}]}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["directly_addressed"
+- 12:44 act: {"actions":[{"do":"sleep"}]}
+- 12:45 act: {"actions":[{"do":"sleep"}]}
+- 12:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","un
+- 12:46 act: {"actions":[{"do":"sleep"}]}
+- 12:47 act: {"actions":[],"say":"Zack here, hunger 13, no food. Sleep was refused twice (creeper, then crowding). I'll help look for meat at first light, after Picard, Trini and LaForge."}
+- 12:49 act: {"actions":[],"say":"LaForge is right here beside me, Trini. Worf and Troi, I'll scout the north-west grass for meat with you. Anything found goes to LaForge, then Trini."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-283,"y":67,"z":318}}],"say":"Zack scouting north-west grass for animals now. Meat goes to LaForge first."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":310}}]}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}]}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack, dusk day 286. No food, hunger 12. Going to the white bed at -270,67,336 to sleep. Any meat goes to LaForge, th
+- 13:01 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}],"reasoning":"A creeper 8 blocks off blocked sleep. Wait it out and try once at this bed."}
+- 13:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 286. No food, hunger 12. Trying to sleep in this bed now.","reasoning":"Night has come and no creeper is listed now. One sleep try at this bed."}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, night 286. The north beds are crowded. Trying the yellow bed at -2
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, trying the yellow bed at -271,67,326 once more. No food, hunger 12.","reasoning":"I am beside the yellow bed a
+- 13:04 act: {"actions":[{"do":"wait","seconds":120},{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, night 286. Sleep blocked by the crowd. Waiting two minutes, then one more try at t
+- 13:04 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, hit by a phantom, health 17. Swinging at it, then the yellow bed again. Bre
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Phantom is 17 blocks off, not in reach. Previous attack failed as busy. Go onto the yellow bed and try sleepin
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"The last goto was refused as busy with an earlier action. Nothing is running now, so try the yellow bed again.
+- 13:04 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_ope
+- 13:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Health fell to 15 from an unseen hit. Iron golems are crowding me. Try the walk to the yellow bed once more, then read the re
+- 13:05 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm at the yellow bed with no mobs in view. Sleep now."}
+- 13:07 act: {"actions":[{"do":"sleep"}],"reasoning":"No creeper in view now. Health steady at 15. One more sleep try on the yellow bed."}
+- 13:07 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":328}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 13:20 act: {"intent":{"goal":"reach_south_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Zack, dusk day 287, at the south white bed. Going to sleep."}
