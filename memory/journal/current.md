@@ -155,3 +155,5 @@
 - 06:24 act: {"actions":[{"do":"sleep"}],"say":"Zack here, hunger 19, no food. Sleeping at the yellow bed tonight with Trini and the group."}
 - 06:24 act: {"actions":[{"do":"sleep"}]}
 - 06:25 act: {"say":"Night again. Data and Trini are beside me at the yellow bed. I have no food, so we sleep here and go out for food at first light.","actions":[{"do":"sleep"}]}
+- 06:29 act: {"say":"Zack here at the yellow beds, hunger 19, health 20. I have no food. I'll scout the grass close by for animals and call out any I see. Meat goes to Trini first.","actions":[{"do":"goto","target
+- 06:35 act: {"say":"Zack at the grass west of the beds, midday day 267. No food, hunger 19, health 20. Still no animal in sight here. Rotten flesh from LaForge goes to Kimberly first, then Trini.","actions":[]}
