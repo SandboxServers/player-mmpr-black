@@ -54,3 +54,6 @@
 - 03:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"reasoning":"Short scout east along the beds' grass for animals; stay in sight of the group.","intent":{"goal":"scout_food_east","program"
 - 03:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night again; golem to the south. Get to the north bed with the gro
 - 03:10 act: {"say":"Zack here, day 257, no food. Scouting the grass just west of the beds in sight of the group. Any meat goes to Ezra and Data first, then Trini.","actions":[{"do":"goto","target":{"x":-283,"y":6
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack at dusk, day 257. No food, health 20, hunger 20, wooden sword in pack. Heading to the white beds with the group
+- 03:20 act: {"actions":[{"do":"sleep"}]}
+- 03:20 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white beds, dusk day 257. Health 20, hunger 20, no food. Iron golems are coming from the south; I'm staying with Worf, Tommy and Picard. Meat goes to Ezr
