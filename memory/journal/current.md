@@ -32,3 +32,15 @@
 - 02:16 say: {"text":"Zack here at the beds, health 20, hunger 20, no food. I'll scout the grass in sight for an animal and bring any meat to Trini and Jason first."}
 - 02:16 act: {"intent":{"goal":"scout_grass_near_beds","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":340}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
 - 02:16 act: {"say":"No animals in sight yet. Iron golems are walking around the beds. I'm staying near the beds with the group."}
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here, night of day 254. No food, health 20, hunger 20. Going to the white bed to sleep; Worf and Clark get any 
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 02:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 02:28 act: {"actions":[],"say":"Zack at dawn, day 255. Still no food, hunger 20, health 20. I'm with the group near the white beds. Worf and Billy, I'll come with you to look for pigs north-east, staying in sigh
+- 02:29 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":322}}],"say":"Zack going a short way north-east to look for pigs, staying close to the group. Shout if you see any."}
+- 02:32 act: {"actions":[{"do":"mine","block":"wheat_seeds","count":2}],"say":"Zack at midday, day 255. I'm near the beds and not hungry yet at 20, so I'll try for seeds from the grass here. Any meat goes to Trini
+- 02:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Zack here, day 255 afternoon. Hunger 20, no food, days since sleep 5. Moving back to the white beds with the group. Any meat goes t
+- 02:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}]}
+- 02:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack going to the white bed at -271,67,336 for the night. No food, hunger 20. Meat goes to Trini, Data, Jason first.
+- 02:43 act: {"actions":[{"do":"sleep"}]}
+- 02:47 act: {"actions":[{"do":"sleep"}]}
