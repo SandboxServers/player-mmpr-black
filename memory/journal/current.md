@@ -50,3 +50,7 @@
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Zack at the white beds. No food to give, Ezra is at 3 health. I'm staying with Worf and Kimberly and retrying the bed at -270,67,31
 - 03:05 act: {"actions":[{"do":"sleep"}]}
 - 03:07 act: {"actions":[{"do":"sleep"}]}
+- 03:08 act: {"say":"Zack here, awake at first light, no food. Going back to the beds with the group. Meat goes to Data, then Trini.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"reasoning":"Dawn;
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"reasoning":"Short scout east along the beds' grass for animals; stay in sight of the group.","intent":{"goal":"scout_food_east","program"
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night again; golem to the south. Get to the north bed with the gro
+- 03:10 act: {"say":"Zack here, day 257, no food. Scouting the grass just west of the beds in sight of the group. Any meat goes to Ezra and Data first, then Trini.","actions":[{"do":"goto","target":{"x":-283,"y":6
