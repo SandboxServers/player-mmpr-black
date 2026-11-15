@@ -121,3 +121,5 @@
 - 05:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_tick
 - 05:23 act: {"actions":[{"do":"wait","seconds":30},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack here at the beds, night of day 263. No food, health 20, hunger 20. Sleep was refused
 - 05:24 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 05:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack here, night of day 263. No food yet. Going to the north white bed with the group to sleep. Meat goes to Worf, t
+- 05:26 act: {"actions":[{"do":"sleep"}]}
