@@ -139,3 +139,7 @@
 - 00:25 act: {"say":"Zack at night on day 248, no food, hunger 15, health 0.67. Going to the white bed at -271,67,336 with the group. Trini has the chicken and eats it; I'm not taking it.","actions":[{"do":"goto",
 - 00:25 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
 - 00:26 act: {"actions":[{"do":"sleep"}]}
+- 00:27 act: {"say":"Zack here, coming to the white beds now. Trini, keep the chicken; I'll call when I'm in reach.","actions":[{"do":"goto","target":{"x":-269,"y":67,"z":338}}],"intent":{"goal":"reach_group_at_wh
+- 00:27 act: {"say":"Zack here, in reach. Trini, I'm weakest at 0.67 but you're at 3. If the chicken is still yours, eat it; if you can spare it, I'll take it. Tell me.","actions":[]}
+- 00:29 act: {"say":"Zack at dawn, day 249, health 0.67, hunger 15. Trini, you said the chicken is mine. Please give it to me now, I'm in reach. If you need it more, say so.","actions":[{"do":"wait","seconds":20}]
+- 00:29 act: {"say":"Zack: Trini has the chicken now, so I won't ask for it. I'm scouting east on short steps for animals, away from the golems. Any food goes to Trini first.","intent":{"goal":"scout_east_for_anim
