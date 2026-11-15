@@ -44,3 +44,5 @@
 - 02:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack going to the white bed at -271,67,336 for the night. No food, hunger 20. Meat goes to Trini, Data, Jason first.
 - 02:43 act: {"actions":[{"do":"sleep"}]}
 - 02:47 act: {"actions":[{"do":"sleep"}]}
+- Night of 256: health 20, hunger 20, pack 2 oak_log, 3 stick, 1 wooden_sword. No meat. Went to the white bed at -271,67,336 to sleep; Data and Trini are low and near, so any meat goes to them first.
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here, night of day 256. Health 20, hunger 20. I have two logs and a wooden sword, no meat. Data and Trini, any 
