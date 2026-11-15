@@ -43,3 +43,9 @@
 - 17:42 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1},{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Leonardo, your wooden sword. Macdonald, thanks f
 - 17:42 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Previous sleep was blocked, likely the bed was occupied or the path. Try the other bed of the pair."}
 - 17:42 act: {"actions":[{"do":"goto","target":{"x":-283,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the bed. Move to a clear spot beside the beds and try sleep once more."}
+- 17:50 act: {"actions":[],"say":"Zack, dawn 301, hunger 8, health 9. I hold 2 mutton and 3 chicken. Bcrusher and Data, step into my reach if you are lower and I'll hand food over. I'll eat only at 6.","reasoning"
+- 17:54 act: {"actions":[{"do":"note","text":"Dawn day 301. Hunger 8, health 9. Holding 2 mutton, 3 chicken. Eat at 6. Bcrusher is lower and has beef coming."}],"say":"Zack here, hunger 8, holding mutton and chick
+- 17:56 act: {"actions":[{"do":"note","text":"Troi gave me a chicken (now 4 chicken, 2 mutton). Hunger 8. Staying at the beds with Troi while the east group hunts the cow."}],"say":"Thanks Troi, got the chicken. I
+- 18:02 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"chicken","count":1},{"do":"sleep"}],"say":"Bcrusher, one chicken coming to you. Night 301, I'm trying the bed next to you."}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
+- 18:03 act: {"actions":[{"do":"note","text":"Night 301 to dawn: sleep blocked twice (crowded beds). Hunger 7, health 9. Gave Bcrusher a chicken. Will eat at 6."}]}
