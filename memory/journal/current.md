@@ -11,3 +11,12 @@
 - 17:00 act: {"say":"Going back to the white beds with Billy, Chapman and Riker for the night. No pigs out east.","intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":3
 - 17:00 act: {"actions":[{"do":"sleep"}]}
 - 17:04 act: {"actions":[{"do":"sleep"}]}
+- 17:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}],"say":"Trini, I have no food, sorry. Taking this wooden sword to you now. Stay close to the beds.","reasoning":"Trini is i
+- 17:09 act: {"actions":[],"say":"Thanks, Trini. Dawn now. I have no food. I will stay near the beds until the phantom is gone, then look for animals with whoever goes.","intent":{"goal":"hold_at_beds_till_dayligh
+- 17:09 act: {"actions":[],"say":"Zack, day 299, no food, hunger 9. I will hunt with LaForge to the west. Any meat goes to Picard first, then Wesley.","intent":{"goal":"hunt_animals_west_with_laforge","program":"f
+- 17:10 act: {"actions":[],"say":"LaForge, I'm still at the beds. Tell me where you are and I'll come to you. I won't go out alone.","intent":{"goal":"wait_for_laforge_then_hunt","program":"rest","arguments":{},"w
+- 17:12 act: {"actions":[{"do":"eat"}],"say":"Thank you, Wcrusher. I'm eating it now, hunger 9. Wesley keeps the other one.","reasoning":"Wcrusher gave me this chicken directly. My hunger is 9 and I have no other 
+- 17:12 act: {"actions":[],"say":"My chicken is raw; I can only eat it at hunger 6 or below. I'll keep it for then. Wesley, if you're in reach, say so and it's yours.","intent":{"goal":"hold_at_beds_for_wesley_and
+- 17:13 act: {"actions":[],"say":"Wesley, I have a raw chicken. It's yours when you are in reach. Tell me where you stand and I will hand it over.","intent":{"goal":"wait_for_wesley_at_beds","program":"rest","argu
+- 17:13 act: {"actions":[],"say":"Leonardo, I owe you a wooden sword and I have several. Come within reach and I will hand you one now.","intent":{"goal":"wait_for_leonardo_for_sword","program":"rest","arguments":
+- 17:14 act: {"actions":[],"say":"Worf, I owe you a wooden sword too. I'm at the white beds. Come to me and I'll hand it over."}
