@@ -1,19 +1,1 @@
 # Journal
-- 21:44 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Something's hitting me in the dark! Jason, Trini, I'm coming to you.","reasoning":"Unseen attacker at night, health 11. Friends are 14 blocks a
-- 21:44 act: {"actions":[{"do":"attack","target":"ag_jason_01"}],"say":"Jason! Zack here. Something keeps hitting us from every side. Trini's out here too. We stick together and find cover.","reasoning":"Found Jas
-- 21:45 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Sorry Jason, that attack was a slip, I'm not hitting you. Trini, I'm coming to the light. I have a stone sword.","reasoning":"Queued attack was
-- 21:45 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Jason, I'm right here with you, no hard feelings. Trini, where are you exactly? Let's count off.","reasoning":"Reassure Jason and retry the mov
-- 21:45 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"On my way, Jason! Stone sword out. Keep moving south, I'm right behind you.","reasoning":"Jason is in trouble. Go to him with my sword."}
-- 21:45 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Phantoms, Jason? I haven't slept in 13 days either. Taking the bed beside you. Trini, Zack's here too.","reasoning
-- 21:51 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Morning, all! Zack here, rested and starving. Trini, I'm coming north with you to hunt for animals. Lead on!","intent":{"goal":"follow_trini_fo
-- 21:51 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Count me in, Jason! Zack here, health nine, no food. Coming to the planks wall.","reasoning":"Jason is calling the friends together before goin
-- 21:51 act: {"actions":[{"do":"note","text":"Zack at the beds by the chest, day 313 morning. No food, hunger 16. Jason and Trini have moved out of sight."}],"say":"I'm still at the beds by the chest, friends. Sta
-- 21:52 say: {"text":"Got it, Jason. I'm staying by the light. Shout if you find meat, and I'll come."}
-- 21:56 say: {"text":"Zack here, hungry and out of food. I have 3 feathers, white wool and leaf litter to trade for any meat or bread."}
-- 21:58 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, a village! I'm coming west to you now. Keep the light ahead of us.","reasoning":"Trini found a village 20 blocks west, likely with food.
-- 21:58 say: {"text":"Trini, Jason, Billy, Kimberly, where are you? I'm at the beds by the chest. I'm hungry and need meat or bread. The signs say Jason was slain. Please answer."}
-- 21:59 act: {"actions":[{"do":"goto","target":{"x":370,"y":107,"z":-1051}}],"say":"Zack here, number 2. Jason, the signs are wrong, you're alive. I'm heading west to Trini now, and I'll stay with the light.","rea
-- 21:59 act: {"actions":[{"do":"goto","target":{"x":372,"y":107,"z":-1046}}],"say":"Trini, my way west is blocked by a drop. I'm trying another path. Keep calling out where you are.","reasoning":"The direct path w
-- 21:59 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1050}}],"say":"Jason, Zack here, number 2. Agreed. I'm coming back to the beds now. We rest tonight and look for food at first light.","reasonin
-- 21:59 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1049}}],"say":"Morning, all. Zack here, number 2, rested. I have 3 feathers and wool to trade for food. Wesley, you have beef. Can we trade? Tri
-- 22:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack here, going to the bed by the group for the night. Jason, Trini, Johnny, stay close to the light.","reasoning
