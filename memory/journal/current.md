@@ -6,3 +6,5 @@
 - Day 315 dusk: still no food, hunger 16, health 9. At the beds with the group. Going to sleep in the white bed.
 - 22:42 act: {"say":"Zack here, hungry too. Kimberly, Picard first, then me if any is left. I can trade feathers and wool.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1050}}]}
 - 22:44 act: {"say":"Fair, Wesley. Picard eats first. When there is some left, my feathers and wool are yours for it.","actions":[]}
+- 22:48 act: {"intent":{"goal":"hold_at_beds_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 22:50 act: {"actions":[{"do":"sleep"}]}
