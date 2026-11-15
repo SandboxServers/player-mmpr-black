@@ -4,3 +4,28 @@
 - 01:24 act: {"actions":[{"do":"sleep"}]}
 - 01:29 act: {"say":"Zack here, dawn of 252. Empty-handed. Worf and Trini first for any meat; I'll gather wood with Clark nearby and stay in sight of the beds.","actions":[{"do":"sleep"}]}
 - 01:30 say: {"text":"Clark, I don't know a tree near here, my pack is empty too. You said oak logs north-east; lead the way and I'll follow in sight."}
+- 01:31 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":349}}],"say":"Zack here, coming to Clark at the logs near -264,66,351. I have no food and no weapon yet."}
+- 01:31 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}}],"say":"A bow is drawn to the north, so I'm staying by the beds. Clark, if you're at the logs, call out and I'll come to you in sight."}
+- 01:31 act: {"actions":[],"say":"Thank you, Riker. I'm here at the beds, not moving. Keep the porkchops if Worf or Trini is weaker; I'll take one only if you have spare."}
+- 01:36 act: {"actions":[],"say":"Thank you, Riker, I have your porkchop. My hunger is 20, so I'll hold it and give it to Worf the moment he is in my sight at the beds."}
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. I'm going into the white bed with the group. I'm holding one porkchop for whoever is weakest at dawn: Worf, if
+- 01:44 act: {"actions":[{"do":"sleep"}],"say":"Night. Data, you have health 3 and hunger 14; if you come into my sight I'll give you the porkchop before anyone else."}
+- 01:46 act: {"actions":[{"do":"give","to":"ag_data_01","item":"porkchop","count":1}],"say":"Data, you are in reach with health 3. Here is Riker's porkchop. Eat it."}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}},{"do":"give","to":"ag_data_01","item":"porkchop","count":1}],"say":"Data, I'm moving to you at -272,67,338. Say when you see me and I'll ha
+- 01:46 act: {"actions":[{"do":"give","to":"ag_data_01","item":"porkchop","count":1}],"say":"Data, you are in reach. Taking the porkchop out now."}
+- 01:49 act: {"say":"Dawn. I have no food and no tool. I will stay at the beds with the group until we go for wood together. Worf and Trini first for any meat."}
+- 01:53 act: {"say":"Zack here, day 253, no food and no weapon. Bcrusher, I will go to the sheep at -224,67,204 with you and the group in daylight, and stay in sight. Any meat goes to Trini and Data first."}
+- 01:53 act: {"say":"Zack here at the beds. Riker, Worf, I am here and will not wander off. Porkchops go to Trini first, then Worf."}
+- 01:55 act: {"say":"Zack at the beds, no food, nothing to give right now. Worf, you are next after Trini. Picard, if you have spare logs, I could use some for a sword."}
+- 01:55 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2}],"say":"Thank you Data, I have the logs. Making planks and sticks now for a sword."}
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":342}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 01:56 act: {"say":"I have a wooden sword now, thanks to Data's logs. I will hunt with the group in daylight and stay in sight. Meat goes to Trini, then Worf."}
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}}],"say":"Going back to the beds to hold with Kimberly and Trini. Sword in hand."}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to bed at the white beds for the night with the group. Food first at dawn: Trini, then Worf."}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 02:01 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}}],"say":"I cannot get into a bed yet. Walking back to the group at the beds, staying with Worf and Trini."}
+- 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":337}},"wake_on":["goal_completed","d
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_with_group","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":336}},"wake_on":["goal_
+- 02:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}],"intent":{"goal":"rejoin_group_at_dawn","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":337}},"wake_on":["goal_completed","d
