@@ -96,3 +96,4 @@
 - 04:23 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the north white bed, night of 260. Health 20, hunger 20, no food yet. Picard, I'm sleeping here with you. Any meat goes to Trini, then Worf, then Data."
 - 04:24 act: {"actions":[{"do":"sleep"}],"say":"Zack at the north white bed, night of 260. Health 20, hunger 20, no food on me. Trini, then Worf, get any meat first."}
 - 04:25 act: {"actions":[{"do":"sleep"}],"say":"Zack at the north white bed, night of 260. Health 20, hunger 20, no food yet. Trini, then Worf, then Data get the next meat."}
+- 04:26 say: {"text":"Zack here, night of 260 at the north white bed with Jason. No food on me, health and hunger 20. Trini and Worf get any meat first. Going to sleep now."}
