@@ -111,3 +111,11 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 14:03 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, you are in reach and I have a raw chicken. Eat it when your hunger is 6 or below."}
 - 14:03 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Lewis, you are in reach. Raw chicken for you; eat it when your hunger is 6 or below."}
 - 14:03 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"chicken","count":1}],"say":"Picard, you are right beside me. Taking the raw chicken now; eat it when your hunger is 6 or below."}
+- 14:07 say: {"text":"Lewis, the chicken already went to Picard, and he is closest to hungry. I have no food left. First light, I'll hunt with whoever is near."}
+- 14:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
+- 14:11 say: {"text":"Zack, dawn 290, hunger 10, health 9, no food. I'll search north of the beds in sight of Lewis. Any meat, call it out; Trini and Leonardo first."}
+- 14:12 say: {"text":"Troi, give the chicken to Leonardo, he asked first and is in sight. I'm at hunger 10 too but can wait for the next meat."}
+- 14:16 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}}],"say":"Troi, I'm moving next to you at the south bed. Leonardo asked first, so he gets it; I'm at hunger 10 too."}
+- 14:18 say: {"text":"Troi, thank you. Leonardo was first, so if the chicken is in my hands I'll pass it straight to Leonardo, or keep it for whoever is lowest."}
+- 14:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Troi, I'm at the bed, one step north of you. Hand the chicken to Leonardo if he is in sight; otherwise to me."}
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
