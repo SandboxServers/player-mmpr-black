@@ -90,3 +90,15 @@
 - 19:10 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":3}],"say":"Clark, I am giving you my three chicken. Eat them, you are the lowest.","reasoning":"Clark is at health 4.2 and hunger 1
 - 19:10 act: {"actions":[],"say":"Jason, the three chicken went to you by mistake. Please pass them to Clark, he is lowest at health 4.","reasoning":"The chicken went to Jason, not Clark. Ask Jason to hand them to
 - 19:13 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Zack, full at 20, no food. Joining Troi and Worf on the meat hunt east, in sight of the group. Meat goes to Chapman and Clark first.","reasoning
+- 19:15 act: {"actions":[{"do":"give","to":"chapman","item":"beef","count":1}],"say":"Chapman, I have one beef. You were the lowest I last heard of, so it's yours. Eat it, then tell us your health.","reasoning":"B
+- 19:15 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"beef","count":1}],"say":"Chapman, the beef is for you. Eat it.","reasoning":"First give failed on name. Chapman is listed in reach under ag_chapma
+- 19:15 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"say":"Clark, I have one beef. Chapman has walked out of sight, so it's yours. Eat it.","reasoning":"Chapman is out of sight now. 
+- 19:15 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"The beef fell on the ground by Clark. I'm coming over; Clark, pick it up and eat.","reasoning":"The give dropped the beef instead of handing it
+- 19:15 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"reasoning":"I am close to Clark now. Hand the beef over."}
+- 19:15 act: {"actions":[],"say":"The beef went to Kimberly, not Clark, when it dropped. Kimberly, eat it if you are low, or pass it to Clark or Chapman.","reasoning":"Beef is out of my hands now. Tell the group w
+- 19:17 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"reasoning":"Beef is still in my pack, and Clark is in reach. Kimberly confirms it is Clark's. One more try."}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Kimberly has the beef for Chapman. I have no food; dusk is here, so I'm heading to the white bed to sleep with the group.","reasoni
+- 19:21 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed with the group in dusk. Try to sleep; retry later if refused."}
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Zack at the white bed for the night. Health 20, hunger 20, no food. Calling out if anyone needs me.","reasoning":"Night, at a bed, group nearby, not in danger. Sleep
+- 19:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the white beds with Billy, Worf and Chapman. Health 20, hunger 20, night 305. Trying to sleep."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"say":"Zack at the white beds, health 20, hunger 20. Retrying sleep once more with the group near."}
