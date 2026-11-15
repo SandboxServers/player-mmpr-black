@@ -67,3 +67,10 @@
 - 03:30 act: {"actions":[],"say":"Zack at dawn of day 258, at the white beds. No food yet, health 20, hunger 20. Trini, I will stay near you. Billy, if the sheep field to the south has meat, call me and I will com
 - 03:37 act: {"say":"Zack here, dawn of day 258. Health 20, hunger 20, no meat. Trini is with me; any meat I find goes to her first.","intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{
 - 03:38 act: {"say":"Zack at -286,66,246, no animals here. A salmon is in the water north-west near -303,61,233, but that is the lake where I died before, so I'm not going in. Heading back to the beds to the group
+- 03:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. I'm going to the white bed to sleep. Jason, Troi, the seed is yours to plant."}
+- 03:39 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}]}
+- 03:40 act: {"actions":[{"do":"sleep"}]}
+- 03:40 act: {"actions":[{"do":"sleep"}]}
+- 03:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 03:40 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 03:40 act: {"actions":[{"do":"sleep"}]}

@@ -1,6 +1,8 @@
 # Summary
 
-Zack Taylor. End of day 251, night, at the white beds near -271,67,336 with the group (last recorded 01:20). Health 20, hunger 20 at dawn of day 251. Pack empty, no weapon. Sleep was refused that evening by a creeper 8 blocks off.
+Zack Taylor. Day 258, night, in the white bed near -271,67,336 with Trini and others (sleep worked after several refused tries: creepers nearby, then waiting). Health 20, hunger 20. No food. Pack: 2 oak_log, 3 stick, wooden sword. Days since sleep reset to 0 once I wake.
+
+Day 258 in brief: scouted alone to -286,246, no animals, walked back. Iron golems wander the beds; they are not hostile to me.
 
 Where things are:
 - White beds near -271,67,336; a yellow bed near -263,67,353.
