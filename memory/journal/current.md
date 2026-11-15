@@ -28,3 +28,18 @@
 - 17:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Bed at -270,336 is adjacent. Trying sleep there."}
 - 17:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"intent":{"goal":"return_to_bed_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["directly_addressed"
 - 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"With the group at the beds, retry sleep once."}
+- 17:30 act: {"actions":[],"say":"Dawn, day 300. Zack, hunger 8, health 9, holding a raw chicken for Wesley or whoever drops lowest. I will go looking for animals with anyone who is going. Not alone.","intent":{"g
+- 17:30 act: {"say":"Zack, hunger 8, health 9, holding one raw chicken. Worf, I will walk with you for animals. Not alone. Say when you are ready to go.","reasoning":"Hunger 8 is above the eat threshold. Keep the 
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":338}}],"say":"Coming to the beds now, in sight, Jason. Thank you.","reasoning":"Jason offers food if I am in sight. Walk back to the group at the
+- 17:31 act: {"say":"Zack, in sight at the beds, hunger 8, health 9. Thank you all. Trini or Troi, if you have the food, hand it to LaForge first at 15, then me. I hold one chicken for now.","reasoning":"Several o
+- 17:32 act: {"say":"Trini, I am at the beds, -269,66,339, hunger 8. Please come here, I will not walk out alone. Thank you.","reasoning":"Trini has mutton and I am the weakest. Staying at the beds with the group 
+- 17:32 act: {"say":"Thank you Trini, Kimberly too. I have 2 mutton and 1 chicken now. I will eat at hunger 6. LaForge first if he calls.","reasoning":"Got mutton. Hold it until hunger reaches 6, so others who are
+- 17:33 act: {"say":"Billy, I am in sight at the beds. I have 2 mutton and a chicken, so give your porkchop to Macdonald at 15. Thank you.","reasoning":"I already hold food. Redirect Billy's porkchop to a lower-hu
+- 17:37 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed for the night. Zack, hunger 8, holding 2 mutton and a chicken. Clark and Macdonald, call out 
+- 17:41 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack, dusk 300, hunger 8, health 9, trying the bed for the night. Two mutton and a chicken held for whoever is lowest.","
+- 17:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. Sleep here at the white bed, near the group."}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"say":"Zack, night 300, hunger 8. Heading back to the white bed, away from the drops. Thanks Worf and Billy, I'll take food only if I drop
+- 17:42 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1},{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"say":"Leonardo, here is the wooden sword I owed you. G
+- 17:42 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1},{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"say":"Leonardo, your wooden sword. Macdonald, thanks f
+- 17:42 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Previous sleep was blocked, likely the bed was occupied or the path. Try the other bed of the pair."}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-283,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the bed. Move to a clear spot beside the beds and try sleep once more."}
