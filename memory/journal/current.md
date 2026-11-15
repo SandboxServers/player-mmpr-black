@@ -127,3 +127,10 @@
 - 23:54 act: {"say":"Zack at the logs by the water, (-246, 67, 353), not in the water. Riker, I'm not going on the boat. If you bring fish back, Trini first. I'll wait here for the group."}
 - 00:01 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Zack heading back to the beds for the night with the group."}
 - 00:01 act: {"actions":[{"do":"sleep"}],"say":"Zack at the yellow bed, night of day 247. No food, hunger 15, health 0.67, sword in hand. Trying to sleep with the group near. Trini first for any food at light.","r
+- 00:09 act: {"say":"Dawn, day 248. Hunger 15, no food on me. I'll walk the grass with Riker and keep my sword out. Any meat goes to Trini first.","intent":{"goal":"hunt_food_grass","program":"travel","arguments":
+- 00:09 act: {"intent":{"goal":"hunt_food_grass","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"lim
+- 00:09 act: {"say":"Zack: dusk, day 248. No food, hunger 15, health 0.67. My food hunt failed, so I'm going back to the white bed by the group to sleep. Kimberly, Trini first at light.","actions":[{"do":"goto","t
+- 00:10 act: {"say":"Trini, thank you, but keep the chicken. You're at hunger 11 and I'm at 15, and you need it more. Eat it when you reach 6. If I find anything, I'll bring it to you."}
+- 00:12 act: {"say":"Geldar: I'll check the wheat at -263,66,321 now. Anything ripe goes to Trini first, then Data.","actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}]}
+- 00:13 act: {"say":"Geldar: no wheat visible at -263,321, so I'll break the tall grass here for seeds. Any food goes to Trini first.","actions":[{"do":"mine","block":"tall_grass","count":4}]}
+- 00:17 act: {"say":"Zack here. I have no food and hunger is 15. If anyone finds a cow, sheep, chicken or wheat, please call out. I will stay near the beds.","intent":{"goal":"search_food_near_beds","program":"tra
