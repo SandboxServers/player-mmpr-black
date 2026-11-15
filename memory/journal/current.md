@@ -81,3 +81,10 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
 - 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"intent":{"goal":"sleep_at_yellow_bed","program":"rest","arguments":{"at":{"x":-271,"y":67,"z":326}},"wake_on":["directly_a
 - 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Zack, dawn day 287, no food, hunger 11, health 15. Going back to the yellow bed; I'll scout for animals in sight of the group after
+- 13:32 act: {"intent":{"goal":"scout_animals_near_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 13:33 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, dusk day 288. No food, hunger 11, health 15. Going to the yellow bed with the group to sleep. Meat goes to Lew
+- 13:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"The walk was blocked by the crowd. Try using the bed from here and sleeping once."}
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, night 288. No food, hunger 11. Trying the yellow bed again to sleep with the group.","reasoning":"Night has co
+- 13:44 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 13. Swinging back with my sword.","reasoning":"A phantom is hitting me from above at night. Fight it with the sword rather 
+- 13:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Phantom hit me and hunger is 11. The group is near the white beds. Try to reach the bed and sleep, since sleep
