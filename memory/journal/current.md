@@ -4,3 +4,10 @@
 - 16:46 act: {"intent":{"goal":"reach_north_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"li
 - 16:46 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the north white bed with the group. No food, hunger 10. Trying to sleep."}
 - 16:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 16:50 act: {"intent":{"goal":"hold_with_group_until_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":16}},"say":"
+- 16:51 say: {"text":"Zack: I'll come east to the pigs with Macdonald and Chapman. Wait for me; I have a sword, no food, hunger 10."}
+- 16:52 act: {"intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 16:52 say: {"text":"Zack at the east pig lead, -214,69,351. No pigs in sight yet. Any meat goes to Wesley first, then Clark."}
+- 17:00 act: {"say":"Going back to the white beds with Billy, Chapman and Riker for the night. No pigs out east.","intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":3
+- 17:00 act: {"actions":[{"do":"sleep"}]}
+- 17:04 act: {"actions":[{"do":"sleep"}]}
