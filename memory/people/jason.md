@@ -4,4 +4,4 @@ Impression: quiet and often the hungriest of us. He is the first we try to feed.
 
 Trust: 67 out of 100.
 
-Why: he came back to help on day 217 and deferred to Kimberly's route, which was right. He stayed close during the hunts. But food sent to him earlier often went astray, and I have not yet seen him bring food to anyone.
+Why: he came back to help on day 217 and deferred to Kimberly's route, which was right. He stayed close during the hunts. But food sent to him earlier often went astray, and I have not yet seen him bring food to anyone. On day 265 Lewis gave him bread and his health began to climb; he is first in line for food by our rule.

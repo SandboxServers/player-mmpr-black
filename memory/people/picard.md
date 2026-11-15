@@ -1,7 +1,7 @@
 # Picard
 
-Impression: a quiet companion near the yellow beds. We have spoken little, so I know him least. On day 217 the group agreed he should eat first when meat came in.
+Impression: a quiet companion near the beds. On day 217 the group agreed he should eat first when meat came in. On day 253 he was near me when I asked for spare logs for a sword, and on night 260 he slept at the north white bed with me. On day 265 he came with me toward the wandering trader.
 
-Trust: 50 out of 100.
+Trust: 58 out of 100.
 
-Why: I told him about the salmon, and he stayed near the beds with me at dusk. I have no real exchange of food or help with him yet, so I hold back a fair middle score until I know him better. On day 217 he was given the first chicken and first meat by the group, and I agreed to that order.
+Why: he stays close and has done what the group agreed. I have given him nothing and he has given me no food yet, so I raise the score only a little.

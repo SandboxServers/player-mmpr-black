@@ -1,6 +1,6 @@
 # Billy
 
-Impression: generous and quick to act. He hunts sheep, holds food for others, and gives his share to whoever is weakest. Days 225 to 236 he searched the west grass with me and waited where I asked.
+Impression: generous and quick to act. He hunts sheep, holds food for others, and gives his share to whoever is weakest. Days 225 to 236 he searched the west grass with me and waited where I asked. On days 261 to 263 I scouted west with him again, in sight, and found no animals.
 
 Trust: 72 out of 100.
 

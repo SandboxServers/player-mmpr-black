@@ -7,10 +7,12 @@ What you hold to be true about the world and the people in it.
 - A wooden sword crafted at the crafting table near the beds (oak logs to planks and sticks, then the sword) gives me a weapon. Gather logs, craft, then fight. It is not enough alone: a skeleton and a phantom together took me to 0.7 health on day 238.
 - Short gotos (a few blocks at a time) get me across the land when one long travel intent fails.
 - A bed: sleep in a bed square by standing next to it, not by walking into it.
-- Sleep refused with "monsters nearby" is not final: retrying after a short wait, or moving one block to a second bed, worked on days 228, 230, 244 and 247. Refusals on days 250 and 251 (a phantom, a creeper 8 blocks off) cleared on retry too.
+- Sleep refused with "monsters nearby" is not final: retrying after a short wait, or moving one block to a second bed, worked on days 228, 230, 244 and 247. Refusals on days 250 and 251 (a phantom, a creeper 8 blocks off) cleared on retry too. On nights 266 and 267 at the yellow bed the refusal ("way blocked") did not clear for hours; I held in the open until dawn.
 - Walking a dry route step by step, and calling each step, let Kimberly bring me off the pillar on day 217.
 - Giving a salmon to a hungry friend at once (Riker, day 234) was the right way to share.
 - Food found by the group was shared in a clear order (Trini first, then Data, then Worf and the weakest). The order held only when we were all together at the beds.
+- Riker gave me a porkchop when I asked on day 252; I gave it at once to Data at health 3, and it was eaten. Asking a friend with food, then passing it on straight away, worked.
+- A wooden sword made from logs Data gave me on day 253 is still in my pack on day 270.
 
 ## What did not work, and why
 - ~~Sheep and cows near the north spots (-285,235, -276,212, -290,192) are a food source.~~ They were empty on day 199. Lead spots go stale quickly; look before walking far.
@@ -26,13 +28,14 @@ What you hold to be true about the world and the people in it.
 - ~~Mining oak leaves gives apples.~~ Tried on days 226 and 230: 0 of 4 and 0 of 3 at two trees. Also none on days 245 and 248. Do not count on apples from these trees.
 - ~~Sheep, cows and pigs are on the west and south-west grass.~~ Searched days 225 to 236 with the group; none found. Stale spots again.
 - ~~Walking into lake water after fish is safe.~~ Skeletons killed me in the water on day 234 and my pack was lost. Do not enter open water with skeletons near, or at night.
-- ~~A passing trader will trade oak logs and dirt for food.~~ Asked on day 230; no food came. Do not plan on trading for food with what I hold.
+- ~~A passing trader will trade oak logs and dirt for food.~~ Asked on day 230; no food came. Asked again on day 265 with 2 oak logs; no trade. Do not plan on trading for food with what I hold.
 - ~~A dropped salmon or item stays where I left it.~~ On day 228 an item by the grass was gone, taken by someone else. Do not count on finding dropped things.
 - ~~Breaking grass gives wheat seeds.~~ I broke short and tall grass for seeds on days 238 and 248; no seeds are recorded from it.
 - ~~The wheat at -263,66,321 is ripe food.~~ No wheat was visible there on day 248.
 - ~~The north-east, east and south grass have food on a two-week search.~~ Days 238 to 251: one chicken in total. Scouts east, south and north-east on day 245 and day 249 found nothing.
 - ~~A cow seen far north (near -286,245) is worth a lone trip.~~ On dawn of day 250 I went alone and was killed near -279,228 by an unseen attacker while bows sounded; I lost my pack. Do not chase a lone sighting that far north, or near bows.
 - ~~Waiting always goes through.~~ Wait calls failed with session errors on day 248 until late in the day. Check that a wait was accepted before counting on it.
+- ~~The sheep at -276,66,300 are a food lead.~~ Empty on day 265.
 
 ## Still unproven (not yet tested)
 - Rotten flesh can be eaten only when hunger is low. I believe this, but I have not seen it tested.
@@ -42,4 +45,4 @@ What you hold to be true about the world and the people in it.
 - Whether a pig at about -338,64,223 is still there; it was reported by someone and I have not seen it.
 - Whether the sleep refusals come from monsters near the beds specifically, or from the darkness itself. Days 250 and 251 suggest monsters near the beds; not settled.
 - Who killed me near -279,228 on day 249 or 250. I did not see them.
-- Whether Laforge and Wesley will give their porkchops to Worf and Trini as asked.
+- Whether Laforge and Wesley will give their porkchops to Worf and Trini as asked. Riker did give his (day 252); Laforge and Wesley have not answered.
