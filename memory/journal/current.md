@@ -18,3 +18,4 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 11:09 act: {"intent":{"goal":"scout_grass_northwest","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 11:09 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
 - 11:12 say: {"text":"Zack, dawn day 281. No food, hunger 14. Staying at the white beds with the group, scouting only in sight of the beds. Any meat goes to LaForge, then Trini, then Picard."}
+- 11:19 act: {"say":"Zack here, hunger 14, health 19, no food. I'll stay near the beds and scout for animals. Any meat goes to Trini first."}
