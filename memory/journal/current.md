@@ -89,3 +89,7 @@
 - 04:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":328}}],"say":"Zack, dawn of day 260. No food. Scouting the grass just east of the beds in sight of the group. Any meat goes to Trini, then Data."
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Night again, no meat found on the east grass. Going to the north white bed to sleep with the group.","reasoning":"Ni
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep was interrupted. Go to the north bed and try once more."}
+- 04:11 act: {"intent":{"goal":"scout_grass_north_east_for_animals","program":"travel","arguments":{"target":{"x":-258,"y":67,"z":312}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precond
+- 04:11 act: {"intent":{"goal":"return_to_group_at_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 04:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at the north white bed, dusk day 260. No food, health 20, hunger 20. Clark, the porkchop goes to Worf or Trini,
+- 04:23 act: {"actions":[{"do":"sleep"}],"say":"Zack here, night of 260, at the north bed with Kimberly, Picard, Jason and Wesley. No food on me. Any meat goes to Trini, then Worf, then Data."}
