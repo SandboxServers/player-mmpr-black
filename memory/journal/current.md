@@ -1,4 +1,5 @@
 # Journal
+- 248 day: walked north to the wheat at -263,66,321; no wheat visible, no food. Hunger 15, health 0.67. Next: check Geldar's wheat, then back to the group.
 : {"text":"Ezra, goodnight. Food first at light for Trini, then Riker."}
 - 20:47 say: {"text":"Ezra, Worf, Jason: I'm awake at the white bed, hunger 20, no food and no weapon. At first light I'll go with the group for meat, and Trini and Riker get the first of it."}
 - 20:49 say: {"text":"Zack here at the white beds, health 20, hunger 20, no food and no weapon. Trini first with the wheat, then Riker. I'll go west with Troi to look for seeds or animals, and bring anything I fin
@@ -134,3 +135,4 @@
 - 00:12 act: {"say":"Geldar: I'll check the wheat at -263,66,321 now. Anything ripe goes to Trini first, then Data.","actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}]}
 - 00:13 act: {"say":"Geldar: no wheat visible at -263,321, so I'll break the tall grass here for seeds. Any food goes to Trini first.","actions":[{"do":"mine","block":"tall_grass","count":4}]}
 - 00:17 act: {"say":"Zack here. I have no food and hunger is 15. If anyone finds a cow, sheep, chicken or wheat, please call out. I will stay near the beds.","intent":{"goal":"search_food_near_beds","program":"tra
+- 00:19 act: {"say":"Zack here, day 248, hunger 15, no food. Heading north to Geldar's wheat at -263,66,321 to check if it is ripe. Trini first for anything I find.","intent":{"goal":"check_wheat_north","program":
