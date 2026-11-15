@@ -112,3 +112,10 @@
 - 05:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at dusk, day 262, going to the north white bed with the group. No food; meat goes to Worf, then Trini."}
 - 05:01 act: {"actions":[{"do":"note","text":"Night of day 262 at the white beds near -270,67,336. Health 20, hunger 20, no food. Pack: 2 oak_log, 3 stick, wooden sword."}],"say":"Zack here. No food, hunger 20. Tr
 - 05:01 act: {"actions":[{"do":"sleep"}]}
+- 05:02 act: {"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000
+- 05:06 act: {"actions":[{"do":"note","text":"Night day 262. Hunger 20, no food to give. Holding at the beds with the group until dawn, then scouting grass for animals."}],"say":"Zack: I have no food either, only 
+- 05:10 act: {"intent":{"goal":"scout_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-284,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 05:10 act: {"intent":{"goal":"scout_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-296,"y":67,"z":328}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 05:14 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 05:15 act: {"actions":[{"do":"note","text":"Day 263 midday: scouted west grass with group, no animals. Phantoms and bows to north-west; back at beds. I have no food to give; holding with the group."}],"say":"Bac
+- 05:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_tick
