@@ -1,6 +1,8 @@
-1. Find food, meat or bread, for myself first. Hunger is 16 and health does not regenerate while it stays low. Trade feathers and wool with Wesley for beef, or join Trini's hunt at the village to the west.
-2. Keep within reach of the group. Phantoms come at night, and we were safe only together by the beds. Count off at each gathering.
-3. Find Tommy Oliver and welcome him slowly, then share what we know about food and the night.
-4. Keep the spirit up: a dance step for each task finished, and help any friend in trouble, as I did for Jason.
+# Goals
 
-Reasons: food is the first thing that can kill me. Staying with the group keeps the night survivable. Tommy is still unseen, and the friends are the only team here.
+1. Find food, meat or bread, for myself. Hunger 16, and health does not regenerate while it stays low. Trade feathers (3) and white wool (1) for meat from Wesley or Leonardo. Give meat first to the weakest (Picard).
+2. Stay with the group at the beds at night. Count off at each gathering.
+3. Meet Tommy Oliver near 434,-999 at first light and welcome him slowly, with no pressure.
+4. Keep spirits up: a dance step for each task finished, and help a friend in trouble.
+
+Reasons: food can kill me first. The group keeps the night survivable. Tommy is the one new person to bring in.
