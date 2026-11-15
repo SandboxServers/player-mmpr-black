@@ -97,3 +97,16 @@
 - 04:24 act: {"actions":[{"do":"sleep"}],"say":"Zack at the north white bed, night of 260. Health 20, hunger 20, no food on me. Trini, then Worf, get any meat first."}
 - 04:25 act: {"actions":[{"do":"sleep"}],"say":"Zack at the north white bed, night of 260. Health 20, hunger 20, no food yet. Trini, then Worf, then Data get the next meat."}
 - 04:26 say: {"text":"Zack here, night of 260 at the north white bed with Jason. No food on me, health and hunger 20. Trini and Worf get any meat first. Going to sleep now."}
+- 04:26 say: {"text":"Zack here, awake at the north white bed, night of 260. Health and hunger 20, no food. Trini, Kimberly is bringing you Troi's porkchop. I'll stay here with Picard and Jason until dawn."}
+- 04:30 say: {"text":"Zack, dawn of day 261. No food, hunger 20. Billy, I'll go west with you and stay in sight. Any meat I find goes to Worf first, then Trini."}
+- 04:30 act: {"actions":[{"do":"goto","target":{"x":-279,"y":67,"z":319}}],"intent":{"goal":"scout_west_with_billy","program":"travel","arguments":{"target":{"x":-279,"y":67,"z":319}},"wake_on":["directly_addresse
+- 04:34 say: {"text":"Zack at the beds, midday day 261. Still no food on me. Worf is being fed now; good. I'll stay near the beds and not crowd the gives. Any animal I see, I'll call out."}
+- 04:38 say: {"text":"Zack at the beds, day 261 midday. No food, hunger 20. Beverly, the mutton goes to Worf first, as you said. I'm staying in sight of the beds for any animal."}
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at dusk, day 261. No food, health and hunger 20. Going to the north white bed to sleep. Worf and Trini get any 
+- 04:43 act: {"actions":[{"do":"sleep"}]}
+- 04:44 act: {"actions":[{"do":"sleep"}]}
+- 04:49 act: {"actions":[{"do":"note","text":"Dawn day 262 at the south white beds. Health 20, hunger 20, no food. Sleep was refused overnight by golems. Staying with the group; any meat or wheat goes to Worf, the
+- 04:49 say: {"text":"Zack here in daylight. I'll go with Billy to the west grass for animals, and any meat goes to Worf, then Trini. Not going alone."}
+- 04:51 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Zack following LaForge west, in sight. Any meat goes to Worf, then Trini."}
+- 04:51 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Zack heading west to Billy, with LaForge. Watch the golems to the south."}
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Zack at dusk, day 262, going to the north white bed with the group. No food; meat goes to Worf, then Trini."}
