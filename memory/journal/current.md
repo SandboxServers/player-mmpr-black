@@ -142,3 +142,5 @@
 - 05:56 act: {"actions":[{"do":"goto","target":{"x":-265,"y":66,"z":323}}],"say":"Zack here, day 265, hunger 19, no food in hand. I'm coming to the wheat field to stay with Jason. Any meat or bread goes to Jason f
 - 05:59 act: {"actions":[],"say":"Zack here, still no food, hunger 19. I'm staying with Jason and the group at the wheat field until dusk, then we'll find a bed together."}
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Coming with you, Jason. Zack to the white bed."}
+- 06:00 act: {"actions":[{"do":"sleep"}],"say":"Going to bed at the white bed with the group. No food yet; I'll look at first light.","reasoning":"Dusk, hunger 19, no food. Sleep was refused for nearby monsters. R
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep refused twice (monsters, blocked way). Walk to the group's bed at -271,67,336 and try again; Clark is hu
