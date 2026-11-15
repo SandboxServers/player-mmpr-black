@@ -46,3 +46,7 @@
 - 02:47 act: {"actions":[{"do":"sleep"}]}
 - Night of 256: health 20, hunger 20, pack 2 oak_log, 3 stick, 1 wooden_sword. No meat. Went to the white bed at -271,67,336 to sleep; Data and Trini are low and near, so any meat goes to them first.
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack here, night of day 256. Health 20, hunger 20. I have two logs and a wooden sword, no meat. Data and Trini, any 
+- 03:05 act: {"actions":[{"do":"sleep"}],"say":"Zack here at the white beds, night of 256. No food, health 20, hunger 20. Bcrusher, Worf, I'm in the bed by you; meat goes to Trini and Data first."}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Zack at the white beds. No food to give, Ezra is at 3 health. I'm staying with Worf and Kimberly and retrying the bed at -270,67,31
+- 03:05 act: {"actions":[{"do":"sleep"}]}
+- 03:07 act: {"actions":[{"do":"sleep"}]}
