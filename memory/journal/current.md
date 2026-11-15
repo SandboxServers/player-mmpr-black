@@ -49,3 +49,6 @@
 - 18:02 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"chicken","count":1},{"do":"sleep"}],"say":"Bcrusher, one chicken coming to you. Night 301, I'm trying the bed next to you."}
 - 18:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
 - 18:03 act: {"actions":[{"do":"note","text":"Night 301 to dawn: sleep blocked twice (crowded beds). Hunger 7, health 9. Gave Bcrusher a chicken. Will eat at 6."}]}
+- 18:09 say: {"text":"Zack, dawn 302, hunger 7, health 9, holding 2 mutton and 3 chicken. I'll eat at 6. Call out if you are lower."}
+- 18:10 say: {"text":"Zack, hunger 7, I have food and will eat at 6. Kimberly, keep your beef for whoever drops lower than me."}
+- 18:10 act: {"actions":[{"do":"eat"}],"say":"Zack, eating one mutton now at hunger 7, since the group says I am lowest. I still hold 1 mutton and 3 chicken for whoever drops next."}
