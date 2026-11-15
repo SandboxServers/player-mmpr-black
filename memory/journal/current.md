@@ -152,3 +152,5 @@
 - 06:18 say: {"text":"Zack here, hunger 19, no food. I have seen no animals on the east side yet. I'm checking my footing now."}
 - 06:18 act: {"actions":[{"do":"unstick"}]}
 - 06:18 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addressed
+- 06:24 act: {"actions":[{"do":"sleep"}],"say":"Zack here, hunger 19, no food. Sleeping at the yellow bed tonight with Trini and the group."}
+- 06:24 act: {"actions":[{"do":"sleep"}]}
