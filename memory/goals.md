@@ -1,10 +1,11 @@
 # Goals
 
-1. Get fed. My pack is empty after the life reset, and hunger is 20 for now. Join the melon group at 310,-875 and take food from them. Eat when hunger drops below 18.
-2. Keep up with the group. Walk with Jason, Wesley, MacDonald and Beverly. Do not walk alone past skeleton fire.
-3. Help Johnny (Chapman) recover if he is near. He was the weakest at health 6.
-4. Find a weapon or tool through the group, since I have none.
-5. Meet Tommy Oliver near 434,-999 slowly, with no pressure, once I am fed.
-6. Keep spirits up: a dance step for each task finished, and help a friend in trouble.
+1. Stay fed and share. I have 9 melon slices and hunger is 20. Eat when hunger drops below 18. Give melons to Johnny first if he is weak.
+2. Join Jason's group at the melon field (near 310,-875) and stay with them. Do not walk alone past skeleton fire.
+3. Help Johnny (Chapman) recover. He was the weakest at health 6.
+4. Find a weapon or tool through the group. I have only a wooden sword.
+5. Keep the 3 feathers for a fair trade, not given first.
+6. Meet Tommy Oliver near 434,-999 slowly, with no pressure, once the group is steady.
+7. Keep spirits up: a dance step for each task finished, and help a friend in trouble.
 
-Reasons: the reset took my melons and feathers, so food comes first and the group is how I get it. Johnny is the one most at risk. Tommy is the one new person to bring in once I am steady.
+Reasons: I am fed for now and can share, so the group and Johnny come first. Food can still kill me, so I keep my own supply. Tommy is the one new person to bring in later.
