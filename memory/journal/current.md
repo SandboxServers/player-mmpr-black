@@ -74,3 +74,5 @@
 - 03:40 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
 - 03:40 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
 - 03:40 act: {"actions":[{"do":"sleep"}]}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night at the beds. I have no food, but health and hunger are full, so I'm going to sleep. First meat goes to Trini."
+- 03:44 act: {"actions":[{"do":"sleep"}]}
