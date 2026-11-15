@@ -88,3 +88,26 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Zack, night 288. No food, hunger 11. Trying the yellow bed again to sleep with the group.","reasoning":"Night has co
 - 13:44 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 13. Swinging back with my sword.","reasoning":"A phantom is hitting me from above at night. Fight it with the sword rather 
 - 13:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Phantom hit me and hunger is 11. The group is near the white beds. Try to reach the bed and sleep, since sleep
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":331}}],"reasoning":"Dawn on day 289. I have no food and hunger is 11. Trini and Bcrusher are searching for animals in sight of each other. I go t
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":333}},{"do":"goto","target":{"x":-275,"y":65,"z":334}}],"reasoning":"Dropped items lie to the south. Walking over them picks them up. One may be 
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":334}},{"do":"goto","target":{"x":-284,"y":66,"z":334}}],"reasoning":"Picked up a feather, hoe and planks, no food. More dropped items lie to the 
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":337}},{"do":"goto","target":{"x":-278,"y":66,"z":340}}],"reasoning":"Still no food. The last dropped items lie to the south-east at -280,337 and 
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":300}}],"reasoning":"Picked up the scattered gear; still no food. Lewis has died. Pigs were seen earlier near -255,239. I head north-east toward t
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":240}}],"reasoning":"No food near the beds. Pigs were seen near -255,239 earlier. Keep heading there across open grass, looking for animals."}
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":235}},{"do":"attack","target":"chicken"}],"reasoning":"A chicken is at -241,68,235. Chicken meat is food for me. Go to it and attack.","say":"Chi
+- 13:52 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-234,"y":68,"z":221}}],"reasoning":"I got a chicken and my hunger is 11, so I eat it. A sheep is visible to the north-east at -234,68,219, so I head
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-234,"y":68,"z":222}},{"do":"attack","target":"sheep"}],"reasoning":"Raw chicken can only be eaten at hunger 6 or below, so I keep it for someone weaker. Two she
+- 13:53 act: {"actions":[],"intent":{"goal":"hunt_sheep_for_group","program":"gather","arguments":{"block":"mutton","count":1},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 13:53 act: {"actions":[],"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limi
+- 13:54 say: {"text":"Zack at the beds with mutton and a raw chicken. Trini or Troi, say your hunger and I will give it to the weakest."}
+- 13:57 say: {"text":"Zack, midday 289. I hold one mutton and one raw chicken. Trini and Troi have eaten. Riker, Picard, Clark: whoever is closest and hungriest, come within reach and I'll hand the mutton over."}
+- 13:58 say: {"text":"Picard, I'm at the beds at -273,67,325. Come within reach and the mutton is yours."}
+- 13:58 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"mutton","count":1}],"reasoning":"Picard is hungriest of those asking (14, below Riker's 15). Walk to him and 
+- 13:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":331}}],"reasoning":"Picard is not in sight by name. He said he was at the wheat patch at -271,66,331, so walk there and look."}
+- 13:59 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"mutton","count":1}],"reasoning":"Picard is not here. Worf is in sight at about hunger 16, and Leonardo is at 11, 
+- 13:59 say: {"text":"Worf, I gave you the mutton. Eat it when you can. Picard, Leonardo: I have a raw chicken for whoever is lowest next."}
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed"
+- 14:03 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"chicken","count":1}],"say":"Picard, here is my raw chicken. You were the hungriest in reach. Eat it when your hunger is 6 or below."}
+- 14:03 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"chicken","count":1}],"say":"Riker, you are in reach and I have a raw chicken. Eat it when your hunger is 6 or below."}
+- 14:03 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Lewis, you are in reach. Raw chicken for you; eat it when your hunger is 6 or below."}
+- 14:03 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"chicken","count":1}],"say":"Picard, you are right beside me. Taking the raw chicken now; eat it when your hunger is 6 or below."}
