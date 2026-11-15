@@ -76,3 +76,7 @@
 - 03:40 act: {"actions":[{"do":"sleep"}]}
 - 03:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night at the beds. I have no food, but health and hunger are full, so I'm going to sleep. First meat goes to Trini."
 - 03:44 act: {"actions":[{"do":"sleep"}]}
+- 03:49 act: {"say":"Zack at dawn, day 259. No food on me. I'll scout the grass near the beds for animals in sight. Meat goes to Trini first, then Data.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":328}}
+- 03:49 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":340}}]}
+- 03:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}]}
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
