@@ -12,3 +12,8 @@ Day 280 digest: no food found all day. Scouted east and south-west grass for ani
 - 11:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked twice. Step onto the bed block at 336 and try once more."}
 - 11:04 act: {"actions":[{"do":"wait","seconds":60},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"A creeper 7 blocks off is blocking sleep for under a minute. Wait it out, then walk
 - 11:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Still night and the group is near. Walk to the 336 bed and try sleep once more; if blocked, wait again."}
+- 11:06 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 280, at the yellow bed with Riker. No food on me. Trying to sleep; food goes to LaForge, then Trini, then Picard at dawn.","intent":{"goal":"rest_for_nig
+- 11:09 act: {"intent":{"goal":"scout_animals_near_beds","program":"gather","arguments":{"block":"wheat","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 11:09 act: {"intent":{"goal":"scout_grass_west_of_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 11:09 act: {"intent":{"goal":"scout_grass_northwest","program":"travel","arguments":{"target":{"x":-296,"y":66,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 11:09 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
