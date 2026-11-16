@@ -1,15 +1,57 @@
 # Journal
-- 06:14 act: slept at bed 387,107,-1051 through the night (sleep worked). Woke at day 338, health 20, hunger 20.
-- 06:14 act: Lewis spoke from bed 415,-1065 and offered to walk the cows at first light. I answered and am holding at the bed until Jason or Billy calls the walk.
-- 06:20 say: {"text":"Zack here at the beds, health 20, hunger 20. MacDonald, glad Lewis got you beef. I'm waiting for Jason's call to walk to the cows."}
-- 06:22 say: {"text":"Johnny, good. I'll call out when Jason gives the word. Nobody walks alone, so we go together in sight."}
-- Waiting at the beds for Jason's call. Johnny wants to join the cow walk. MacDonald was fed by Lewis.
-- 06:23 say: {"text":"Thanks Worf, keep the melon for whoever is weakest. I'm fed, so no payment needed yet."}
-- 06:24 say: {"text":"Picard, got it, dusk is close. I'm at the bed 387,107,-1065 and going to sleep here. Worf, keep the melon for the weakest."}
-- 06:27 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Zack's at the beds, fed and steady. Morning cow walk when Jason calls."}
-- 06:31 act: {"actions":[],"say":"Morning! Zack at the white beds, health and food full. Billy, Johnny, I'm ready for the cow walk once Jason calls it. Who's in sight?"}
-- 06:31 act: {"actions":[],"say":"MacDonald, Zack here. I've got rotten flesh if you need it; come stand by me and I'll hand it over. Call the walk, Jason, when you're ready."}
-- 06:35 act: {"actions":[],"say":"Trini, Zack here at the beds. I have rotten flesh for you. Say where you stand and I'll walk to you in sight."}
-- 06:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Zack's going to bed at the white bed. Cow walk at first light, if Jason calls."}
-- 06:40 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Zack's at the white bed, fed and steady. Morning cow walk when Jason calls."}
-- Night 339: at white bed 387,107,-1065, health 20, hunger 20. Sent sleep; waiting for the result. Nothing in sight but MacDonald's speech about the melon.
+- Night 339: slept at the white bed 387,107,-1065; sleep worked twice. Woke at morning, health 20, hunger 20.
+- 06:45 say: told the beds I'm fed, offered rotten flesh to MacDonald (health 13, hunger 16), and said Jason's word decides the cow walk.
+- Waiting for Jason's call. Never travel until the group is in sight.
+- 06:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack's in the white bed, fed. Morning, Jason's call for the cows."}
+- 06:53 act: {"actions":[{"do":"sleep"}]}
+- 06:57 act: {"say":"Morning. Zack at the white bed, health and hunger full. Worf, sorry about the enderman; I have rotten flesh and bones if you need them. Still waiting on Jason's call for the cows."}
+- 07:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack's in the white bed, fed. Morning, Jason's call for the cows."}
+- 07:05 act: {"actions":[{"do":"sleep"}]}
+- 07:09 act: {"say":"Morning. Zack at the white bed, fed. Picard, I have 6 oak logs and can hand you some if you're in sight. Jason, still waiting on the cow call."}
+- 07:10 act: {"actions":[{"do":"give","to":"Picard","item":"oak_log","count":3}],"say":"Picard, sending 3 oak logs if you're in sight. Make the sword well."}
+- Day 341 dusk: Picard made his wooden sword (thanks from him, so logs no longer needed; I keep 6). Lewis gave him planks. Going to sleep at white bed 387,107,-1065, fed, health 20.
+- Night 341 slept (partial, then full). Day 342 morning: no call from Jason yet; MacDonald got melon from Clark/Picard, not in my sight. Dusk 342: sleep refused, not yet night. Waiting at the bed.
+- Night 342 slept; the night was skipped, morning of day 343. Health 20, hunger 20. No call from Jason yet. Trini was weakest (7); Beverly has melon for her. Waiting.
+- Day 343: slept again at the bed (night skipped). Morning, health 20, hunger 20. Still no cow call from Jason. Picard and Lewis at the beds with food for whoever drops. Waiting.
+- Day 344 dusk: no call yet, health 20, hunger 20. Picard beside the beds too. Sleeping at white bed 387,107,-1065.
+- Day 345 night: sleep at dusk refused (not yet night); waited; now night 346, sleeping at bed 387,107,-1065. Health 20, hunger 20.
+- Day 345: Billy and Beverly forming the cow walk; nobody has called me yet. Dusk: sleeping at my bed again, health and hunger 20.
+- Day 345 morning: slept through (second try worked). Health 20, hunger 20. Lewis, Picard, Johnny, Riker, MacDonald all at the beds. Still no call from Jason. Waiting, nobody asked me for food.
+- 07:18 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack's at the white bed, fed. Morning, Jason's call for the cows."}
+- 07:18 act: {"actions":[{"do":"sleep"}]}
+- 07:22 act: {"actions":[],"say":"Morning. Zack at the white bed, health and hunger full, 6 oak logs and rotten flesh if anyone drops to 6. Still waiting on Jason's call for the cows."}
+- 07:30 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, fed. Morning, Jason's call for the cows."}
+- 07:34 act: {"actions":[],"say":"Zack at the white bed, fed. Trini, if you're at 6 and in my sight, I have rotten flesh to hand you."}
+- 07:46 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack at the white bed, fed. Morning, Jason's call for the cows."}
+- 07:50 act: {"actions":[],"say":"Morning. Zack at the beds, fed, 6 oak logs and rotten flesh for anyone who drops to 6. Ready for the cow walk when Jason calls it."}
+- 07:58 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack at the white bed, fed. Morning, Jason's call for the cows."}
+- 07:59 act: {"actions":[{"do":"sleep"}]}
+- 08:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, fed. Morning, Jason's call for the cows."}
+- 08:11 act: {"actions":[{"do":"sleep"}]}
+- 08:15 act: {"actions":[],"say":"Morning. Zack at the beds, health and hunger full, 6 oak logs and rotten flesh for anyone who drops to 6. Still waiting on Jason's call for the cows."}
+- 08:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, fed. Morning, Billy, where is the cow walk meeting? I'm waiting in sight of the beds."}
+- 08:51 act: {"actions":[{"do":"sleep"}]}
+- 08:51 act: {"actions":[{"do":"sleep"}]}
+- 08:56 act: {"actions":[],"say":"Morning. Zack at the beds, fed. 6 oak logs and rotten flesh for anyone at 6. Still ready for the cow walk when someone calls it."}
+- Day 346 morning: wait timed out with no calls or events. Health 20, hunger 20, at bed 388,107,-1065. Still waiting for Jason's or Billy's cow call.
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, fed. Morning, Jason's or Billy's call for the cows."}
+- 09:04 act: {"actions":[{"do":"sleep"}]}
+- Night 346: sleep worked (8 of 10, then full). Day 347 bright, health 20, hunger 20, at bed 388,107,-1065. Lewis at 14 and 17 hunger, Beverly holds 7 melon. No cow call yet. Waiting.
+- 09:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, fed. Worf, I have rotten flesh if MacDonald or anyone at 6 steps into my sight."}
+- 09:16 act: {"actions":[{"do":"sleep"}]}
+- Night 347: sleep worked (4 of 10, then full). Morning 348: health 20, hunger 20, at bed. Beverly holds 7 melon; MacDonald at hunger 16 will step into my sight if he drops to 6. Kimberly at bed 415,-1037. No cow call yet. Waiting.
+- 09:24 act: {"actions":[],"say":"Zack at the bed 388,107,-1065, fed. Billy, if you call the cow walk and I'm in reach of your group, I'll come into sight."}
+- 09:33 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack at my bed 388,107,-1065, fed. Morning, I'll wait for the cow call and come to the group's sight."}
+- 09:33 act: {"actions":[{"do":"sleep"}]}
+- Night 348: sleep worked (6 of 10, then full). Group (Jason, Picard, Kimberly, Troi, Data, Wcrusher) sleeping at bed 401,-1037; I stayed at my bed 388,107,-1065 and did not travel alone. Health 20, hunger 20. Waiting for the cow call.
+- Day 348 morning: bright, health 20, hunger 20, at bed 388,107,-1065. Said I'm ready to join Billy's cow walk in the group's sight. No call yet; Data, Riker, Chapman, Worf are at the beds. Waiting.
+- 09:41 act: {"actions":[],"say":"Zack at my bed 388,107,-1065, fed, health 20. Billy, I'm ready to join the cow walk in sight of the group when you call it."}
+- 09:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at my bed 388,107,-1065, fed. Jason, I'll go with Billy's call when it comes, in the group's sight."}
+- 10:03 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack at my bed 388,107,-1065, fed. Morning, I'll join Billy's cow walk in the group's sight."}
+- 10:03 act: {"actions":[{"do":"sleep"}]}
+- 10:07 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1040}}],"say":"Jason, Zack is heading to the group's bed row at 401,-1040 to join the cow walk in sight."}
+- 10:10 act: {"actions":[],"say":"Zack here at the bed row 401,-1041 with Riker, in sight of the group. Billy, I'll walk when you're in my sight. Beef or melon not needed; I hold 8 rotten flesh for the lowest at 6
+- Day 350 midday: at bed row 401,107,-1041 with Riker and Troi, in sight. Billy's cow walk keeps stalling (nobody followed him); I am not walking alone. Health 20, hunger 20. Holding for Billy's call.
+- 10:17 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the bed row 401,-1041, fed. Billy, cows at first light together, as you said."}
+- 10:17 act: {"actions":[{"do":"sleep"}]}
+- 10:21 act: {"actions":[],"say":"Zack at the bed row 402,-1037, health 20, hunger 20, 8 rotten flesh for the lowest. Billy, I'll follow your hop once you're in my sight and I can see the group."}
