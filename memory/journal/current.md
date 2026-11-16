@@ -1,1 +1,1 @@
-# Journal
+Day 366, morning. At white beds 388,107,-1051, health 20, hunger 20. Alone for now; said I hold until the group is in sight. Trini (health 13, hunger 16) holds 10 melon; Tommy and Troi are around the shore with Clark. Nothing to do but wait for the group.
