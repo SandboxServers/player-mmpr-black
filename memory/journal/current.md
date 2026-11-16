@@ -1,2 +1,1 @@
-Day 366, morning. At white beds 388,107,-1051, health 20, hunger 20. Alone for now; said I hold until the group is in sight. Trini (health 13, hunger 16) holds 10 melon; Tommy and Troi are around the shore with Clark. Nothing to do but wait for the group.
-- 15:40 act: {"actions":[{"do":"note","text":"Night, at the white bed 387,107,-1051. Health 20, hunger 20. No one in sight. Going to sleep beside the bed."}],"say":"Night's here. Turning in beside the bed. See you
+# Journal
