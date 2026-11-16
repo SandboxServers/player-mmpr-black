@@ -17,3 +17,14 @@
 - 05:09 act: {"actions":[],"say":"Zack here at 401,-1043, healthy, hunger 20. I'm set and ready. Jason leads the cow walk, so I'll go when he calls it and stay in sight."}
 - 05:15 act: {"actions":[],"say":"Zack here, following the cow walk. I can't see anyone from 401,-1043 yet. Jason, call out when you're in my sight and I'll walk up to the group."}
 - 05:18 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1037}}],"say":"Dusk is coming, so I'm heading to the bed at 401,-1037 for the night. Cow walk in the morning."}
+- 05:18 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1037}}],"say":"Dusk is here. I'm by the beds at 400,-1037 with Jason in sight. Holding here until it's dark, then I'll sleep.","intent":{"goal":
+- 05:21 act: {"say":"Morning. Zack here with Jason in sight. Jason, I'm walking with you to the cows. Tell me where Kimberly is and I'll stay with her.","intent":{"goal":"follow_jason_to_cows","program":"follow","
+- 05:22 act: {"say":"Got you, Jason. I'm right behind you. Lead on to the cows, I'll stay in your sight.","intent":{"goal":"follow_jason_to_cows","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":[
+- 05:22 act: {"say":"Jason has gone out of my sight, so I'm holding at the bed at 399,-1037. Jason or Trini, call when you're in my sight and I'll walk up to you. Kimberly, tell me where you are.","intent":{"goal"
+- 05:22 act: {"say":"Jason, you're in my reach. Kimberly is the weakest at 430,-1034 with Trini in sight, so the chicken and melon go to her first. I'm holding here at the bed until the group is all in sight."}
+- 05:30 act: {"say":"Sun is low, so I'm staying at the bed at 399,-1037 with Wesley in reach. No cow walk today unless Billy calls it. I'll sleep when it's dark.","intent":{"goal":"rest_at_beds_until_dark","progra
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Going to sleep at the bed here at 401,-1037. Cows at first light with Billy and the group."}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1043}}],"say":"Enderman close. Backing off north-west, not looking at it. Will sleep once it's gone."}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-1058}}],"say":"Enderman right beside the bed. Moving well away north-west, not looking at it."}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
