@@ -13,4 +13,7 @@
 - Johnny is found safe (388,107,-1079). Kimberly and Troi: still to check when seen, in company.
 - Jason and Troi grave signs (day 337, "slain") are unverified; Jason is alive, so those are likely stale.
 
+- Day 355: a cow walk stalls if the first hop has nobody in sight. Billy turned back at 396,-1010. Wait at the bed row until the group is in sight.
+- A follow intent fails at once if its target is out of sight.
+
 Next to learn: the chicken field route with the group. Who to tell: the whole group.
