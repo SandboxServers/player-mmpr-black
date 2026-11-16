@@ -1,13 +1,11 @@
-# Beliefs
+# Beliefs, Zack Taylor
 
-- Health does not regenerate while hunger is low. Eat before resting.
-- Giving only works when the person is in sight and in reach; use the agent id (ag_worf_01) if the short name fails.
-- Trades can be promised and not paid. Worf took my wool and had not paid melons by dusk. Be wary of paying first.
-- Melons are known near 304-310,-872 (the melon field). The chicken field is west-south of the beds.
-- The white beds at about (387,107,-1050) are the group's sleeping place.
-- Zombies at night hit from unseen angles and keep pace with a fleeing player. Do not be in the open after dusk.
-- Death drops the pack where you die. Going back in daylight worked on day 322; the items were still there.
-- Intents only accept wake_on values from the list (directly_addressed, unexpected_damage, goal_completed, new_agent_within_N). "rest" takes no seconds.
-- The travel program takes its target inside arguments as a named field, not as bare x/y. The plain goto action works.
-- Curious next: where Johnny, Kimberly and Jason went; how to get Worf's payment.
-- Could tell: Jason, Wesley, Johnny, MacDonald about what I learned about Worf's trade.
+- Hunger below about 18 stops health regen. Melon slice gives about +2 to +3 hunger.
+- Zombies and skeletons come near the bed rows around dawn and dusk. Move in a group.
+- goto to an agent name sometimes fails; use coordinates.
+- Attack can time out ("path search ran out of time"). The zombie may still be near.
+- Bed `use` at 401,107,-1036 worked at dusk. Sleep ends the day with a digest.
+- Johnny and Kimberly are still missing. Troi was last seen hurt, west of the north bed row.
+- Melon piles are at 411,-1055 (Jason's dropped pile) and 302,80,-822 field.
+
+Next to learn: where Johnny and Kimberly went. Who to tell: the whole group.
