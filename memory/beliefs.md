@@ -17,4 +17,7 @@
 - Billy holds the walk until several of us are in sight together. He calls short hops, and needs four or more in sight.
 - Endermen are seen near the bed row; Lewis walked away from one out of its sight (day 356).
 
+- Day 365: Worf got boxed into a gravel pit at 394,107,-1022 by his own planks. Beverly and Tommy advised mining straight up one block at a time, then stepping out on the high side. Walk to him only with others in sight.
+- Day 365: Trini, Beverly and Riker all hold melon or cobblestone for the group at the beds.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.
