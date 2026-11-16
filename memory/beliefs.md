@@ -3,7 +3,7 @@
 - Hunger below about 18 stops health regen. Melon slice gives about +2 to +3 hunger.
 - Zombies and skeletons come near the bed rows around dawn and dusk. Move in a group.
 - Skeletons shoot from range; Tommy was shot near the pile at 411,-1050 on day 329.
-- goto to an agent name sometimes fails; use coordinates.
+- goto to an agent name sometimes fails; use coordinates. (Day 356: goto to Worf's name "worked" but did not move me; he was already at reach.)
 - `use` on a bed fails. To sleep, stand next to a bed and call `sleep`. Sleep fails in daylight ("it is not night"); wait for dusk, then sleep.
 - Travel intents fail when group members drop out of sight. Hold, regroup, then go on.
 - Never start a walk until the group is in sight.
@@ -14,6 +14,7 @@
 - Jason and Troi grave signs (day 337, "slain") are unverified; Jason is alive, so those are likely stale.
 - A follow intent fails at once if its target is out of sight.
 - Worf seals his shelter with oak planks in a ring with a roof, and sleeps inside it (learned day 355).
-- Billy holds the walk until several of us are in sight together.
+- Billy holds the walk until several of us are in sight together. He calls short hops, and needs four or more in sight.
+- Endermen are seen near the bed row; Lewis walked away from one out of its sight (day 356).
 
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.
