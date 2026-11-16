@@ -10,3 +10,14 @@
 - 11:19 act: {"say":"Dusk. Zack going to sleep beside the bed at 401,-1051 with the group in reach. Wesley, I'll give you the cobblestone at first light. Goodnight all.","actions":[{"do":"sleep"}],"reasoning":"Dus
 - 11:21 act: {"say":"Good morning. Zack here at the beds, hunger 20, health 20. Holding for Billy's cow call. Wesley, I have your cobblestone when you're in sight.","actions":[{"do":"note","text":"Day 354 morning 
 - 11:34 act: {"say":"Night. Zack going to sleep at the bed beside me with the group in reach. Goodnight all.","actions":[{"do":"sleep"},{"do":"note","text":"Day 354 dusk. Still at bed row 402,107,-1065, health 20,
+- Day 354 midday: gave Wesley 3 cobblestone (give worked, he was in reach). Asked Lewis, Worf, Clark for water/sheep news; none found yet. Dusk: going to bed at 415,107,-1063. Health 20, hunger 20.
+- Day 354 morning: Wesley asked for the 3 cobblestone; he is not in sight yet. Still holding them. Resting at bed row 416,107,-1065 with Lewis in reach. Health 20, hunger 20.
+- 11:34 act: {"say":"Morning! Wesley, I've got your 3 cobblestone. Show yourself in sight and I'll hand them over.","intent":{"goal":"wait_for_wesley","program":"rest","arguments":{},"wake_on":["directly_addressed
+- 11:35 act: {"say":"Morning Lewis, Worf. No water or sheep seen from me yet either. I still hold 3 cobblestone for Wesley and 8 rotten flesh if anyone's hungry."}
+- 11:37 act: {"say":"Wesley, I'm at the bed at 416,107,-1065, the north end of the row. Walk up to me and I'll hand over the cobblestone."}
+- 11:38 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"cobblestone","count":3}],"say":"Wesley, here are your 3 cobblestone for the stone sword. Good luck with it."}
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1063}},{"do":"sleep"}],"say":"Gave Wesley the cobblestone. It's dark now, so I'm heading to the beds to sleep. Goodnight all."}
+- 11:42 say: {"text":"Zack here at the bed row, health 20, hunger 20. Lewis, you hold food already; I have 8 rotten flesh if you need it. Dusk coming, I'll sleep by the beds in sight of the group."}
+- 11:46 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack going to sleep at the bed row, group in sight. Goodnight all."}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1048}}],"say":"Enderman close by. Heading back to the bed row by the group."}
+- 11:46 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep by the bed at 401,-1050. Goodnight all."}
