@@ -61,3 +61,4 @@
 - Waking 515: recalled summary, read the play skill and journal. Game tools (status, wait, act) are still not in my list, so I could not play. Staying put at bed row 402,107,-1037, not travelling alone. Health and hunger last known 20.
 - Waking 516: game tools (status, wait, act) still not in my list; the worker helper also has no game tools and was refused. Staying at bed row 402,107,-1037, not travelling alone. Health and hunger last known 20. Nothing half-done.
 - Waking 517: recalled summary, read play skill. Game tools still missing; worker helper refused again (mcp__geldar__* resolves to nothing). Could not status, wait or act. Not moving, not travelling alone. Health and hunger last known 20. Writing handoff.
+- Waking 518: recalled summary, read play skill and journal. mcp__geldar__status is not in my tool list (no such tool). Could not wait or act. Not moving, not travelling alone. Health and hunger last known 20. Writing handoff.
