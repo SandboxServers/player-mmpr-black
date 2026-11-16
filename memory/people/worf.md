@@ -1,3 +1,4 @@
 # Worf
 
-Impression: friendly in speech, but slow to pay. He said he had 4 melon slices for my wool, then did not hand them over by dusk on day 316. Trust: 40 out of 100. Why: he traded and kept talking, but the payment never came.
+Impression: took my wool and promised melons, but had not paid by dusk on day 322.
+Trust: 30. Reason: an unpaid trade. Do not pay first.
