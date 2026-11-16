@@ -14,3 +14,8 @@
 - 00:48 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Health 4 with a zombie adjacent to the south-east. Running fails at this speed; keep fighting the one in reach."}
 - 00:48 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":270,"y":79,"z":-868}}],"say":"Low on health, running west from the zombies.","reasoning":"Health 2.3. Zombies are 7+ blocks east and none adjacent. 
 - 00:48 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}}],"reasoning":"I died in the dark at 281,80,-871 to zombies. My items lie there. Respawned at the beds with nothing. Find my feet, sleep i
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}}]}
+- 00:49 act: {"actions":[{"do":"sleep"}]}
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":281,"y":80,"z":-871}}],"say":"Morning, Jason. I died near 281,80,-871 and my pack is there. Let's go get it together and look for Johnny on the way.","intent":{"
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":280,"y":81,"z":-871}},{"do":"goto","target":{"x":282,"y":80,"z":-868}}],"say":"Morning. I have my dirt, sapling and sword back. Going for the rest."}
+- 00:50 act: {"actions":[{"do":"goto","target":{"x":277,"y":80,"z":-866}}]}
