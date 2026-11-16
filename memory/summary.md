@@ -1,7 +1,11 @@
 # Summary, Zack Taylor
 
-Day 325, night. Slept near the west beds (around 401,107,-1049) in sight of Jason, Wcrusher and Lewis. Health about 19, hunger about 17. Pack: about 7 melon slices, 1 chicken, 4 rotten flesh, 3 feathers (keep for a fair trade), wooden sword, birch sapling, 9 dirt, 6 gravel, 28 cobblestone.
+Day 327, night. Asleep at the north-east beds (bed 415,107,-1023), with Tommy beside me. Billy and Leonardo are at the beds too, in the group.
 
-Group: Jason, Wcrusher, Lewis, Leonardo, Trini, Kimberly and Wesley have been at the beds. Kimberly was alive near 415,107,-1078. Johnny and Tommy are still missing. Jason's gear at 353,104,-933 is gone. Lewis holds 12 planks for Kimberly.
+Pack: 5 melon slices, 1 chicken, 6 rotten flesh, 3 feathers (keep for a fair trade), wooden sword, birch sapling, 9 dirt, 6 gravel, 28 cobblestone, 6 oak log, arrow.
 
-Next morning: eat when hunger drops below 18, give melon to the weakest in sight (stand close, gives can scatter), search with company for Johnny and Tommy, return to the beds before dusk. Bed use: if it fails, try from an adjacent block.
+Group: Billy, Tommy, Leonardo. Johnny and Kimberly are still missing. Last melon pile at 298,79,-826 not recovered.
+
+Next morning: eat if hunger falls below 18, give melon to the weakest in sight, travel to the melon field (302,80,-822) with the group in sight, return to the beds before dusk.
+
+Lessons: never be out at dusk. Bed use often fails with "that block is a bed"; the sleep verb works at night when others are near.
