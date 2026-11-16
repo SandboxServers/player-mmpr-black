@@ -11,3 +11,5 @@
 - 06:31 act: {"actions":[],"say":"MacDonald, Zack here. I've got rotten flesh if you need it; come stand by me and I'll hand it over. Call the walk, Jason, when you're ready."}
 - 06:35 act: {"actions":[],"say":"Trini, Zack here at the beds. I have rotten flesh for you. Say where you stand and I'll walk to you in sight."}
 - 06:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Zack's going to bed at the white bed. Cow walk at first light, if Jason calls."}
+- 06:40 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Zack's at the white bed, fed and steady. Morning cow walk when Jason calls."}
+- Night 339: at white bed 387,107,-1065, health 20, hunger 20. Sent sleep; waiting for the result. Nothing in sight but MacDonald's speech about the melon.
