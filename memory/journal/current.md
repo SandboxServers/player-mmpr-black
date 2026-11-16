@@ -30,3 +30,13 @@
 - 01:39 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Kimberly, I heard you! Good to know you're alive. Head to the beds, Zack's here with melon."}
 - 01:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"use","at":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Tommy, Trini, Kimberly, Billy: Zack's at the beds, nobody walks alon
 - 01:39 act: {"actions":[{"do":"sleep"}]}
+- 01:40 act: {"say":"Zack here, at the white bed. I have no melon left, sorry Jason. Kimberly and Trini, Lewis is weakest, so beef to him first. I'm going to fetch the melon at 309,80,-873 for whoever is still low
+- 01:41 act: {"actions":[{"do":"mine","block":"melon","count":2}]}
+- 01:41 act: {"say":"I've got 10 melon slices now. Heading back to the beds to share with whoever is weakest. Jason, Trini, Kimberly, Lewis: shout where you are.","intent":{"goal":"return_to_beds_with_melon","prog
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":347,"y":103,"z":-1000}}],"say":"Skeletons shooting at me! Moving north out of their line, heading back to the beds.","intent":{"goal":"return_to_beds_with_melon"
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1000}}],"intent":{"goal":"return_to_beds_with_melon","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1049}},"wake_on":["directly_
+- 01:43 act: {"say":"Zack at the beds with 13 melon and a chicken. Whoever is weakest, step into my sight and I'll hand it over. Jason, Trini, Kimberly, Lewis, Leonardo."}
+- 01:47 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":4}],"say":"Jason, four melon for you, you asked first. Trini and Kimberly, I still hold 9 melon and a chicken for whoever is we
+- 01:47 act: {"actions":[{"do":"eat"}],"say":"Jason had already walked off, so I'm keeping the melon. Eating one myself since my hunger is 17. Still holding 12 for whoever is weak."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}},{"do":"use","at":{"x":401,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Going to bed at 401,107,-1050. I still hold 12 melon and a chi
+- 01:51 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"melon_slice","count":4},{"do":"sleep"}],"say":"Wcrusher, here are 4 melon slices. Eat well."}
