@@ -28,3 +28,5 @@
 - 05:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 05:33 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-1058}}],"say":"Enderman right beside the bed. Moving well away north-west, not looking at it."}
 - 05:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 05:44 act: {"actions":[],"say":"Zack here at the beds, 388,-1051, health 20. Billy, Jason, if you're walking to the cows, call me and I'll come in sight."}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night is coming. I'm going to bed here at 387,-1051. Cow walk in the morning, Billy or Jason, call me."}
