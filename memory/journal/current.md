@@ -13,3 +13,7 @@
 - 05:00 act: {"actions":[],"say":"Zack, holding at 399,-1035, in Jason's reach. Tommy, mind the enderman; I won't look at it. Jason, I have no food to spare, only rotten flesh. Kimberly, once you're in sight I'll 
 - 05:03 act: {"say":"Zack holding at 399,-1035. I have no good food to spare, only rotten flesh. Kimberly, when you're in sight I'll walk with you to the cows.","intent":{"goal":"hold_for_cow_walk","program":"rest
 - 05:07 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}}]}
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1044}}],"say":"Morning! Stepping away from the enderman. Waiting on Jason's call before we walk to the cows."}
+- 05:09 act: {"actions":[],"say":"Zack here at 401,-1043, healthy, hunger 20. I'm set and ready. Jason leads the cow walk, so I'll go when he calls it and stay in sight."}
+- 05:15 act: {"actions":[],"say":"Zack here, following the cow walk. I can't see anyone from 401,-1043 yet. Jason, call out when you're in my sight and I'll walk up to the group."}
+- 05:18 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1037}}],"say":"Dusk is coming, so I'm heading to the bed at 401,-1037 for the night. Cow walk in the morning."}
