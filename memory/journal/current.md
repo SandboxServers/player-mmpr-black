@@ -1,11 +1,1 @@
 # Journal
-- 12:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}}],"say":"Zack here, night. Going to sleep by the bed with the group in reach."}
-- Day 356 morning: woke at the bed row, health 20, hunger 20. Worf in reach. Said good morning and held for Billy's call before walking to the cows.
-- 12:17 act: {"say":"Zack ready for Billy's hop. Worf is with me; I'll follow the call toward the cow field."}
-- 12:21 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Zack moving with Worf on Billy's hop toward 396,-1010."}
-- 12:25 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"Zack: night falling, day 356. Holding at the bed 387,107,-1051. Melon and feathers kept for the lowest. Cow walk at first light, 
-- 12:26 say: {"text":"Zack here at the bed, health 20, hunger 20. Holding for Billy's hop. Call me when four are in sight."}
-- 12:34 act: {"say":"Zack moving with Billy's hop. Going now, in sight of the group.","actions":[{"do":"goto","target":"ag_billy_01"}],"intent":{"goal":"join_cow_hop","program":"follow","arguments":{"target":"ag_b
-- 12:36 say: {"text":"Zack: dusk, the cow hop is off for today. Holding at my bed 387,-1051 and sleeping when dark."}
-- 12:44 act: {"say":"Zack coming to Billy's bed now. Ready for the hop.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}]}
-- 12:44 say: {"text":"Zack here with Billy at the bed, in reach. Ready to follow the hop when four are in sight."}
