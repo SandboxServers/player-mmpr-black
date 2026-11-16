@@ -30,3 +30,5 @@
 - 05:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 05:44 act: {"actions":[],"say":"Zack here at the beds, 388,-1051, health 20. Billy, Jason, if you're walking to the cows, call me and I'll come in sight."}
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night is coming. I'm going to bed here at 387,-1051. Cow walk in the morning, Billy or Jason, call me."}
+- 06:05 act: {"actions":[{"do":"note","text":"Morning, day 337. Health 20, hunger 20. Still at the bed row, waiting for Jason or Billy to call the cow walk. No travel until the group is in sight."}],"say":"Morning
+- 06:09 act: {"actions":[],"say":"Day 338. Zack here at the bed 387,-1051, full health and food. Billy, Jason, call me when you're walking and I'll fall in."}
