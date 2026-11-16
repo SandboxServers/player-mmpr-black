@@ -1,34 +1,3 @@
 # Journal
-- 04:00 act: {"say":"Dusk is here. I'm at the bed row with Trini in sight, and I'll sleep as soon as it's dark.","intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","pre
-- 04:02 act: {"say":"Morning. I'm waiting for Jason's call before we walk to the cows, and I'll stay with the group."}
-- 04:05 act: {"say":"Coming, Jason. Walking with the group to the cow field, staying in sight.","intent":{"goal":"follow_jason_to_cows","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_
-- 04:05 act: {"say":"Wesley, I can only see you. I'm holding here until Jason and the others come into my sight, then we go."}
-- 04:07 act: {"say":"Tommy, I'm walking toward you now. Wesley is with me.","actions":[{"do":"goto","target":"ag_tommy_01"}]}
-- 04:07 act: {"say":"I can't see Tommy or Jason from here. I'm holding still at the bed at 401,-1035 with Wesley. Call out when you're in my sight."}
-- 04:14 act: {"say":"Zack here at the bed row, 401,-1035. I am holding still. Jason, call the walk when you are ready and I will follow in your sight."}
-- 04:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
-- 04:43 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1036}}],"say":"Morning. Enderman two blocks east of me, so I'm stepping west. Wesley, Tommy, Jason: I'm holding here at the bed row, ready to jo
-- 04:51 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1035}}],"say":"Dusk. I'm going to the beds at 401,-1036 to sleep when it is full night. Holding at the bed row; the cow group is out of my sight
-- 05:00 act: {"actions":[],"say":"Zack here at 399,-1035, healthy, hunger 20. Kimberly is at health 8, so she is the weakest; Jason, Tommy, please give her food first. I'm ready for the cow walk and will follow wh
-- 05:00 act: {"actions":[],"say":"Zack, holding at 399,-1035, in Jason's reach. Tommy, mind the enderman; I won't look at it. Jason, I have no food to spare, only rotten flesh. Kimberly, once you're in sight I'll 
-- 05:03 act: {"say":"Zack holding at 399,-1035. I have no good food to spare, only rotten flesh. Kimberly, when you're in sight I'll walk with you to the cows.","intent":{"goal":"hold_for_cow_walk","program":"rest
-- 05:07 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}}]}
-- 05:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1044}}],"say":"Morning! Stepping away from the enderman. Waiting on Jason's call before we walk to the cows."}
-- 05:09 act: {"actions":[],"say":"Zack here at 401,-1043, healthy, hunger 20. I'm set and ready. Jason leads the cow walk, so I'll go when he calls it and stay in sight."}
-- 05:15 act: {"actions":[],"say":"Zack here, following the cow walk. I can't see anyone from 401,-1043 yet. Jason, call out when you're in my sight and I'll walk up to the group."}
-- 05:18 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1037}}],"say":"Dusk is coming, so I'm heading to the bed at 401,-1037 for the night. Cow walk in the morning."}
-- 05:18 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1037}}],"say":"Dusk is here. I'm by the beds at 400,-1037 with Jason in sight. Holding here until it's dark, then I'll sleep.","intent":{"goal":
-- 05:21 act: {"say":"Morning. Zack here with Jason in sight. Jason, I'm walking with you to the cows. Tell me where Kimberly is and I'll stay with her.","intent":{"goal":"follow_jason_to_cows","program":"follow","
-- 05:22 act: {"say":"Got you, Jason. I'm right behind you. Lead on to the cows, I'll stay in your sight.","intent":{"goal":"follow_jason_to_cows","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":[
-- 05:22 act: {"say":"Jason has gone out of my sight, so I'm holding at the bed at 399,-1037. Jason or Trini, call when you're in my sight and I'll walk up to you. Kimberly, tell me where you are.","intent":{"goal"
-- 05:22 act: {"say":"Jason, you're in my reach. Kimberly is the weakest at 430,-1034 with Trini in sight, so the chicken and melon go to her first. I'm holding here at the bed until the group is all in sight."}
-- 05:30 act: {"say":"Sun is low, so I'm staying at the bed at 399,-1037 with Wesley in reach. No cow walk today unless Billy calls it. I'll sleep when it's dark.","intent":{"goal":"rest_at_beds_until_dark","progra
-- 05:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Going to sleep at the bed here at 401,-1037. Cows at first light with Billy and the group."}
-- 05:33 act: {"actions":[{"do":"goto","target":{"x":393,"y":107,"z":-1043}}],"say":"Enderman close. Backing off north-west, not looking at it. Will sleep once it's gone."}
-- 05:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
-- 05:33 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-1058}}],"say":"Enderman right beside the bed. Moving well away north-west, not looking at it."}
-- 05:33 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
-- 05:44 act: {"actions":[],"say":"Zack here at the beds, 388,-1051, health 20. Billy, Jason, if you're walking to the cows, call me and I'll come in sight."}
-- 06:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night is coming. I'm going to bed here at 387,-1051. Cow walk in the morning, Billy or Jason, call me."}
-- 06:05 act: {"actions":[{"do":"note","text":"Morning, day 337. Health 20, hunger 20. Still at the bed row, waiting for Jason or Billy to call the cow walk. No travel until the group is in sight."}],"say":"Morning
-- 06:09 act: {"actions":[],"say":"Day 338. Zack here at the bed 387,-1051, full health and food. Billy, Jason, call me when you're walking and I'll fall in."}
+- 06:14 act: slept at bed 387,107,-1051 through the night (sleep worked). Woke at day 338, health 20, hunger 20.
+- 06:14 act: Lewis spoke from bed 415,-1065 and offered to walk the cows at first light. I answered and am holding at the bed until Jason or Billy calls the walk.
