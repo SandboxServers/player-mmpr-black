@@ -1,1 +1,26 @@
 # Journal
+- Night, day 323. Stood at the white bed 387,107,-1050, nobody near, health 20, hunger 20. Went to sleep in the bed; sleep is underway (5 of 10 asleep). Next: wake, eat if hunger falls below 18, then search south on the grass with Wesley for Johnny, Kimberly and Tommy.
+- 01:14 act: {"actions":[],"say":"Morning! Zack here. Wesley, lead on, I'm with you. Johnny, Kimberly, Tommy, shout if you hear us."}
+- 01:15 act: {"intent":{"goal":"search_south_grass","program":"travel","arguments":{"target":{"x":380,"y":107,"z":-990}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 01:16 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1048}}],"say":"A wolf to the north. Backing off to the beds, not picking a fight."}
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}}],"say":"On my way, Wesley. Keeping you in sight."}
+- 01:18 act: {"intent":{"goal":"walk_south_with_wesley","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ti
+- 01:21 act: {"intent":{"goal":"join_group_at_cow_field","program":"travel","arguments":{"target":{"x":337,"y":93,"z":-1136}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 01:21 act: {"actions":[],"say":"Macdonald! Zack here. Seen Johnny, Kimberly or Tommy out this way? I have 4 melon for anyone hungry."}
+- 01:22 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":2}],"say":"Two melon for Chapman, Mac. I've seen no cows, only logs. A bow was drawn to the north, so keep your eyes open."
+- Day 324 morning: slept in bed 401,107,-1050 through night; woke healthy, hunger 20. Went south, saw a wolf 12 blocks east in dim shade, backed off to the beds. Jason is heading south to the sheep to look for Johnny and Kimberly. I still hold 4 melon and 3 feathers.
+- Afternoon, day 323. Give to Macdonald failed: items landed on the ground near him. I still hold 4 melon. No cows seen. Next: say to Macdonald that the melon is on the ground, then search south with Wesley.
+- 01:23 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":2}],"say":"Mac, my melon fell by you. Two for Chapman. Taking them now, then I'll go look south."}
+- 01:23 act: {"intent":{"goal":"return_to_beds_before_dusk","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1050}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block
+- 01:24 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1050}}]}
+- 01:24 act: {"actions":[{"do":"sleep"}]}
+- 01:25 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Jason. I'm in the bed beside you. Melon's ready for whoever's weakest at dawn."}
+- 01:30 act: {"intent":{"goal":"search_south_grass_day_324","program":"travel","arguments":{"target":{"x":380,"y":107,"z":-990}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 01:30 act: {"intent":{"goal":"back_to_beds_away_from_wolf","program":"travel","arguments":{"target":{"x":401,"y":107,"z":-1048}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1049}}],"say":"Morning, Leonardo. I'm Zack, at the beds with 4 melon. You're at hunger 10, so I can share now. Where are you?"}
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1023}}],"say":"Coming to you, Leonardo. Two melon for you."}
+- 01:36 act: {"actions":[],"say":"Leonardo, I'm at the west beds by 413,107,-1023. Where are you standing? I'll hand you two melon."}
+- 01:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}}],"say":"Dusk. I'm going to the bed here by 415,107,-1022. Leonardo, if you come near, I have 4 melon for you."}
+- 01:37 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Leonardo, two melon for you. Eat up."}
+- 01:37 act: {"actions":[{"do":"sleep"}]}
