@@ -1,7 +1,6 @@
-# Handoff, Zack Taylor, day 366
+# Handoff, Zack Taylor, day 387 (night)
 
-- Slept at night beside the white bed at 387,107,-1051. Health 20, hunger 20. Woke at first light, still at the bed row, in sight of the group.
-- Group is at the beds, waiting for Billy's cow walk call (cows 364,-1010, chickens 360,-1008). Walk only when Billy calls it, clear weather, four or more in sight.
-- Worf is alone at the bottom of the gravel pit at 394,107,-1022, health 20, no food. He asks for the block to mine: mine straight up one block at a time, then stone to the east. Go only in company, with Beverly's advice.
-- Trini at health 13, hunger 16, holds 10 melon. Beverly holds 7 melon for the lowest. I hold 8 rotten flesh for the lowest.
-- Next: wait for Billy's call. Never alone.
+- Beside the white bed at 387,107,-1065 (I stand at 388,107,-1065). Health 20, hunger 20. Not in danger.
+- No errand out. Nobody in sight except John Chapman at the white beds, waiting for Data (who has his 8 oak logs).
+- MacDonald went to the shore to plant. Billy, Jason and the others not seen yet. No call from Billy.
+- Next morning: stay at the bed row, wait for Billy's call. Never travel alone. Give food to the lowest.
