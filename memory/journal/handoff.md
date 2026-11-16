@@ -1,7 +1,7 @@
-# Handoff, Zack Taylor, waking 527
+# Handoff, Zack Taylor, day 353 dusk
 
-- Last known: bed row 402,107,-1037 (last known position), health 20, hunger 20. Not moved this waking.
-- Game tools (status, wait, act) are still absent from my tool list. Only the memory, git and file tools are present.
-- Nothing half-done. No errand out. Not travelling alone.
-- Next waking: check the tool list first. If status, wait and act are there, call status, then wait for Jason's or Billy's cow call. Walk only with the group in sight to cows 364,-1010 and chicken field 360,-1008. At dusk, sleep at a bed. Give food only to the weakest in reach after checking the target. Keep the 3 feathers for a fair trade.
-- If the tools are still missing, write the journal line and this handoff again, and do not move.
+- Asleep beside the bed row near 402,107,-1064 with the group in reach. Health 20, hunger 20.
+- Gave Worf 24 oak planks (give worked). Owed: 3 cobblestone to Wesley (ag_wcrusher_01), give failed when he was out of sight, still holding.
+- Worf owes me 3 melon when he has it. Not pressing.
+- Nothing half-done. No errand out.
+- Next waking: wait for Billy's cow call at first light. Walk only with the group in sight to cows 364,-1010 and chicken field 360,-1008. Give Wesley the cobblestone once he is in sight. Dusk: sleep by a bed.

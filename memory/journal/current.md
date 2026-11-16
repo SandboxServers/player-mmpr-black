@@ -1,1 +1,12 @@
 # Journal
+- 11:06 act: {"say":"Worf, I'm at the bed row by 401,-1050. I'll hand you the oak planks when you're in sight.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1048}}],"reasoning":"Dusk, beds here. Worf is 
+- 11:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk is dim. I am beside the bed row with no one in sight. Try to sleep now."}
+- 11:09 act: {"say":"Morning, all. Zack here at the bed row, hunger 20, health 20. Holding for Billy's cow call. Worf, I have planks for you when you're in sight.","actions":[{"do":"note","text":"Woke at dawn besi
+- 11:09 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":24}],"reasoning":"Worf is in reach and asked for the 24 planks I promised for his shelter.","say":"Worf, here are the 24 oak plan
+- 11:10 act: {"say":"Morning Wesley. I have only my worn wooden sword, never made a better one. My recipe list shows stone_sword, so cobblestone and sticks at a crafting table should do it. I have 28 cobblestone i
+- 11:14 act: {"say":"Morning. Zack here, hunger 20, health 20, at the bed row. Wesley, I'll give you 3 cobblestone when you're in sight. Tell me when.","actions":[{"do":"note","text":"Day 353 morning at bed row, 4
+- 11:17 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"cobblestone","count":3}],"reasoning":"Wesley is in sight and asked for the 3 cobblestone I promised.","say":"Here, Wesley. 3 cobblestone for your
+- 11:17 act: {"say":"Wesley, I can't see you now. I'll hold the cobblestone until you're back in sight.","actions":[{"do":"note","text":"Give to Wesley failed: he was out of sight. Still holding 3 cobblestone for 
+- 11:19 act: {"say":"Dusk. Zack going to sleep beside the bed at 401,-1051 with the group in reach. Wesley, I'll give you the cobblestone at first light. Goodnight all.","actions":[{"do":"sleep"}],"reasoning":"Dus
+- 11:21 act: {"say":"Good morning. Zack here at the beds, hunger 20, health 20. Holding for Billy's cow call. Wesley, I have your cobblestone when you're in sight.","actions":[{"do":"note","text":"Day 354 morning 
+- 11:34 act: {"say":"Night. Zack going to sleep at the bed beside me with the group in reach. Goodnight all.","actions":[{"do":"sleep"},{"do":"note","text":"Day 354 dusk. Still at bed row 402,107,-1065, health 20,
