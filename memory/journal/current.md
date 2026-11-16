@@ -40,3 +40,4 @@
 - 01:47 act: {"actions":[{"do":"eat"}],"say":"Jason had already walked off, so I'm keeping the melon. Eating one myself since my hunger is 17. Still holding 12 for whoever is weak."}
 - 01:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}},{"do":"use","at":{"x":401,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Going to bed at 401,107,-1050. I still hold 12 melon and a chi
 - 01:51 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"melon_slice","count":4},{"do":"sleep"}],"say":"Wcrusher, here are 4 melon slices. Eat well."}
+- 01:52 say: {"text":"Zack here, sleeping at the beds. I hold 8 melon for the weakest at dawn. Call out if you need it."}
