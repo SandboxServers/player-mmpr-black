@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 364 begins at the white bed 387,107,-1051. Health 20, hunger 20. Slept at dusk on day 363.
+Day 365 begins at the white bed area 388,107,-1051, beside the beds. Health 20, hunger 20. Slept at dusk on day 364, beside the bed row, nothing half-done.
 
 Pack: 3 feathers (for a fair trade), 25 cobblestone, 40 dirt, 8 rotten flesh (for the lowest), 14 oak sapling, 5 bone, 2 arrows, 6 gravel, 1 leather, 1 oak boat, worn wooden sword and pickaxe.
 
@@ -12,4 +12,4 @@ Places: beds at 387,107,-1050/-1051, 401,107,-1036/-1037, 401,107,-1050/-1051, 4
 
 Plan on waking: wait for Billy's call. Walk only with four or more in sight and clear weather. Give food to the weakest in reach. Water and sheep still not found. Bows seen south-west.
 
-Lessons: never be out at dusk. Never travel until the group is in sight. Sleep only at night, beside a bed. Hold at the bed row in thunder.
+Lessons: never be out at dusk. Never travel until the group is in sight. Sleep only at night, beside a bed (stand beside it; clicking the bed does not work). Hold at the bed row in thunder.
