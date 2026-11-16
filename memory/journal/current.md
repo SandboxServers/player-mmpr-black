@@ -24,3 +24,9 @@
 - 01:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}}],"say":"Dusk. I'm going to the bed here by 415,107,-1022. Leonardo, if you come near, I have 4 melon for you."}
 - 01:37 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Leonardo, two melon for you. Eat up."}
 - 01:37 act: {"actions":[{"do":"sleep"}]}
+- 01:38 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":1}],"say":"Leonardo! Here, take a melon slice. Eat up, buddy."}
+- Dawn-ish, day 324. Leonardo in reach at the west beds. Give of 1 melon failed: items landed on the ground near him. Stepping back a block so he can pick them up. 2 melon left in pack, 3 feathers kept.
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1024}}],"say":"Leonardo, the melon dropped on the ground by you. Grab it, it's yours. I'm stepping back so you can get it."}
+- 01:39 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"melon_slice","count":2}],"say":"Kimberly, I heard you! Good to know you're alive. Head to the beds, Zack's here with melon."}
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"use","at":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Tommy, Trini, Kimberly, Billy: Zack's at the beds, nobody walks alon
+- 01:39 act: {"actions":[{"do":"sleep"}]}
