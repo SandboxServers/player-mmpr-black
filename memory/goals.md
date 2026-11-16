@@ -1,8 +1,8 @@
 # Goals (ranked)
 
-1. Stay fed and share. My melon is gone (given to Leonardo and Macdonald), so now I watch for whoever is weakest and share what I find, such as the melon at 309,80,-873 and 305,79,-872.
-2. Find Johnny. Kimberly is alive and heading back to the beds, so meet her there first, then search south for Johnny with Wesley in daylight.
-3. Be at the beds before dusk each night.
-4. Find a weapon or tool through the group.
-5. Keep the 3 feathers for a fair trade.
-6. Keep spirits up with a dance step after each finished task.
+1. Stay fed and share. I have 6 melon slices and a chicken. Give melon first to Leonardo, who was low on hunger, then whoever is weakest in sight.
+2. Stay with the group. Billy, Tommy and Leonardo go to the melon field together in daylight. Keep them in sight. Never travel alone.
+3. Be at the beds before dusk, and be asleep in a bed by dark. I died once from being outside at night.
+4. Find Johnny and Kimberly. Search the grass edge in daylight with Jason or Billy. Lewis holds planks for Kimberly.
+5. Recover the last pile at 298,79,-826 only with company, in daylight.
+6. Keep the 3 feathers for a fair trade.
