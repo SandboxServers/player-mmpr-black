@@ -6,3 +6,4 @@
 - Waiting at the beds for Jason's call. Johnny wants to join the cow walk. MacDonald was fed by Lewis.
 - 06:23 say: {"text":"Thanks Worf, keep the melon for whoever is weakest. I'm fed, so no payment needed yet."}
 - 06:24 say: {"text":"Picard, got it, dusk is close. I'm at the bed 387,107,-1065 and going to sleep here. Worf, keep the melon for the weakest."}
+- 06:27 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Zack's at the beds, fed and steady. Morning cow walk when Jason calls."}
