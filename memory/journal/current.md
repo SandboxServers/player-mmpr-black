@@ -1,1 +1,15 @@
 # Journal
+- 04:00 act: {"say":"Dusk is here. I'm at the bed row with Trini in sight, and I'll sleep as soon as it's dark.","intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","pre
+- 04:02 act: {"say":"Morning. I'm waiting for Jason's call before we walk to the cows, and I'll stay with the group."}
+- 04:05 act: {"say":"Coming, Jason. Walking with the group to the cow field, staying in sight.","intent":{"goal":"follow_jason_to_cows","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_
+- 04:05 act: {"say":"Wesley, I can only see you. I'm holding here until Jason and the others come into my sight, then we go."}
+- 04:07 act: {"say":"Tommy, I'm walking toward you now. Wesley is with me.","actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 04:07 act: {"say":"I can't see Tommy or Jason from here. I'm holding still at the bed at 401,-1035 with Wesley. Call out when you're in my sight."}
+- 04:14 act: {"say":"Zack here at the bed row, 401,-1035. I am holding still. Jason, call the walk when you are ready and I will follow in your sight."}
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1036}}],"say":"Morning. Enderman two blocks east of me, so I'm stepping west. Wesley, Tommy, Jason: I'm holding here at the bed row, ready to jo
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1035}}],"say":"Dusk. I'm going to the beds at 401,-1036 to sleep when it is full night. Holding at the bed row; the cow group is out of my sight
+- 05:00 act: {"actions":[],"say":"Zack here at 399,-1035, healthy, hunger 20. Kimberly is at health 8, so she is the weakest; Jason, Tommy, please give her food first. I'm ready for the cow walk and will follow wh
+- 05:00 act: {"actions":[],"say":"Zack, holding at 399,-1035, in Jason's reach. Tommy, mind the enderman; I won't look at it. Jason, I have no food to spare, only rotten flesh. Kimberly, once you're in sight I'll 
+- 05:03 act: {"say":"Zack holding at 399,-1035. I have no good food to spare, only rotten flesh. Kimberly, when you're in sight I'll walk with you to the cows.","intent":{"goal":"hold_for_cow_walk","program":"rest
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}}]}
