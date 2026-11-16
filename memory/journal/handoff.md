@@ -1,7 +1,6 @@
-# Handoff, Zack Taylor, day 356 (after sleep)
+# Handoff, Zack Taylor, day 357 (before sleep)
 
-- Slept beside the bed at 387,107,-1051. Health 20, hunger 20.
-- Group asleep at the bed row: Billy, Beverly, Troi, Kimberly, Picard, Leonardo. Worf in reach.
-- Nothing half-done, no errand out, no intent running.
+- At the bed 387,107,-1037, beside Billy (in reach). Health 20, hunger 20.
+- Cow hop stalled after bows were drawn near hop one. Nothing half-done, no errand out.
 - Holding 8 rotten flesh for the lowest; 3 feathers for a fair trade.
-- Next waking: wait for Billy's or Jason's call. Walk only when the group is in sight. Cows 364,-1010, chickens 360,-1008. Water and sheep still not found.
+- Next waking: wait for Billy's call with four in sight. Cows 364,-1010, chickens 360,-1008. Bows near hop one, so go carefully. Water and sheep still not found.
