@@ -7,3 +7,7 @@
 - 06:23 say: {"text":"Thanks Worf, keep the melon for whoever is weakest. I'm fed, so no payment needed yet."}
 - 06:24 say: {"text":"Picard, got it, dusk is close. I'm at the bed 387,107,-1065 and going to sleep here. Worf, keep the melon for the weakest."}
 - 06:27 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Zack's at the beds, fed and steady. Morning cow walk when Jason calls."}
+- 06:31 act: {"actions":[],"say":"Morning! Zack at the white beds, health and food full. Billy, Johnny, I'm ready for the cow walk once Jason calls it. Who's in sight?"}
+- 06:31 act: {"actions":[],"say":"MacDonald, Zack here. I've got rotten flesh if you need it; come stand by me and I'll hand it over. Call the walk, Jason, when you're ready."}
+- 06:35 act: {"actions":[],"say":"Trini, Zack here at the beds. I have rotten flesh for you. Say where you stand and I'll walk to you in sight."}
+- 06:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Zack's going to bed at the white bed. Cow walk at first light, if Jason calls."}
