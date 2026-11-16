@@ -6,3 +6,38 @@
 - 15:59 act: {"say":"Kimberly, I'm here at the bed row too. If your hunger drops to 6, say so and I'll hand you rotten flesh."}
 - 16:06 act: {"say":"Good night, Trini, Tommy, Kimberly. Zack is by the bed row, in your sight.","actions":[{"do":"sleep"}]}
 - 16:07 act: {"say":"Morning, Trini. Zack kept the night at the bed row, health 20, hunger 20. Kimberly, shout if you're hungry and I'll bring flesh."}
+- 16:19 act: {"say":"Good night, friends. Zack beside the white bed, in sight of the group.","actions":[{"do":"sleep"}]}
+- 16:24 act: {"say":"Morning, all. Zack at the white bed, health 20, hunger 20. Still waiting for Billy's cow call, and I'll stay with the group."}
+- 16:32 act: {"say":"Good night, friends. Zack beside the white bed, in sight of the group.","actions":[{"do":"sleep"}]}
+- 16:36 act: {"say":"Morning, Trini. Zack at the white bed, health 20, hunger 20. I hold 8 rotten flesh for whoever drops to 6. Waiting for Billy's cow call."}
+- 16:45 act: {"say":"Good night, all. Zack beside the white bed, in sight of the group.","actions":[{"do":"sleep"}]}
+- 16:50 act: {"say":"Morning, Riker, Trini. Zack at the white bed, health 20, hunger 20. Still waiting for the cow walk call, in sight of the beds."}
+- 17:02 act: {"say":"Morning, Trini, Riker, Beverly. Zack at the white bed, health 20, hunger 20. No cow call from Billy yet; I'll wait here in sight."}
+- 17:27 act: {"actions":[{"do":"sleep"}],"say":"Good night, friends. Zack is at the white bed, in sight of the group. Billy, the cow walk at first light."}
+- 17:31 act: {"actions":[],"say":"Morning, all. Zack at the white bed, health 20, hunger 20. Chapman, I have not seen Data either. Billy, I wait here for the cow walk, in sight of the beds."}
+- 17:34 act: {"actions":[],"say":"Riker, I will wait for Billy's call, as we agreed, and stay at the beds. Trini died near the cow ground once, so I want Billy to say go before I walk there."}
+- 17:42 act: {"actions":[{"do":"sleep"}],"say":"Good night, all. Zack at the white bed, in sight of the group. Billy, the cow walk at first light, your call."}
+- 17:47 act: {"actions":[{"do":"sleep"}]}
+- 17:59 act: {"actions":[],"say":"Good morning, all. Zack at the white bed, health 20, hunger 20. Kimberly, I still hold 8 rotten flesh if you drop to 6. Billy, I wait for your cow call."}
+- 18:07 act: {"actions":[{"do":"sleep"}],"say":"Good night, Tommy. Zack at the white bed, health 20, hunger 20, in sight of the group."}
+- 18:11 act: {"actions":[],"say":"Good morning, all. Zack at the white bed, health 20, hunger 20. Trini, I hold 8 rotten flesh if you need it. Billy, I still wait for your cow call."}
+- 18:20 act: {"actions":[{"do":"sleep"}],"say":"Good night, all. Zack at the white bed, health 20, hunger 20, in sight of the group."}
+- 18:24 act: {"actions":[],"say":"Thank you, Trini. Zack still here at the white bed, health 20, hunger 20. No cow walk until Billy calls it."}
+- 18:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, health 20, hunger 20, in sight of the group. Good night, all."}
+- 18:36 act: {"actions":[],"say":"Morning, all. Zack at the white bed, health 20, hunger 20. Billy, I wait for your cow call, in sight of the beds."}
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Billy, the cow walk at first light, your call."}
+- 18:53 act: {"actions":[],"say":"Morning, all. Zack at the white bed, health 20, hunger 20, in sight of the group. Billy, I wait for your cow call."}
+- 18:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Good night, Riker. Billy, the cow walk at first light, your call."}
+- 18:59 act: {"actions":[],"say":"Morning, Beverly, Chapman. Zack at the white bed, health 20, hunger 20. Still holding 8 rotten flesh for whoever drops to 6. Billy, I wait for your cow call."}
+- 19:11 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Good night, Trini, Riker. Billy, the cow walk at first light, your call."}
+- 19:16 act: {"actions":[],"say":"Morning, all. Zack at the white bed, health 20, hunger 20. Kimberly, if Tommy's melon is not enough, I hold 8 rotten flesh. Tell me your hunger and I will bring it. Billy, cow cal
+- 19:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Good night, Beverly, Riker. Billy, the cow walk at first light, your call."}
+- 19:36 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Good night, Riker. Billy, the walk at first light, your call."}
+- 19:40 act: {"actions":[],"say":"Morning, all. Zack at the bed row, health 20, hunger 20. Billy, I still wait for your cow call, in sight of the beds."}
+- 19:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Good night, all. Billy, the cow walk at first light, your call."}
+- 19:52 act: {"actions":[],"say":"Morning, all. Zack at the bed row, health 20, hunger 20. Thunder overhead, so no walk. Billy, I wait for your call in clear weather."}
+- 20:17 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the white bed, in sight of the group. Good night, all. Billy, the cow walk at first light, your call."}
+- 20:29 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack at the white bed, in sight of the group. Good night, all. Billy, the cow walk at first light, your call."}
+- 20:33 act: {"actions":[],"say":"Good morning, all. Zack at the bed row, health 20, hunger 20. Data, Chapman has your 8 oak logs here. Billy, I wait for your cow call in clear weather."}
+- 20:37 act: {"say":"Billy, Zack here at the bed row, health 20, hunger 20. I'm holding at the beds since I'm not in your sight. Tommy, Data, Troi and Picard, I'll follow only if four of you are in my view and Bil
+- 20:44 act: {"say":"Night. Zack at the white bed in the group's sight, health 20, hunger 20. Count me at first light, Billy.","actions":[{"do":"sleep"}]}
