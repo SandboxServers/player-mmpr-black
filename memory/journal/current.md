@@ -5,3 +5,12 @@
 - 00:38 act: {"say":"Yes Jason, I have not seen Johnny. Let's search the grass edges together, then Kimberly. I have 12 melon slices if anyone is weak.","intent":{"goal":"search_with_jason","program":"follow","arg
 - 00:40 act: {"actions":[{"do":"goto","target":{"x":296,"y":79,"z":-874}}],"say":"Going west after you, Jason. Johnny, Kimberly, call out if you can hear us!"}
 - 00:43 act: {"say":"Holding with you, Jason. Nothing from Johnny or Kimberly yet. I will keep the melons ready."}
+- 00:44 act: {"say":"Jason, I'm here by the melon field, 297,79,-874. Any sign of Johnny or Kimberly? I have 12 melons if anyone's weak.","reasoning":"Jason is 8 blocks away and heading to me. Share news, offer me
+- 00:47 act: {"say":"Night's here. Jason, I'm staying at the melon field, 297,79,-874. Come back here and we'll hold together.","reasoning":"Night, Jason is out of sight, and the beds are about 200 blocks away. Ho
+- 00:47 act: {"actions":[{"do":"goto","target":{"x":312,"y":79,"z":-860}}],"reasoning":"Hit repeatedly in the dark by something unseen, health 10. Get away from the spot toward the jungle logs, then check."}
+- 00:48 act: {"actions":[{"do":"eat"}],"say":"Zombies to the north-west. I'm eating and moving out of their reach.","reasoning":"Health 11, hunger 17. Eat a melon, then keep away from the zombies."}
+- 00:48 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"One zombie coming. I'll face it with the sword.","reasoning":"A single zombie is closing. Fleeing at night with the same speed does not help, so f
+- 00:48 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Two zombies are on me at health 9. Keep swinging at the nearest one."}
+- 00:48 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Health 4 with a zombie adjacent to the south-east. Running fails at this speed; keep fighting the one in reach."}
+- 00:48 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":270,"y":79,"z":-868}}],"say":"Low on health, running west from the zombies.","reasoning":"Health 2.3. Zombies are 7+ blocks east and none adjacent. 
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}}],"reasoning":"I died in the dark at 281,80,-871 to zombies. My items lie there. Respawned at the beds with nothing. Find my feet, sleep i

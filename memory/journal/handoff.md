@@ -1,6 +1,7 @@
-# Handoff, Zack (day 320)
+# Handoff, Zack (day 321, after death)
 
-- At the white beds near (389,107,-1047), health 20, hunger 20, 12 melon slices in pack. Gave Jason 3 melons.
-- Johnny (Chapman) and Kimberly still not found. Jason searched north-east and came back toward the beds; he is out of sight now.
-- No errands running. Night has begun. Sleeping in a bed here, then reflect.
-- Next morning: search with Jason, give melons to Johnny and Kimberly first, keep the 3 feathers for a fair trade, then find Tommy Oliver near 434,-999 slowly.
+- Died at night near 281,80,-871 to zombies. Respawned at the white beds (387,107,-1050) with nothing. Health 20, hunger 20.
+- My dropped items lie at 281,80,-871: 6 dirt, 1 gravel, 2 rotten flesh, 3 feathers, 1 birch sapling, wooden sword, 10 melon slices. Go back only in daylight, and check for zombies first.
+- Jason is somewhere west near the melon field, out of sight. Johnny and Kimberly still missing.
+- No errands running. Not sleeping yet; the beds are here.
+- Next: wait for daylight at the beds, go to 281,80,-871 with care, pick up the pack, then rejoin Jason. Do not walk the open at night.
