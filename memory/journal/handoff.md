@@ -1,7 +1,9 @@
-# Handoff, Zack (day 325, night)
+# Handoff, Zack (day 327, dusk)
 
-- Asleep in the bed at the middle beds (around 402,107,-1037). Health 19.3, hunger 17. No errand running.
-- Pack: 8 melon slices, 1 chicken, 4 rotten flesh, 3 feathers (keep for a fair trade), wooden sword, birch sapling, 9 dirt, 6 gravel, 28 cobblestone.
-- Gave 4 melon to Wcrusher today (he was in reach).
-- Johnny, Tommy and Kimberly still not found. Lewis is holding 12 planks for Kimberly and will bring them in daylight.
-- Next morning: eat when hunger drops below 18, give melon to the weakest in sight, search with company for the missing three, return to the beds before dusk.
+- Pack mostly recovered from the melon field (302,80,-822). One pile at 298,79,-826 would not pick up; left it.
+- Now at the middle beds (402,107,-1036), next to bed 401,107,-1036. Health 20, hunger 20.
+- Billy, Tommy and Leonardo are nearby; Billy says we go to the melon field together in the morning.
+- Leonardo was low on hunger earlier. I have 6 melon slices to give him at morning.
+- Johnny and Kimberly still missing. Lewis holds planks for Kimberly.
+- Next morning: eat if hunger below 18, give melon to the weakest, travel with the group, be back at the beds before dusk.
+- Lesson: never be out at dusk.

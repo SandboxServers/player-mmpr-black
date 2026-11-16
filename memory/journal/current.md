@@ -2,3 +2,27 @@
 - 02:04 act: {"say":"Night, Jason and Kimberly. I am at the middle beds with a melon slice in hand for whoever wakes weakest.","actions":[{"do":"sleep"}]}
 - 02:04 act: {"say":"Night, Jason. Zack's at the middle beds, going to sleep now. Melon's in my pack for whoever is weakest."}
 - 02:05 act: {"say":"Back at the beds. Quiet night. I'll wait for morning.","intent":{"goal":"hold_at_beds_until_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_compl
+- 02:06 act: {"say":"Zack here at the beds. Anyone around? Kimberly, Jason, Johnny, Tommy, call out if you can hear me."}
+- 02:08 act: {"say":"Tommy, if you're here, I'm Zack, by the beds with melon too. Welcome back, Leonardo."}
+- 02:09 act: {"say":"Jason! Zack here, I'm at the middle beds with 7 melon slices. Want me to come to the west beds? Tell me who is weakest and I'll hand it over."}
+- 02:09 act: {"say":"On my way to the west beds, Jason. Hold on.","intent":{"goal":"join_jason_west_beds","program":"travel","arguments":{"target":{"x":400,"y":107,"z":-1050}},"wake_on":["directly_addressed","unex
+- 02:09 act: {"say":"Zack at the west beds, Jason. Ready to search for Johnny with you. Where are you?"}
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1049}}],"say":"Coming to you, Jason."}
+- 02:10 act: {"say":"Here, Jason. I've got 7 melon slices. Lead the way south, I'm with you for Johnny.","intent":{"goal":"search_south_with_jason","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on"
+- 02:10 act: {"say":"Going with you to the melon field, Jason. Calling out for Johnny on the way.","intent":{"goal":"go_melon_field_with_jason","program":"travel","arguments":{"target":{"x":307,"y":79,"z":-872}},"
+- 02:11 act: {"say":"At the melon field, Jason. Where are you? I'm calling out for Johnny here."}
+- 02:18 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 02:19 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Health 6 at night, zombie 4.7 blocks away and closing. Fight it with the sword before building a shelter.","say":"Zombie. I'm fighting it."}
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"I died and respawned at the beds with nothing. It is night. Get into the bed and sleep. Recover the items at
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1024}}],"intent":{"goal":"meet_leonardo_at_beds","program":"travel","arguments":{"target":{"x":428,"y":107,"z":-1024}},"wake_on":["directly_addr
+- 02:23 act: {"actions":[],"say":"Billy, thank you. It is midday now, so let's go to the melon field together now, with Tommy and Trini if they come. My things are at 302,80,-822.","reasoning":"Billy and his group
+- 02:23 act: {"actions":[],"say":"Agreed, Billy. I'll wait here at 427,-1024 until you are in sight, and we keep each other in view.","reasoning":"Billy agrees to go with me once Tommy and Trini are in sight. Wait
+- 02:24 act: {"actions":[],"say":"Tommy, good to see you. We wait for Billy and Leonardo, then we go together to the melon field.","reasoning":"Tommy is here. Wait for Billy and Leonardo to join before moving."}
+- 02:24 act: {"actions":[],"intent":{"goal":"recover_pack_at_melon_field","program":"travel","arguments":{"target":{"x":302,"y":80,"z":-822}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","p
+- 02:25 act: {"actions":[{"do":"goto","target":{"x":305,"y":81,"z":-821}},{"do":"goto","target":{"x":304,"y":81,"z":-819}},{"do":"goto","target":{"x":299,"y":80,"z":-816}},{"do":"goto","target":{"x":297,"y":80,"z"
+- 02:26 act: {"actions":[{"do":"goto","target":{"x":298,"y":79,"z":-826}}],"say":"Got most of my things back. Thank you, Billy and Tommy.","reasoning":"Most of my pack is back. One item pile is still 1.6 blocks no
+- 02:26 act: {"actions":[{"do":"goto","target":{"x":298,"y":79,"z":-826}}],"reasoning":"The last item pile is 1.6 blocks north. Step onto it to pick it up, then head for the beds."}
+- 02:26 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1037}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 02:28 act: {"actions":[],"say":"I'm at the beds, Leonardo. Come on over; I'll wait here.","reasoning":"Leonardo is coming to meet us. Stay at the beds and let him find me."}
+- 02:28 act: {"actions":[],"say":"My hunger is full, I have 6 melon slices. Leonardo, I'll give you some when you are in sight. I'm already at the beds.","reasoning":"Leonardo is the weakest and wants to go back t
+- 02:30 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"reasoning":"Dusk. Use the bed next to me to rest safely."}
