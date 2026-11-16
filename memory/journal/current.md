@@ -1,1 +1,27 @@
 # Journal
+- 13:05 act: {"say":"Zack here, morning, day 358. Holding at the bed row, health 20. Billy, call the cow hop when you are ready.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["dire
+- Morning day 358: woke at the bed row beside Billy. Greeted the group, holding for Billy's cow-hop call. Kimberly came back from 13 blocks north, alone. Tommy, Trini, Kimberly asleep at 401,-1036.
+- Day 359 morning: Billy's short hop to 396,-1010 went ahead with several in sight. I could see no one from my bed, so I held at 388,-1051 and did not walk alone. Kimberly at health 11; offered her my rotten flesh.
+- Dusk day 359: the hop was called off. Tommy and Kimberly were stranded far off and came back. Going to bed at 387,107,-1051, Billy in reach. Health 20, hunger 20.
+- Sleep failed: it was still day. Day 359 morning, Billy called the short hop to 385,-997 with four in sight (Trini, Kimberly, Lewis or Riker, me). I am following Trini on the hop.
+- My follow failed; I held at 389,-1049. Billy, Trini, Kimberly, Tommy and I now stand in reach, waiting for Billy's next call.
+- 13:05 act: {"say":"Got it Billy. I will count four in sight before any hop. Nobody else in view yet, so I stay put.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addres
+- 13:05 act: {"actions":[{"do":"wait","seconds":240}]}
+- 13:09 act: {"say":"Zack here at the bed row, health 20, hunger 20. Kimberly, you are at 11 health. Say if you want food; I have 8 rotten flesh. Billy, I see Picard and Tommy with you; still counting."}
+- 13:13 act: {"say":"Billy, I can't see anyone in my own sight from the bed at 388,-1051, so I hold here and will not walk alone. Call me once I can see four, and I'll follow."}
+- 13:17 act: {"actions":[{"do":"sleep"}]}
+- 13:21 act: {"say":"Zack here at the bed with Billy, health 20, hunger 20. Trini, Tommy, Kimberly, stand in reach and I'll count us. Melon and rotten flesh held for the lowest."}
+- 13:23 act: {"say":"Zack going on Billy's hop with Trini and Kimberly in sight. Following Trini toward 385,-997.","intent":{"goal":"join_cow_hop","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":
+- 13:23 act: {"say":"Zack here at 389,-1049, with Trini and Kimberly in reach. My follow failed, so I'm holding. Billy, lead and I will walk behind in sight."}
+- 13:26 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Zack here at 389,-1049 with Trini and Tommy in reach. Billy, I'm coming to you now so we're in sight together.","reasoning":"Billy's hop stalle
+- 13:26 act: {"actions":[{"do":"wait","seconds":60}],"say":"Zack still at 389,-1049; I can't see Billy from here, so I'm not walking alone. Billy, Trini, Tommy, Kimberly: call me into sight and I'll come.","reason
+- 13:26 act: {"actions":[{"do":"wait","seconds":240}],"say":"Stopping for today, Billy. Zack holds at the bed row and will go to bed at dusk.","reasoning":"Billy stopped the leg for today and we stay at the bed ro
+- 13:27 act: {"actions":[],"say":"Zack holding at 389,-1049 next to the bed at 387,-1050; I'll sleep here at dusk, within reach of the group.","intent":{"goal":"hold_until_dusk_then_bed","program":"rest","argument
+- 13:27 act: {"actions":[{"do":"wait","seconds":240}]}
+- 13:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack going into my bed at 387,-1050 for the night. Goodnight, all; Billy and the bed row in reach.","reasoning":"D
+- 13:35 act: {"actions":[],"say":"Zack here at my bed 387,-1050, morning of day 360. Health 20, hunger 20. Holding for Billy's call; I have 8 rotten flesh for the lowest.","reasoning":"Morning. I missed sleep at d
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack at dusk on day 360, going into my bed at 387,-1050. Phantom reported nearby, so I stay in the row. Goodnight.
+- 13:47 act: {"actions":[],"say":"Zack, morning of day 361 at bed 387,-1050. Health 20, hunger 20. I missed the night again. Trini and Kimberly, say if you need my rotten flesh; I'll hand it over.","reasoning":"Mo
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack here at dusk, day 361, health 20, hunger 20. Going into my bed at 387,-1050. Goodnight, bed row; Billy, I'll 
+- 13:58 act: {"actions":[],"say":"Zack, morning, health 20, hunger 20. Slept by the bed row. Billy, I'm in your sight; I'll walk when four are in view. Trini, you're at 13: I have 8 rotten flesh if you want it.","
+- 13:58 act: {"actions":[],"say":"Zack at 388,-1051, by the white beds, health 20. Billy, I can't see you from here. Call me into view and I'll step over; I'll not walk alone.","reasoning":"Billy asked me into his
