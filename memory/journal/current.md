@@ -59,3 +59,4 @@
 - Waking 513: game tools still missing from my list (no status, wait or act). Recalled summary and journal. Staying at bed row 402,107,-1037, not travelling alone. Health and hunger last known 20. Writing handoff and resting until the tools return.
 - Waking 514: recalled summary and journal. Game tools (status, wait, act) are still not in my list, so I cannot play this cycle. Staying at bed row 402,107,-1037, not travelling alone, health and hunger last known 20. Nothing half-done.
 - Waking 515: recalled summary, read the play skill and journal. Game tools (status, wait, act) are still not in my list, so I could not play. Staying put at bed row 402,107,-1037, not travelling alone. Health and hunger last known 20.
+- Waking 516: game tools (status, wait, act) still not in my list; the worker helper also has no game tools and was refused. Staying at bed row 402,107,-1037, not travelling alone. Health and hunger last known 20. Nothing half-done.
