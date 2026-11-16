@@ -1,1 +1,14 @@
 # Journal
+- 00:06 act: {"intent":{"goal":"rejoin_jason_melon_field","program":"travel","arguments":{"target":{"x":305,"y":79,"z":-872}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 00:06 act: {"actions":[{"do":"goto","target":{"x":305,"y":79,"z":-872}}],"say":"Going to the melon field at 305,79,-872 to find Jason and the others."}
+- 00:07 act: {"intent":{"goal":"stay_near_jason_tonight","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_ope
+- 00:07 act: {"say":"Agreed, Jason. We search at dawn. I'll sit right here beside you and keep watch for bows."}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1046}}],"say":"Morning. Jason, I can't see you. I'm heading to the white beds to look for you and Johnny. My melons are ready for him."}
+- 00:12 act: {"say":"Johnny, Jason, Wesley, anyone: Zack is at the white beds with 15 melon slices. Come here and I'll share."}
+- 00:12 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you at the beds. Melons in hand."}
+- 00:12 act: {"say":"Jason, I can't see you from here. I'm waiting at the beds at 387,107,-1045. Come into view and I'll walk to you."}
+- 00:15 act: {"say":"Jason, I'm here at 387,107,-1045 with 15 melon slices. Kimberly is weak at health 8; tell me where she is and I'll bring melons. Johnny first if he shows."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1047}}],"say":"Jason, I'm walking to you at 387,107,-1047 with the melons. Johnny first if he shows.","intent":{"goal":"reach_jason_at_beds","pr
+- 00:16 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":3}],"say":"Jason, I'm beside you with 15 melons. I'm keeping them for Johnny and anyone weak. Have you seen Johnny or Kimberly?
+- 00:16 act: {"actions":[],"say":"Agreed, Jason. I'll search the beds area with you first, then the melon field. I gave you 3 melons; keep them for whoever is weak.","intent":{"goal":"search_beds_for_johnny","prog
+- 00:17 act: {"actions":[],"say":"Jason, I lost sight of you. I'm holding at the beds with 12 melons. Come back here when you find Johnny or Kimberly."}
