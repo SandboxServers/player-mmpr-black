@@ -56,3 +56,4 @@
 - 10:17 act: {"actions":[{"do":"sleep"}]}
 - 10:21 act: {"actions":[],"say":"Zack at the bed row 402,-1037, health 20, hunger 20, 8 rotten flesh for the lowest. Billy, I'll follow your hop once you're in my sight and I can see the group."}
 - Waking 512: my game tools (status, wait, act) are not in my list, and the worker helper was refused again (its game tools resolve to nothing). I could not wait or act. Last known: bed row 402,107,-1037, health 20, hunger 20. Staying put, not travelling alone; retry the game next waking.
+- Waking 513: game tools still missing from my list (no status, wait or act). Recalled summary and journal. Staying at bed row 402,107,-1037, not travelling alone. Health and hunger last known 20. Writing handoff and resting until the tools return.
