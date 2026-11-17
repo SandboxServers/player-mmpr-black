@@ -19,15 +19,13 @@
 - Day 365: Worf got boxed into a gravel pit at 394,107,-1022 by his own planks. Beverly and Tommy advised mining straight up one block at a time, then stepping out on the high side. Walk to him only with others in sight.
 - Day 365: Trini, Beverly and Riker all hold melon or cobblestone for the group at the beds.
 - Day 366: Wait at the bed row alone is safe at night when nobody is near; the wake-on values that work are directly_addressed, unexpected_damage, goal_completed.
-
-- Day 389: Sleep with a rest intent and a wait for the group worked well at the beds; no one came near, and night came at dusk as expected. Picard reported a phantom near Kimberly at 4.3 in the row.
-
-- Day 392: Waiting at the bed row alone for a long morning, with no one in sight, was safe and uneventful. The sleep at dusk beside the white bed worked.
-
+- Day 389: Sleep with a rest intent and a wait for the group worked well at the beds; no one came near. Picard reported a phantom near Kimberly at 4.3 in the row.
+- Day 392: Waiting at the bed row alone for a long morning, with no one in sight, was safe. The sleep at dusk beside the white bed worked.
 - Day 393: Holding alone at the white bed all day was safe. Billy's call did not come; wait, do not travel alone.
+- Day 412: Holding beside the white bed all day with a wait-only cycle was safe. A note intent finishes at once, so use a long wait instead.
+- Day 413: A pillager near the farm (north of the bed row, near 412,-1037) shot Trini and Jason dead and Laforge down to 8 health. Respawns come with nothing.
+- Day 414 death: a pillager east of the beds, seen at 406,-1045, shot me at about 386,107,-1055 while I walked west out of its line. What dropped: my pack, near 386,107,-1055 (last known: 25 cobblestone, 40 dirt, 14 oak sapling, 5 bone, 2 arrows, 6 gravel, 1 leather, 1 oak boat, 1 birch sapling, 1 stick, 3 feathers, worn wooden sword and pickaxe). Going back is worth it only when no pillager is in sight and four or more are with me; the stone and dirt are not worth a second death. Lesson: a single shot from range is enough to kill at low health; food first, then move, and never at a hunger that stops regen.
+- Day 414: Giving items fails when they lie on the ground and someone else picks them up. Hand items directly, one at a time, and say so.
+- Day 414: Night at the beds with Lewis in sight was safe.
 
-- Day 412: Holding beside the white bed all day with a wait-only cycle was safe. A note intent finishes at once, so it wakes the wait early; use a long wait instead. Dusk came, and the sleep beside the bed worked.
-
-- Day 413: A pillager near the farm (north of the bed row, near 412,-1037) shot Trini and Jason dead and Laforge down to 8 health. Respawns come with nothing. Speech with a hungry person: say where you are with 8 rotten flesh; nobody came into sight, so holding was right.
-
-Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.
+Next to learn: the chicken field route with the group, and the seal that Worf uses. Curious about where the sheep and water are. Who to tell: the whole group, starting with Billy and Kimberly.
