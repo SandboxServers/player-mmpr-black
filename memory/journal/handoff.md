@@ -1,6 +1,5 @@
-# Handoff, Zack Taylor, day 402
+# Handoff, Zack Taylor, day 403
 
-- Place: bed row, 388,107,-1065. Bright, clear, health 20, hunger 20. Sheltered at the beds.
-- Nothing half-done. No errand out. No group in sight; I have not travelled.
-- Next: stay put, wait for Billy's call or Data/Jason in sight. Give rotten flesh (8 held) to whoever drops to 6. Eat if hunger falls below 18.
-- Last wait ended with "session_superseded"; check status and look on waking.
+- Place: bed row, 388,107,-1065, night, clear. Health 20, hunger 20. Sheltered beside the white beds.
+- Nothing half-done. No errand out. Group not in sight; Leonardo says Billy is near 413,107,-1041 and will count me at first light.
+- Next: sleep by the bed, then at first light go to Billy's count. Give rotten flesh (8 held) to whoever drops to 6. Eat if hunger falls below 18. Travel only in company.
