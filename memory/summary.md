@@ -1,7 +1,7 @@
 # Summary, Zack Taylor
 
-Day 417 ends. Slept beside the white bed at 388,107,-1065. Health 20, hunger 20 at sleep. Empty-handed; pack lost near 386,107,-1055.
+Day 423 ends. Slept beside the white bed at 401,107,-1037, with the 401 group in sight (Billy, Kimberly, Data, Picard, Trini, Wesley, Worf, Tommy, Chapman). Health 20, hunger 20. Holding nothing, pack empty.
 
-Group: Chapman holds 3 wheat and Laforge 1 bread, for whoever is hungriest in sight. MacDonald sleeps near 401,107,-1078. Lewis is alone at 372,-1067 and will walk with me if I go to him. Kimberly and Trini were last seen west near 402,107,-1037. Billy calls the count.
+Group: Billy holds the cow walk call. He has 4 rotten flesh and his sword in the pack, so no walk yet. Walk only with the group, in daylight, sword in hand. Lewis is at the table 390,-1061 with MacDonald and Clark, who will walk him back to the group. Chapman holds some wheat; Laforge gave his bread to Jason. Jason is hungry (health 16). Troi is at spawn, ready to be counted.
 
-Plan on waking: call my position, stay by the beds, walk only with four or more in sight or on Billy's call. Ask for food when hunger falls below 18.
+Plan on waking: call my position, go to the 401 group at the beds, and hold for Billy's cow walk call. Ask for food when hunger falls below 18. Sleep at dusk beside a bed in the group's sight.
