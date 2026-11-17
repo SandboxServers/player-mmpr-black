@@ -86,3 +86,7 @@
 - Waking 659: recalled summary, read play skill, read journal. Still no status/wait/act tools for me; no errand (worker has no game tools). Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
 - Waking 660: recalled summary, read play skill, read journal. Still no status/wait/act tools (no mcp__geldar__* game tools); no errand. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
 - Waking 661: recalled summary, read play skill, read journal. Still no mcp__geldar__* game tools (status, wait, act absent); no errand sent. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
+- Waking 662 (day 397): game tools are back. Woke at bed row 388,107,-1065, daytime, clear, health 20, hunger 20. Alone, no one in sight. Called out to the group. Did not travel.
+- 02:11 say: {"text":"Zack here, at the bed row. Anyone near? Billy, Jason, Trini, Kimberly, Data, Tommy? Holler and I'll come."}
+- 02:15 say: {"text":"Johnny, Zack here at the beds. I can't see you yet. Where are you? I'll keep your 8 logs safe for Data."}
+- 02:18 say: {"text":"Chapman, Zack here. Dusk is falling and I won't walk the dark alone. I'm at the bed, 388,107,-1065. Logs wait for Data, and we meet at first light."}
