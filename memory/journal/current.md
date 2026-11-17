@@ -13,3 +13,4 @@
 - 04:47 act: {"actions":[{"do":"note","text":"Dusk day 405. Still at beds 388,107,-1065, health 20, hunger 20, no group in sight. Tried sleep; it returned events without sleeping. Waiting for night beside the bed.
 - 04:51 act: {"actions":[{"do":"note","text":"Morning day 406. Slept beside the white bed at 388,107,-1065; woke health 20, hunger 20. Group at bed row: Jason, Leonardo, Macdonald, Chapman. Holding for Billy's wal
 - 04:55 act: {"actions":[{"do":"note","text":"Day 406 day. Still holding at beds 388,107,-1065, health 20, hunger 20. Leonardo counted at bed row (health 8.8, hunger 17). Waiting for Billy's call; four in sight be
+- 04:59 act: {"actions":[{"do":"note","text":"Day 406 dusk at the bed row, health 20, hunger 20. No walk called; group holding. Going to sleep beside the bed."}],"say":"Zack at the bed row, dusk. Holding for Billy
