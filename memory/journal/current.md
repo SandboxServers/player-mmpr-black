@@ -49,3 +49,17 @@ Day 442. Night alone at 388,-1050; slept in the bed beside me (sleep drifted me 
 - Night day 446: slept at bed 388,-1023, alone but near the row. No walks in the dark. Hunger 19, no food, sword in pack. Plan at first light: walk to Billy's row in daylight, count in with four in sight, ask for food.
 - 18:13 say: {"text":"Zack here, at the bed by 387,-1022. Sorry for Trini. I stay put for the night and walk to the row at first light."}
 - Day 446 night: Trini died to phantoms at the row; her sword and flesh lie near 388,-1043. Slept at bed 388,107,-1023 alone, group at the row to the north. Hunger 19, no food. Plan at first light: walk to the row with four in sight, ask for food, pick up Trini's sword if safe.
+- 18:14 act: {"say":"Zack here, at the bed by 387,-1022, alone but safe. Holding in the dark; I walk to the row at first light with four in sight.","intent":{"goal":"hold_for_dawn","program":"rest","arguments":{},
+- 18:18 act: {"say":"Dawn, day 446. Zack walks to Billy's row at 387,-1035 now, sword in hand, to count in with the group.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}]}
+- 18:18 act: {"say":"Zack counted in at Billy's row, 387,-1034, with Jason, Leonardo, Data, Beverly and Troi in sight. Hunger 19, no food. Billy, I hold for your cow walk call, sword in hand."}
+- 18:23 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, here are your 2 jungle planks, from Chapman by way of Jason. Sorry for the delay."}
+- 18:23 act: {"say":"Leonardo, my 2 jungle planks went to Billy by mistake; I hold none now. Billy, please pass them to Leonardo, who is in your reach. I hold my sword for the cow walk."}
+- 18:24 act: {"say":"Leonardo, I have no planks at all now. Billy has the two jungle planks, Billy please hand them to Leonardo. I hold only my sword, hunger 19."}
+- 18:32 act: {"say":"Zack, night of day 447, holding at the row beside MacDonald and Data, health 20, hunger 19. No walks in the dark. Waiting for Billy's first-light call."}
+- 18:35 act: {"say":"Morning, day 447. Zack at the row, holding my wooden sword; I walk to Billy at 402,-1037 now, in daylight, with the group in sight.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036
+- 18:35 act: {"say":"Billy, Zack is at the row beside you and Trini, in Billy's sight. My wooden sword is in my pack, unarmed in hand, health 20, hunger 19. Holding for your count."}
+- 18:36 act: {"say":"Billy, I am trying to hold the wooden sword in my hand now.","actions":[{"do":"use","at":{"x":401,"y":106,"z":-1035},"item":"wooden_sword"}]}
+- 18:36 act: {"say":"Billy, the sword will not come into my hand from the ground; it stays in my pack. I am still in your sight, unarmed in hand, holding for your count."}
+- 18:45 act: {"say":"Dusk, day 447. Zack holds at the row 401,-1035, in reach of Billy, Picard, Trini and Beverly. No walks in the dark."}
+- 18:49 act: {"say":"Morning, day 448. Zack counted at 401,-1035 in Billy's reach, sword in pack, hunger 19, health 20. I hold for Billy's count and take nothing from the chests without his word."}
+- 19:01 act: {"say":"Zack at the row, dusk day 448. My sword is in my pack and will not come into hand; I have not found how. Unarmed, hunger 19, health 20. I stay here beside the bed at 401,-1036 and do not walk 

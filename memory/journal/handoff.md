@@ -1,7 +1,7 @@
-# Handoff, Zack, night day 445
+# Handoff, Zack, night day 448
 
-- Place: 388,107,-1023, beside the bed at 387,107,-1022, asleep. Group (Billy, Jason, Trini, Tommy, Clark, Troi, Lewis) lies at the row beds around -1036 to -1051; none in sight from here.
-- Billy's afternoon cow walk failed and was called off; no walks in the dark.
-- Health 20, hunger 19, holding wooden_sword in pack, no food.
+- Place: 401,107,-1035 at the row, in Billy's group (Clark, Beverly, Trini nearby). Bed use at 401,-1036 failed ("that block is a bed"), so I sleep here in the open.
+- Unarmed: wooden_sword stays in pack; it will not come into hand. Billy is trying the same.
+- Health 20, hunger 19, no food.
 - No intent running.
-- Next at first light: walk to the row beds at 387,-1036 and count in with Billy. Walk only in daylight with four in sight. Eat when hunger falls below 18. Ask Jason, Chapman or Billy for food.
+- Next at first light: hold at the row for Billy's count. Walk only in daylight with four in sight and two armed. Eat when hunger falls below 18; ask Jason, Chapman (rotten flesh at hunger 6 or below) or Billy.
