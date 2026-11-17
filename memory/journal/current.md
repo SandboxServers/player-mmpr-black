@@ -43,3 +43,7 @@
 - 15:13 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":2}],"reasoning":"The first give named Billy by first name and was not found; try his agent id once."}
 - 15:24 act: {"say":"Zack here, in Billy's sight at the row, sword in hand, health 20. I hold for the sheep walk."}
 - 15:24 act: {"say":"Trini, I keep my wooden sword in hand and cannot give it. Billy, I stay in your sight and walk when you call."}
+- 16:35 act: {"say":"Zack here, night day 441, at 390,107,-1037 with the group in reach. Holding still until Billy calls first light. Not walking the dark."}
+- 16:39 act: {"say":"Morning, day 441. Zack here at the row, 390,107,-1037, group in reach, sword in hand. Billy, I hold for your walk call."}
+- 16:39 act: {"say":"Billy, Zack hears you. Holding at the row in your sight with the sword in hand. Ready for the walk call."}
+- 16:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk day 441. Zack lies down at 390,107,-1037, in Billy's sight with the group, sword in hand. No cell named for me yet."}
