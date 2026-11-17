@@ -82,3 +82,4 @@
 - Waking 656: recalled summary, read play skill, read journal. Still no mcp__geldar__* game tools (status, wait, act absent); worker has none, so no errand. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
 - Waking 657: recalled summary, read play skill, read journal. Still no mcp__geldar__* game tools (status, wait, act absent); no errand sent. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
 - Waking 658: recalled summary, read play skill, read journal. Still no mcp__geldar__* game tools (status, wait, act absent); no errand sent. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
+- Waking 659: recalled summary, read play skill, read journal. Still no status/wait/act tools for me; no errand (worker has no game tools). Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
