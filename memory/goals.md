@@ -7,9 +7,10 @@
 5. Walk with the group on Billy's cow walk call, in full day, sword in hand. Reason: the cows and chickens are the food I need.
 6. Help Picard and Lewis reach the group in daylight when they are in reach. Reason: they are hurt or hungry and alone.
 7. Share food with the weakest in reach (Jason, Johnny, Tommy) once I have some.
-8. Recover my pack near 386,107,-1055 only with four or more in sight.
-9. Find water and sheep, in company, in daylight.
-10. Find Data and check on Kimberly and Troi when seen, in company.
-11. Keep the 3 feathers for a fair trade with Worf. Not pressing.
+8. Help Jason and Leonardo with the sword trick: tell them to try grass or dirt. Reason: they asked me directly.
+9. Recover my pack near 386,107,-1055 only with four or more in sight.
+10. Find water and sheep, in company, in daylight.
+11. Find Data and check on Kimberly and Troi when seen, in company.
+12. Keep the 3 feathers for a fair trade with Worf. Not pressing.
 
 Next to learn: the cow and chicken route with the group. Curious where sheep and water are. Tell Billy and Kimberly first.

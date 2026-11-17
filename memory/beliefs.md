@@ -30,4 +30,7 @@
 - Day 416: Holding at the beds alone all morning was safe. Chapman (3 wheat) and Laforge (bread) share food with whoever is hungriest; ask them when hunger falls below 18.
 - Day 424: Kimberly's pack at 407,-1033 was gone when we walked there on Billy's call (Clark's death had dropped items near there). Do not count on finding it.
 
+- Day 461: Sword into hand: act use with item wooden_sword, aimed at a block. Picard's try on cobblestone failed with "that block cannot be used that way." Try grass or dirt, not stone. I cannot recall the exact block I used.
+- Day 461-462: Holding at the row all day, with no walk called, was safe.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Curious about where the sheep and water are. Who to tell: the whole group, starting with Billy and Kimberly.
