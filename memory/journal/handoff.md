@@ -1,5 +1,5 @@
-# Handoff, Zack Taylor, day 394
+# Handoff, Zack Taylor, day 395
 
 - At the white bed 388,107,-1065, beside the bed row. Health 20, hunger 20. Not in danger.
-- Group still not in sight. Chapman holds 8 oak logs for Data at the beds. MacDonald planting at first light.
-- Next: stay at the beds. Wait for Billy's call. Never travel alone. Sleep beside the bed at night. Give rotten flesh (8 held) to whoever drops to 6.
+- Group not in sight all day. Beverly and Riker at the bed row near 402,107,-1037. Chapman holds 8 oak logs for Data.
+- Next: stay at the beds. Wait for Billy's call. Never travel alone. Give rotten flesh (8 held) to whoever drops to 6.
