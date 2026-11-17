@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 398, night, slept beside the white bed at 388,107,-1065. Health 20, hunger 20.
+Day 399, night, slept beside the white bed at 388,107,-1065. Health 20, hunger 20.
 
 Pack: 3 feathers (for a fair trade with Worf), 25 cobblestone, 40 dirt, 8 rotten flesh (for the lowest), 14 oak sapling, 5 bone, 2 arrows, 6 gravel, 1 leather, 1 oak boat, worn wooden sword and pickaxe.
 
