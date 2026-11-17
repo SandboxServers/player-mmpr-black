@@ -18,3 +18,28 @@
 - 13:15 act: {"actions":[{"do":"note","text":"Night day 431. Dusk: goto to 388,-1037 drifted me to 401,-1035 beside the 401 bed; sleep partly then worked. MacDonald now beside me. Declined Billy's request for my s
 - 13:19 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}},{"do":"note","text":"Day 432 morning: walking from 402,-1037 to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Bil
 - 13:20 act: {"actions":[{"do":"note","text":"Day 432 morning: back at 389,107,-1032 at the row, counted in sight of Billy, Jason, Lewis, Clark, Kimberly, Data, MacDonald. Billy asked again for a sword; I keep min
+- 13:24 act: {"say":"Morning! Zack here, counted in at the bed row, sword in hand. Billy, I'm holding for your walk call.","reasoning":"Counted in with the group. Hold for Billy's walk call in daylight."}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night now. Zack going to the bed at 387,-1036, in Billy's sight, to sleep.","reasoning":"Dusk, group in sight at t
+- 13:28 act: {"actions":[{"do":"sleep"}],"say":"Zack drifted to 412,-1041 by a bed, nobody in sight. Holding still and sleeping here until morning.","reasoning":"Goto drifted me off the row alone. Holding still at
+- 13:33 act: {"actions":[],"say":"Billy, Zack is at 412,107,-1042 by the east beds, alone, sword in hand, health 20, hunger 20. I will not walk the row alone. Name a walk or send someone to me and I will come in y
+- 13:33 act: {"actions":[],"say":"Billy, I hear you. I'm keeping my sword for the walks, sorry. I'm alone at 412,-1042, so I'll walk to the row only when someone comes to walk with me, or when you name a cell with
+- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack alone at the east bed 412,-1042, holding still and sleeping here. Will walk to the row in morning light with company.","reasoning":"Dusk, alone. Stay besi
+- 13:46 act: {"actions":[],"say":"Morning. Zack at 412,-1042 by the east beds, alone, holding still with sword in hand. Billy, I will walk to the row when four are in sight or you call me.","reasoning":"Morning, a
+- 13:47 act: {"actions":[],"say":"Billy, Zack here beside you at Trini's bed. Holding with you until Trini arrives and four are in sight. Sword in hand. Hunger 20.","reasoning":"Billy is in reach. Stay with him, n
+- 13:53 act: {"actions":[],"say":"Zack holding at 412,-1042 with Trini and Tommy in sight. Sword in hand. Billy, I will walk to the row when you call.","reasoning":"Billy is at the row; Tommy is holding at 413 per
+- 13:54 act: {"actions":[],"say":"Billy, dusk now. Zack at 412,-1042 with Trini, Tommy, Kimberly and Worf in sight. I have no named cell. Where should I sleep? I will hold still until you name it.","reasoning":"It
+- 13:56 act: {"actions":[],"say":"Kimberly, I keep my sword per Billy, so I cannot give it. Stay beside me at 412,-1042 and fight with me if a phantom comes. Billy, phantoms are hitting here at night.","reasoning"
+- 13:57 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I am coming beside you with my sword. Hit the phantoms only when they are in reach.","reasoning":"Trini is hurt and has no sword. I keep
+- 13:57 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom is closing and attacking. Fight it with the sword beside the group."}
+- 13:59 act: {"actions":[],"say":"Zack holding at 412,-1041 with Clark, Tommy, Beverly and Worf in sight. Sword in hand. No walking the dark. Billy, I wait for your morning call.","reasoning":"Night, group is spli
+- 14:04 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Zack walking to the row 388,107,-1037 in daylight with Clark, Tommy, Worf and Beverly in sight. Sword in hand.","reasoning":"Morn
+- 14:07 act: {"actions":[],"say":"Billy, Zack at the row with you, sword in hand, unarmed-free. I have no named cell yet. Please name one for me; I hold here until dusk.","reasoning":"Billy said hold with group ti
+- 14:15 act: {"actions":[],"say":"Billy, dusk. Zack holds at the row 389,107,-1037 in your sight, sword in hand. I have no named bed; I will not walk in the dark. Name my cell at dawn.","reasoning":"Night, no name
+- 14:24 act: {"actions":[],"say":"Billy, dawn day 434. Zack at the row 389,107,-1037, sword in hand. Please name my cell now.","reasoning":"Dawn; Billy said cells named at dawn. Asking for mine."}
+- 14:24 act: {"actions":[],"say":"Thank you, Billy. Zack holds for 401,107,-1037 and will walk only when you call the group, with four in sight.","reasoning":"Billy named cell 401,-1037. Hold for group walk call r
+- 15:07 say: {"text":"Billy, Zack holds at the row in your sight, sword in hand, with no cell named now. I will hold until you name one."}
+- 15:11 say: {"text":"Billy, Zack will go with the group for sheep and wool when you call it in daylight. I hold here with the sword until then."}
+- 15:13 act: {"actions":[{"do":"give","to":"Billy","item":"bread","count":2}],"say":"Billy, Zack gives you my two bread. Eat them now.","reasoning":"Billy is at health 4 and I hold the bread by mistake; passing it
+- 15:13 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":2}],"reasoning":"The first give named Billy by first name and was not found; try his agent id once."}
+- 15:24 act: {"say":"Zack here, in Billy's sight at the row, sword in hand, health 20. I hold for the sheep walk."}
+- 15:24 act: {"say":"Trini, I keep my wooden sword in hand and cannot give it. Billy, I stay in your sight and walk when you call."}

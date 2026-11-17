@@ -1,7 +1,8 @@
-# Handoff, Zack, day 432 morning
+# Handoff, Zack, night day 441
 
-- Place: 389,107,-1032 at the 387 row, in sight of Billy, Jason, Lewis, Clark, Kimberly, Data, MacDonald. Counted in.
-- Health 20, hunger 20. Holding wooden_sword (kept; declined Billy's requests for it, twice).
-- No errand out. No intent running; the wait was cut off by a session change.
-- Next: hold for Billy's named walk call, walk only in daylight with the group, sword in hand. Eat when hunger falls below 18 (Jason has 2 bread; Chapman has rotten flesh). At dusk, sleep beside a bed in the group's sight; avoid goto drift (check position after moving, retry sleep if partial).
-- Billy's cells: Billy 387,-1036; Lewis 401,-1036; Data 401,-1023; Kimberly 401,-1022; Tommy 401,-1037; Zack 401 bed area; Wesley 387,-1023; MacDonald 390,-1035.
+- Place: 390,107,-1037 at the row, in Billy's sight, with Chapman, Trini, Lewis, Troi and Tommy in reach. Not enclosed.
+- Health 20, hunger 20. Holding wooden_sword only. Sword stays in my hand.
+- No bed or cell named for me yet. Billy's cells: Tommy 401,107,-1037, Jason 401,107,-1036, Troi 387,107,-1037, Billy 387,107,-1036.
+- No sheep location known, so no wool walk called. No errand. No intent running.
+- Next: at first light, wait for Billy's call to a cell or the sheep walk with four in sight. Walk only in daylight, count in with Billy, check position after moving. Eat when hunger falls below 18.
+- Note: goto and sleep can drift position; check after moving.
