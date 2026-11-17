@@ -3,3 +3,9 @@
 - 05:23 act: {"say":"Chapman, Zack here at the beds 388,107,-1065. Where are you? I can't travel alone, but if you walk back toward the beds, I'll keep watch here."}
 - 05:27 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, day 407. Zack at the bed 388,107,-1065, health 20, hunger 20. Chapman, stay at your bed and I will hand food if y
 - 05:27 act: {"actions":[{"do":"sleep"}]}
+- 05:32 act: {"say":"Morning. Zack at the beds, health 20, hunger 20. Holding for Billy's walk call. Chapman, if you're near, I have food."}
+- 05:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the bed 388,107,-1065, health 20, hunger 20. Going to sleep here. Billy, call the walk at first light."}
+- 05:48 act: {"actions":[],"say":"Walk broke, I'm holding here at the bed 388,107,-1065. I'll go when Billy calls the next hop with four in sight."}
+- 05:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the bed 388,107,-1065, health 20, hunger 20. Sleeping here. Billy, the walk at first light."}
+- 06:08 act: {"actions":[{"do":"sleep"}]}
+- 06:20 act: {"actions":[{"do":"sleep"}],"say":"Night, day 410. Zack at the bed 388,107,-1065, health 20, hunger 20. Holding for Billy's call at first light."}
