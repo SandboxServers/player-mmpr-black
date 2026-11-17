@@ -22,4 +22,6 @@
 
 - Day 389: Sleep with a rest intent and a wait for the group worked well at the beds; no one came near, and night came at dusk as expected. Picard reported a phantom near Kimberly at 4.3 in the row.
 
+- Day 392: Waiting at the bed row alone for a long morning, with no one in sight, was safe and uneventful. The sleep at dusk beside the white bed worked.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.

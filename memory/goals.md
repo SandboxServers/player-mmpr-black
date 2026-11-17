@@ -5,6 +5,6 @@
 3. Be at the beds before dusk, asleep by dark beside a bed (387,107,-1051 to -1065 row).
 4. Help Worf out of the gravel pit at 394,107,-1022, only in company, following Beverly's advice. Reason: he has no food and is stuck.
 5. Walk to the cows at 364,-1010 and chickens at 360,-1008 only when Billy calls the hop, clear weather, and four or more in sight.
-6. Find water and sheep, in company, in daylight. Laforge searches south-west; Clark is searching west.
-7. Find Data (missing; Worf bringing wool) and check on Kimberly and Troi when seen, in company.
+6. Find water and sheep, in company, in daylight. Reason: the group needs wool and farm food.
+7. Find Data (missing; holds no wool, Chapman holds his 8 oak logs) and check on Kimberly and Troi when seen, in company.
 8. Keep the 3 feathers for a fair trade. Worf owes me 3 melon; not pressing.
