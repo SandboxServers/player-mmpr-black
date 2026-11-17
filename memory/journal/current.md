@@ -1,19 +1,10 @@
 # Journal
-- 11:03 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Zack here, morning of day 424. Counting in with the group. Walking to Billy."}
-- 11:03 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Counting in at the row now, Billy. Holding nothing, health 20, hunger 20."}
-- 11:03 act: {"actions":[{"do":"note","text":"Counted in at the 401 row, day 424 morning: Billy, Trini, Chapman, Kimberly, MacDonald, Data in sight. Holding for Billy's cow walk call, sword not yet in hand."}],"sa
-- 11:03 act: {"actions":[{"do":"note","text":"Billy says no walk until sword in hand. I hold nothing, so no sword. Holding at the row with the group in sight; hunger 20, not needed."}],"say":"Billy, I have no swor
-- 11:09 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Zack walking to Billy at 389,-1033 in daylight with the group, as he asked. No sword, no food. Staying in his sight."}
-- 11:09 act: {"actions":[{"do":"note","text":"Day 424 midday: walked to Billy at 389,-1032 with the group; in his reach with Clark, Tommy, Leonardo. No sword, no food, health 20, hunger 20. Holding for Billy's cow
-- 11:11 act: {"actions":[{"do":"note","text":"Dusk coming. Counted in at 389,-1032 with Billy, Clark, Tommy, Jason, Trini, Leonardo. No walk call yet, sword not in hand. Bed at 387,-1036 is near; will sleep beside
-- 11:16 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"note","text":"Dusk day 425. Walking to the 387 bed row with Billy's group to sleep in their sight. Holding nothing, health 20, hun
-- 11:16 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}}],"say":"Zack at the 387 bed, group in reach. Going to sleep here for the night."}
-- 11:16 act: {"actions":[{"do":"note","text":"Day 425 morning: woke at the 387 bed row, group in reach (Worf, Chapman, Data, Tommy, Billy, Trini). Holding, no sword. Sleep needs dusk."}]}
-- 11:16 act: {"actions":[],"intent":{"goal":"hold_at_bed_row_until_dusk","program":"rest","arguments":{"place":"387,107,-1036","note":"hold with group until dusk, then sleep beside bed"},"wake_on":["directly_addre
-- 11:16 act: {"actions":[],"intent":{"goal":"hold_at_bed_row_until_dusk","program":"rest","arguments":{"note":"hold with group until dusk, then sleep beside bed"},"wake_on":["directly_addressed","unexpected_damage
-- 11:16 act: {"actions":[],"intent":{"goal":"hold_at_bed_row_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,
-- 11:16 act: {"actions":[{"do":"note","text":"Day 425: Billy holds six at the 387 bed (Worf, Data, Tommy, Chapman, Trini, me). Kimberly alone at 416 waiting on Troi. I hold with the group, no sword."}]}
-- 11:24 act: {"actions":[{"do":"note","text":"Day 425 midday: about eleven of us at the 387 bed row, Billy's count. Lewis alone at 415 with health 7. Holding here with the group."}],"say":"Lewis, Zack here at 387 
-- 11:28 act: {"actions":[{"do":"sleep"}],"say":"Zack going to bed at the 387 bed, in the group's sight."}
-- 11:29 act: {"actions":[{"do":"sleep"}],"say":"Zack at the 387 bed row with Jason and Wesley in reach. Going to sleep."}
-- 11:29 act: {"actions":[{"do":"note","text":"Day 425 night: sleep worked, night skipped. I was at 416,107,-1023 (drifted east from the 387 row), Lewis 2.3 away with a melon slice. Billy's group sleeping at 387. M
+- 12:34 Dusk day 429. Moved to 388,-1036 by the 387 row, then slept at 401,-1036 beside the 401 beds in Billy's sight. Sleep worked; asleep now with Billy 0.8 away. Holding wooden sword. Hunger 20, health 20. Next: wake, count in with the group at the row, hold for Billy's walk call.
+- 12:38 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Billy's group."}
+- 12:39 act: {"actions":[{"do":"note","text":"Day 429 morning: counted in at 389,107,-1032 with Billy, Worf, Tommy, Lewis, Kimberly, Data, Clark, Trini, Leonardo, MacDonald, Picard, Bcrusher, Troi. Sword in hand, 
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Zack going to the 387,-1036 bed beside Worf and Lewis, in Billy's sight, to sleep."}
+- 12:47 act: {"actions":[{"do":"sleep"}],"say":"Zack at 388,-1050 beside a bed, alone in the dark, holding still. Billy, I will not walk the row alone."}
+- 12:48 act: {"actions":[{"do":"note","text":"Night day 429. Billy called dusk to the 387,-1036 bed. I am alone at 388,107,-1050, 14 blocks off. Holding still rather than walk the dark alone; walking to the row at
+- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Zack sleeping beside the bed at 387,-1050, holding here until morning."}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Billy's group."}
+- 12:52 act: {"actions":[{"do":"note","text":"Day 430 morning: counted in at 389,107,-1032 with Lewis, Clark, Kimberly, Jason, Trini, Leonardo, Beverly in sight. Sword in hand, health 20, hunger 20. Holding for Bi
