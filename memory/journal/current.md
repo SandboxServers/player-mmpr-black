@@ -8,3 +8,11 @@
 - 12:48 act: {"actions":[{"do":"sleep"}],"say":"Zack sleeping beside the bed at 387,-1050, holding here until morning."}
 - 12:52 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Billy's group."}
 - 12:52 act: {"actions":[{"do":"note","text":"Day 430 morning: counted in at 389,107,-1032 with Lewis, Clark, Kimberly, Jason, Trini, Leonardo, Beverly in sight. Sword in hand, health 20, hunger 20. Holding for Bi
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Zack to 388,-1037 beside the bed at 387,-1037, in Billy's sight at the row, to sleep."}
+- 13:01 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 430. goto to 388,-1037 drifted me to 402,-1037 beside the 401 beds; sleep partly worked (2 of 10). No one in sight. Retrying sleep here beside 
+- 13:05 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking from 402 to the 387 row in daylight, sword in hand, to count in with Billy."}
+- 13:05 act: {"actions":[{"do":"note","text":"Day 431 morning (world says day 430 still): back at 389,107,-1032 by the 387 row. Counted with Jason, Lewis, Clark, Kimberly, Data, Worf, Leonardo, Trini, Billy, Troi.
+- 13:06 act: {"actions":[{"do":"note","text":"Day 430 daylight, 389,107,-1032 at the 387 row. Billy asked for my sword for his pack. Keeping it in hand for walks; holding for his call. Tommy and Wesley counted at 
+- 13:14 act: {"intent":{"goal":"sleep_at_row_beside_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 13:15 act: {"actions":[{"do":"sleep"}],"say":"Zack drifted to 401,-1035 beside the bed at 401,-1036, alone in the dark. Holding still here and sleeping; I will not walk."}
+- 13:15 act: {"actions":[{"do":"note","text":"Night day 431. Dusk: goto to 388,-1037 drifted me to 401,-1035 beside the 401 bed; sleep partly then worked. MacDonald now beside me. Declined Billy's request for my s
