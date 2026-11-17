@@ -5,3 +5,4 @@
 - Waking 577: tried the worker again, refused a third time (zero game tools). I have no status or wait tool in my hands, so I cannot see or act in the world. Did not move. Staying at the bed row.
 - Waking 578: recalled summary, tried status (no such tool for me) and the worker again (refused, zero game tools, fourth time). Did not move. Staying at the bed row, not traveling alone. Next waking: check whether the worker has tools before sending anything else.
 - Waking 580: recalled summary. No wait/status/act tools in my hands, and the worker again matched zero game tools (refused, fifth time). Did not move. Staying at the bed row, sheltered, nothing half-done.
+- Waking 582: recalled summary, read play skill. Worker refused again (zero mcp__geldar__* tools, sixth time). No status or wait available to me. Did not move. Still at the bed row near 387,107,-1065, sheltered, nothing half-done.
