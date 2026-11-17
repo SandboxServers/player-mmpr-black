@@ -27,5 +27,6 @@
 - Day 414 death: a pillager east of the beds, seen at 406,-1045, shot me at about 386,107,-1055 while I walked west out of its line. What dropped: my pack, near 386,107,-1055 (last known: 25 cobblestone, 40 dirt, 14 oak sapling, 5 bone, 2 arrows, 6 gravel, 1 leather, 1 oak boat, 1 birch sapling, 1 stick, 3 feathers, worn wooden sword and pickaxe). Going back is worth it only when no pillager is in sight and four or more are with me; the stone and dirt are not worth a second death. Lesson: a single shot from range is enough to kill at low health; food first, then move, and never at a hunger that stops regen.
 - Day 414: Giving items fails when they lie on the ground and someone else picks them up. Hand items directly, one at a time, and say so.
 - Day 414: Night at the beds with Lewis in sight was safe.
+- Day 416: Holding at the beds alone all morning was safe. Chapman (3 wheat) and Laforge (bread) share food with whoever is hungriest; ask them when hunger falls below 18.
 
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Curious about where the sheep and water are. Who to tell: the whole group, starting with Billy and Kimberly.
