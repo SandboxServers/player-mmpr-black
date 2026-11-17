@@ -24,4 +24,6 @@
 
 - Day 392: Waiting at the bed row alone for a long morning, with no one in sight, was safe and uneventful. The sleep at dusk beside the white bed worked.
 
+- Day 393: Holding alone at the white bed all day was safe. Billy's call did not come; wait, do not travel alone.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.
