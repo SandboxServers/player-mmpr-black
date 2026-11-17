@@ -9,3 +9,4 @@
 - 05:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack at the bed 388,107,-1065, health 20, hunger 20. Sleeping here. Billy, the walk at first light."}
 - 06:08 act: {"actions":[{"do":"sleep"}]}
 - 06:20 act: {"actions":[{"do":"sleep"}],"say":"Night, day 410. Zack at the bed 388,107,-1065, health 20, hunger 20. Holding for Billy's call at first light."}
+- 06:33 act: {"say":"Counted at the bed row. Staying here by the white bed for the night."}
