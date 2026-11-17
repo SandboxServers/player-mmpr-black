@@ -26,4 +26,6 @@
 
 - Day 393: Holding alone at the white bed all day was safe. Billy's call did not come; wait, do not travel alone.
 
+- Day 412: Holding beside the white bed all day with a wait-only cycle was safe. A note intent finishes at once, so it wakes the wait early; use a long wait instead. Dusk came, and the sleep beside the bed worked.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.
