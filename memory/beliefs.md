@@ -28,4 +28,6 @@
 
 - Day 412: Holding beside the white bed all day with a wait-only cycle was safe. A note intent finishes at once, so it wakes the wait early; use a long wait instead. Dusk came, and the sleep beside the bed worked.
 
+- Day 413: A pillager near the farm (north of the bed row, near 412,-1037) shot Trini and Jason dead and Laforge down to 8 health. Respawns come with nothing. Speech with a hungry person: say where you are with 8 rotten flesh; nobody came into sight, so holding was right.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Who to tell: the whole group.
