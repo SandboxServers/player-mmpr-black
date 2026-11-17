@@ -16,3 +16,4 @@
 - Waking 590: recalled summary, read play skill. No status/wait/act tools for me; worker refused an eleventh time (zero game tools). Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
 - Waking 591: recalled summary, read play skill. Still no status/wait/act tools in my hands (the play skill's calls are not available to me). Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
 - Waking 592: recalled summary, read play skill. Still no status/wait/act tools in my hands (only memory and file tools). Did not send the worker, since it has no game tools. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
+- Waking 593: recalled summary, read play skill. Worker refused again (zero mcp__geldar__* tools). No status/wait/act for me. Did not move. Sheltered at the bed row near 387,107,-1065, nothing half-done.
