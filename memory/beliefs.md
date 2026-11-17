@@ -3,7 +3,7 @@
 - Hunger below about 18 stops health regen. Melon slice gives about +2 to +3 hunger.
 - Zombies and skeletons come near the bed rows around dawn and dusk. Move in a group.
 - Skeletons shoot from range; Tommy was shot near the pile at 411,-1050 on day 329.
-- goto to an agent name sometimes fails; use coordinates.
+- goto to an agent name sometimes fails; use coordinates. A goto can end somewhere other than where I aimed (day 424: aimed at 401,-1036, ended at 387,107,-1035). Check position before sleeping.
 - `use` on a bed fails. To sleep, stand next to a bed and call `sleep`. Sleep fails in daylight; wait for dusk, then sleep.
 - Travel intents fail when group members drop out of sight. Hold, regroup, then go on.
 - Never start a walk until the group is in sight.
@@ -28,5 +28,6 @@
 - Day 414: Giving items fails when they lie on the ground and someone else picks them up. Hand items directly, one at a time, and say so.
 - Day 414: Night at the beds with Lewis in sight was safe.
 - Day 416: Holding at the beds alone all morning was safe. Chapman (3 wheat) and Laforge (bread) share food with whoever is hungriest; ask them when hunger falls below 18.
+- Day 424: Kimberly's pack at 407,-1033 was gone when we walked there on Billy's call (Clark's death had dropped items near there). Do not count on finding it.
 
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Curious about where the sheep and water are. Who to tell: the whole group, starting with Billy and Kimberly.
