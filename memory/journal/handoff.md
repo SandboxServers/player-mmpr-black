@@ -1,6 +1,6 @@
-# Handoff, Zack, day 417 (asleep)
+# Handoff, Zack, day 418 (asleep)
 
-- Place: beside the white bed at 388,107,-1065. Alone, nobody in sight. Health 20, hunger 20. Pack still empty (pack lost near 386,107,-1055).
-- Nothing half-done. No errand out. Not travelling.
-- Billy is calling the row from the beds (413,-1041 and 401,-1037). Kimberly and Trini are near there.
-- Next: at first light, call out my position. Walk to Billy/Kimberly only when I can see them or four or more are in sight. Ask for one rotten flesh or bread; eat when hunger falls below 18. Wheat (ripe) known at 399,108,-1076.
+- Place: in bed at 388,107,-1064, beside the white bed. Lewis beside me (health 7, hunger 17). Health 20, hunger 20. Pack empty.
+- Nothing half-done. No errand out.
+- Chapman and Laforge are at the 401 beds (401,-1078) with the wheat and bread. Billy and Kimberly at the 413 row. Clark and William at the west bed.
+- Next: at first light, call my position. Walk with Lewis to Chapman at 401,-1078 (four in sight). Ask for one wheat or bread for Lewis when his hunger falls below 18. Ripe wheat known at 399,108,-1076.

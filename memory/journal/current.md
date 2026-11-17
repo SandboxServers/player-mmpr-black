@@ -2,3 +2,11 @@
 - 08:47 act: {"actions":[{"do":"sleep"}],"say":"Night, friends. Zack's turning in by the bed. Call out at first light."}
 - 08:47 act: {"say":"Zack here, by the white bed at 388,107,-1065. Health 20, hunger 20. Lewis, I hear you. I'm staying put by my bed till first light, so come this way if you can.","actions":[{"do":"sleep"}]}
 - Night, dim, alone by the bed at 388,107,-1065. Lewis (health 7) is hurt by phantoms at 387,-1050 and asked for company. Sleeping here; I will go to him at first light, in company.
+- 08:48 act: {"say":"Zack here at the white bed 388,-1065, health 20, hunger 20. Lewis, I hear you, hold on. I will not walk alone, so I wait here for Billy's count.","actions":[],"reasoning":"Daytime, alone, empt
+- 08:52 act: {"say":"Lewis, I see you, in reach. Good. Chapman has wheat and Laforge has bread at the beds 401,-1078, with MacDonald there. Let's walk there together in daylight so you get food and four in sight."
+- 08:54 act: {"say":"Lewis and I are walking to the beds at 401,-1078 where Chapman and Laforge are, in daylight. Shout if anything comes.","actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1077}}],"reasoning
+- 08:55 act: {"say":"Zack at 399,-1077, by the beds, health 20, hunger 20. Empty-handed. Clark, William, Chapman, Lewis: I am staying here until four or more are in sight.","actions":[],"reasoning":"Nobody in sigh
+- 08:57 act: {"say":"Chapman, I am at 399,-1077, just west of you. Lewis, I am waiting for you right here; I'll walk you to Chapman when you are in sight.","actions":[],"reasoning":"Lewis is coming to me; Chapman 
+- 08:57 act: {"say":"Sun is low. Laforge, Chapman, Lewis: let's all go to the white bed at 387,-1065 and sleep close together before dark. I will walk there now if you come into my sight.","actions":[],"reasoning"
+- 08:59 act: {"say":"Dusk, nobody in sight. I am going straight to the white bed at 387,-1065 now and will sleep there.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"N
+- 09:00 say: {"text":"Zack in bed at 388,-1064 for the night, Lewis beside me. Chapman, we'll come to the wheat at first light."}
