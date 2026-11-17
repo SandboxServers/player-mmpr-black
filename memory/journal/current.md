@@ -1,49 +1,36 @@
-# Journal
-- 12:34 Dusk day 429. Moved to 388,-1036 by the 387 row, then slept at 401,-1036 beside the 401 beds in Billy's sight. Sleep worked; asleep now with Billy 0.8 away. Holding wooden sword. Hunger 20, health 20. Next: wake, count in with the group at the row, hold for Billy's walk call.
-- 12:38 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Billy's group."}
-- 12:39 act: {"actions":[{"do":"note","text":"Day 429 morning: counted in at 389,107,-1032 with Billy, Worf, Tommy, Lewis, Kimberly, Data, Clark, Trini, Leonardo, MacDonald, Picard, Bcrusher, Troi. Sword in hand, 
-- 12:47 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Zack going to the 387,-1036 bed beside Worf and Lewis, in Billy's sight, to sleep."}
-- 12:47 act: {"actions":[{"do":"sleep"}],"say":"Zack at 388,-1050 beside a bed, alone in the dark, holding still. Billy, I will not walk the row alone."}
-- 12:48 act: {"actions":[{"do":"note","text":"Night day 429. Billy called dusk to the 387,-1036 bed. I am alone at 388,107,-1050, 14 blocks off. Holding still rather than walk the dark alone; walking to the row at
-- 12:48 act: {"actions":[{"do":"sleep"}],"say":"Zack sleeping beside the bed at 387,-1050, holding here until morning."}
-- 12:52 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Billy's group."}
-- 12:52 act: {"actions":[{"do":"note","text":"Day 430 morning: counted in at 389,107,-1032 with Lewis, Clark, Kimberly, Jason, Trini, Leonardo, Beverly in sight. Sword in hand, health 20, hunger 20. Holding for Bi
-- 13:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Zack to 388,-1037 beside the bed at 387,-1037, in Billy's sight at the row, to sleep."}
-- 13:01 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Dusk day 430. goto to 388,-1037 drifted me to 402,-1037 beside the 401 beds; sleep partly worked (2 of 10). No one in sight. Retrying sleep here beside 
-- 13:05 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Zack walking from 402 to the 387 row in daylight, sword in hand, to count in with Billy."}
-- 13:05 act: {"actions":[{"do":"note","text":"Day 431 morning (world says day 430 still): back at 389,107,-1032 by the 387 row. Counted with Jason, Lewis, Clark, Kimberly, Data, Worf, Leonardo, Trini, Billy, Troi.
-- 13:06 act: {"actions":[{"do":"note","text":"Day 430 daylight, 389,107,-1032 at the 387 row. Billy asked for my sword for his pack. Keeping it in hand for walks; holding for his call. Tommy and Wesley counted at 
-- 13:14 act: {"intent":{"goal":"sleep_at_row_beside_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
-- 13:15 act: {"actions":[{"do":"sleep"}],"say":"Zack drifted to 401,-1035 beside the bed at 401,-1036, alone in the dark. Holding still here and sleeping; I will not walk."}
-- 13:15 act: {"actions":[{"do":"note","text":"Night day 431. Dusk: goto to 388,-1037 drifted me to 401,-1035 beside the 401 bed; sleep partly then worked. MacDonald now beside me. Declined Billy's request for my s
-- 13:19 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}},{"do":"note","text":"Day 432 morning: walking from 402,-1037 to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Bil
-- 13:20 act: {"actions":[{"do":"note","text":"Day 432 morning: back at 389,107,-1032 at the row, counted in sight of Billy, Jason, Lewis, Clark, Kimberly, Data, MacDonald. Billy asked again for a sword; I keep min
-- 13:24 act: {"say":"Morning! Zack here, counted in at the bed row, sword in hand. Billy, I'm holding for your walk call.","reasoning":"Counted in with the group. Hold for Billy's walk call in daylight."}
-- 13:28 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Night now. Zack going to the bed at 387,-1036, in Billy's sight, to sleep.","reasoning":"Dusk, group in sight at t
-- 13:28 act: {"actions":[{"do":"sleep"}],"say":"Zack drifted to 412,-1041 by a bed, nobody in sight. Holding still and sleeping here until morning.","reasoning":"Goto drifted me off the row alone. Holding still at
-- 13:33 act: {"actions":[],"say":"Billy, Zack is at 412,107,-1042 by the east beds, alone, sword in hand, health 20, hunger 20. I will not walk the row alone. Name a walk or send someone to me and I will come in y
-- 13:33 act: {"actions":[],"say":"Billy, I hear you. I'm keeping my sword for the walks, sorry. I'm alone at 412,-1042, so I'll walk to the row only when someone comes to walk with me, or when you name a cell with
-- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack alone at the east bed 412,-1042, holding still and sleeping here. Will walk to the row in morning light with company.","reasoning":"Dusk, alone. Stay besi
-- 13:46 act: {"actions":[],"say":"Morning. Zack at 412,-1042 by the east beds, alone, holding still with sword in hand. Billy, I will walk to the row when four are in sight or you call me.","reasoning":"Morning, a
-- 13:47 act: {"actions":[],"say":"Billy, Zack here beside you at Trini's bed. Holding with you until Trini arrives and four are in sight. Sword in hand. Hunger 20.","reasoning":"Billy is in reach. Stay with him, n
-- 13:53 act: {"actions":[],"say":"Zack holding at 412,-1042 with Trini and Tommy in sight. Sword in hand. Billy, I will walk to the row when you call.","reasoning":"Billy is at the row; Tommy is holding at 413 per
-- 13:54 act: {"actions":[],"say":"Billy, dusk now. Zack at 412,-1042 with Trini, Tommy, Kimberly and Worf in sight. I have no named cell. Where should I sleep? I will hold still until you name it.","reasoning":"It
-- 13:56 act: {"actions":[],"say":"Kimberly, I keep my sword per Billy, so I cannot give it. Stay beside me at 412,-1042 and fight with me if a phantom comes. Billy, phantoms are hitting here at night.","reasoning"
-- 13:57 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I am coming beside you with my sword. Hit the phantoms only when they are in reach.","reasoning":"Trini is hurt and has no sword. I keep
-- 13:57 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom is closing and attacking. Fight it with the sword beside the group."}
-- 13:59 act: {"actions":[],"say":"Zack holding at 412,-1041 with Clark, Tommy, Beverly and Worf in sight. Sword in hand. No walking the dark. Billy, I wait for your morning call.","reasoning":"Night, group is spli
-- 14:04 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Zack walking to the row 388,107,-1037 in daylight with Clark, Tommy, Worf and Beverly in sight. Sword in hand.","reasoning":"Morn
-- 14:07 act: {"actions":[],"say":"Billy, Zack at the row with you, sword in hand, unarmed-free. I have no named cell yet. Please name one for me; I hold here until dusk.","reasoning":"Billy said hold with group ti
-- 14:15 act: {"actions":[],"say":"Billy, dusk. Zack holds at the row 389,107,-1037 in your sight, sword in hand. I have no named bed; I will not walk in the dark. Name my cell at dawn.","reasoning":"Night, no name
-- 14:24 act: {"actions":[],"say":"Billy, dawn day 434. Zack at the row 389,107,-1037, sword in hand. Please name my cell now.","reasoning":"Dawn; Billy said cells named at dawn. Asking for mine."}
-- 14:24 act: {"actions":[],"say":"Thank you, Billy. Zack holds for 401,107,-1037 and will walk only when you call the group, with four in sight.","reasoning":"Billy named cell 401,-1037. Hold for group walk call r
-- 15:07 say: {"text":"Billy, Zack holds at the row in your sight, sword in hand, with no cell named now. I will hold until you name one."}
-- 15:11 say: {"text":"Billy, Zack will go with the group for sheep and wool when you call it in daylight. I hold here with the sword until then."}
-- 15:13 act: {"actions":[{"do":"give","to":"Billy","item":"bread","count":2}],"say":"Billy, Zack gives you my two bread. Eat them now.","reasoning":"Billy is at health 4 and I hold the bread by mistake; passing it
-- 15:13 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":2}],"reasoning":"The first give named Billy by first name and was not found; try his agent id once."}
-- 15:24 act: {"say":"Zack here, in Billy's sight at the row, sword in hand, health 20. I hold for the sheep walk."}
-- 15:24 act: {"say":"Trini, I keep my wooden sword in hand and cannot give it. Billy, I stay in your sight and walk when you call."}
-- 16:35 act: {"say":"Zack here, night day 441, at 390,107,-1037 with the group in reach. Holding still until Billy calls first light. Not walking the dark."}
-- 16:39 act: {"say":"Morning, day 441. Zack here at the row, 390,107,-1037, group in reach, sword in hand. Billy, I hold for your walk call."}
-- 16:39 act: {"say":"Billy, Zack hears you. Holding at the row in your sight with the sword in hand. Ready for the walk call."}
-- 16:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk day 441. Zack lies down at 390,107,-1037, in Billy's sight with the group, sword in hand. No cell named for me yet."}
+Day 442. Night alone at 388,-1050; slept in the bed beside me (sleep drifted me to -1051). Did not walk the dark. Morning: walked to Billy's row 388,107,-1037 in daylight, now counted in with about eleven in reach. Hunger 20, sword in hand, no food. Holding for the cow walk call.
+- 17:05 say: {"text":"Zack at the row, dusk, in Billy's sight. Bed 387,-1036 is Billy's and -1037 is Troi's, so I lie down here beside the group. Waking at first light."}
+- 17:05 act: {"actions":[{"do":"sleep"}]}
+- 17:09 act: {"actions":[{"do":"sleep"}]}
+- 17:10 act: {"actions":[{"do":"sleep"}]}
+- 17:10 act: {"actions":[{"do":"sleep"}]}
+- 17:10 act: {"actions":[{"do":"sleep"}]}
+- 17:10 act: {"actions":[{"do":"sleep"}]}
+- 17:14 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}],"say":"Morning, day 443. Zack walks to Billy's row in daylight, sword in hand.","intent":{"goal":"join_billy_row","program":"travel","ar
+- 17:14 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"A zombie is at my south-west. I am with Picard, Data, Lewis, Clark and Kimberly in reach."}
+- 17:15 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1034}}],"say":"Zombie is dead. I hold my sword for the group. I am walking back to the row now; I am at 418,-1022 and checking position after ea
+- 17:15 act: {"actions":[{"do":"eat"}],"say":"I am at the row, 393,-1034, with my sword. I hold it for the group. Hunger 17, so I eat my one rotten flesh. Kimberly, I see no zombie now; I will strike any that come
+- 17:15 act: {"actions":[],"say":"Hunger 17, and my rotten flesh can only be eaten at 6 or below. Could anyone spare a melon slice or bread? I can give back a sign or help with the group's walk."}
+- Day 443 midday: at the row 393,107,-1034 with the group, sword in hand. Killed a zombie. Hunger 17; rotten flesh is eaten only at 6 or below. Asked for food. Holding for the four-in-sight call.
+- 17:26 act: {"actions":[{"do":"sleep"}],"say":"Zack holds at the row with Picard, dusk, sword in hand. I will not walk the dark. Lying down here for the night."}
+- 17:34 act: {"actions":[],"say":"Dawn, day 444. Zack at 388,107,-1051 with Billy in reach, sword in hand. Hunger 17, no food. Billy, I hold for your call; I walk only with four in sight."}
+- 17:35 act: {"actions":[],"say":"Lewis, you carry a melon slice. My hunger is 17 and I hold only rotten flesh, which I cannot eat yet. Could you give me a little food? I hold at the row, sword in hand."}
+- 17:36 act: {"actions":[],"say":"Lewis, please come within reach and hand me the melon slice. Hunger 17. Beverly is under phantom attack and walking to the row; I hold my sword here for her."}
+- 17:39 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Lewis, I walk to you across the row, in daylight, with the group in sight. Please give me the melon slice."}
+- 17:39 act: {"actions":[],"say":"Lewis, the melon slice to me, please. Hunger 17."}
+- 17:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 444. Zack holds at the row in Billy's sight with Picard and Worf. Hunger 17, no food. I will not walk the dark. Lying down here."}
+- 17:45 act: {"actions":[],"say":"Zack is at 413,107,-1043 after sleep drifted me east. No one in sight. I will not walk the dark; I hold here until first light, then return to the row."}
+- 17:49 act: {"actions":[],"say":"Billy, Zack is alone at 412,107,-1042 by the east beds, in daylight, unarmed except my wooden sword, hunger 17. I will not walk alone. Please send one or two to me, or call me to 
+- 17:50 act: {"actions":[],"say":"Billy, I hear you, but I will not walk alone. Who comes to me at 412,-1042? I hold here until one of you is in my sight."}
+- 17:50 act: {"actions":[],"say":"Yes, Billy. Zack holds at 412,-1042 with sword in hand and waits for you four."}
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1048}}],"say":"Four in sight: Billy, Trini, Jason, Tommy. Zack walks back to the row with you in daylight."}
+- Day 444 midday: walked back with the four to the row, at 388,107,-1047 in sight of Billy, Jason, Picard, Lewis, Clark, Tommy. Hunger 17, no food yet. Asked Lewis for the melon slice; still holding, no give. Waiting.
+- 17:51 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Lewis, Zack is with you at the row, four in sight, daylight. Hunger 17. Please give me the melon slice."}
+- 17:51 act: {"actions":[],"say":"Lewis, Jason: Zack holds at 388,-1047 with the group, hunger 17. Whoever can spare food, please hand me a melon slice or bread. I will not walk alone."}
+- 17:52 act: {"actions":[],"say":"Jason, Lewis says the melon slice went to you. Zack has hunger 17 and holds only rotten flesh. Please give me a little of the melon, in sight of the four."}
+- 17:53 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, Zack walks to you in daylight, in sight of Picard, Clark, Tommy and Worf. Please hand me the melon slice."}
+- 17:53 act: {"actions":[],"say":"Jason, I am in your reach at 387,-1050 with the group. Please give me the melon slice now. Thank you."}
+- 17:53 act: {"actions":[{"do":"eat"},{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Thank you, Jason. I ate the melon slice. Clark, your 9 oak planks are going back to you now."}
+- 17:53 act: {"actions":[],"say":"Hunger is 19 now, thank you Jason. Zack gave the planks to Jason by mistake, so Jason, please hand the 9 oak planks to Clark. I hold only my sword and one rotten flesh."}
+- 17:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 445. Zack lies down in the bed at 387,-1051, in sight of Picard, Troi, Clark and Tommy. I will not walk the dark."}
