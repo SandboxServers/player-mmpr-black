@@ -10,3 +10,13 @@
 - 08:57 act: {"say":"Sun is low. Laforge, Chapman, Lewis: let's all go to the white bed at 387,-1065 and sleep close together before dark. I will walk there now if you come into my sight.","actions":[],"reasoning"
 - 08:59 act: {"say":"Dusk, nobody in sight. I am going straight to the white bed at 387,-1065 now and will sleep there.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"N
 - 09:00 say: {"text":"Zack in bed at 388,-1064 for the night, Lewis beside me. Chapman, we'll come to the wheat at first light."}
+- 09:00 say: {"text":"Zack here at the bed 388,-1065, health 20, hunger 20, alone for now. Lewis, come into sight and we walk to the 401 beds together."}
+- 09:04 say: {"text":"Lewis, I am walking south to you now, 14 blocks, in daylight. Stay put and I will find you."}
+- 09:04 act: {"intent":{"goal":"reach_lewis","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1052}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 09:04 say: {"text":"Zack at 388,-1053, midday, nobody in my sight. Lewis, call your position or step into view and I will walk with you."}
+- 09:05 say: {"text":"Jason! Zack here, 388,-1053, health 20, hunger 20. Lewis is hurt and out of sight to me. What have you learned since we last met? Any water or sheep?"}
+- 09:05 say: {"text":"Thanks, Jason. I am holding at 388,-1053 for Lewis. Once Billy calls the row, I will walk to you in daylight."}
+- 09:07 say: {"text":"Chapman, I see you, thanks. Lewis was last at bed 388,-1051 and then went quiet. I am holding here at 388,-1053. Let us wait for him together."}
+- 09:08 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Lewis, I am coming to you now. Hold still."}
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Going to the bed at 387,-1051 now. Lewis, Chapman, the wheat stays with you; I will be at the beds at first 
+- 09:12 say: {"text":"Lewis, you are beside me. Chapman holds 3 wheat at the bed 387,-1064, one step north of me. Take it at first light. Good night."}
