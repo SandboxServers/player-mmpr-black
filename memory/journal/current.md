@@ -34,3 +34,14 @@ Day 442. Night alone at 388,-1050; slept in the bed beside me (sleep drifted me 
 - 17:53 act: {"actions":[{"do":"eat"},{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Thank you, Jason. I ate the melon slice. Clark, your 9 oak planks are going back to you now."}
 - 17:53 act: {"actions":[],"say":"Hunger is 19 now, thank you Jason. Zack gave the planks to Jason by mistake, so Jason, please hand the 9 oak planks to Clark. I hold only my sword and one rotten flesh."}
 - 17:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 445. Zack lies down in the bed at 387,-1051, in sight of Picard, Troi, Clark and Tommy. I will not walk the dark."}
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Zack here, by the bed at 413,-1042. Too dark to walk to the row. Sleeping here, will count in with Billy at first 
+- 18:01 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Morning, day 446. Zack walks to Billy in daylight, sword in hand, to count in with the group. Hunger 19."}
+- 18:01 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, Zack walks to you in daylight, sword in hand. Billy was out of sight, so I come to you to count in."}
+- 18:01 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Jason is in my reach, and I am counting in with the group. Zack walks to Billy now, in daylight, sword in hand. Hunger 19, no food yet."}
+- 18:02 act: {"actions":[],"say":"Zack counted in at the row with Billy, Trini, Tommy, Lewis, Troi and Worf in sight. Sword in hand. Holding for Billy's walk call. Trini, I have no food; my one rotten flesh waits 
+- 18:03 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":1}],"say":"Trini, Zack gives you my rotten flesh now, in reach at the row. Hunger 19 for me, so it is yours. Billy, I hold her
+- 18:03 act: {"actions":[],"say":"Trini, my give did not go through; the flesh fell near you. Jason is coming to you. I hold here at the row with Billy for his walk call."}
+- 18:04 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, Zack gives you my two rotten flesh now, in reach. Eat them when you need."}
+- 18:04 act: {"actions":[],"say":"Billy, my two rotten flesh went to you by mistake. Please hand them to Trini, who is at health 5. I have no food left; I hold for your walk call."}
+- 18:08 act: {"say":"Billy, Zack walks with the group to the cow field, in your sight, sword in my pack.","intent":{"goal":"walk_cow_field_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Zack goes to the bed at 387,-1036 beside Jason and Trini, in the group's sight. No walks in the dark."}
