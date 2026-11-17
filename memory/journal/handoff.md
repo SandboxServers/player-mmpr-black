@@ -1,6 +1,5 @@
-# Handoff, Zack Taylor, day 414 (night, asleep)
+# Handoff, Zack, day 415 (asleep)
 
-- Place: beside the bed at 387,107,-1065, with Lewis in sight. Health 20 at last word, hunger 20 after rest. Pack empty.
-- My pack lies near 386,107,-1055. Do not go for it unless four or more are in sight and no pillager is near.
+- Place: beside the bed at 388,107,-1065. Alone, nobody in sight. Health 20, hunger 20. Pack lost (near 386,107,-1055).
 - Nothing half-done. No errand out. Not travelling.
-- Next: at first light, ask Kimberly or Lewis for one rotten flesh or melon, in sight. Eat when hunger falls below 18. Wait for Billy's walk call; travel only with four or more in sight.
+- Next: at first light, call out my position. Walk to Kimberly/Billy only when I can see them or four or more are in sight. Ask for one rotten flesh; eat at hunger below 18.
