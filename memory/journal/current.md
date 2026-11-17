@@ -8,3 +8,8 @@
 - Day 404 morning. Jason is awake at 416,107,-1065 with hunger 19, no food. I told him I hold 8 rotten flesh for him. Not travelling alone; waiting for Billy's call.
 - 04:24 say: {"text":"Leonardo, Zack here at the beds with 8 rotten flesh. Say the word if you drop low and I'll hand it over."}
 - 04:26 say: {"text":"Jason! Zack here at the beds, 388,107,-1065. Good to hear you. I've 8 rotten flesh for whoever drops low; I'll hold it for you. Billy's call, then we go to you."}
+- 04:38 act: {"actions":[{"do":"note","text":"Day 405 morning. At bed row 388,107,-1065, alone, health 20, hunger 20. No group in sight. Staying put; not travelling alone."}],"say":"Morning. Nobody in sight yet. I
+- 04:43 act: {"actions":[{"do":"note","text":"Morning 405: heard Jason at 416 (hunger 19), Leonardo (8.8 health, hunger 17), Chapman holds 8 logs. None in my sight. Still holding at beds for Billy's call."}],"say"
+- 04:47 act: {"actions":[{"do":"note","text":"Dusk day 405. Still at beds 388,107,-1065, health 20, hunger 20, no group in sight. Tried sleep; it returned events without sleeping. Waiting for night beside the bed.
+- 04:51 act: {"actions":[{"do":"note","text":"Morning day 406. Slept beside the white bed at 388,107,-1065; woke health 20, hunger 20. Group at bed row: Jason, Leonardo, Macdonald, Chapman. Holding for Billy's wal
+- 04:55 act: {"actions":[{"do":"note","text":"Day 406 day. Still holding at beds 388,107,-1065, health 20, hunger 20. Leonardo counted at bed row (health 8.8, hunger 17). Waiting for Billy's call; four in sight be
