@@ -16,3 +16,5 @@
 - 13:14 act: {"intent":{"goal":"sleep_at_row_beside_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
 - 13:15 act: {"actions":[{"do":"sleep"}],"say":"Zack drifted to 401,-1035 beside the bed at 401,-1036, alone in the dark. Holding still here and sleeping; I will not walk."}
 - 13:15 act: {"actions":[{"do":"note","text":"Night day 431. Dusk: goto to 388,-1037 drifted me to 401,-1035 beside the 401 bed; sleep partly then worked. MacDonald now beside me. Declined Billy's request for my s
+- 13:19 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}},{"do":"note","text":"Day 432 morning: walking from 402,-1037 to the 387 row at 389,-1033 in daylight, sword in hand, to count in with Bil
+- 13:20 act: {"actions":[{"do":"note","text":"Day 432 morning: back at 389,107,-1032 at the row, counted in sight of Billy, Jason, Lewis, Clark, Kimberly, Data, MacDonald. Billy asked again for a sword; I keep min
