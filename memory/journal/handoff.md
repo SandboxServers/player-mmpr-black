@@ -1,5 +1,6 @@
-# Handoff, Zack Taylor, day 403
+# Handoff, Zack Taylor, day 403 (morning)
 
-- Place: bed row, 388,107,-1065, night, clear. Health 20, hunger 20. Sheltered beside the white beds.
-- Nothing half-done. No errand out. Group not in sight; Leonardo says Billy is near 413,107,-1041 and will count me at first light.
-- Next: sleep by the bed, then at first light go to Billy's count. Give rotten flesh (8 held) to whoever drops to 6. Eat if hunger falls below 18. Travel only in company.
+- Place: bed row, 388,107,-1065, sheltered beside the white beds. Health 20, hunger 20.
+- Slept through the night by the bed. Nothing half-done, no errand out.
+- Leonardo is at the bed row holding a chicken for the lowest. Johnny holds 8 oak logs for Data. Macdonald is at the shore.
+- Next: wait for Billy's count, travel only in company (4+ in sight, clear weather). Give rotten flesh (8 held) to whoever drops to 6. Eat if hunger falls below 18.
