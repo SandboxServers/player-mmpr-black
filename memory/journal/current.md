@@ -47,3 +47,5 @@ Day 442. Night alone at 388,-1050; slept in the bed beside me (sleep drifted me 
 - 18:11 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Zack goes to the bed at 387,-1036 beside Jason and Trini, in the group's sight. No walks in the dark."}
 - 18:12 say: {"text":"Zack at 388,-1023, beside my bed, night. Holding here, no walks in the dark. Trini, Jason, stay safe."}
 - Night day 446: slept at bed 388,-1023, alone but near the row. No walks in the dark. Hunger 19, no food, sword in pack. Plan at first light: walk to Billy's row in daylight, count in with four in sight, ask for food.
+- 18:13 say: {"text":"Zack here, at the bed by 387,-1022. Sorry for Trini. I stay put for the night and walk to the row at first light."}
+- Day 446 night: Trini died to phantoms at the row; her sword and flesh lie near 388,-1043. Slept at bed 388,107,-1023 alone, group at the row to the north. Hunger 19, no food. Plan at first light: walk to the row with four in sight, ask for food, pick up Trini's sword if safe.
