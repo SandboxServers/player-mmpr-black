@@ -84,3 +84,4 @@
 - Waking 795: status and wait (60s, 30s, 60s) still body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
 - Waking 793: status and wait (60s, 30s, 60s, 30s) and status again all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
 - Waking 800: status and wait (15s, 60s, 120s, 240s) all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
+- Waking 801: status, wait (15s, 60s, 120s, 240s) all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037, unarmed, holding, no walk. Not moving. Will retry next waking.
