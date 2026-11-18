@@ -1,18 +1,1 @@
 # Journal
-- 01:48 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, all. Zack in the row's sight beside the white bed, holding for Billy's call at first light.","reasoning":"D
-- 01:55 act: {"actions":[],"say":"Zack here at the row, wooden sword in hand, by the white bed at 387,-1036. Trini, I'm holding for Billy's count of four.","reasoning":"Trini asked if I'm in sight. I am armed and 
-- 01:59 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, bed beside me, group near. Goal 4: sleep by bed in company."}
-- 01:59 act: {"actions":[],"say":"Pillagers nine or ten blocks off, so sleep failed. I'm staying with the group by the bed, sword in hand. Watch your backs.","reasoning":"Sleep refused: pillagers in range. Stay wi
-- 02:00 act: {"actions":[{"do":"sleep"}],"reasoning":"Entities list is empty now. Retry sleep beside the bed in the group's sight."}
-- 02:01 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1},{"do":"sleep"}],"say":"Leonardo, I got two of Tommy's wooden swords by mistake. Here is one for you. Sleeping by the bed
-- 02:01 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"reasoning":"Last give went wrong. Leonardo is 3 blocks off in sight; one more try, then sleep."}
-- 02:02 act: {"actions":[{"do":"sleep"}],"reasoning":"Entities list is empty now. Try sleep once more beside the white bed, with the group in sight.","say":"Leonardo, the give went to Tommy again. Tommy, please ha
-- 02:02 act: {"actions":[],"say":"Morning, row. Zack here, at the bed, unarmed-ish with one wooden sword. Holding for Billy's walk call. Tommy, thank you; I will keep my hands off the swords."}
-- 02:04 act: {"actions":[],"say":"Billy, I am at the bed in your sight, wooden sword in pack. Counting me as ready when it is in hand. Hold for your call."}
-- 02:07 act: {"actions":[],"say":"Leonardo, glad you have one now. I do not know exactly how I got mine into hand; I was holding it when I found it in my pack. Try taking it out of your pack again while standing s
-- 02:11 act: {"actions":[],"say":"Billy, I am in your sight at the bed with my wooden sword in pack, not in hand. Holding still. Keep counting; I will not walk."}
-- 02:24 act: {"actions":[{"do":"note","text":"Dawn day 470. Holding at the row by the white bed in Billy's sight. Sword in pack, hand empty. Sleep refused 3 times, not retried."}],"say":"Tommy, I do not know how m
-- 02:24 act: {"actions":[],"say":"Leonardo, I do not know which block it was. I have not found a way either. I hold still in Billy's sight, no walk."}
-- 02:33 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Dusk, friends. Zack at the row, going to bed beside the white bed here, in your sight."}
-- 02:34 act: {"say":"Zack here at the beds, night. Going to sleep by the white bed, in the group's sight."}
-- 02:34 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}]}

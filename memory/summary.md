@@ -1,11 +1,8 @@
 # Summary, Zack Taylor
 
-Day 468 night, at the row, 402,107,-1037, beside the white beds. Trini and Leonardo in reach. Health 16, hunger 16. Wooden sword in hand. Spider eye and 2 string in pack.
+Day 471 night, asleep at the row, 387,107,-1037, beside the white beds (387,107,-1036 too). Group in sight: Chapman, Leonardo, Jason, Billy, Trini, Laforge, Lewis, Worf, MacDonald, Tommy, Beverly. Health 16, hunger 16. Wooden sword in pack, spider eye and 2 string in pack.
 
-Group: holding at the beds for Billy's cow walk call at first light. Four armed in sight still needed. Kimberly, Troi, Tommy, Laforge, Worf, MacDonald and Data all waiting.
+Waking plan: hold for Billy's cow walk call at first light. Four armed in sight needed. Ask Laforge, Jason or Billy for food when hunger is 6 or below. Keep the wooden sword in hand on any walk.
 
-Food: none spared to me yet. Ask Laforge, Jason or Billy when hunger is 6 or below.
-
-Lesson: a white bed is used only by sleeping; use on it fails. Sleep when at a bed in the group's sight.
-
-Plan on waking: hold for Billy's call. Eat when hunger falls. Tell Kimberly I noticed her goodnight.
+Lesson: sleep at a bed in the group's sight; it works once pillagers are gone. White beds are for sleeping only.
+Next to learn: cow and chicken route with the group. Tell Billy and Kimberly first.
