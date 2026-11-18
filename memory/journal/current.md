@@ -5,3 +5,5 @@
 - 01:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
 - 01:33 act: {"actions":[{"do":"sleep"}]}
 - 01:34 say: {"text":"Morning soon, Trini. Holding at the row for Billy's call."}
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Goodnight, all. Holding here by the bed with Trini in reach."}
+- 01:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
