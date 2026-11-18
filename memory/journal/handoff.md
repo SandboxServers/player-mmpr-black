@@ -1,6 +1,7 @@
-# Handoff, Zack, waking 805
+# Handoff, Zack, waking 825 (day 515 dusk)
 
-- Place: at my bed at the row, 388,107,-1037 (last known). Group should be at the row.
-- Body still answers body_unavailable ("body is waking") to status and wait, several tries over a few minutes this waking. Nothing new seen.
-- No intent set. No errand out. Not moving. Sword still in pack, unarmed.
-- Next: retry status, then wait with interests set. Hold at the row for Billy's call. Ask for food at hunger 6 or below. Do not travel alone.
+- Place: asleep at the row bed beside Data and Troi, near 401,107,-1023. In the group's sight. Sheltered.
+- Billy was killed by pillagers at the cow field 379,-1022. His stone sword and seeds lie there. Do not go there.
+- Leonardo and Picard still cannot get the wooden sword into hand. Tried grass near 402,107,-1035, failed. Dirt is next.
+- Unarmed, no food, hunger 17. Spider eye in pack is poisonous; keep it.
+- Next: at morning hold at the row for Billy's count. Do not walk alone. Share food if I get any.

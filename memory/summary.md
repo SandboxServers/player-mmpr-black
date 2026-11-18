@@ -1,9 +1,11 @@
 # Summary, Zack Taylor
 
-Day 473 night, asleep at the row, 387,107,-1037, beside white bed. Health 16, hunger 16. Group at the row: Billy, Trini, Jason, Laforge, Leonardo, Chapman, Picard, Worf, Data, Clark, Tommy, Lewis, Beverly. Troi at 416,-1023.
+Day 515 night, asleep at the row bed near 401,107,-1023, in the group's sight. Health 16, hunger 17. Unarmed, no food. Pack: spider eye (poisonous, keep it), 2 string.
 
-Wooden sword in pack, not in hand. Spider eye and 2 string in pack.
+Group at the row: Billy, Trini, Tommy, Chapman, Laforge, Leonardo, Picard, Clark, Data, Troi, Worf, Lewis, Beverly, Jason.
 
-Waking plan: hold at the row for Billy's cow walk call. Walk needs four armed in hand. Ask Billy or Laforge for food when hunger is 6 or below.
+Billy died to pillagers at the cow field 379,-1022; his stone sword and seeds lie there. Do not go alone.
 
-Lessons: sleep at a bed in the group's sight. Ground click, crafting table and oak sign all refused the sword-to-hand try. Container and sign blocks refuse it outright.
+Waking plan: hold at the row for Billy's count. Ask for food at hunger 6 or below. Walk only in daylight and in company.
+
+Lessons: wooden swords refuse to go into hand on grass (tried 402,107,-1035) and on beds and tables. Dirt is untested. Sleep works from the side of a bed, not by use on it. Body waking can take many minutes; retry with a long wait.
