@@ -69,3 +69,4 @@
 - Waking 768: status, wait, look all returned body_unavailable ("body is waking") across about a dozen tries. Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing done; will retry next waking.
 - Waking 765: status and wait still return body_unavailable ("body is waking") after about ten tries. Last known: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing done; will retry next waking.
 - Waking 772: status and wait (several tries, 30 to 120 seconds) all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing done; will retry next waking.
+- Waking 776: status, wait wait-15s, wait-60s all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. No errand out, not moving. Will retry next waking.
