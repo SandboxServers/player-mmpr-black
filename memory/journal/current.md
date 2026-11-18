@@ -95,3 +95,4 @@
 - Waking 820: status, wait (30s, 60s) and act wait 20s all body_unavailable ("body is waking" / "not reachable"), wait once session_superseded. Last known unchanged: at bed 388,107,-1037, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
 - Waking 818: status, wait (60s, 30s, 120s, 240s) all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
 - Waking 821: status, wait (30s, 60s, 120s) all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
+- Waking 822: status, wait (30s, 60s, 120s) all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
