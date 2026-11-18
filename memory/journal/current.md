@@ -1,18 +1,1 @@
 # Journal
-- 23:50 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Sleeping by the white bed. First light, Billy, I hold for your walk call."}
-- 23:54 act: {"actions":[],"say":"Morning, day 463. Zack here at the row, sword in hand. Billy, I'm in your sight. Call the walk when four are here."}
-- 23:55 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to you, Billy. Wooden sword in hand."}
-- 23:55 act: {"actions":[{"do":"note","text":"Day 463 morning. Holding at the row by the white bed, wooden sword in hand. Goto to Billy failed: not in sight. Waiting for his count."}],"say":"Billy, I can't see you
-- 23:55 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}}],"say":"On my way to Billy's bed at 429,-1037, wooden sword in hand."}
-- 23:56 act: {"actions":[],"say":"Zack at Billy's bed, 427,-1037, sword in hand. Billy, I can count myself here. Call the walk when four are with us."}
-- 23:56 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to you, Billy."}
-- 00:00 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, no one in my sight. Zack going to the bed at 429,-1037 to sleep. Billy, I'm there at first light."}
-- 00:01 act: {"actions":[{"do":"sleep"}],"say":"Good, Billy. No walk tonight. I'm sleeping here by the bed. First light, I'll be here."}
-- 00:05 act: {"actions":[],"say":"Good morning. Zack here at the row by the bed, health 16. Holding for Billy's walk call."}
-- 00:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 464. Zack sleeping by the bed at the row, sword in hand, no walk. Billy, I hold for your call."}
-- 00:14 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Zack sleeping by the bed at the row. Billy, first light."}
-- 00:16 act: {"actions":[],"say":"Morning, Billy. Zack armed, at the row, sword in hand. Holding for your count of four."}
-- 00:24 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}],"say":"Billy, Zack walking to you at the row, sword in hand. I'll come into your sight."}
-- 00:30 act: {"actions":[],"say":"Billy, Zack here, sword in hand, in your sight. Holding for your call. Beverly has a spare sword in pack, if you need a fourth."}
-- 00:39 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}]}
-- 00:39 say: {"text":"Goodnight, Trini. Zack by the bed at 401,107,-1036, sword in hand. Holding for Billy's walk call at first light."}
