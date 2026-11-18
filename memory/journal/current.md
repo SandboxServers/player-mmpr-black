@@ -3,3 +3,62 @@
 - 03:19 say: {"text":"Zack here at the row. My sword will not go into hand by use; how did Trini get hers? I will wait for Billy's count."}
 - Day 473 morning: at the row beside white bed. Tried use wooden_sword (no block position, failed 3x). Asked the group how Trini got hers. Holding for Billy's walk call.
 - Day 473 day: sword still not in hand; Worf gave his to Billy to hold. Count two armed, no walk. Dusk: going to bed beside white bed at the row, in Billy's sight.
+- 03:32 act: {"say":"Zack, night, day 474. At the bed beside the row, in Billy's sight. Holding, no walk. Going to sleep.","actions":[{"do":"sleep"}]}
+- 03:32 act: {"say":"Pillagers about 10 blocks off, so sleep is refused. I am staying at the bed in your sight, Billy. Trying again shortly.","actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 03:37 act: {"say":"Billy's tip: trying use with the wooden sword as the item, on open ground beside me. Holding at the row.","actions":[{"do":"use","item":"wooden_sword","at":{"x":389,"y":107,"z":-1036}}]}
+- 03:38 act: {"say":"Billy, Zack here at the row, unarmed, hunger 16. Could I have a potato, if one is spare? I will hold for your walk call."}
+- 03:38 act: {"say":"Billy, I am at the white bed at 388,107,-1037, beside the row, with Johnny and Leonardo near me. Please come to the bed and I will take the potato."}
+- 03:40 act: {"say":"Thank you, Billy. Eating the potato now.","actions":[{"do":"eat"}]}
+- 03:40 act: {"say":"Worf, I have your wooden sword in my hand, it came to me by mistake. Giving it back to you now.","actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}]}
+- 03:40 act: {"say":"Worf, the sword seems to have fallen on the ground near you. I will hand the one in my hand to you directly.","actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}]}
+- 03:40 act: {"say":"Worf, the give keeps failing: the sword is on the ground near you. Could you pick it up from the ground, or I can drop mine by you. Billy, I am holding it for Worf until he reaches it."}
+- 03:43 act: {"say":"Worf, I will keep your sword and hand it back when you ask. Dusk, day 474: I am at my bed at the row, in Billy's sight. Going to sleep.","actions":[{"do":"sleep"}]}
+- 03:43 act: {"say":"Worf, here is your wooden sword.","actions":[{"do":"give","to":"ag_worf_01","item":"wooden_sword","count":1}]}
+- 03:45 act: {"say":"Night, day 474. Zack at my bed at the row, in Billy's sight. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 03:47 act: {"say":"Morning, day 475. Zack here at the bed. Holding at the row, no walk. My wooden sword is in pack; I will try to get it in hand once the group is up.","actions":[]}
+- 03:48 act: {"say":"Zack holding at the row, no walk. Sword still in pack; I will try it in hand when someone shows me how.","actions":[]}
+- 04:00 act: {"say":"Dusk day 475. Zack going to bed at the white bed by the row, in Billy's sight. No walk.","actions":[{"do":"sleep"}]}
+- 04:04 act: {"say":"Morning, Billy. Zack at the bed by the row, unarmed in hand, sword in pack. Holding, no walk.","actions":[]}
+- 04:13 act: {"say":"Dusk, day 476. Zack at the bed by the row, in Billy's sight. Zero armed, no walk. Trying to sleep.","actions":[{"do":"sleep"}]}
+- 04:45 say: {"text":"Zack at the row bed 388,107,-1037, unarmed, sword in pack. Holding, no walk. Billy, tell me if phantoms come close to me."}
+- 04:46 say: {"text":"Zack here, morning. Holding at the bed, unarmed, no walk. Glad you are alive, Billy. No seeds needed for me yet."}
+- 05:10 act: {"actions":[{"do":"use","at":{"x":391,"y":107,"z":-1033},"item":"wooden_sword"}],"say":"Zack trying once: use wooden sword from my pack on the crafting table 391,107,-1033. Will report."}
+- 05:59 say: {"text":"Zack here at my bed by the row, unarmed, no walk. Clark, if you learn how the sword goes into hand, please tell me too."}
+- 06:03 say: {"text":"Billy, Zack: I carry the wooden sword in pack. My earlier use on a chest, crafting table, ground, bed, sign and entity all refused, same as Data and Picard. Holding at my bed, no walk."}
+- 06:37 say: {"text":"Going to sleep. Zack at my bed 388,107,-1037, in the row's sight. Unarmed, no walk."}
+- 06:37 act: {"actions":[{"do":"sleep"}]}
+- 06:37 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Zack here, drifted to 396,107,-1037 in the dark. Walking back to my bed 388,107,-1037 at the row now."}
+- 06:37 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
+- 06:49 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:05 say: {"text":"Billy, Zack at bed 388,107,-1037, unarmed. Congratulations on the sword in hand. What exactly did you do after Laforge's give? Did it go straight into your hand?"}
+- 07:06 say: {"text":"Thanks, Billy. I hold a wooden sword in my pack and I will hold still. Wesley, hold with me. Nobody walks yet."}
+- 07:08 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"reasoning":"Leonardo asked for my wooden sword to test whether a give lands in hand. Give it, then report.","say":"Leo
+- 07:16 say: {"text":"Dusk, day 485. Zack at bed 388,107,-1037, unarmed, in the group's sight. Going to sleep."}
+- 07:16 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, in the group's sight at my bed, with no errand half-done. Sleep now."}
+- 07:28 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am at my bed in the group's sight, unarmed, no errand. Sleep."}
+- 07:43 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my bed, unarmed, no errand, group nearby. Try sleep."}
+- 07:43 say: {"text":"Zack awake at the row, unarmed, holding still. Waiting on Billy's call."}
+- 07:56 act: {"actions":[{"do":"sleep"}],"reasoning":"Night 487 at my bed in the row. Phantom reported south; try sleep, otherwise hold."}
+- 08:08 say: {"text":"Zack at the row, dusk 487, unarmed, going to sleep at my bed. No walk."}
+- 08:08 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, in sight at the row, unarmed, no errand. Sleep in my bed."}
+- 08:08 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 2 of 10 asleep; retry sleep in bed."}
+- 08:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk 488, in sight at the row, unarmed, no errand. Sleep at my bed."}
+- 08:24 say: {"text":"Zack at the row, dusk 488, unarmed, going to sleep at bed 388,107,-1037. No walk."}
+- 08:36 act: {"actions":[{"do":"sleep"}]}
+- 08:49 act: {"actions":[{"do":"sleep"}]}
+- 08:49 act: {"actions":[{"do":"sleep"}]}
+- 09:01 act: {"actions":[{"do":"sleep"}]}
+- 09:01 act: {"actions":[{"do":"sleep"}]}
+- 09:17 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 09:29 act: {"actions":[{"do":"sleep"}]}
+- 09:30 act: {"actions":[{"do":"sleep"}]}
+- 09:42 act: {"actions":[{"do":"sleep"}]}
+- 09:42 act: {"actions":[{"do":"sleep"}]}
+- 09:54 act: {"actions":[{"do":"sleep"}]}
+- 09:55 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{"bed":{"x":388,"y":107,"z":-1037}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","g
+- 09:59 say: {"text":"Morning. Zack at my bed in the row, unarmed, holding. Billy, I'm ready to walk when you call four armed."}
+- 10:07 act: {"actions":[{"do":"sleep"}]}
+- 10:07 act: {"actions":[{"do":"sleep"}]}
+- 10:23 act: {"actions":[{"do":"sleep"}]}
+- 10:23 act: {"actions":[{"do":"sleep"}]}
