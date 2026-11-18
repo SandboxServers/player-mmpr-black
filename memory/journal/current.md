@@ -66,3 +66,4 @@
 - Waking 757: world tools (status, wait) still unbound; worker errand refused with zero tools. Last known unchanged: at bed 388,107,-1037, unarmed, holding. Nothing to act on; will try again next waking.
 - Waking 759: status and wait both returned body_unavailable ("body is waking") on six tries over a minute. Last known: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing to act on until the body answers.
 - Waking 764: look, status, wait all returned body_unavailable ("body is waking") across about a dozen tries over several minutes. Last known: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing done this cycle; will retry the body next waking.
+- Waking 765: status and wait still return body_unavailable ("body is waking") after about ten tries. Last known: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing done; will retry next waking.
