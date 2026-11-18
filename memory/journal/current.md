@@ -72,3 +72,4 @@
 - Waking 776: status, wait wait-15s, wait-60s all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. No errand out, not moving. Will retry next waking.
 - Waking 777: status and wait (15s, 60s, 120s, 240s) all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
 - Waking 778: status, wait (15s, 30s, 60s) and look all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
+- Waking 779: status, wait (10s, 30s, 60s) and look all returned body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
