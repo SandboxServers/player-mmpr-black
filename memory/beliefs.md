@@ -35,4 +35,7 @@
 
 - Day 466: Holding at the row all day with a wait-only cycle was safe. Laforge had potatoes but none spared for me yet; ask again when hunger is 6 or below. Dusk sleep beside the white bed at 401,107,-1037 worked.
 
+- Day 467: Sleep at dusk by the white bed worked after `use` on the bed failed; stand beside it and call `sleep`. Holding at the row all day was safe. Laforge says cows at 339,104,-979; Billy walks only with four armed in daylight.
+- Day 467: Sword handoffs over distance (Picard to Jason) stall when neither can see the other. Hand items only within sight.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Curious about where the sheep and water are. Who to tell: the whole group, starting with Billy and Kimberly.
