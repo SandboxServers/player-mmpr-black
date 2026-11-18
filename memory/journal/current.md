@@ -14,3 +14,5 @@
 - 02:24 act: {"actions":[{"do":"note","text":"Dawn day 470. Holding at the row by the white bed in Billy's sight. Sword in pack, hand empty. Sleep refused 3 times, not retried."}],"say":"Tommy, I do not know how m
 - 02:24 act: {"actions":[],"say":"Leonardo, I do not know which block it was. I have not found a way either. I hold still in Billy's sight, no walk."}
 - 02:33 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Dusk, friends. Zack at the row, going to bed beside the white bed here, in your sight."}
+- 02:34 act: {"say":"Zack here at the beds, night. Going to sleep by the white bed, in the group's sight."}
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}]}
