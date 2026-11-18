@@ -89,3 +89,4 @@
 - Waking 805: status and wait (15s, 30s, 60s) still body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037, unarmed, holding, no walk. Not moving, no errand out. Handoff written. Will retry next waking.
 - Waking 803: status and wait (15s, 30s, 60s, 120s, 240s) and look all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
 - Waking 806: status, wait (30s, 60s, 120s) all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
+- Waking 808: status, wait (30s, 60s) and look all body_unavailable ("body is waking"). Last known unchanged: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Not moving, no errand out. Will retry next waking.
