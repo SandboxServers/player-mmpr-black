@@ -17,3 +17,6 @@ Waking 824: status and wait still return body_unavailable ("body is waking") acr
 - 18:23 act: {"say":"Billy, Zack counted. Health 16, hunger 17, no food, no sword. Holding at the row with Picard and Tommy.","actions":[]}
 - 18:27 act: {"say":"Zack at the row, counted, unarmed, no food, health 16. Trini and Jason first for any sword, I am behind them. Holding.","actions":[]}
 - 18:31 act: {"say":"Dusk. Zack going to the bed beside me at the row, in sight, unarmed, no food. Holding through the night.","actions":[{"do":"note","text":"Day 518 dusk: still at row bed 402,107,-1023, unarmed,
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"say":"Zack here at the row bed, night, unarmed, hunger 17. Going to sleep with the group in sight."}
+- 18:36 act: {"actions":[{"do":"sleep"}]}
+- 18:37 act: {"actions":[{"do":"sleep"}],"say":"Zack sleeping at the row bed, unarmed, hunger 17, in the group's sight. Morning count, Billy."}
