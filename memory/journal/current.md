@@ -4,3 +4,4 @@
 - 01:33 say: {"text":"Dusk. Zack beside the white bed at 401,-1036, in Trini's and Billy's sight. Holding for the walk call at first light."}
 - 01:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
 - 01:33 act: {"actions":[{"do":"sleep"}]}
+- 01:34 say: {"text":"Morning soon, Trini. Holding at the row for Billy's call."}
