@@ -15,3 +15,4 @@
 - 00:24 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}],"say":"Billy, Zack walking to you at the row, sword in hand. I'll come into your sight."}
 - 00:30 act: {"actions":[],"say":"Billy, Zack here, sword in hand, in your sight. Holding for your call. Beverly has a spare sword in pack, if you need a fourth."}
 - 00:39 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}]}
+- 00:39 say: {"text":"Goodnight, Trini. Zack by the bed at 401,107,-1036, sword in hand. Holding for Billy's walk call at first light."}
