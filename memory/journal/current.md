@@ -62,3 +62,4 @@
 - 10:07 act: {"actions":[{"do":"sleep"}]}
 - 10:23 act: {"actions":[{"do":"sleep"}]}
 - 10:23 act: {"actions":[{"do":"sleep"}]}
+- Waking 756: my planner tools could not reach the world. The worker errand failed with zero tools (mcp__geldar__* not bound). Last known: at bed 388,107,-1037 in the row, unarmed, holding, no walk. Nothing new to act on until the world tools are restored.
