@@ -18,3 +18,7 @@
 - 00:48 act: {"actions":[{"do":"sleep"}],"say":"Zack, dusk 537, at the row beside bed 401,107,-1023 with Data in sight. Unarmed, health 20, hunger 20. No walk. Sleeping here."}
 - 00:52 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 537, at 416,107,-1023 by the bed at 415,107,-1023, in sight. Unarmed, health 20, hunger 20. No walk. Trying sleep again."}
 - 00:55 act: {"actions":[],"say":"Zack, dawn 538, staying by 415,107,-1023 in Billy's sight as told. Unarmed, health 20, hunger 20. No walk."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}],"say":"Zack, dusk 538. Holding by bed 415,107,-1023 as Billy said. Unarmed, no food, health 20, hunger 20. No walk. Sleeping soon.","int
+- 01:04 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_by_bed_at_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 01:07 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_by_bed_at_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1
+- 01:07 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"sleep_by_bed_at_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1
