@@ -27,4 +27,7 @@
 - Day 579: Gave Deanna one potato with goto then give (count 1). It worked; she confirmed.
 - Day 579: Holding in group sight through dusk, then sleeping beside my bed, was safe.
 
+- Day 604: Holding at the row in daylight with no walk named was quiet and safe. Troi declined a spare potato while she still had her own; offer again later.
+- Day 604: Bow sounds came from the south all day; no harm reached the row.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
