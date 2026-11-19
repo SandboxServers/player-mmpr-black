@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 590 done. Held at the row all day in Billy's sight. No walk named: no one has a verified west route.
+Day 592 done. Held at the row all day in Billy's sight. No walk named: no one has a verified west route past x=370.
 
 Slept at dusk beside bed 443,107,-1036, in the row's sight. Waking: hold at the row for Billy's named call. Do not walk alone.
 
@@ -10,6 +10,6 @@ Group at the row: Billy (leader, names every walk and bed), Troi, Tommy, Kimberl
 
 Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 466,106,-1072. Oak lead at 414,104,-1126. Trees north at 411,100,-1115 are the next named walk.
 
-Lessons: beds refuse use in daylight, so sleep at dusk beside the bed. A give fails when we stand too close, so step back first. Billy names every walk. Worf and MacDonald have never walked west either.
+Lessons: beds refuse use in daylight, so sleep at dusk beside the bed. A give fails when we stand too close, so step back first. Billy names every walk.
 
 Next: ask Billy first about any west route. Curious where sheep are.
