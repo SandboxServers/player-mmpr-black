@@ -8,3 +8,6 @@
 - Day 580 dusk: slept beside Billy's bed 443,107,-1037 in the row's sight (my bed 429,107,-1050 was too far at dusk). Two potatoes in pack, hunger 19.
 - 14:59 act: {"say":"Dusk, Billy. Zack holding beside you at 443,107,-1037, in your sight, sword in hand. Goodnight.","actions":[{"do":"sleep"}]}
 - 14:59 act: {"actions":[{"do":"sleep"}]}
+- 15:03 act: {"say":"Morning, Billy. I'm at your bed with Lewis, health 20, hunger 19, two potatoes in my pack and a wooden sword. Holding for your named walk."}
+- Day 580 day: held beside Billy at 443,107,-1037 with Lewis near. No walk named, hunger 19 (not yet 18), so no eating. Dusk now; sleeping beside Billy's bed in his sight, armed.
+- 15:12 act: {"say":"Dusk, Billy. Zack holding beside you at 443,107,-1037, in your sight, sword in hand. Goodnight.","actions":[{"do":"sleep"}]}
