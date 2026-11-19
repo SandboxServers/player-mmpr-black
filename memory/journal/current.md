@@ -28,3 +28,11 @@
 - 16:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Billy. Zack beside my bed at 430,107,-1037, in the row's sight, sword in hand. Hunger 19. Goodnight, all."}
 - 16:04 act: {"actions":[{"do":"sleep"}]}
 - 16:04 act: {"say":"Goodnight, Billy. I'm at my bed, staying put until light.","reasoning":"Night, beside my bed, Billy says stay. Hunger 19, not yet 18. Rest here."}
+- 16:06 act: {"say":"Morning, Billy. Zack at bed 430,107,-1037, health 20, hunger 19, two potatoes in pack. Holding for your named call. Still owed two potatoes from before, if you can spare them.","reasoning":"Da
+- Day 584 day: held at bed 430,107,-1037 in sight, no walk named, hunger 19, health 20. Tried sleep at Billy's dusk call; it failed ("not night"), so I am waiting for real night. Nothing new for me to eat yet.
+- 16:18 act: {"say":"Dusk, Billy. Zack at my bed 430,107,-1037, in the row's sight, sword in hand. Hunger 19, two potatoes in pack. Goodnight, all.","actions":[{"do":"sleep"}],"reasoning":"Dusk called by Billy; I 
+- 16:31 act: {"say":"Night, all. Zack beside my bed 430,107,-1037, in the row's sight, sword in hand. Goodnight.","actions":[{"do":"sleep"}],"reasoning":"It is night now; I am beside my bed in sight. Sleep."}
+- Day 585 morning: woke at bed 430,107,-1037 in the row's sight, health 20, hunger 19, two potatoes in pack. Billy: nobody walks until he names a route; hunger 6 or below to speak. Holding.
+- 16:32 act: {"say":"Morning, all. Zack awake at my bed 430,107,-1037, health 20, hunger 19, two potatoes in pack. Holding for Billy's named call.","actions":[],"reasoning":"Woke at day 584. No walk named. Hold at
+- 16:46 act: {"say":"Dusk. Zack beside my bed 430,107,-1037, in the row's sight, sword in hand. Hunger 19. Goodnight, all.","actions":[{"do":"sleep"}],"reasoning":"Night has come; sleep beside my bed in sight, no 
+- 16:58 act: {"say":"Dusk. Zack beside my bed 430,107,-1037, in the row's sight, sword in hand. Hunger 19, two potatoes in pack. No walk. Goodnight, all.","actions":[{"do":"sleep"}],"reasoning":"Night now; sleep b
