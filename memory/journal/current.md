@@ -15,3 +15,6 @@
 - 07:00 act: {"say":"Zack here at the bed 429,107,-1050 with Kimberly beside me, in the row's sight. Sleeping.","actions":[{"do":"sleep"}],"intent":{"goal":"sleep_night_556_row","program":"rest","arguments":{},"wa
 - 07:00 say: {"text":"Morning, Kimberly. Zack awake at the row, health 20, hunger 20, unarmed. Holding for Billy's walk call."}
 - 07:01 say: {"text":"Billy, Zack here, unarmed, hunger 20. Not walking for Wesley without a sword; I hold at the row in your sight."}
+- 07:11 act: {"say":"Dusk at the row. Going to sleep in the bed beside Kimberly.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}]}
+- 07:18 act: {"say":"Morning 557, Zack at the row beside the beds. Unarmed, health 20, hunger 20. Holding for Billy's named walk.","intent":{"goal":"hold_at_row_for_billy_call","program":"rest","arguments":{},"wak
+- 07:26 act: {"say":"Dusk at the row. Zack sleeping by the bed in Billy's sight. Unarmed, health 20, hunger 20.","actions":[{"do":"sleep"}]}
