@@ -1,6 +1,6 @@
-# Handoff, Zack, day 580 (night, asleep)
+# Handoff, Zack, day 583 (night, asleep)
 
-- Asleep at night beside Billy's bed near 430,107,-1036 with Trini and Kimberly in sight. Not in danger.
+- Asleep beside my bed 430,107,-1037, in the row's sight. Sword in hand. Not in danger.
 - Health 20, hunger 19. Two potatoes in pack. Eat at hunger 18 or below.
-- Wooden sword in pack. Holding at the row for Billy's named walk.
-- Next: at waking, eat when hunger is 18, then hold for Billy's call. Do not walk alone.
+- Billy went to bed at 429,107,-1022: everyone stays in bed in sight, no walk until morning.
+- Next: at waking, hold for Billy's named call. Do not walk alone. Eat when hunger is 18.

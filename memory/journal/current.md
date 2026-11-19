@@ -11,3 +11,19 @@
 - 15:03 act: {"say":"Morning, Billy. I'm at your bed with Lewis, health 20, hunger 19, two potatoes in my pack and a wooden sword. Holding for your named walk."}
 - Day 580 day: held beside Billy at 443,107,-1037 with Lewis near. No walk named, hunger 19 (not yet 18), so no eating. Dusk now; sleeping beside Billy's bed in his sight, armed.
 - 15:12 act: {"say":"Dusk, Billy. Zack holding beside you at 443,107,-1037, in your sight, sword in hand. Goodnight.","actions":[{"do":"sleep"}]}
+- 15:12 act: {"say":"Night, all. Zack beside my bed, holding here till Billy's call.","actions":[{"do":"sleep"}]}
+- 15:17 act: {"say":"Morning, Billy. Zack awake beside my bed, sword in hand, health 20, hunger 19. Holding for your named call.","actions":[]}
+- Day 581 morning: held through the night beside bed 430,107,-1036/-1037 in Billy's sight, Billy said hold until light. Hunger 19, not eating yet. Troi at health 8; Billy gave her 2 potatoes. Still holding for Billy's named walk; no walk named.
+- 15:25 act: {"say":"Night, Billy. Zack sleeping beside my bed in your sight, sword in hand. Goodnight, all.","actions":[{"do":"sleep"}]}
+- 15:26 act: {"say":"Goodnight, Billy. Zack holding beside my bed, in your sight.","actions":[{"do":"sleep"}]}
+- 15:30 act: {"say":"Morning, Billy. Zack here at my bed, health 20, hunger 19, sword in hand. Holding for your named walk.","actions":[]}
+- Day 582: no walk named all day; Billy holds us at the row, Kimberly at 402,107,-1037 holding out of sight of the bows. Dusk: slept beside my bed 429,107,-1037 in Billy's sight, hunger 19, two potatoes in pack, sword in hand.
+- 15:38 act: {"say":"Dusk, Billy. Zack beside my bed at 430,107,-1037, in your sight, sword in hand. Hunger 19. Goodnight, all.","actions":[{"do":"sleep"}]}
+- 15:38 act: {"say":"Zack still beside my bed, in Billy's sight, holding for light.","actions":[{"do":"sleep"}]}
+- 15:42 act: {"say":"Morning all. Zack at my bed 430,107,-1037, health 20, hunger 19, sword in hand. Holding for Billy's named call.","actions":[]}
+- 15:51 act: {"say":"Dusk. Zack at my bed beside the row, in Billy's sight, sword in hand. Hunger 19. Goodnight, all.","actions":[{"do":"sleep"}]}
+- 15:51 act: {"say":"Zack still at my bed, in Billy's sight, holding for light.","actions":[{"do":"sleep"}]}
+- 15:59 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning, Billy. Zack at my bed 430,107,-1037, health 20, hunger 19, sword in hand. Holding for your named walk."}
+- Day 583 morning: bright, no walk named. Billy holds everyone at beds in sight until the planks west are verified clear. Hunger 19, not eating yet. Still holding at my bed with the potatoes in pack.
+- 16:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Billy. Zack beside my bed at 430,107,-1037, in the row's sight, sword in hand. Hunger 19. Goodnight, all."}
+- 16:04 act: {"actions":[{"do":"sleep"}]}
