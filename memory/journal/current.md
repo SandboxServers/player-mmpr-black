@@ -1,32 +1,7 @@
 # Journal
-- 08:17 act: asked Kimberly what's new at the row; she is in reach, holding with me.
-- 08:18 sleep tried at dusk: failed, "not night". Waiting for night beside the white bed.
-- Dusk 560: Picard, Trini, Kimberly holding at the row for Billy's first-light call. Laforge sleeping at his bed. Next: sleep when night comes, then hold for the walk call.
-- 08:22 act: {"say":"Morning! Troi, glad you made it to the row. I'm unarmed and holding here for Billy's walk call.","reasoning":"Daylight, group at the row. Holding for Billy's call; greet Troi who arrived."}
-- 08:34 act: {"say":"Morning 561. Zack at the row, unarmed, health 20, hunger 20. Billy, I hold for your walk call and I need a sword before any walk.","reasoning":"New day, still at the row. Holding for Billy's c
-- 09:09 act: {"actions":[{"do":"note","text":"Day 562 at the row, holding. Billy named Riker and Worf walk the potatoes to Deanna; Riker gave them. Zack unarmed, hunger 20, not named."}],"say":"Zack at the row, un
-- 09:14 act: {"actions":[{"do":"sleep"}]}
-- 09:18 act: {"actions":[{"do":"note","text":"Day 563: slept at the white bed at dusk, woke at dawn at the row. Still unarmed, hunger 20, not named for a walk. Holding for Billy's call."}],"say":"Morning 563, Zack
-- 09:27 act: {"actions":[{"do":"sleep"}]}
-- 09:28 act: {"actions":[],"say":"Zack at 413,107,-1043 by Wesley's beds, morning 563, alone in sight, unarmed, hunger 20. I did not walk here; I will not walk alone. Who is near? I wait here for company."}
-- 09:29 act: {"actions":[],"say":"Billy, Zack is at 413,107,-1043, not with Jason, unarmed, hunger 20. I can see you. I hold still here until you name a step that brings me into the group."}
-- 09:29 act: {"actions":[{"do":"note","text":"Morning 563: woke at 413,107,-1043 by Wesley's beds, not at the row (position changed during sleep; unclear how). Alone in sight at first, Billy 7 blocks off, told me 
-- 09:38 act: {"actions":[{"do":"note","text":"Day 564 midday: still at 413,107,-1043 beside Wesley's beds, unarmed, hunger 20, health 20. Billy 7 blocks off says hold in sight. Not named for a walk. Holding."}],"s
-- 09:42 act: {"actions":[{"do":"note","text":"Morning 564 (after dusk): still at 413,107,-1043 beside Wesley's beds, alone in sight, unarmed, hunger 20. Group is at the row. Holding for Billy's call."}],"say":"Zac
-- 09:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Billy, Zack is walking to the row bed at 429,107,-1036 in daylight, unarmed, hunger 20.","reasoning":"Billy named this walk in da
-- 09:42 act: {"actions":[{"do":"note","text":"Morning 564: walked from 413,107,-1043 to the row bed at 430,107,-1036 on Billy's named call. Picard in reach, sword. Unarmed, hunger 20. Holding for Billy."}],"say":"
-- 09:43 act: {"actions":[],"say":"Billy, Zack at the row with you, hunger 20, unarmed. I hold here and wait for your word.","reasoning":"Billy has heard me. Hold; no walk until named."}
-- 09:45 act: {"actions":[{"do":"note","text":"Morning 564 at the row bed 430,107,-1036 holding for Billy. Deanna bringing potatoes to the row for the hungry. Hunger 20, not yet eligible. Holding."}],"reasoning":"H
-- 09:53 act: {"actions":[{"do":"note","text":"Dusk 564 at the row bed 430,107,-1036. Now hold 1 potato (Lewis's gift for the hungry). Hunger 20, not eating yet. Will sleep at full night beside the bed in Billy's s
-- 09:57 act: {"actions":[{"do":"note","text":"Morning 565 at the row bed 430,107,-1036, holding in Billy's sight. Hunger 20, not eligible; Riker gets 3 potatoes from Deanna. Unarmed, one potato in pack. No walk na
-- 10:01 act: {"actions":[{"do":"note","text":"Morning 565: Billy has no swords or food to give yet; will find wood for swords. Zack holds at the row, hunger 20, unarmed. Holding."}],"reasoning":"Nothing for me now
-- 10:05 act: {"actions":[{"do":"note","text":"Dusk 565 at the row bed 430,107,-1036, in Billy's sight. Hunger 20, unarmed, one potato. Riker received 3 from Troi. Will sleep at full night beside the bed."}],"reaso
-- 10:17 act: {"actions":[{"do":"note","text":"Morning 566 at the row bed 430,107,-1036. Billy named hold at the row; he checks the row chest for planks. Zack holds, hunger 20, unarmed."}],"reasoning":"Billy asked 
-- 10:21 act: {"actions":[{"do":"note","text":"Night 566 at the row bed 430,107,-1036, in Billy's sight. Hunger 20, unarmed, one potato. No wood found; Billy holds at the row. Sleeping now."},{"do":"sleep"}],"reaso
-- 10:26 act: {"actions":[{"do":"note","text":"Day 566 daytime at the row bed 430,107,-1036, in Billy's sight. Hunger 20, unarmed, one potato. Nothing named for me. Holding."}],"reasoning":"Nothing named, no threat
-- 10:26 act: {"actions":[{"do":"note","text":"Morning 567 (Billy's word): Picard walks south for wood; Zack, Troi, Riker, Leonardo hold at the row. Zack holds, unarmed, hunger 20."}],"say":"Zack holds at the row a
-- 10:32 act: {"actions":[{"do":"note","text":"Dusk 566 at the row bed 430,107,-1036, in Billy's sight. Hunger 20, unarmed, one potato. Picard back at the row, no oak log found. Holding for full night."}],"say":"Bi
-- 10:32 act: {"actions":[{"do":"note","text":"Dusk 566: Billy holds the group at the row for the night. Zack stays in sight beside bed 430,107,-1036, unarmed, hunger 20. Will sleep when full night comes."}],"say":
-- 10:35 act: {"actions":[{"do":"note","text":"Night 567: reflected, summary updated. At the row bed 430,107,-1036 in Billy's sight. Hunger 20, unarmed, one potato. Sleeping."},{"do":"sleep"}],"say":"Night 567, Zac
-- 10:35 act: {"actions":[{"do":"note","text":"Day 567 bright. Sleep failed: not night. I am at 443,107,-1035 by Lewis's bed (moved while the night passed). Unarmed, hunger 20. Holding in sight, no sleep until full
-- 10:43 act: {"actions":[{"do":"note","text":"Day 567 midday at 443,107,-1035 by Lewis's bed. Picard and Jason searched east, no oak log. Not named for a walk. Unarmed, hunger 20, holding."}],"say":"Billy, Zack at
+- 10:48 act: {"actions":[{"do":"sleep"}],"say":"Night 567. Zack sleeping beside Lewis's bed at 443,107,-1035, in Billy's sight, unarmed, hunger 20. Holding for first light."}
+- 10:48 act: {"actions":[{"do":"note","text":"Morning 568 (after a failed sleep): now at 444,107,-1023 beside white beds, with MacDonald and Picard in reach, both armed. Heard a bow drawn to the southwest. Unarmed
+- 10:50 act: {"actions":[{"do":"note","text":"Morning 568 at 444,107,-1023 beside white beds, MacDonald and Picard in reach, both armed. Billy says keep at the row, nobody walks alone. Zack unarmed, hunger 20. Hol
+- 10:56 act: {"actions":[{"do":"note","text":"Morning 568 at 444,107,-1023, holding with MacDonald and Picard. Billy gives Riker potatoes from Deanna. Zack hunger 20, not eligible. Unarmed, holding for Billy."}]}
+- 11:00 act: {"actions":[{"do":"note","text":"Night 568 at 444,107,-1023 beside white beds, MacDonald and Picard in reach. Still unarmed, hunger 20, one potato. No new call for Zack. Holding."}],"say":"Zack holds 
+- 11:00 act: {"actions":[{"do":"sleep"}]}
