@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 594 done. Held at the row all day in Billy's sight. Still no walk: no verified west route. Health 20, hunger 19, did not eat yet (eat at 18 or below).
+Day 594 done. Held at the row all day in Billy's sight. Still no walk: no verified west route. Health 20, hunger 19. Did not eat yet (eat at 18 or below).
 
 Slept at dusk beside my bed 429,107,-1022, in the row's sight. Waking: hold at the row for Billy's named call. Do not walk alone.
 
