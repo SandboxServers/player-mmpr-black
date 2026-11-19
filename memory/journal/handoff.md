@@ -1,5 +1,5 @@
-# Handoff, Zack, night 568
+# Handoff, Zack, night 571
 
-- Going to sleep at 444,107,-1023 beside the white bed, in the row's sight with Picard, MacDonald, Kimberly and Tommy near. Health 20, hunger 20, unarmed, one potato in pack.
-- Day 568: held at the row as named. Oak lead at 414,104,-1126 went to Billy's group; no wood came back for Zack. Billy holds a wooden sword for Zack and will give it at first light when they can see each other.
-- Next at first light: stay in sight, take Billy's sword when he comes near, walk only when named, armed, in daylight, with company. Eat at hunger 18 or below from shared food (Troi/Deanna about 13 potatoes, Wesley 7, Clark 6).
+- At 430,107,-1050 beside the white bed at 429,107,-1050, in Billy's sight at the row. Health 20, hunger 20, unarmed. One potato in hand.
+- The wooden sword went to Laforge through Kimberly, as Billy named. Nothing is owed.
+- Next: sleep at this bed, then at first light hold for Billy's named walk to the trees at 411,100,-1115. Walk only when named, in daylight, armed, with company. Eat at hunger 18 or below.

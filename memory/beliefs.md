@@ -40,4 +40,6 @@
 
 - Day 554: Holding alone at the white bed all day, with Troi in reach and the row in sight, was safe. Billy called no walk; wait in short steps. Sleep at dusk beside the bed worked (stood beside it, called sleep).
 
+- Day 571: A give can land on the wrong person: a sword meant for Laforge went to Trini, then to Kimberly. Billy named Kimberly to pass it on. Report it, do not retry a third time.
+
 Next to learn: the chicken field route with the group, and the seal that Worf uses. Curious about where the sheep and water are. Who to tell: the whole group, starting with Billy and Kimberly.

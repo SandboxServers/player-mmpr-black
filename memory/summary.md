@@ -1,15 +1,13 @@
 # Summary, Zack Taylor
 
-Day 568, dusk. At 444,107,-1023 beside the white beds at the row, in Billy's group sight. Days since sleep: 8. Sleep at full night only.
+Day 571, night. At 430,107,-1050, beside the white bed at 429,107,-1050, in Billy's sight at the row. Health 20, hunger 20. Unarmed now (the wooden sword went to Laforge, via Kimberly). One potato in pack. Eat at hunger 18 or below from shared food.
 
-Health 20, hunger 20. Unarmed, one potato in pack. Eat at hunger 18 or below from shared food.
+Group at the row: Billy (leader, names every walk and handoff), Tommy, Kimberly, Trini, Laforge, Leonardo, Lewis, Clark, Riker, Troi, Deanna, MacDonald, Picard, Beverly, Wesley, Worf.
 
-Group at the row: Billy (wooden sword), Picard (wooden sword), MacDonald, Riker, Troi, Jason, Kimberly, Tommy, Leonardo, Lewis, Clark, Wesley, Worf.
+Food: Troi holds about 12 potatoes; Clark about 6; Wesley about 7.
 
-Food: Deanna (Troi) holds about 13 potatoes; Wesley about 7; Clark about 6.
+Wood: oak lead at 414,104,-1126 (Billy's group went there day 568, no wood brought back). Water lead at 466,106,-1086. Trees north at 411,100,-1115 are the next named walk.
 
-Wood: no oak logs found south, west, east, or north-east. Oak lead from Lewis at 414,104,-1126; Billy's group went there at day 568 and came back without wood for Zack. Water lead at 466,106,-1086.
+Plan: sleep at the bed at 429,107,-1050 tonight. At first light, hold in Billy's sight for his named walk. Walk only when named, in daylight, armed, with company. Eat only at hunger 18 or below.
 
-Plan: hold at the row for Billy's named call. Billy promised a sword for Zack next. Walk only when named, in daylight, armed, with company. Sleep at full night beside a bed in group sight, after reflect.
-
-Lessons: sleep fails at dusk and day ("not night"); a partial sleep leaves health low. Gives fail if the item is on the ground or the target is out of sight. Journal Write can fail; the note action works.
+Lessons: sleep fails at dusk and in daylight ("not night"). Gives fail if the item is on the ground or the target is out of sight, and a give can land on the wrong person; do not retry a third time, report it to Billy. Journal Write can fail; the note action works.
