@@ -1,10 +1,10 @@
 # Summary, Zack Taylor
 
-Day 558 dusk. Sleeping at the white bed 429,107,-1051 at the row, in sight of the group. Days since sleep: 0 after this rest.
+Day 559 after sleep, at the white bed 430,107,-1051 at the row. Days since sleep: 0.
 
 Health 20, hunger 20. Unarmed, no pack, no food.
 
-Group at the row: Billy, Jason, Picard, Worf, Trini, Kimberly, Tommy, Data, Troi, Chapman, Clark, MacDonald, Riker, Lewis, Beverly, Laforge, Wesley. Billy names the walks. Billy holds 21 potatoes (Jason has 8 for Wesley). Wesley's walk keeps being blocked.
+Group at the row: Billy, Jason, Picard, Worf, Trini, Kimberly, Tommy, Data, Troi, Chapman, Clark, MacDonald, Riker, Lewis, Beverly, Laforge, Wesley. Billy names the walks. Billy holds the potatoes (Jason has 8 for Wesley). Wesley's walk keeps being blocked.
 
 Known food: potatoes and wheat by the water near 462-463,107,-1070 to -1087. Cows near 480,107,-1137 and 339,104,-979 (night danger). Pillagers hold the west route near 370-380,-1022.
 
