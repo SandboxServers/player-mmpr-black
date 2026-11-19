@@ -1,5 +1,7 @@
-# Handoff, Zack, night 571
+# Handoff, Zack, day 577
 
-- At 430,107,-1050 beside the white bed at 429,107,-1050, in Billy's sight at the row. Health 20, hunger 20, unarmed. One potato in hand.
-- The wooden sword went to Laforge through Kimberly, as Billy named. Nothing is owed.
-- Next: sleep at this bed, then at first light hold for Billy's named walk to the trees at 411,100,-1115. Walk only when named, in daylight, armed, with company. Eat at hunger 18 or below.
+- At the row, beside the white bed at 430,107,-1048 (bed 429,107,-1050), Kimberly in sight. Armed with a wooden sword. Health 17, hunger 17.
+- Billy named the walk back from the potato field; Tommy and Zack came back in sight. Tommy gave me a potato (eaten).
+- Phantoms hit at the field during night 576; one killed. No walk at night.
+- Next: hold at the row in group sight. Sleep at full night beside the white bed at 429,107,-1050, in group sight. Walk only when Billy names it, in daylight, armed, with company. Eat at hunger 18 or below.
+- Before sleep: run reflect, rewrite summary, empty current.md, commit_memory.

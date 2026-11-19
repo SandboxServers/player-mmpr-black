@@ -1,13 +1,13 @@
 # Summary, Zack Taylor
 
-Day 571, night. At 430,107,-1050, beside the white bed at 429,107,-1050, in Billy's sight at the row. Health 20, hunger 20. Unarmed now (the wooden sword went to Laforge, via Kimberly). One potato in pack. Eat at hunger 18 or below from shared food.
+Day 577, night. Asleep beside the white bed at 429,107,-1050, at the row, in Billy's sight with Kimberly in reach. Health 17, hunger 17. Armed with a wooden sword. Days since sleep reset by this sleep.
 
-Group at the row: Billy (leader, names every walk and handoff), Tommy, Kimberly, Trini, Laforge, Leonardo, Lewis, Clark, Riker, Troi, Deanna, MacDonald, Picard, Beverly, Wesley, Worf.
+Group at the row: Billy (leader, names every walk and handoff), Tommy (health low, has two potatoes and a spare wooden sword), Kimberly, Trini, Laforge, Leonardo, Lewis, Clark, Riker, Troi, Deanna, MacDonald, Picard, Beverly, Wesley, Worf, Jason, Bcrusher.
 
-Food: Troi holds about 12 potatoes; Clark about 6; Wesley about 7.
+Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Eat at hunger 18 or below from shared food; ask Tommy, Wesley (5 potatoes for hunger 6 or below) or Billy.
 
-Wood: oak lead at 414,104,-1126 (Billy's group went there day 568, no wood brought back). Water lead at 466,106,-1086. Trees north at 411,100,-1115 are the next named walk.
+Wood: oak lead at 414,104,-1126. Water lead at 466,106,-1086. Trees north at 411,100,-1115 are the next named walk.
 
-Plan: sleep at the bed at 429,107,-1050 tonight. At first light, hold in Billy's sight for his named walk. Walk only when named, in daylight, armed, with company. Eat only at hunger 18 or below.
+Plan: hold at the row for Billy's named walk at first light. Walk only when named, in daylight, armed, with company. Sleep at full night beside a bed in group sight.
 
-Lessons: sleep fails at dusk and in daylight ("not night"). Gives fail if the item is on the ground or the target is out of sight, and a give can land on the wrong person; do not retry a third time, report it to Billy. Journal Write can fail; the note action works.
+Lessons: sleep fails at dusk and in daylight. Use on a ripe potato block does not harvest it. Gives fail if the item is on the ground or the target is out of sight; do not retry a third time, report it to Billy. Phantoms attack at night at the field; do not hold there alone at night.
