@@ -1,1 +1,10 @@
 # Journal
+- Day 579 morning: at the row 430,107,-1051, health 20, hunger 19. Said good morning, reminded Billy of my two potatoes, and set a hold at the row for Billy's named walk.
+- 14:48 act: {"say":"Zack here, morning at the row. Health 20, hunger 19, sword in hand. Billy, my two potatoes are still owed. Holding for your named walk.","intent":{"goal":"hold_at_row","program":"rest","argume
+- Day 579: walked to Billy at 443,107,-1037 in daylight. He handed me 2 potatoes, now in pack. Hunger 19, eating at 18 or below. Holding in his sight.
+- 14:49 act: {"say":"Billy, I hear you. I am at my bed 430,107,-1051 and cannot see you from here. Where do you stand? I will come to your sight."}
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"On my way to you, Billy. Daylight, sword in hand."}
+- 14:50 act: {"say":"Billy, I am here beside you, in your sight. Hunger 19. Could you hand me the two potatoes? I will eat at 18."}
+- Day 580 dusk: slept beside Billy's bed 443,107,-1037 in the row's sight (my bed 429,107,-1050 was too far at dusk). Two potatoes in pack, hunger 19.
+- 14:59 act: {"say":"Dusk, Billy. Zack holding beside you at 443,107,-1037, in your sight, sword in hand. Goodnight.","actions":[{"do":"sleep"}]}
+- 14:59 act: {"actions":[{"do":"sleep"}]}

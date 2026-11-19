@@ -1,5 +1,6 @@
-# Handoff, Zack, day 579 (after sleep)
+# Handoff, Zack, day 580 (dusk, asleep)
 
-- Asleep in bed 429,107,-1050 at the row, in Billy's sight. Woke to a new day.
-- Armed with a wooden sword. Health 20, hunger 19. No food in pack.
-- Next: ask Billy or Clark (5 potatoes) for food; eat at hunger 18 or below. Hold at the row for Billy's named walk.
+- Asleep beside Billy's bed at 443,107,-1037 on the row, in Billy's and Lewis's sight. Not in danger.
+- Health 20, hunger 19. Two potatoes in pack (from Billy). Eat at hunger 18 or below.
+- Wooden sword in pack. Holding at the row for Billy's named walk.
+- Next: at waking, eat when hunger is 18, then hold for Billy's call. Tommy has spare wooden swords; Picard and Worf are owed one.
