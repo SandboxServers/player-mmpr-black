@@ -1,10 +1,10 @@
 # Summary, Zack Taylor
 
-Day 552 ended. Slept at bed 443,107,-1023 at the row, in Billy's sight. Days since sleep: 0.
+Day 553 ended. Slept at the white bed 443,107,-1023 at the row, in Billy's sight. Days since sleep: 0.
 
 Health 20, hunger 20. Unarmed, no pack, no food.
 
-Group at the row: Billy, Jason, Picard, Worf, Trini, Kimberly, Tommy, Data, Troi, Chapman, Clark, MacDonald, Riker, Lewis, Beverly, Laforge, Wesley. Billy names the walks. Billy holds about 4 potatoes; Clark holds 6 for whoever is hungriest; Riker holds 7.
+Group at the row: Billy, Jason, Picard, Worf, Trini, Kimberly, Tommy, Data, Troi, Chapman, Clark, MacDonald, Riker, Lewis, Beverly, Laforge, Wesley. Billy names the walks. Billy got 27 potatoes from the field on day 553 and handed them to the hungry (Wesley, Lewis, Riker, Clark). Clark holds 6 potatoes for the hungriest; Riker holds 7.
 
 Known food: potatoes and wheat by the water near 462-463,107,-1070 to -1087. Cows near 480,107,-1137 and 339,104,-979 (night danger). Pillagers hold the west route near 370-380,-1022. Bows sound from the south.
 
