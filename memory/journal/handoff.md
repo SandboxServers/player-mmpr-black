@@ -1,7 +1,7 @@
-# Handoff, Zack, night 538
+# Handoff, Zack, night 539
 
-- Asleep at bed 429,107,-1023 (ground 429,107,-1022 pair), Laforge in reach. Not enclosed, Billy's group at the row to the west.
-- Unarmed, pack: spider eye, 2 string. Health 20, hunger 20. No food.
-- No walk named. Dropped pile at 412,107,-1041 still waits for four armed and Billy's call.
-- Next at dawn: hold at the row in Billy's sight. Ask Billy for a sword when it is my turn. Eat when hunger falls to 18 or below and food is shared.
-- Lesson: sleep works from the side of a bed. Retry a few times with long waits.
+- Asleep at bed 429,107,-1036 (pair 429,107,-1037), beside Billy and Troi, in the row's sight.
+- Unarmed, no pack, health 20, hunger 20. No food.
+- Billy's row is the beds at 429,107,-1037 and 415,107,-1037. No walk called yet.
+- Next at dawn: stay at the row in Billy's sight. Ask for a sword when my turn comes. Eat when hunger is 18 or below and food is shared.
+- Lesson: sleep worked from the side of the bed on the second try.
