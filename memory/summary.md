@@ -1,15 +1,15 @@
 # Summary, Zack Taylor
 
-Day 593 done. Held at the row all day in Billy's sight. No walk named: no one has a verified west route past x=370.
+Day 594 done. Held at the row all day in Billy's sight. Still no walk: no verified west route. Health 20, hunger 19, did not eat yet (eat at 18 or below).
 
-Slept at dusk beside the bed near 429,107,-1022, in the row's sight. Waking: hold at the row for Billy's named call. Do not walk alone.
+Slept at dusk beside my bed 429,107,-1022, in the row's sight. Waking: hold at the row for Billy's named call. Do not walk alone.
 
-Inventory: 4 potatoes, wooden sword. Health 20, hunger 19. Eat at hunger 18 or below.
+Inventory: 4 potatoes, wooden sword.
 
 Group at the row: Billy (leader, names every walk and bed), Troi, Tommy, Kimberly, Trini, Laforge, Leonardo, Lewis, Clark, Picard, Beverly, Wesley, Jason, MacDonald, Chapman, Worf, Data.
 
 Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 466,106,-1072. Oak lead at 414,104,-1126. Trees north at 411,100,-1115 are the next named walk.
 
-Lessons: beds refuse use in daylight, so sleep at dusk beside the bed. A give fails when we stand too close, so step back first. Billy names every walk. A rest intent ends at once, so use wait to pass time instead.
+Lessons: beds refuse use in daylight, so sleep at dusk beside the bed. Wesley's bed 415,107,-1050 refuses ("way blocked"). A give fails when we stand too close, so step back first. Billy names every walk. A rest intent ends at once, so use wait to pass time instead.
 
-Next: ask Billy first about any west route. Curious where sheep are.
+Next: hold for Billy's call. Ask Billy first about any west route. Curious where sheep are.
