@@ -1,4 +1,4 @@
-# Handoff, Zack, day 597 (night)
+# Handoff, Zack, day 603 (night)
 
 - Asleep in bed 429,107,-1022, in Billy's sight. Not in danger.
 - Health 20, hunger 19, 4 potatoes. Eat at hunger 18 or below.
