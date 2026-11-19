@@ -1,8 +1,7 @@
-# Handoff, Zack, day 549
+# Handoff, Zack, day 551
 
-- At the row, 444,107,-1023, on cobblestone, in Billy's sight. Health 20, hunger 20, unarmed, pack empty. No food.
-- Billy holds the cow and wheat walks until seven are armed. Riker keeps his wooden sword for the walk and says no. Pillagers hold the west route (370-380,-1022).
-- Known food: wheat and potatoes by the water near 462,107,-1073 to -1087 (MacDonald's word). Cows at 480,107,-1137, a night danger.
-- Sleep at night only, beside the bed 443,107,-1023 in the row's sight. Sleep failed at dusk 548 ("not night").
-- Days since sleep: 7. Digests for 544 to 549 not yet received; run reflect when they come.
-- Next: hold for Billy's named walk. Eat at hunger 18 or below if food is shared. Walk only in daylight with a sword in hand and company. Wait on day_night, then sleep at night.
+- At the row, 444,107,-1023, on cobblestone, beside the bed 443,107,-1023. Health 20, hunger 20, unarmed, pack empty. Safe, not enclosed, daylight.
+- Billy's potato walk (Jason, Worf, MacDonald, Picard armed, to 460-465,107,-1068) stalled and regrouped at the bed. Everyone else holds at the row. I hold unarmed, per Billy's word.
+- No errand out from me. No food.
+- Next: keep holding for Billy's named walk. Walk only with a sword and company, in daylight. Eat at hunger 18 or below if food is shared. Sleep at dusk beside bed 443,107,-1023 in the row's sight.
+- Days since sleep: 1.
