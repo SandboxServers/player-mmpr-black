@@ -8,3 +8,10 @@
 - 06:35 act: {"say":"Zack walking to Billy's bed at 429,107,-1035, unarmed, to join the row.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1034}}],"intent":{"goal":"join_group_at_row","program":"travel",
 - 06:36 act: {"say":"Zack at the row beside Billy, unarmed, health 20, hunger 20. Holding for your named walk, Billy.","actions":[]}
 - 06:42 act: {"say":"Billy, Zack here. I haven't seen Wesley since last night. I'm sleeping by the bed at 429,107,-1036 in your sight.","actions":[{"do":"sleep"}],"intent":{"goal":"sleep_in_billy_sight","program":
+- 06:52 say: {"text":"Zack at the row, unarmed, health 20, hunger 20. Holding for your named walk, Billy. Hungriest first."}
+- 06:58 say: dawn 555 at the row beside Billy, unarmed, hunger 20. Riker and Tommy also holding; Wesley still missing. Waited for Billy's named walk; nothing new yet.
+- 07:40 day 557: slept at row bed 429,107,-1050 beside Kimberly, woke morning 556. Billy and Jason walked with potatoes to Wesley, who was fed. Told Billy I stay unarmed at the row until I have a sword.
+- 07:00 act: {"say":"Zack at the row for the night, in Billy's and Jason's sight. Going to the bed now, unarmed, hunger 20.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"intent":{
+- 07:00 act: {"say":"Zack here at the bed 429,107,-1050 with Kimberly beside me, in the row's sight. Sleeping.","actions":[{"do":"sleep"}],"intent":{"goal":"sleep_night_556_row","program":"rest","arguments":{},"wa
+- 07:00 say: {"text":"Morning, Kimberly. Zack awake at the row, health 20, hunger 20, unarmed. Holding for Billy's walk call."}
+- 07:01 say: {"text":"Billy, Zack here, unarmed, hunger 20. Not walking for Wesley without a sword; I hold at the row in your sight."}
