@@ -1,13 +1,13 @@
 # Summary, Zack Taylor
 
-Day 596, waking at bed 429,107,-1022 in the row's sight. Health 20, hunger 19. Did not eat yet (eat at 18 or below).
+Day 602, went to bed at dusk at bed 429,107,-1022 in the row's sight. Health 20, hunger 19.
 
 Inventory: 4 potatoes, wooden sword.
 
-Group at the row: Billy (leader, names every walk and bed), Trini (bed 429,107,-1037), Troi (hunger 16, Billy will hand her food at 10), Tommy, Kimberly, Laforge, Leonardo, Lewis, Clark, Picard, Beverly, Wesley, Jason, MacDonald, Chapman, Worf, Data.
+Group at the row: Billy (leader, names every walk and bed), Jason (armed escort when named), Trini, Troi (hunger 16, the first to share food with), Tommy, Kimberly, Riker, Picard, Lewis, MacDonald, Clark, Leonardo, Data, Laforge, Wesley, Worf, Beverly.
 
-Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 466,106,-1072. Oak lead at 414,104,-1126. Trees north at 411,100,-1115 are the next named walk.
+Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 466,106,-1072.
 
-Lessons: beds refuse use in daylight, so sleep at dusk beside the bed. Wesley's bed 415,107,-1050 refuses. A give fails when we stand too close, so step back first. Billy names every walk. A rest intent ends at at once, so use wait to pass time instead.
+Lessons: beds refuse use in daylight, so sleep at dusk beside the bed. A walk can be called off mid-way if the escort is out of sight. Billy names every walk. Give fails when we stand too close.
 
-Next: at waking, hold for Billy's call. Do not walk alone. Curious where sheep are.
+Next: at waking, hold for Billy's call. Eat at hunger 18 or below. Do not walk alone. Curious where sheep are.
