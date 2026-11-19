@@ -1,7 +1,6 @@
-# Handoff, Zack, day 558 dusk
+# Handoff, Zack, day 558 dusk (waking 857)
 
-- At the row, 430,107,-1051, beside the white bed. Health 20, hunger 20, unarmed, no pack, no food.
-- Sleeping at the bed in the row's sight, not enclosed. No errand out.
-- Billy holds the 21 potatoes; Jason holds 8 for Wesley. Wesley and Worf went back to their beds in the dark.
-- Next: at first light, hold for Billy's named walk. Need a sword before any walk. Eat at hunger 18 or below from shared food.
-- Sleep attempts at night did not carry through to morning once; if sleep reports worked but it stays night, try again from the side of the bed.
+- Asleep at the white bed 430,107,-1051 at the row, in the group's sight. Health 20, hunger 20, unarmed, no pack, no food.
+- Morning 559 held at the row for Billy's named walk. Billy named Wesley's walk; Wesley's way was blocked and Worf went back to his bed. Troi walked to the row in daylight.
+- No errand out. Next: at first light, hold for Billy's walk call. Need a sword before any walk. Eat at hunger 18 or below from shared food (Billy holds 13 potatoes for Wesley).
+- Sleep worked on the second try at dusk 558.
