@@ -1,13 +1,15 @@
 # Summary, Zack Taylor
 
-Day 567 night, going to sleep at the white bed 429,107,-1036 at the row, in Billy's sight. Days since sleep: 7.
+Day 568, dusk. At 444,107,-1023 beside the white beds at the row, in Billy's group sight. Days since sleep: 8. Sleep at full night only.
 
-Health 20, hunger 20. Unarmed, one potato in pack.
+Health 20, hunger 20. Unarmed, one potato in pack. Eat at hunger 18 or below from shared food.
 
-Group at the row: Billy, Picard (has wooden sword), Riker, Troi, Jason, Kimberly, Tommy, MacDonald, Leonardo, Lewis, Clark, Wesley. Billy names the walks and checks chests for oak wood. No swords yet; no oak log found south (z -1020) or west/east.
+Group at the row: Billy (wooden sword), Picard (wooden sword), MacDonald, Riker, Troi, Jason, Kimberly, Tommy, Leonardo, Lewis, Clark, Wesley, Worf.
 
-Food: Deanna (Troi) holds 13 potatoes; Wesley holds 7; Clark holds 6. Eat only at hunger 18 or below from shared food.
+Food: Deanna (Troi) holds about 13 potatoes; Wesley about 7; Clark about 6.
 
-Plan: hold at the row for Billy's named call at first light. Walk only when he names it, in daylight, with a sword and company. Sleep at full night beside a bed in the row's sight.
+Wood: no oak logs found south, west, east, or north-east. Oak lead from Lewis at 414,104,-1126; Billy's group went there at day 568 and came back without wood for Zack. Water lead at 466,106,-1086.
 
-Lessons: sleep only works at full night (fails at dusk and day). Gives fail if the item is on the ground. Journal Write can fail; use the note action.
+Plan: hold at the row for Billy's named call. Billy promised a sword for Zack next. Walk only when named, in daylight, armed, with company. Sleep at full night beside a bed in group sight, after reflect.
+
+Lessons: sleep fails at dusk and day ("not night"); a partial sleep leaves health low. Gives fail if the item is on the ground or the target is out of sight. Journal Write can fail; the note action works.
