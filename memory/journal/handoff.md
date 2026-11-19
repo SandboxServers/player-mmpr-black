@@ -1,6 +1,6 @@
-# Handoff, Zack, day 583 (night, asleep)
+# Handoff, Zack, day 586 (night)
 
-- Asleep beside my bed 430,107,-1037, in the row's sight. Sword in pack/hand. Not in danger.
+- Standing at 443,107,-1035 beside the bed at 443,107,-1036, in the row's sight. Sword in hand/pack. Not in danger.
 - Health 20, hunger 19. Two potatoes in pack. Eat at hunger 18 or below.
-- Billy at bed 429,107,-1022: no walk until light. Planks block the west; no verified route.
-- Next: at waking, hold at bed for Billy's named call. Do not walk alone. Eat at hunger 18.
+- West planks still block the route (Leonardo's report). Billy: no walk until a route is verified in daylight.
+- Next: at waking, hold at the row for Billy's named call. Do not walk alone.
