@@ -1,3 +1,5 @@
 # Journal
-- 01:52 act: {"say":"Zack, morning 541, at the row in Billy's sight. Unarmed, health 20, hunger 20. Holding for the walk call. Billy, when my turn for a sword comes, I'll ask.","intent":{"goal":"hold_at_row","prog
-- 01:56 act: {"say":"Zack, morning 541, still at the row in Billy's sight. Unarmed, health 20, hunger 20. Clark is first for the spare sword, I am after him. Holding."}
+- 01:52 act: morning 541, at the row, holding for Billy's walk call.
+- 01:56 act: still at the row, unarmed, health 20, hunger 20. Holding.
+- 02:01 act: dusk 541 at the row beside bed 429,107,-1023. Sleep failed earlier (not night). Said I'll sleep when dark, rest intent set. No food, no pack, unarmed.
+- 02:01 act: {"actions":[{"do":"sleep"}]}
