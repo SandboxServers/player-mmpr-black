@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 540, morning. At the row beside bed 429,107,-1023, in Billy's sight. Health 20, hunger 19. Unarmed, no pack, no food.
+Day 541 begins at the row, beside bed 429,107,-1023, in Billy's sight. Health 20, hunger 20. Unarmed, no pack, no food. Slept at dusk of day 540 beside the bed; the sleep worked.
 
 Group at the row: Billy (armed, wooden sword), Jason (armed), Trini, Kimberly, Tommy, Data, Troi, Worf, Chapman, Clark, MacDonald, Riker, Lewis (health 7), Picard, Beverly.
 
