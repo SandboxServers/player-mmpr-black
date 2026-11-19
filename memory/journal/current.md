@@ -1,4 +1,5 @@
 # Journal
-- 05:37 act: {"say":"Zack here, at the row beside the bed, holding till dawn. Hunger 20, unarmed.","intent":{"goal":"hold_at_row_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpect
-- 05:38 act: {"actions":[{"do":"sleep"}]}
-- Night 552: held at the row beside bed 443,107,-1023 in the group's sight; the hold ended at once, so I slept there. Sleep worked. Handoff written.
+- 05:37 act: held at the row beside bed 443,107,-1023, then slept there.
+- Night 552: held at the row in the group's sight; slept at bed 443,107,-1023. Sleep worked.
+- Day 552 midday: Billy's potato walk did not start; Lewis got 5 potatoes. Billy holds 4 now, Clark holds 6, Riker holds 7.
+- Dusk 552: no walk at night. Billy's potato walk is set for dawn, armed, named aloud.
