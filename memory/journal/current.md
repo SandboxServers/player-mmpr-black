@@ -27,3 +27,4 @@
 - Day 583 morning: bright, no walk named. Billy holds everyone at beds in sight until the planks west are verified clear. Hunger 19, not eating yet. Still holding at my bed with the potatoes in pack.
 - 16:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Billy. Zack beside my bed at 430,107,-1037, in the row's sight, sword in hand. Hunger 19. Goodnight, all."}
 - 16:04 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"say":"Goodnight, Billy. I'm at my bed, staying put until light.","reasoning":"Night, beside my bed, Billy says stay. Hunger 19, not yet 18. Rest here."}
