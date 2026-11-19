@@ -1,1 +1,28 @@
 # Journal
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Zack holding by the beds, in Billy's sight. No walk till Billy calls.","intent":{"goal":"rest_at_bed",
+- 20:18 act: {"actions":[],"say":"Morning, row. Zack awake at bed 429,107,-1022, health 20, hunger 19. Holding for Billy's named walk. No walk yet."}
+- Day 596 morning. Slept at bed 429,107,-1022 (night rest intent). Woke at the row, health 20, hunger 19. No walk named by Billy. Holding in sight, not walking alone. Next: eat at hunger 18 or below; wait for Billy's call.
+- Day 597. Still holding at the row by bed 429,107,-1022. No walk named. Hunger 19. Troi hunger 16, health 13.9, 30 blocks off, not in reach. Bow-draw sounds to the south all day; no harm yet.
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Zack in bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- Day 597 night. Slept at bed 429,107,-1022 in Billy's sight. Billy named no walk. Woke to hold at the row, hunger 19, 4 potatoes.
+- 20:46 act: {"actions":[],"say":"Morning, row. Zack at bed 429,107,-1022, health 20, hunger 19. Holding in Billy's sight. Trini's walk is Billy's and Jason's; I stay put."}
+- Day 598 night: slept in Billy's row, health 20, hunger 19. Morning: no walk named for me; Trini still not in bed, Billy holds the row.
+- Trini's bed refused her in daylight; Billy has everyone hold in sight until night. I hold at bed 429,107,-1022, hunger 19, health 20.
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Zack in bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- 21:11 act: {"actions":[],"say":"Morning, row. Zack awake at bed 429,107,-1022, health 20, hunger 19. No walk named. Holding in Billy's sight."}
+- Day 599 morning. Woke at the row, health 20, hunger 19. Billy named no walk; Trini's bed still refused. Holding in sight, 4 potatoes. Eat at 18.
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- 21:27 act: {"actions":[],"say":"Morning, row. Zack awake at bed 429,107,-1022, health 20, hunger 19. No walk named. Holding in Billy's sight."}
+- Day 600 morning. Slept at bed in Billy's sight; no walk named. Health 20, hunger 19, 4 potatoes. Holding at the row.
+- Day 600 day. Holding at 430,107,-1023 in Billy's sight. Health 20, hunger 19, 4 potatoes. Troi at 430,107,-1051 (hunger 16) out of reach. Bows drawn to south, no harm. No walk named.
+- 21:35 act: {"actions":[],"say":"Data, I have 4 potatoes. When you are in my reach at the row, I will give you one. Troi first, when she is near."}
+- 21:39 act: {"actions":[],"say":"Morning, row. Zack at 430,107,-1023, health 20, hunger 19. Holding in sight, no walk. Troi, I'll share a potato when you're near."}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- Day 601 morning. Slept at bed 429,107,-1022 in Billy's sight, woke health 20, hunger 19, 4 potatoes. No walk named; Troi still out of reach. Holding at the row.
+- Day 601 dusk. Going to bed 429,107,-1022 in Billy's sight. Billy: hold in sight, no walks; at daylight he will look at Wesley's bed 415,107,-1050 with an escort.
+- Day 600 dusk. Went to bed 429,107,-1022 in Billy's sight. Health 20, hunger 19. Billy, Kimberly, Lewis, Troi, Trini all holding at the row; no walk named.
+- 21:51 act: {"actions":[],"say":"Morning, row. Zack awake at 430,107,-1023, health 20, hunger 19. No walk named. Holding in sight."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- 22:04 act: {"actions":[],"say":"Morning, row. Zack holding at 430,107,-1023, health 20, hunger 19. Billy's walk is Billy's and Jason's; I stay put."}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
