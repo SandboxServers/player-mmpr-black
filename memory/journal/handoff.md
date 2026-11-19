@@ -1,5 +1,6 @@
-# Handoff, Zack, day 552 night
+# Handoff, Zack, day 555
 
-- Slept at my bed 443,107,-1023 at the row. Health 20, hunger 20, unarmed, pack empty.
-- No errand out. Safe, not enclosed.
-- Next at dawn: hold for Billy's named potato walk (armed, named aloud). Walk only with a sword and company, in daylight. Eat at hunger 18 or below from shared food (Billy 4 potatoes, Clark 6, Riker 7).
+- At the row, 430,107,-1034, beside Billy and Lewis. Health 20, hunger 20, unarmed, no pack.
+- Holding for Billy's named daylight walk. Wesley still missing; Billy holds 21 potatoes for him and Lewis.
+- No errand out. Not enclosed, but in the group's sight.
+- Next: hold for Billy's call. Eat at hunger 18 or below from shared food. Sleep at dusk beside a bed in Billy's sight (bed 429,107,-1036 or 443,107,-1023). Sleep only works at night.
