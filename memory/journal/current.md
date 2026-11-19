@@ -26,3 +26,5 @@
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
 - 22:04 act: {"actions":[],"say":"Morning, row. Zack holding at 430,107,-1023, health 20, hunger 19. Billy's walk is Billy's and Jason's; I stay put."}
 - 22:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Zack to bed 429,107,-1022, in Billy's sight. No walk. Hunger 19, eating at 18."}
+- 22:12 act: {"say":"Zack here at my bed, dusk. Holding in Billy's sight, no walk. Billy, I wait for your call.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addres
+- 22:12 act: {"say":"Night, row. Zack at my bed 429,107,-1022, in Billy's sight. Health 20, hunger 19. No walk. Goodnight.","actions":[{"do":"sleep"}]}
