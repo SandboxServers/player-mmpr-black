@@ -32,4 +32,6 @@
 
 - Day 615: Held at the row from morning to dusk with no walk named; Billy said hold until a route is verified. Sleep worked at dusk from my bed square. A bed "use" was refused once for Lewis ("that block is a bed"), so stand beside the bed and call sleep.
 
+- Day 623: Held at the row all day with no walk named. Sleep at dusk from beside my bed worked. goto to MacDonald failed when he was out of sight; keep food for him until he is in sight.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
