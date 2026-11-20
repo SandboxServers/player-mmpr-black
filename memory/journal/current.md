@@ -1,17 +1,1 @@
-Day 615, night. At my bed 443,107,-1023 in Billy's sight, Trini beside me. Health 20, hunger 19. Holding; Billy is resting and has named no walk. Waiting for his call.
-- 02:44 act: {"say":"Morning, Billy. Zack at my bed 443,107,-1023, health 20, hunger 19. Holding in your sight, armed, waiting for your named walk."}
-- Morning: heard bows to the southwest and west. Billy wants a verified west route; no walk named to me. Holding at bed, health 20, hunger 19.
-- 02:52 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Zack to my bed 443,107,-1023, in Billy's sight. Holding for the night, no walk."}
-- 02:53 act: {"say":"Zack here. Holding in the row by my bed, Trini beside me. No walk named yet. Billy, I'll wait for your call.","actions":[]}
-- 02:57 act: {"say":"Zack at my bed, holding beside Trini, armed. Two pillagers to the south, 15 off. Billy, no walk from me without your call.","actions":[]}
-- 03:05 act: {"say":"Dusk, row. Zack going to my bed 443,107,-1023 in Billy's sight, Trini close by. No walk. Sleeping.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 03:06 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Night, row. Zack going to bed at 443,107,-1023, no walk. Lewis, you're close, stay in the row."}
-- 03:06 act: {"actions":[{"do":"sleep"}]}
-- 03:11 act: {"actions":[],"say":"Morning, row. Zack here at 444,107,-1037, health 20, hunger 19, armed with a wooden sword. Holding for Billy's named walk. Sorry about Riker. Kimberly, keep north to the row."}
-- 03:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Zack holding at 444,107,-1037, no walk. Goodnight."}
-- 03:55 act: {"actions":[],"say":"Tommy, Zack here, next to Picard at 444,107,-1037. Welcome to the row. I have a spare wooden sword; Wesley, if you can see me, come to Picard's bed and I'll hand it over in daylig
-- 03:57 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, Billy. I am at the bed beside Picard in the row, holding my four potatoes until my hunger falls to 18."}
-- 04:00 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack at the bed beside Picard, holding, no walk. Hunger 19, four potatoes kept for when I need them."}
-- 04:12 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Zack holding at the bed beside Tommy, no walk for me. Sleeping in the row's sight."}
-- 04:17 act: {"say":"Zack here, holding in the row, health 20, hunger 19. Billy, I wait for your named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed",
-- Day 620 morning: no walk named for Zack. Holding in the row, health 20, hunger 19. Told Billy I wait for his call.
+# Journal
