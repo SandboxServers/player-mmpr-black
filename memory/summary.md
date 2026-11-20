@@ -1,10 +1,10 @@
 # Summary, Zack Taylor
 
-Day 613, woke after sleep at dusk. Standing near bed 429,107,-1021 (beds at 429,107,-1022/-1023 and 443,107,-1022/-1023), in Billy's sight at the row. Health 20, hunger 19 (eat at 18).
+Day 615, slept at dusk beside bed 443,107,-1023 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18).
 
 Inventory: 4 potatoes, wooden sword.
 
-Group at the row: Billy (leader, names every walk), Jason, Trini, Troi, Kimberly, Riker (3 potatoes), Picard, Lewis, MacDonald, Worf, Wesley, Leonardo, Chapman, Data, Tommy, Clark.
+Group at the row: Billy (leader, names every walk), Jason, Trini, Troi (hurt, 13.9), Kimberly, Riker, Picard, Lewis, MacDonald, Worf, Wesley, Leonardo, Chapman, Data, Tommy, Clark.
 
 Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 466,106,-1072.
 
