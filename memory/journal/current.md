@@ -11,3 +11,4 @@
 - Day 674 dusk: went toward bed 443,107,-1037 but sleep failed, not night yet. Holding near beds, health 20, hunger 19. Waiting for true night.
 - 22:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Evening, row. Zack going to my bed at 443,107,-1037 in Billy's sight. Hunger 19, health 20, still holding for Bill
 - 22:30 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night in the row. Zack going to my bed to rest, holding for Billy's walk in the morning. Hunger 19."}
+- 22:34 act: {"say":"Good morning, Billy. Zack holding at my bed, health 20, hunger 19, sword in pack. Waiting for your named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on"
