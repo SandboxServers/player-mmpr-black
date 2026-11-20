@@ -1,16 +1,1 @@
 # Journal
-- 18:00 act: {"say":"Morning, row. Zack at my bed 443,107,-1064, health 20, hunger 19. Holding for Billy's named walk. Billy, tell me when to go.","reasoning":"Morning hold. No walk named. Hunger 19, above eating threshold.
-- Day 662: Worf wants Billy's word before a potato. Billy named Clark as escort to the middle chest, no west walk. I am not named; holding at bed. Tommy in reach, hunger 16, has 2 potatoes.
-- Day 661 night: slept at bed 443,107,-1064 in the row's sight; woke to day 662 with health 20, hunger 19. No walk named overnight.
-- Day 661 morning: said I hold at bed 443,107,-1064 for Billy's walk. Waiting. Hunger 19, health 20.
-- 18:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night, row. Zack in my bed 443,107,-1064, health 20, hunger 19. No walk named; sleeping in Billy's sight.","reason
-- 18:17 act: {"say":"Worf, Zack here at my bed, health 20, hunger 19. I have 4 potatoes. Tell me if you want one; I will hand it to you in the row.","reasoning":"Worf has no food at hunger 18. Offer, do not force.
-- 18:36 act: {"say":"Morning, row. Zack here, health 20, hunger 19, 4 potatoes. Holding for Billy's call. Tommy, you're at hunger 16, want a potato?","intent":{"goal":"hold_row_for_billy","program":"rest","argumen
-- Day 663: Tommy in reach at my bed (health 15, hunger 16). Offered him a potato. No walk named. Holding in the row, hunger 19.
-- 18:37 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, one potato coming your way. Eat it when hunger allows. No walk named yet; holding."}
-- Day 663 morning: gave Tommy 1 potato (first try too close, then stepped back and gave again). Now 3 potatoes. Holding at my bed for Billy's named walk. Beverly asked about sheep and oak logs; I have not seen any.
-- 18:37 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1067}},{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, stepping back a pace to hand you a potato. Beverly, no food to 
-- 18:37 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1065}}],"say":"Tommy, I can't see you now. I'm back by my bed in the row. Say where you are and I'll come to you with the potato."}
-- 18:37 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, here's a potato. Eat when hunger is low."}
-- 18:42 act: {"say":"Billy, Zack at my bed in the row, health 20, hunger 19, armed with my wooden sword, 3 potatoes. Holding for your named call. Tell me when to go."}
-- 18:48 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night, row. Zack in my bed 443,107,-1064, health 20, hunger 19. No walk named; sleeping in Billy's sight."}
