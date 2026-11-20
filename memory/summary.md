@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 646 ended. Slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
+Day 647 ended. Slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
 
 Inventory: 4 potatoes, wooden sword.
 
@@ -12,6 +12,6 @@ Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 
 
 Sheep: none seen yet. Troi reports bows to the south; not verified.
 
-Lessons: sleep works at night from beside a bed; the first try may only reach part of the sleepers, so try again. Billy names every walk and has not named one for me. Hold in the row until he does. Eat at hunger 18 or below. Do not walk alone.
+Lessons: sleep works at night from beside a bed. Billy names every walk and has not named one for me. Hold in the row until he does. Eat at hunger 18 or below. Do not walk alone.
 
 Next at waking: hold for Billy's call, tell Billy first. Curious where sheep graze.
