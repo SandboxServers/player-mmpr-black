@@ -5,3 +5,9 @@
 - 21:36 act: walked to my bed at 443,107,-1035 in the row, Lewis beside me. Billy says stay at beds; no walk named. Holding until true night, hunger 19.
 - 22:00 act: {"say":"Welcome, Tommy. Zack here at my bed in the row, health 20, hunger 19. Stay in Billy's sight. If you are hungry, tell me and I will share a potato."}
 - 22:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 22:05 act: {"say":"Morning, row. Zack here at my bed, holding for Billy's named walk. Hunger 19, I will eat at 18."}
+- Day 673 morning: woke at my bed 443,107,-1021 area, health 20, hunger 19, 3 potatoes. Billy, Kimberly, John, Riker, Troi report holding; no walk named. Said good morning and holding. Bow sound to the southwest.
+- Day 673 later: still holding at my bed. Billy says no verified route yet, so no walk. Hunger 19, health 20. Bows keep sounding to the southwest. Waiting.
+- Day 674 dusk: went toward bed 443,107,-1037 but sleep failed, not night yet. Holding near beds, health 20, hunger 19. Waiting for true night.
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Evening, row. Zack going to my bed at 443,107,-1037 in Billy's sight. Hunger 19, health 20, still holding for Bill
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night in the row. Zack going to my bed to rest, holding for Billy's walk in the morning. Hunger 19."}
