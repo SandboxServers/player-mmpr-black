@@ -12,3 +12,8 @@
 - 22:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Evening, row. Zack going to my bed at 443,107,-1037 in Billy's sight. Hunger 19, health 20, still holding for Bill
 - 22:30 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night in the row. Zack going to my bed to rest, holding for Billy's walk in the morning. Hunger 19."}
 - 22:34 act: {"say":"Good morning, Billy. Zack holding at my bed, health 20, hunger 19, sword in pack. Waiting for your named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on"
+- 22:43 act: {"say":"Zack here, health 20, hunger 19. Holding at my bed in Billy's sight. Waiting for the named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"note":"hold at bed in si
+- 22:43 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 22:44 act: {"say":"Morning, Tommy. Zack here, health 20, hunger 19. Holding in the row for Billy's call. MacDonald, I can share a potato when you ask.","intent":{"goal":"hold_for_billy_call","program":"rest","ar
+- 23:03 act: {"say":"Kimberly, Zack here at my bed, health 20, hunger 19. Glad you are close. Have you seen anything new to the west or south?","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{
+- 23:11 act: {"say":"MacDonald, Zack here at my bed in your sight. You are at health 11. Would you like a potato? Say yes and I will give one."}
