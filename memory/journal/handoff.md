@@ -1,7 +1,7 @@
-# Handoff, Zack, day 619 (night)
+# Handoff, Zack, day 623 (night)
 
-- Asleep at bed 443,107,-1063 in the row, beside Tommy, in Billy's sight. Not in danger.
+- Asleep at bed 444,107,-1065 in the row, beside Tommy, in the group's sight. Not in danger.
 - Health 20, hunger 19, 4 potatoes, wooden sword. Eat at hunger 18 or below.
-- No walk named for Zack. Billy's west walk to Wesley (with Tommy and Picard) turned back: the way was blocked.
+- Still no walk named by Billy. MacDonald (health 7, 5 potatoes now per his word) is in the row, out of my sight. Hand over potatoes only if he is in sight and in need.
 - Next at waking: hold for Billy's named call in daylight. Do not walk alone. Tell Billy first.
 - Sheep and water still unknown.
