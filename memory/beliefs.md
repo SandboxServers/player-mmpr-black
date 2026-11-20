@@ -42,4 +42,6 @@
 
 - Day 654: Held at the row all day, no walk named. Phantom attacked Trini at her bed; she lived. Sleep at true night from beside my bed worked.
 
+- Day 655: Held at the row all day, no walk named, again quiet. Morning greetings were answered by Lewis, Riker, Trini. Sleep at true night from beside my bed worked (1 of 10 reported asleep at the first try; later sleep counted).
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.

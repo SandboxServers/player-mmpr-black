@@ -1,10 +1,10 @@
 # Summary, Zack Taylor
 
-Day 654: slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
+Day 655: slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
 
 Inventory: 4 potatoes, wooden sword.
 
-Group at the row: Billy (leader, names every walk), Jason, Trini, Kimberly (holds a potato for Billy), Picard, MacDonald (health 11, hunger 16), Worf, Wesley, Laforge, John, Tommy (health 15, hunger 16, 2 potatoes), Beverly, Lewis, Riker, Deanna (Troi).
+Group at the row: Billy (leader, names every walk), Jason, Trini (health 17, hunger 17, offers food to MacDonald and Tommy at hunger 10), Kimberly, Picard, MacDonald (health 11, hunger 16), Worf, Wesley, Laforge, John, Tommy (health 15, hunger 16, 2 potatoes), Beverly, Lewis, Riker, Deanna (Troi).
 
 Weakest: Tommy and MacDonald. Give potatoes only when in my sight and at hunger 10 or so.
 

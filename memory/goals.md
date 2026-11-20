@@ -6,7 +6,7 @@
 4. Sleep at night in my bed at 443,107,-1064 in the group's sight. Sleep fails at dusk; wait for true night.
 5. Walk with the group on Billy's named call, in daylight, to the trees or the potato field.
 6. Help Picard, Tommy and Lewis reach the group in daylight when they are in reach.
-7. Share food with the weakest in reach. Tommy (hunger 16, 2 potatoes) and MacDonald (health 7) are the ones to watch. Check before giving.
+7. Share food with the weakest in reach. Tommy (hunger 16) and MacDonald (health 11, hunger 16) are the ones to watch. Trini has offered food when they reach 10. Check before giving.
 8. Recover my pack near 386,107,-1055 only with four or more in sight.
 9. Find water and sheep, in company, in daylight. Nobody in the row has seen sheep yet. Bows reported to the south by Troi; go and see only with the group.
 10. Keep the 3 feathers for a fair trade with Worf. Not pressing.
