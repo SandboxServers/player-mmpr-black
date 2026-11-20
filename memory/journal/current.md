@@ -13,3 +13,14 @@
 - Day 666 evening: still no walk named from Billy all day. Tommy in reach, health 15, hunger 16. Holding at the row, hunger 19. Will sleep in bed beside me at 429,107,-1064 at true night.
 - Day 666 morning: Riker greeted me. Replied, still holding at the row. No walk from Billy yet. Hunger 19, will eat at 18.
 - 19:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1064}}],"say":"Night, row. Zack at my bed by 429,107,-1064, health 20, hunger 19. No walk named by Billy today; sleeping in your sight."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night, row. Zack going to my bed at 443,107,-1064, in Billy's sight. No walk tonight. Hunger 19, I will eat at 18.
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night, row. Sleep was partial; Zack trying the bed at 443,107,-1064 again, in sight. No walk named."}
+- 19:54 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack in the bed by 443,107,-1064, in Billy's sight. No walk named. Sleeping."}
+- 19:54 act: {"actions":[],"say":"Morning, row. Zack awake at the bed by 429,107,-1051, health 20, hunger 19, 3 potatoes. Holding for Billy's named walk. Billy, your word?"}
+- 19:58 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1037}}],"say":"Billy, Zack heard you. Coming to the middle chest with my wooden sword, in your sight, ready for the escort."}
+- 19:59 act: {"actions":[{"do":"use","at":{"x":447,"y":107,"z":-1037},"item":"wooden_sword"}],"say":"Here, Billy, at the middle chest in your sight. Wooden sword readied. Holding for your named walk."}
+- 20:00 act: {"actions":[{"do":"use","at":{"x":440,"y":108,"z":-1036},"item":"wooden_sword"}],"say":"Billy, Zack named as escort, arming now with the wooden sword, in your sight. Ready to walk."}
+- 20:00 act: {"actions":[{"do":"use","at":{"x":447,"y":107,"z":-1033},"item":"wooden_sword"}],"say":"Arming with my wooden sword, still in your sight, Billy."}
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to you, Billy. Sword is in my pack, I could not get it into my hand. Will stay in your sight."}
+- 20:00 act: {"actions":[],"say":"Billy is out of my sight. Zack holding at the middle chest, not walking alone. Picard, Riker, are you with me? Waiting for Billy's gather."}
+- 20:01 act: {"actions":[],"say":"Here, Billy. Zack is with you and staying at the chest. Sword is in my pack, not in hand. No walk until you name it."}
