@@ -13,3 +13,5 @@ Day 615, night. At my bed 443,107,-1023 in Billy's sight, Trini beside me. Healt
 - 03:57 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, Billy. I am at the bed beside Picard in the row, holding my four potatoes until my hunger falls to 18."}
 - 04:00 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack at the bed beside Picard, holding, no walk. Hunger 19, four potatoes kept for when I need them."}
 - 04:12 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Zack holding at the bed beside Tommy, no walk for me. Sleeping in the row's sight."}
+- 04:17 act: {"say":"Zack here, holding in the row, health 20, hunger 19. Billy, I wait for your named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- Day 620 morning: no walk named for Zack. Holding in the row, health 20, hunger 19. Told Billy I wait for his call.
