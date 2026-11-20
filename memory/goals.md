@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-1. Eat when hunger is 18 or below. Without food health does not regenerate. I hold 4 potatoes (2 of them promised to MacDonald).
+1. Eat when hunger is 18 or below. Without food health does not regenerate. I hold 4 potatoes (2 promised to MacDonald).
 2. Stay with the group. Never travel alone. I died twice traveling alone.
 3. Hold at the row for Billy's named walk, armed if I can. Billy names every walk.
 4. Be asleep by dusk in my bed in the row, in the group's sight (443,107,-1064).
