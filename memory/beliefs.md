@@ -34,4 +34,6 @@
 
 - Day 623: Held at the row all day with no walk named. Sleep at dusk from beside my bed worked. goto to MacDonald failed when he was out of sight; keep food for him until he is in sight.
 
+- Day 625: Holding at the row all day for Billy's call, with the group in sight, was quiet again. Billy's named walk for Picard and Tommy did not include me. A brief "hold" intent finished at once; a longer rest-hold ran fine. Sleep at dusk from beside my bed worked (day 626).
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
