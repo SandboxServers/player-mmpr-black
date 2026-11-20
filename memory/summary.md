@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 648 ended. Slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
+Day 650 ended. Slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
 
 Inventory: 4 potatoes, wooden sword.
 
