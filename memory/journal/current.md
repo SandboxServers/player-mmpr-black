@@ -24,3 +24,6 @@
 - 23:34 act: {"say":"Zack here, health 20, hunger 19. Holding in the row for Billy's named walk. Trini, Picard, good morning.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"note":"hold in t
 - 23:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
 - 23:46 act: {"say":"Zack at my bed 443,107,-1037, health 20, hunger 19. Holding in Billy's sight. Going to rest at true night."}
+- 23:51 act: {"say":"Lewis, I'm here at the row, holding for Billy's walk.","reasoning":"Hunger 19, so no food yet. Billy has named no walk. Lewis is beside me, so I greet him and hold."}
+- 23:55 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"note":"hold at bed 443,107,-1037 in sight; no walk named"},"wake_on":["directly_addressed","precondition_failed","unexpected_dama
+- 23:55 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
