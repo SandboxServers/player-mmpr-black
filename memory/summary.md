@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 637, asleep at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
+Day 640, slept at my bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 19 (eat at 18 or below).
 
 Inventory: 4 potatoes, wooden sword.
 
@@ -14,4 +14,4 @@ Sheep: nobody in the row has seen any yet.
 
 Lessons: sleep works at true night from beside a bed. Billy names every walk and has not named one for me. Hold in the row until he does. Eat at hunger 18 or below. Do not walk alone.
 
-Next at waking: hold for Billy's call in daylight. Curious where sheep graze. Tell Billy first.
+Next at waking: hold for Billy's call in daylight, tell Billy first. Curious where sheep graze.

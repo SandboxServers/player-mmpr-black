@@ -1,14 +1,1 @@
 # Journal
-- Day 637, morning. Health 20, hunger 19. Holding at my bed in the row with Jason, Trini and Billy's sight. No walk named. Said good morning and set a hold intent until Billy calls.
-- Kimberly was hit twice from behind by something unseen near 413,107,-1041 and is back in the row at health 15. I stay put at my bed. Still no walk named. Hunger 19, so I wait before eating.
-- 10:02 act: {"say":"Morning, row. Zack at my bed 443,107,-1064, holding in Billy's sight. Billy, no walk for me yet. Sheep first when you call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments"
-- Tommy (hunger 16) says he will eat his own potato first and call me if he needs one. I still hold 4 potatoes at hunger 19. Holding at my bed.
-- Night of day 637: slept beside a bed in the row, 7 of 10 asleep, and woke on day 638 at bed 443,107,-1051 beside Trini. Health 20, hunger 19, 4 potatoes. No walk named yet. Still holding for Billy.
-- Billy says: no walk, hold at the row until he has a verified west route. He asks me to stay near MacDonald (health 7) and keep watch. Wesley is unarmed and asked Tommy for a sword; Tommy has none to spare. I hold at my bed.
-- Day 638, after dusk and into morning again. Billy still names no walk and says MacDonald (16 hunger, 7 health) is the weakest. I still hold at my bed with 4 potatoes. Waiting.
-- 10:08 act: {"say":"Tommy, Zack here, holding at my bed. You are at hunger 16 and I have 4 potatoes. I am not in reach of you yet. When you come into the row, I will hand you one."}
-- Night of day 639. Holding at bed 443,107,-1049 beside 443,107,-1051 with Trini in reach. Jason and Riker report holding too, no walk. Health 20, hunger 19. Still waiting for Billy.
-- Day 640, dusk. Billy: no walks until his morning call, stay close to Trini and him tonight. Kimberly hit from behind near 413,-1041. I am at bed 443,107,-1049 beside 443,107,-1051, health 20, hunger 19, 4 potatoes. Going to sleep here in Billy's sight.
-- Woke on day 640 in the row, beside my bed. Billy says Clark's spare sword goes to Wesley at first light in daylight. No walk named. Still holding, hunger 19.
-- 10:18 act: {"say":"Morning, Billy. Zack at bed 443,107,-1051, health 20, hunger 19. Holding in the row. I will go wherever you name, in daylight, with the group.","intent":{"goal":"hold_for_billy_call","program"
-- 10:43 act: {"actions":[{"do":"note","text":"Morning of day 639. Holding at bed 443,107,-1049 in the row. Keeping 4 potatoes for anyone at hunger 10 or below."}],"say":"Morning, row. Zack at my bed, health 20, hu
