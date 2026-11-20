@@ -9,3 +9,7 @@
 - Day 666 morning: woke at bed 429,107,-1063 in the row, health 20, hunger 19, 3 potatoes. Riker in reach. No walk named; holding for Billy.
 - 19:03 act: {"say":"Morning, row. Zack holding at my bed, health 20, hunger 19. MacDonald, you're at health 11; I have 3 potatoes, come into my sight and say so and I'll share one."}
 - 19:28 act: {"say":"Morning, Billy. Zack awake at my bed, health 20, hunger 19, 3 potatoes. Holding at the row for your named walk.","actions":[]}
+- 19:29 act: {"say":"Morning, Riker. Zack here, health 20, hunger 19. Holding at the row for Billy's named walk. Billy, still waiting on your word."}
+- Day 666 evening: still no walk named from Billy all day. Tommy in reach, health 15, hunger 16. Holding at the row, hunger 19. Will sleep in bed beside me at 429,107,-1064 at true night.
+- Day 666 morning: Riker greeted me. Replied, still holding at the row. No walk from Billy yet. Hunger 19, will eat at 18.
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1064}}],"say":"Night, row. Zack at my bed by 429,107,-1064, health 20, hunger 19. No walk named by Billy today; sleeping in your sight."}
