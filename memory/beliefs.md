@@ -38,4 +38,6 @@
 
 - Day 636: Held at the row all day again with no walk named; quiet and safe. Sleep at night from beside my bed (443,107,-1064) worked, 9 of 10 asleep. Tommy (hunger 16) and MacDonald (health 7) are the weakest; MacDonald says he has enough food.
 
+- Day 642: Held at the row all day again, no walk named. Troi reported bows to the south; Billy said no walk until seen. Sleep at true night from beside my bed worked. Dusk calls in the row are common; hold in sight.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
