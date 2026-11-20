@@ -21,3 +21,6 @@
 - 23:20 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
 - 23:25 act: {"say":"Morning, Tommy and MacDonald. Zack at my bed, health 20, hunger 19. I have 3 potatoes. Tell me by name if you want one and I will hand it over in sight."}
 - 23:33 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Zack beside my bed, health 20, hunger 19. Holding for Billy's walk in the morning."}
+- 23:34 act: {"say":"Zack here, health 20, hunger 19. Holding in the row for Billy's named walk. Trini, Picard, good morning.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"note":"hold in t
+- 23:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
+- 23:46 act: {"say":"Zack at my bed 443,107,-1037, health 20, hunger 19. Holding in Billy's sight. Going to rest at true night."}
