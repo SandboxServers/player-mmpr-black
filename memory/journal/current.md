@@ -1,1 +1,11 @@
 # Journal
+- Day 663 morning: at bed 443,107,-1064, Tommy in reach. Said good morning, offered Tommy a potato, holding for Billy's walk.
+- Day 664 morning: Tommy has his own food, no give needed. Billy still names no walk; I hold at my bed, hunger 19.
+- 18:50 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Holding for Billy's walk. Tommy, you're at hunger 16. Want a potato? Say so and I'll hand one over.","intent":{"goal":"hold_for_billys_walk","pro
+- 18:50 act: {"say":"Morning, Billy. Zack holding at my bed, health 20, hunger 19. Tommy, good, you have food. No walk for me until you name one."}
+- Day 664: MacDonald has his own potatoes and is steady; no give. Still no walk named. Holding at bed, hunger 19.
+- Day 665 evening: Billy going to bed, no walk named all day. I held at my bed, hunger 19, health 20. Will sleep at true night.
+- Night 665: no walk named all day. Holding at bed beside 443,107,-1064, health 20, hunger 19. Going to sleep.
+- Day 666 morning: woke at bed 429,107,-1063 in the row, health 20, hunger 19, 3 potatoes. Riker in reach. No walk named; holding for Billy.
+- 19:03 act: {"say":"Morning, row. Zack holding at my bed, health 20, hunger 19. MacDonald, you're at health 11; I have 3 potatoes, come into my sight and say so and I'll share one."}
+- 19:28 act: {"say":"Morning, Billy. Zack awake at my bed, health 20, hunger 19, 3 potatoes. Holding at the row for your named walk.","actions":[]}
