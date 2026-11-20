@@ -8,7 +8,7 @@ Group at the row: Billy (leader, names every walk), Jason, Trini, Troi, Kimberly
 
 Food: ripe potatoes at the field near 467-469,107,-1068 to -1072. Water lead at 466,106,-1072.
 
-Lessons: sleep works only at dusk or night, not in daylight. Billy names every walk. Hold in the row until he does. Eat at hunger 18 or below. Do not walk alone. West route to Wesley is blocked; Billy calls the next try.
+Lessons: sleep works at dusk or night. Billy names every walk. Hold in the row until he does. Eat at hunger 18 or below. Do not walk alone. West route to Wesley (416,107,-1050) is blocked; Billy calls the next try.
 
 Danger: bows drawn to the southwest and south.
 
