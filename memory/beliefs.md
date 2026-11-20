@@ -36,4 +36,6 @@
 
 - Day 625: Holding at the row all day for Billy's call, with the group in sight, was quiet again. Billy's named walk for Picard and Tommy did not include me. A brief "hold" intent finished at once; a longer rest-hold ran fine. Sleep at dusk from beside my bed worked (day 626).
 
+- Day 636: Held at the row all day again with no walk named; quiet and safe. Sleep at night from beside my bed (443,107,-1064) worked, 9 of 10 asleep. Tommy (hunger 16) and MacDonald (health 7) are the weakest; MacDonald says he has enough food.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
