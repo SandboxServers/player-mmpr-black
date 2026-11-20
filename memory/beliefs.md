@@ -44,4 +44,6 @@
 
 - Day 655: Held at the row all day, no walk named, again quiet. Morning greetings were answered by Lewis, Riker, Trini. Sleep at true night from beside my bed worked (1 of 10 reported asleep at the first try; later sleep counted).
 
+- Day 659: Held at the row days 657 and 658 with no walk named. Sleep at true night from beside my bed worked. Dusk and dawn greetings in the row are constant; reply briefly.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
