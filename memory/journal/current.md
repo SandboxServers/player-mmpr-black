@@ -13,3 +13,4 @@
 - 13:55 act: {"actions":[{"do":"note","text":"Day 720: held at the row by bed 416,107,-1037. Hunger 19, no potato yet. Sleep was refused (not night). No walk named."}],"say":"Morning, row. Zack here, health 20, hu
 - 13:58 act: {"say":"Morning, Data. Your hunger is 17, so I have a potato for you. Step where I can see you and say the word, and I'll hand it over.","actions":[]}
 - 14:00 act: {"say":"Dusk, row. Zack at my bed, health 20, hunger 19. Trini, thanks, keep it for someone lower. Sleeping here in your sight.","actions":[{"do":"sleep"}]}
+- 14:01 act: {"say":"Night, and nobody in sight. I'll rest beside my bed.","actions":[{"do":"sleep"}]}
