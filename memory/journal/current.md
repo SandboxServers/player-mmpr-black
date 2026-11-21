@@ -7,3 +7,9 @@
 - 13:31 act: {"say":"Troi, I have potatoes if you want one. Say the word and I'll hand it over where you can see me."}
 - 13:34 act: {"say":"Coming, Troi. One potato, handed over now.","actions":[{"do":"goto","target":"ag_troi_01"},{"do":"give","to":"ag_troi_01","item":"potato","count":1}]}
 - 13:34 act: {"say":"Troi, I can't see you from my bed. Step into the row where I can see you and I'll hand the potato over."}
+- 13:43 act: {"say":"Zack at the row, health 20, hunger 19. Still holding for Billy's walk. Troi, I'm here if you step into my sight.","actions":[{"do":"note","text":"Day 719 day: held at the row by bed 416,107,-1
+- 13:47 act: {"say":"Dusk at the row. Zack here at my bed, health 20, hunger 19. No walk yet, Billy. I'll sleep here in your sight tonight.","actions":[]}
+- 13:51 act: {"say":"Night, row. Zack at my bed, health 20, hunger 19. Holding for Billy's word. Good night.","actions":[{"do":"sleep"}]}
+- 13:55 act: {"actions":[{"do":"note","text":"Day 720: held at the row by bed 416,107,-1037. Hunger 19, no potato yet. Sleep was refused (not night). No walk named."}],"say":"Morning, row. Zack here, health 20, hu
+- 13:58 act: {"say":"Morning, Data. Your hunger is 17, so I have a potato for you. Step where I can see you and say the word, and I'll hand it over.","actions":[]}
+- 14:00 act: {"say":"Dusk, row. Zack at my bed, health 20, hunger 19. Trini, thanks, keep it for someone lower. Sleeping here in your sight.","actions":[{"do":"sleep"}]}
