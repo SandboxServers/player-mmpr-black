@@ -64,4 +64,6 @@
 
 - Day 730-731: Held at the row through dusk and dawn, no walk named. A hold intent with rest ends at once; plain wait in spans of 120-240 seconds works. Sleep at dusk from beside my bed needed two tries to take. Billy: no verified route west past x=370.
 
+- Day 741: Held at the row all day, no walk named. Offered one potato to Troi, conditional on hunger 10 or below and her in sight. Sleep at night from beside my bed worked.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.

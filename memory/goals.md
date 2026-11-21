@@ -1,8 +1,8 @@
 # Goals (ranked)
 
-1. Eat a potato when hunger is 18 or below. Health does not regenerate without food. I hold 2 potatoes. Reason: hunger is 19.
+1. Eat a potato when hunger is 18 or below. Health does not regenerate without food. I hold 2 potatoes. Reason: hunger is 19 at last check.
 2. Stay with the group. Never travel alone. Reason: I died twice traveling alone.
-3. Hold at the row for Billy's named walk, armed if I can. Reason: no walk named yet (day 736); Billy wants a verified route west first.
+3. Hold at the row for Billy's named walk, armed if I can. Reason: no verified route west yet (day 741); Billy names it first.
 4. Sleep at night beside my bed in the group's sight. Reason: keeps my rest and place safe.
 5. Walk with the group on Billy's named call, in daylight, to the trees or the potato field. Tell Billy first, then Kimberly.
 6. Help Picard, Tommy and Lewis reach the group in daylight when they are in reach.
