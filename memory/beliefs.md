@@ -48,4 +48,6 @@
 
 - Day 680: Held at the row all day, no walk named. A rest intent with wake_on "unexpected_damage" was rejected as invalid; use wake_on values from the allowed list only (directly_addressed, damage-type events, goal_completed, precondition_failed). Plain wait works for holding. Sleep at dusk from beside my bed worked.
 
+- Day 694: Held at the row all day and night, no walk named. Sleep at night from beside my bed worked. Data (health 13) and Troi (health 14) are weakest in the row; offer food by name when they are in sight.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
