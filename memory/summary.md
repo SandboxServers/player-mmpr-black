@@ -1,12 +1,12 @@
 # Summary, Zack Taylor
 
-Day 736, asleep beside bed 416,107,-1037 at the row, in the group's sight. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
+Day 737, asleep beside bed 416,107,-1037 at the row, in the group's sight. Health 20, hunger 19 at sleep. Inventory: 2 potatoes, wooden sword.
 
 Group at the row, holding for Billy's named walk: Billy, Jason, Trini, Kimberly, Troi, Data, MacDonald, Worf, Wesley, Clark, Beverly, Leonardo, Lewis, Picard.
 
 Lessons:
-- Billy names walks by name; none yet. Billy wants a verified route west before any walk. Hold at the row.
-- Sleep beside my bed in sight. Sleep fails if it is not yet night.
+- Billy names walks by name; none yet. Billy wants a verified route west past x=370 before any walk. Hold at the row.
+- Sleep beside my bed in sight, only at night. Sleep fails in daylight.
 - Do not walk alone. Offer food only to someone in my sight, and accept a no.
 - Intent with wake_on "rest" is rejected; use directly_addressed, unexpected_damage or precondition_failed only. Plain wait works for holding.
 
