@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 747, night. Slept beside bed 416,107,-1037 at the row, in the group's sight. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
+Day 749, night. Slept beside bed 416,107,-1037 at the row, with Jason, Billy and Wesley near. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
 
 Group holding at the row. Billy has named no walk; no verified route west yet.
 
