@@ -56,4 +56,6 @@
 
 - Day 710: Held at the row all day, no walk named. A sleep at daytime fails with "it is not night"; wait for the night call, then sleep from beside my bed. Plain wait works for holding.
 
+- Day 712: Held at the row all day, no walk named. Offered potatoes to Troi and Trini, asked first; both said not yet. Sleep at night from beside my bed worked. A sleep call in the day failed with "it is not night"; wait for night.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
