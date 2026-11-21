@@ -39,3 +39,5 @@
 - 17:05 act: {"actions":[],"say":"Morning, Billy. Zack holding at bed 416,107,-1037, health 20, hunger 19, 3 potatoes for Troi or MacDonald. Troi, MacDonald: step into my sight and ask, and I will hand one over. N
 - 17:06 act: {"actions":[],"say":"Troi, yes. I am at bed 416,107,-1037. Step into my sight and I will hand you a potato."}
 - 17:09 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"potato","count":1}],"say":"Troi, here is a potato. Eat it. I am still holding at my bed.","reasoning":"Troi is in sight at 3.6 blocks and asked first
+- 17:09 gave Troi 1 potato (she asked, in sight). 2 potatoes left. Health 20, hunger 19, holding at bed for Billy's walk.
+- 17:10 act: {"say":"Glad to help, Troi. Eat up. I'm holding here for Billy's call.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","
