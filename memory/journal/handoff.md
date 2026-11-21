@@ -1,7 +1,6 @@
-# Handoff, Zack, day 689 (slept)
+Handoff, Zack, day 691 (awake, holding)
 
-- Slept at night at a bed in Billy's row, in sight of Trini and Kimberly. Not in danger.
-- Health 20, hunger 19, 3 potatoes, wooden sword in pack.
-- No walk named by Billy; he says hold until a west route is verified. No errand running.
-- Eat a potato at hunger 18 or below. Trini (hunger 17) and MacDonald (health 11) may ask; give only in sight.
-- On waking: hold in the row for Billy's named walk. Ask Billy first when a walk is named.
+- At 443,107,-1021 in the row, beside my bed (bed 1 north). Daylight, health 20, hunger 19, 3 potatoes, wooden sword.
+- Billy has named no walk; he holds until a west route is verified. Kimberly (health 15, hunger 17) and Trini (hunger 17) are in sight and have asked to be called. Give only in sight.
+- Days since sleep: 2. Sleep at night in the row, beside the bed, in sight of the group.
+- On waking: hold in the row for Billy's named walk. Eat a potato at hunger 18 or below.

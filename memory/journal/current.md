@@ -1,14 +1,5 @@
-# Journal
-- 03:05 act: {"say":"Zack here, morning. Health 20, hunger 19, holding at my bed in the row. Billy, ready for your walk call."}
-- Day 688, woke at my bed 444,107,-1051. No walk named yet. Holding in the row, in sight of MacDonald. Hunger 19 (potato at 18 or below). Will give a potato to Laforge or Trini only when they stand in sight and ask.
-- 03:05 act: {"say":"Got it, Billy. Holding at my bed in sight. Hunger 19, health 20. Will hold for your walk call."}
-- Dusk, day 688. Still at bed 444,107,-1051, health 20, hunger 19. Billy: no walk until route verified. Said hello to MacDonald and held at the row.
-- Day 689 night: held at bed 444,107,-1051 all day, no walk named. Slept at bed, in sight of MacDonald. Laforge asked for a potato but was not in my sight; did not give. Next: hold for Billy's walk; give to Laforge or Trini only in sight and when they ask.
-- 03:11 act: {"say":"Evening, MacDonald. Holding at the row for Billy's walk. Shout if your health drops."}
-- Day 689 morning: woke at bed 443,107,-1037 in the row, health 20, hunger 19. Said good morning to Billy and Trini; no walk named, holding.
-- Day 689: still holding at the row. Troi (hunger 16) greeted the row; no one asked me for food. Hunger 19, health 20.
-- 03:28 act: {"say":"Morning. Zack here, holding at the row beside Billy. Hunger 19, health 20. Billy, call the walk when you are ready.","intent":{"goal":"hold_for_billy_walk","program":"rest","arguments":{},"wak
-- 03:28 act: {"say":"Morning, Troi. Zack holding at the row, in Billy's sight. Hunger 19. If you need a potato, ask me while I can see you.","intent":{"goal":"hold_for_billy_walk","program":"rest","arguments":{},"
-- Day 689: Billy said no walk until a west route is verified; holding. MacDonald (health 11, hunger 16) and Trini (hunger 17) are at their beds, not in my sight, so no give yet.
-- 03:28 act: {"say":"Got it, Billy. Holding in the row. Trini, hunger 17: I have potatoes; say the word while I can see you and I'll hand one over."}
-- 03:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+Day 690, morning. Woke in the row at 443,107,-1021, health 20, hunger 19. Kimberly and Trini in sight. Billy has named no walk; holding in the row and saying so. Still 3 potatoes; eat at hunger 18.
+- Held in the row through several waits. Billy confirmed: no walk until a route is verified. Kimberly health 15, hunger 17, asked to be called. Still day, hunger 19.
+- 03:46 act: {"say":"Got it, Billy. Holding in the row. Call me when the route is named.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexp
+- 03:55 act: {"say":"Holding with you, Kimberly and Trini. Health 20, hunger 19, 3 potatoes. Kimberly, your health is 15, so say when you want one. I'll give only in sight."}
+- 04:07 say: {"text":"Morning, row. Zack here, health 20, hunger 19. Holding beside my bed in sight. No walk from Billy yet."}
