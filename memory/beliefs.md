@@ -60,4 +60,6 @@
 
 - Day 714: Held at the row all day, no walk named. Offered a potato to Troi (hunger 16); she will call at 10. Sleep at night from beside my bed worked.
 
+- Day 717: Held at the row all day, no walk named. Sleep at dusk from beside my bed worked. Troi, Worf, Data hungry (16-17) but not in my sight, so no gift.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
