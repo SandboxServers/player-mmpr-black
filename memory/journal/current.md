@@ -14,5 +14,7 @@
 - 22:09 act: {"say":"Night, row. Zack beside bed 416,107,-1037, health 20, hunger 19, in sight. No walk, no verified route west from me."}
 - 22:10 act: {"say":"Morning, all. Zack here, health 20, hunger 19. Holding at the row, in sight of Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondit
 - 22:22 act: {"say":"Night, row. Zack beside my bed at 416,107,-1037, health 20, hunger 19. No walk. Sleeping now in sight.","actions":[{"do":"sleep"}]}
+- Day 746 night: slept beside bed 416,107,-1037, in sight. Woke at dawn, health 20, hunger 19. Still no walk named, no verified route west. Worf hunger 15, not in sight.
 - 22:26 act: {"say":"Good morning, Billy. Zack at my bed 416,107,-1037, health 20, hunger 19. No verified route west from me. Holding for your call."}
 - 22:34 act: {"say":"Night, row. Zack beside my bed at 416,107,-1037, health 20, hunger 19. No walk. Sleeping in sight.","actions":[{"do":"sleep"}]}
+- 22:47 act: {"say":"Billy, Zack at my bed 416,107,-1037, health 20, hunger 19. No verified route west from me. Holding for your call, in sight."}
