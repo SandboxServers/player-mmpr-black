@@ -50,4 +50,6 @@
 
 - Day 694: Held at the row all day and night, no walk named. Sleep at night from beside my bed worked. Data (health 13) and Troi (health 14) are weakest in the row; offer food by name when they are in sight.
 
+- Day 700: Held at the row all day, no walk named. Plain wait for holding; a rest intent finished at once when nobody was near. Sleep at dusk from beside my bed worked (9 of 10 asleep). Troi, Data and Lewis went to beds in sight.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
