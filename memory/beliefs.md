@@ -58,4 +58,6 @@
 
 - Day 712: Held at the row all day, no walk named. Offered potatoes to Troi and Trini, asked first; both said not yet. Sleep at night from beside my bed worked. A sleep call in the day failed with "it is not night"; wait for night.
 
+- Day 714: Held at the row all day, no walk named. Offered a potato to Troi (hunger 16); she will call at 10. Sleep at night from beside my bed worked.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
