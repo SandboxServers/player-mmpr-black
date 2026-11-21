@@ -3,3 +3,8 @@
 - 02:10 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Holding at my bed, in Billy's sight. MacDonald, I have 3 potatoes if you need one. Just ask."}
 - 02:10 act: {"say":"Trini, I can spare one potato. Stand where I can see you and say the word, and I'll hand it over. Holding at my bed."}
 - Wait calls are failing with session errors; holding at the bed and retrying.
+- 02:14 act: {"say":"Morning. Zack here, health 20, hunger 19. Holding at my bed in the row for Billy's named walk.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addr
+- 02:22 act: {"actions":[{"do":"sleep"}],"say":"Zack, dusk. Going to sleep beside my bed in the row, in Billy's sight. Health 20, hunger 19."}
+- 02:27 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Still holding by my bed for Billy's named walk. Trini, MacDonald, say the word and I'll hand over a potato in sight.","intent":{"goal":"hold_for_
+- 02:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack going to bed beside my bed in the row, in Billy's sight. Health 20, hunger 19."}
+- 02:39 say: {"text":"Morning, Billy. Zack holding at my bed, health 20, hunger 19. Holding for your named walk."}
