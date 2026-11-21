@@ -27,3 +27,7 @@
 - 23:51 act: {"say":"Lewis, I'm here at the row, holding for Billy's walk.","reasoning":"Hunger 19, so no food yet. Billy has named no walk. Lewis is beside me, so I greet him and hold."}
 - 23:55 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"note":"hold at bed 443,107,-1037 in sight; no walk named"},"wake_on":["directly_addressed","precondition_failed","unexpected_dama
 - 23:55 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 23:56 act: {"say":"Morning, Lewis. Zack here. Holding at my bed for Billy's named walk. Any word from Billy?"}
+- 23:56 act: {"say":"Got it, Billy. Holding at my bed, health 20, hunger 19. I will eat at 18.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"note":"hold at bed 443,107,-1037 in sight; no w
+- 00:00 act: {"say":"Zack here at my bed, health 20, hunger 19. Troi, Trini: if you are hungry, say so by name and I will hand you a potato in sight."}
+- 00:01 act: {"say":"Sounds good, Trini. Holding at my bed too. Ask when you need it."}
