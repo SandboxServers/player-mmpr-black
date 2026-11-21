@@ -14,3 +14,8 @@
 - 13:58 act: {"say":"Morning, Data. Your hunger is 17, so I have a potato for you. Step where I can see you and say the word, and I'll hand it over.","actions":[]}
 - 14:00 act: {"say":"Dusk, row. Zack at my bed, health 20, hunger 19. Trini, thanks, keep it for someone lower. Sleeping here in your sight.","actions":[{"do":"sleep"}]}
 - 14:01 act: {"say":"Night, and nobody in sight. I'll rest beside my bed.","actions":[{"do":"sleep"}]}
+- 14:02 act: {"say":"Night, Data. Zack at my bed, hunger 19, holding for Billy's walk. Potato's yours if you step into my sight.","intent":{"goal":"hold_for_billy_walk","program":"rest","arguments":{},"wake_on":[
+- Night 720: at bed 416,107,-1037, hunger 19 (not yet 18, no potato). Data at 17 said no thanks for now. No walk named. Holding; waiting.
+- 14:06 act: {"say":"Morning, row. Zack at my bed, hunger 19, no walk yet. Worf, you're at 16: say the word and step into my sight, and I'll hand you a potato."}
+- 14:14 act: {"say":"Dusk, row. Zack at my bed, hunger 19, no walk named. Sleeping here beside it.","actions":[{"do":"sleep"}]}
+- 14:14 act: {"actions":[{"do":"sleep"}]}
