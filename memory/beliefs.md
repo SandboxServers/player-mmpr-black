@@ -54,4 +54,6 @@
 
 - Day 707: Held at the row all day, no walk named. Sleep at night from beside my bed worked. Bcrusher's bed 429,107,-1037 refuses him; Picard's bed 430,107,-1051 works for him. Cow spots 339,104,-979 and 434,106,-1113 (Worf, Jason, Data concur, none walked).
 
+- Day 710: Held at the row all day, no walk named. A sleep at daytime fails with "it is not night"; wait for the night call, then sleep from beside my bed. Plain wait works for holding.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
