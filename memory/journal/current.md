@@ -8,3 +8,7 @@
 - 02:27 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Still holding by my bed for Billy's named walk. Trini, MacDonald, say the word and I'll hand over a potato in sight.","intent":{"goal":"hold_for_
 - 02:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack going to bed beside my bed in the row, in Billy's sight. Health 20, hunger 19."}
 - 02:39 say: {"text":"Morning, Billy. Zack holding at my bed, health 20, hunger 19. Holding for your named walk."}
+- 02:48 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Holding for Billy's call. Laforge, I hear you have no food; I have 3 potatoes and will share when you stand in my sight and ask."}
+- 02:52 act: {"say":"Laforge, I hear you. I can only hand a potato to someone I can see. Step where I can see you and say so, and I'll give you one. Holding for Billy's call."}
+- 03:00 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Zack going to bed beside my bed, in Billy's sight. Health 20, hunger 19. Holding for Billy's walk at waking."}
+- 03:00 act: {"actions":[{"do":"sleep"}]}
