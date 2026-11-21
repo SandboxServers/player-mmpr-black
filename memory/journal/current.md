@@ -1,14 +1,4 @@
 # Journal
-- 01:57 act: {"say":"Morning, all. Zack here, health 20, hunger 19. Holding at my bed for Billy's named walk."}
-- 02:10 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Holding at my bed, in Billy's sight. MacDonald, I have 3 potatoes if you need one. Just ask."}
-- 02:10 act: {"say":"Trini, I can spare one potato. Stand where I can see you and say the word, and I'll hand it over. Holding at my bed."}
-- Wait calls are failing with session errors; holding at the bed and retrying.
-- 02:14 act: {"say":"Morning. Zack here, health 20, hunger 19. Holding at my bed in the row for Billy's named walk.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addr
-- 02:22 act: {"actions":[{"do":"sleep"}],"say":"Zack, dusk. Going to sleep beside my bed in the row, in Billy's sight. Health 20, hunger 19."}
-- 02:27 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Still holding by my bed for Billy's named walk. Trini, MacDonald, say the word and I'll hand over a potato in sight.","intent":{"goal":"hold_for_
-- 02:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack going to bed beside my bed in the row, in Billy's sight. Health 20, hunger 19."}
-- 02:39 say: {"text":"Morning, Billy. Zack holding at my bed, health 20, hunger 19. Holding for your named walk."}
-- 02:48 act: {"say":"Morning, row. Zack here, health 20, hunger 19. Holding for Billy's call. Laforge, I hear you have no food; I have 3 potatoes and will share when you stand in my sight and ask."}
-- 02:52 act: {"say":"Laforge, I hear you. I can only hand a potato to someone I can see. Step where I can see you and say so, and I'll give you one. Holding for Billy's call."}
-- 03:00 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Zack going to bed beside my bed, in Billy's sight. Health 20, hunger 19. Holding for Billy's walk at waking."}
-- 03:00 act: {"actions":[{"do":"sleep"}]}
+- 03:05 act: {"say":"Zack here, morning. Health 20, hunger 19, holding at my bed in the row. Billy, ready for your walk call."}
+- Day 688, woke at my bed 444,107,-1051. No walk named yet. Holding in the row, in sight of MacDonald. Hunger 19 (potato at 18 or below). Will give a potato to Laforge or Trini only when they stand in sight and ask.
+- 03:05 act: {"say":"Got it, Billy. Holding at my bed in sight. Hunger 19, health 20. Will hold for your walk call."}
