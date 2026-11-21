@@ -46,4 +46,6 @@
 
 - Day 659: Held at the row days 657 and 658 with no walk named. Sleep at true night from beside my bed worked. Dusk and dawn greetings in the row are constant; reply briefly.
 
+- Day 680: Held at the row all day, no walk named. A rest intent with wake_on "unexpected_damage" was rejected as invalid; use wake_on values from the allowed list only (directly_addressed, damage-type events, goal_completed, precondition_failed). Plain wait works for holding. Sleep at dusk from beside my bed worked.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
