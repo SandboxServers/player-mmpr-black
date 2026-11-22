@@ -11,3 +11,6 @@
 - 16:50 act: {"actions":[{"do":"sleep"}]}
 - 16:58 act: {"actions":[{"do":"note","text":"Day 801 morning: roll call answered at the row. Health 20, hunger 19, no food, no walk named. Holding at 444,107,-1037 with Kimberly in reach."}],"say":"Zack here at t
 - 17:06 act: {"actions":[{"do":"note","text":"Day 802 morning: holding at 444,107,-1037 in Kimberly's reach. Health 20, hunger 19, no food, no walk named."}],"say":"Morning, row. Zack at 444, health 20, hunger 19,
+- 17:19 act: {"say":"Morning, Kimberly. Zack here, holding at the row, hunger 19. Waiting on Billy's call before any walk."}
+- Day 802 day: woke at 444,107,-1037 beside Kimberly. Health 20, hunger 19, no food, no walk named. Said good morning, holding for Billy.
+- 17:20 act: {"say":"Morning, Billy. Zack here at 444, health 20, hunger 19, no food, sword only. No walk for me yet, holding at the row."}
