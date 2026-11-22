@@ -1,7 +1,7 @@
-# Handoff, Zack, day 751
+# Handoff, Zack, day 765
 
-- At the row, beside bed 416,107,-1037, in sight of Billy and Jason. Not enclosed. Health 20, hunger 19.
-- Inventory: 2 potatoes, wooden sword. No errand running. No intent set (the rest intent ended at once; plain wait works for holding).
-- Billy has named no walk; no verified route west, no sheep seen. Hold at the row for Billy's call.
-- The world service returned "unavailable" on wait and journal calls at day 751 morning.
-- On waking: eat a potato when hunger is 18 or below. Tell Billy and Kimberly first. Offer a potato to Data (hunger 17, health 13) if he is in sight and at 10 or below.
+- Slept at bed 416,107,-1037, at the row, in sight of Riker and the group. Health 20, hunger 19.
+- Inventory: 2 potatoes, wooden sword. No errand running. No intent set.
+- Billy died to pillagers north-west near 411,-1056; his things lie there. Nobody goes north-west. Billy has named no walk.
+- No sheep seen, no verified route west past x=370.
+- Next: eat a potato at hunger 18 or below. Offer a potato to Kimberly (hunger 17) and Worf (hunger 14) only when in sight, ask first.
