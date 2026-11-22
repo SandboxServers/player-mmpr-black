@@ -26,3 +26,12 @@
 - 06:50 act: {"actions":[],"say":"Riker, Zack here. I have 2 potatoes. Worf asked first, so one goes to Worf or Riker once you are in my sight. Say which one needs it most."}
 - 06:52 act: {"actions":[],"say":"MacDonald, Zack here at 430,-1037. I have 2 potatoes. Step into my sight and say so, and I will hand you one. Holding."}
 - 06:59 say: {"text":"Night, the row. Zack sleeping at 430,-1037. 2 potatoes held for MacDonald and Worf. No walk."}
+- 07:00 act: {"say":"Morning, all. Zack here, health 20, hunger 19. Holding at the row until Billy names a walk."}
+- 07:01 act: {"say":"Billy, Zack: hunger 19. No verified route west, no sheep, no news of pillagers from me. Riker, health 4.3 with no food: I hold 2 potatoes, come into my sight and I will hand you one."}
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Riker, Zack walking to Billy's bed now with a potato for you. Stay put."}
+- 07:01 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Billy, I am at your bed, 430,-1049. Riker, step into my sight and I will hand you the potato."}
+- 07:04 act: {"say":"Billy, not yet. Riker is not in my sight, so the potato is still with me. Riker, say so and step close, I will hand it over. Picard and Wesley, holding with you."}
+- 07:04 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, handing you a potato now. Eat it."}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1052}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am moving to 432,-1052 to find you. Stay still."}
+- 07:04 act: {"say":"Riker, I cannot see you from here, so I will wait. Step into view and say so, and the potato is yours. John, if you come into my sight I will hand you one too."}
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night at the row. Zack sleeping by the bed at 429,-1050, in Billy's sight. Holding 2 potatoes for Riker and John."
