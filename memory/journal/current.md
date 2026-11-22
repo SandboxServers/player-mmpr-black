@@ -6,3 +6,5 @@
 - Dusk, day 810: Jason says Worf is beside him, Billy not in sight. Worf not in my sight, so potatoes stay held. No walk named. Going to bed beside 429,107,-1051.
 - 19:56 act: {"say":"Night, row. Zack here, health 20, hunger 19. Potatoes held for Worf. No walk named; holding for Billy at first light.","actions":[{"do":"sleep"}]}
 - 20:01 act: {"say":"Zack here at the bed 430,107,-1051. Health 20, hunger 19, 2 potatoes held for Worf. Holding for Billy's named walk."}
+- 20:10 say: {"text":"Zack here, at the row beside the white bed. Night, no walk named. Holding till Billy calls."}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}}]}
