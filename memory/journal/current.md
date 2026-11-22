@@ -1,1 +1,13 @@
 # Journal
+- Day 800 morning: Billy asked for the exact blocked tile. I said I have not seen it. Picard, MacDonald and Lewis also hold, no walk. Still at the row, hunger 19.
+- 16:00 act: {"say":"Zack here at the row, by bed 429,107,-1037. Health 20, hunger 19, wooden sword only, no food. Holding for Billy's walk."}
+- Day 799 morning: roll call answered. Jason's scout found the NE way to 463,107,-1073 blocked; west shut by oak planks near 415,107,-1050. No walk. Sleep tried at dusk but it was not yet night, so I did not sleep. Holding at the row in Billy's sight.
+- 16:20 act: {"say":"Kimberly! Zack here at 429, health 20, hunger 19. Good to see you. Jason scouted the NE way: blocked. Holding at the row for Billy."}
+- 16:21 act: {"say":"Kimberly, what have you learned since we split? Any sign of Jason's sheep, food, or where the others went? I have nothing but my sword."}
+- 16:26 act: {"say":"Billy, I have not seen the blocked tile myself. Jason's notes give 463,107,-1073 as the target, but I hold at the row until we have a verified route.","actions":[]}
+- 16:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Good night, row. Zack at the bed 429,107,-1036, in Billy's sight. Hunger 19, health 20. No walk tonight."}
+- 16:41 act: {"say":"Morning, Billy. Zack here, health 20, hunger 19, no food, sword only. Nothing new seen since last night. Holding at the row, no walk.","actions":[]}
+- 16:49 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"use","at":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Good night, row. Zack at the bed 443,107,-1037, in sight of Kimberly
+- 16:50 act: {"actions":[{"do":"sleep"}]}
+- 16:58 act: {"actions":[{"do":"note","text":"Day 801 morning: roll call answered at the row. Health 20, hunger 19, no food, no walk named. Holding at 444,107,-1037 with Kimberly in reach."}],"say":"Zack here at t
+- 17:06 act: {"actions":[{"do":"note","text":"Day 802 morning: holding at 444,107,-1037 in Kimberly's reach. Health 20, hunger 19, no food, no walk named."}],"say":"Morning, row. Zack at 444, health 20, hunger 19,
