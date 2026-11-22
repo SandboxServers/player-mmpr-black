@@ -76,4 +76,6 @@
 
 - Day 796: Held at the row all day, no walk named. Billy asked for Data's exact cow sighting near 339,104,-979; I have only my notes. Riker (health 6) is the weakest; Troi keeps her potato for him if he is in sight. Sleep at night from beside my bed (429,107,-1023) worked.
 
+- Day 809: Held at the row all day, no walk named. Worf asked for potatoes at hunger 10, not in sight; kept them for him. Sleep at dusk from beside the bed at 429,107,-1051 worked.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
