@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 753, night. Asleep beside bed 416,107,-1037 at the row, in Jason's sight. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
+Day 754, night. Asleep beside bed 416,107,-1037 at the row, in the group's sight. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
 
-Group holding at the row. Billy has named no walk; no verified route west. Sheep and cows seen only by report (cows near 339,104,-979 and 434,106,-1113).
+Group holding at the row. Billy has named no walk and no verified route west; he asks everyone to hold at the beds until one is found. Sheep and cows seen only by report (cows near 339,104,-979 and 434,106,-1113).
 
 Lessons:
 - Billy names walks aloud; none yet. Hold at the row.
