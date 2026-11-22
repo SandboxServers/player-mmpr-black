@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 807, slept at bed 429,107,-1036 in the row, in sight of MacDonald and Billy. Health 20, hunger 19. Inventory: 2 potatoes, held for Worf. No sword, unarmed (Billy has my wooden sword).
+Day 808, slept at dusk beside the white bed 443,107,-1037 at the row, in Billy's sight. Health 20, hunger 19. Inventory: 2 potatoes, held for Worf. No sword.
 
-Group at the row: Billy, Clark, Beverly, Kimberly, John, Trini, Troi, Riker, Lewis, Worf, MacDonald, Jason, Wesley. No walk named, no verified route west, no sheep found.
+Group at the row: Billy, Clark, Beverly, Kimberly, John, Trini, Troi, Riker, Lewis, Worf, MacDonald, Jason, Wesley. No walk named. Worf not seen. A bow was drawn to the southwest.
 
 Lessons:
 - Billy names walks aloud. Hold at the row until he calls.
