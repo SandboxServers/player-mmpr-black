@@ -30,3 +30,8 @@
 - 17:59 act: {"actions":[{"do":"note","text":"Day 805 morning: slept at bed 429,107,-1036 in Billy's sight; night skipped. Health 20, hunger 19, 2 potatoes, no sword. No walk named. Holding at the row."}],"say":"M
 - 18:11 act: {"actions":[{"do":"note","text":"Day 805 dusk: no walk named for me. Billy fed Trini; Worf and John owed potatoes at first light. Holding 2 potatoes, hunger 19. Going to bed at 429,107,-1036 in Billy'
 - 18:16 act: {"actions":[{"do":"note","text":"Day 806 morning: woke at 430,107,-1037 in Billy's sight. Health 20, hunger 19, 2 potatoes. Billy feeding Worf and MacDonald; I am not named. Holding."}],"say":"Morning
+- 18:16 act: {"say":"Zack here, at your side Billy. Hunger 19, I hold 2 potatoes. Troi and Worf first; I take none."}
+- Day 806 midday: Billy calls potato feeding (Troi, Worf, John). I am at his side, hunger 19, not in need yet. Said my name and stepped aside for them. Holding 2 potatoes, unarmed, no walk.
+- Day 806 midday, later: Billy feeding Troi and Worf, then John. Still holding at his side, hunger 19, no walk named. Waiting.
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, Billy. Zack at the bed 429,107,-1036, in your sight. Hunger 19, health 20, 2 potatoes held. Worf first at f
+- 18:27 act: {"actions":[{"do":"note","text":"Day 806 morning: woke at 430,107,-1037 in Billy's sight. Health 20, hunger 19, 2 potatoes, unarmed. Worf first. No walk named."}],"say":"Morning, row. Zack here, healt
