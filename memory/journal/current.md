@@ -1,2 +1,28 @@
 # Journal
 - 05:34 say: {"text":"Night, row. Zack sleeping at bed 429,107,-1037, holding still. John, potato ready if you come into my sight."}
+- 05:35 act: {"say":"Dusk at the row. Nobody in sight. I'll hold here by my bed until night."}
+- 05:39 say: {"text":"Morning, the row. Zack holding at bed 429,107,-1037, no walk. Worf, you're at hunger 14: I have 2 potatoes, want one? Say so and I'll bring it when I see you."}
+- 05:50 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, the row. Zack sleeping at bed 429,107,-1037, health 20, hunger 19. Holding, no walk."}
+- 05:50 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 05:54 act: {"actions":[],"say":"MacDonald, I have 2 potatoes. Say the word and I'll bring one to you, you're at 16. Billy, I'm holding at the row."}
+- 05:57 say: {"text":"Data, health 13: I have 2 potatoes. I'll bring one if you're in my sight. Ask and I'll hand it over."}
+- 05:59 act: {"actions":[{"do":"craft","item":"stone_sword","count":1}],"say":"Clark, I hear you. Zack at 416,107,-1036 with my wooden sword, health 20. I will not go out alone; I'm holding at the row. Billy, Jaso
+- 06:01 act: {"actions":[],"say":"Billy, I have 2 potatoes. I can't see you from 417,-1035. Come back toward the row, toward Jason and me, and I'll hand you one. I won't go north-west alone."}
+- 06:08 act: {"actions":[],"say":"Zack holds at 415,-1034, out of the pillager's line. I have 2 potatoes. Riker, come to me if you are hurt and I will hand you one."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}}],"say":"Chapman, I'm coming east along the row to John's bed. Holding a potato for John."}
+- 06:08 act: {"actions":[],"say":"Zack at 427,-1037, at the east beds. I do not see John yet. Chapman, come into my sight and I will give you a potato."}
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Riker, I have potatoes. I'm going to Billy's bed at 430,-1051 to meet you there."}
+- 06:12 act: {"actions":[],"say":"Zack at Billy's bed area, 429,-1049, with 2 potatoes. Riker, Billy, come into my sight and I will hand one over."}
+- 06:17 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, here is a potato. Eat it and hold still beside Billy."}
+- 06:19 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack sleeps near Billy's bed in the row, in Billy's sight. I have 2 potatoes for whoever comes in sight."}
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Riker, I am walking to Billy's bed now with your potato."}
+- 06:23 act: {"actions":[],"say":"Zack here at bed 430,-1049, holding 2 potatoes. Worf, Riker, Chapman: say your name if you need one and step into my sight. I will hand one out."}
+- 06:24 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, giving you one potato now."}
+- 06:32 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, the row. Zack going to sleep at 430,-1037, in the row. Holding 2 potatoes for Riker and John; nobody walks.
+- 06:36 act: {"actions":[],"say":"Zack holding 2 potatoes at 430,-1037. Worf (hunger 14) and MacDonald (16): if you are in my sight and ask, I will hand you one. Lewis has fed Riker."}
+- 06:46 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, the row. Zack sleeping at 430,-1037. Holding 2 potatoes; nobody walks."}
+- 06:48 act: {"actions":[],"say":"Billy, Zack here at 430,-1037, health 20, hunger 19, 2 potatoes. I have no sighting of Data in my notes; I saw no sheep and no verified route past x=370. Holding, no walk."}
+- 06:50 act: {"actions":[],"say":"Riker, Zack here. I have 2 potatoes. Worf asked first, so one goes to Worf or Riker once you are in my sight. Say which one needs it most."}
+- 06:52 act: {"actions":[],"say":"MacDonald, Zack here at 430,-1037. I have 2 potatoes. Step into my sight and say so, and I will hand you one. Holding."}
+- 06:59 say: {"text":"Night, the row. Zack sleeping at 430,-1037. 2 potatoes held for MacDonald and Worf. No walk."}

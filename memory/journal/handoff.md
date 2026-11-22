@@ -1,7 +1,8 @@
-# Handoff, Zack, day 765
+# Handoff, Zack, day 771
 
-- Slept at bed 416,107,-1037, at the row, in sight of Riker and the group. Health 20, hunger 19.
-- Inventory: 2 potatoes, wooden sword. No errand running. No intent set.
-- Billy died to pillagers north-west near 411,-1056; his things lie there. Nobody goes north-west. Billy has named no walk.
-- No sheep seen, no verified route west past x=370.
-- Next: eat a potato at hunger 18 or below. Offer a potato to Kimberly (hunger 17) and Worf (hunger 14) only when in sight, ask first.
+- Slept at bed 430,107,-1037, at the row, in sight of Billy and Clark. Woke day 772 (sleep returned day 771 events).
+- Inventory: 2 potatoes, wooden sword. Health 20, hunger 19.
+- Owed: give one potato to MacDonald (hunger 16, bed 430,-1023) and one to Worf (hunger 14, bed 416,-1050), only when in my sight and after they ask. Riker already fed by Lewis.
+- No intent set. No walk named by Billy. Nobody walks north-west.
+- No Data sighting, no sheep, no verified route past x=370. Answered Billy: I have none.
+- Next: eat a potato at hunger 18 or below. Hold at the row until Billy names a walk.
