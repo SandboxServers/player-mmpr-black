@@ -54,3 +54,6 @@
 - 07:32 act: {"actions":[],"say":"Riker, the potato is in your hands now, from me. I have no food left. Eat it when your hunger allows, and tell the row how you are."}
 - 07:33 act: {"actions":[],"say":"Billy, the potato already went to Riker at the give; he is standing beside me at 434,107,-1044. I have none left. Holding still, hunger 19."}
 - 07:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Dusk at the row. Zack to bed by 429,-1037, in sight of the row. No food left; Riker has his potato."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Zack at the row, night. Holding by my bed, no walk. Hunger 19, no food yet."}
+- 07:40 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night at the row. Zack at bed 429,-1037, in sight. No food left; holding, no walk."}
+- 07:40 act: {"actions":[{"do":"sleep"}]}
