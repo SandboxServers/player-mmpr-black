@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 789 done; slept beside my bed at 429,107,-1023 in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
+Day 790 done; slept at dusk beside my bed at 429,107,-1023 in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
 
-Group is in the row: Billy, Trini, Kimberly, William, Troi, Crusher. Billy still names no walk; he holds until a route is verified. No verified route west past x=370. Cows seen near 339,104,-979 (Data). No sheep seen by anyone. Bows drawn far to the south all day and night.
+Group is in the row: Billy, Trini, Kimberly, William, Troi, Beverly, Johnny. Billy still names no walk; he holds until a sheep or cow is seen and a route is verified. No verified route west past x=370. Cows seen near 339,104,-979 (Data). No sheep seen by anyone. Bows drawn far to the south all day and night.
 
 Lessons:
 - Billy names walks aloud; none yet. Hold at the row.
