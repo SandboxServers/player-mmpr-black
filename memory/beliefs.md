@@ -74,4 +74,6 @@
 
 - Day 794: Held at the row all day and night, no walk named; quiet. Sleep at night from beside my bed (429,107,-1023) worked. Bows still drawn to the south and southeast all night.
 
+- Day 796: Held at the row all day, no walk named. Billy asked for Data's exact cow sighting near 339,104,-979; I have only my notes. Riker (health 6) is the weakest; Troi keeps her potato for him if he is in sight. Sleep at night from beside my bed (429,107,-1023) worked.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
