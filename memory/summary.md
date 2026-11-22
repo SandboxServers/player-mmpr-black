@@ -1,12 +1,12 @@
 # Summary, Zack Taylor
 
-Day 784 done; slept at bed 429,107,-1037 in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
+Day 785 done; slept at bed near 443,107,-1023 in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
 
-Group holding at the row: Trini, Beverly, Leonardo, William, Wesley, MacDonald, Data, Lewis, Chapman, Kimberly, Jason, Billy, Tommy Oliver, Riker, Deanna, Laforge, Worf, Troi. Billy names no walk yet. No verified route west past x=370. Cows seen near 339,104,-979 (not walked). No sheep seen.
+Group holding at the row, waiting on Billy's named walk: Trini, Beverly, Leonardo, William, Wesley, MacDonald, Data, Lewis, Chapman, Kimberly, Jason, Billy, Tommy Oliver, Riker, Deanna, Laforge, Worf, Troi. No walk named yet. No verified route west past x=370. Cows seen near 339,104,-979 (not walked). No sheep seen.
 
 Lessons:
 - Billy names walks aloud; none yet. Hold at the row.
-- Sleep at night in sight. The sleep verb works at the bed.
+- Sleep at night in sight. The sleep verb works at a bed; it fails by day.
 - Give food only to someone I can see.
 - Eat at hunger 18 or below when I find food.
 
