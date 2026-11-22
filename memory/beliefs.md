@@ -72,4 +72,6 @@
 
 - Day 762: Held at the row all day, hunger 19, no walk named. Plain wait in 240-second spans worked. Sleep at night from beside my bed (416,107,-1037) was called; result arrives in the sleep digest.
 
+- Day 794: Held at the row all day and night, no walk named; quiet. Sleep at night from beside my bed (429,107,-1023) worked. Bows still drawn to the south and southeast all night.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.

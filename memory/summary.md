@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Day 793 done; slept at my bed, 429,107,-1023, in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
+Day 794 done; slept at my bed, 429,107,-1023, in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
 
 Group in the row: Billy, Trini, Kimberly, Troi, Beverly, Chapman, Clark, Johnny. No walk named yet. Bows drawn far to the south at night.
 
