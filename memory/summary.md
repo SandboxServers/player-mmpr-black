@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 792 done; slept at dusk at my bed, 429,107,-1023, in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
+Day 793 done; slept at my bed, 429,107,-1023, in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
 
-Group in the row: Billy, Trini, Kimberly, Troi, Beverly, Chapman (John, health 11), Clark (William), Johnny. Billy named no walk: no food, sheep, verified route west, or pillager news. Bows drawn far to the south all day. I offered my wooden sword as escort to the potatoes at 463,107,-1073, reported only by Picard; Beverly offered too. No walk yet.
+Group in the row: Billy, Trini, Kimberly, Troi, Beverly, Chapman, Clark, Johnny. No walk named yet. Bows drawn far to the south at night.
 
 Lessons:
 - Billy names walks aloud. Hold at the row until he calls.
