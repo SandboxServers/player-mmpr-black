@@ -35,3 +35,22 @@
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1052}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am moving to 432,-1052 to find you. Stay still."}
 - 07:04 act: {"say":"Riker, I cannot see you from here, so I will wait. Step into view and say so, and the potato is yours. John, if you come into my sight I will hand you one too."}
 - 07:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night at the row. Zack sleeping by the bed at 429,-1050, in Billy's sight. Holding 2 potatoes for Riker and John."
+- 07:17 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, Zack here, I have a potato for you. Step into my sight and I'll hand it over."}
+- 07:18 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"potato","count":1}],"say":"John, here is a potato. Eat it. Riker is not in my sight, so his is still with me."}
+- 07:18 act: {"actions":[],"say":"John, potato given and it worked. I hold one more for Riker or Worf, whoever steps into my sight first. Holding at the row, no walk."}
+- 07:20 act: {"actions":[],"say":"Jason, Beverly: noted. I hold one potato, for Riker or whoever asks first in my sight. Holding at the row, no walk."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1052}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Billy, walking to Riker at 431,-1052 now with his potato."}
+- 07:20 act: {"actions":[],"say":"Billy, I'm at 431,-1051 and Riker is still not in my sight. Riker, step into view and I'll hand you the potato. Holding, no walk."}
+- 07:21 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I see you. Potato coming to you now."}
+- 07:22 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1052}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, one step closer, I'm at 431,-1052. Potato in hand."}
+- 07:22 act: {"actions":[],"say":"Riker, I still can't see you from 431,-1051. Step into view and say so. The potato is in my hand. Holding, no walk."}
+- 07:23 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, trying the give now."}
+- 07:24 act: {"actions":[],"say":"Riker, there is a plank wall between us, east of me. I can't see you through it. Step to an open spot on the row where I can see you, and I'll hand it over right away."}
+- 07:27 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I'm going to my bed at 429,-1050 by Billy's beds. If you're in my sight there, say so and I'll hand you the potato
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Night at the row. Zack going to bed at 429,-1049, in Billy's sight. One potato still held for Riker or whoever ste
+- 07:29 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, if you can see me, I am giving you the potato now."}
+- 07:29 act: {"actions":[],"say":"Zack at the row, holding at 430,-1037. Riker, I cannot see you yet. Step into my sight and I will hand the potato over."}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1042}},{"do":"give","to":"ag_riker_01","item":"potato","count":1}],"say":"Riker, I am moving toward you to hand over the potato."}
+- 07:32 act: {"actions":[],"say":"Riker, the potato is in your hands now, from me. I have no food left. Eat it when your hunger allows, and tell the row how you are."}
+- 07:33 act: {"actions":[],"say":"Billy, the potato already went to Riker at the give; he is standing beside me at 434,107,-1044. I have none left. Holding still, hunger 19."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1038}},{"do":"sleep"}],"say":"Dusk at the row. Zack to bed by 429,-1037, in sight of the row. No food left; Riker has his potato."}
