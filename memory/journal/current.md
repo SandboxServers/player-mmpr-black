@@ -14,3 +14,19 @@
 - 17:19 act: {"say":"Morning, Kimberly. Zack here, holding at the row, hunger 19. Waiting on Billy's call before any walk."}
 - Day 802 day: woke at 444,107,-1037 beside Kimberly. Health 20, hunger 19, no food, no walk named. Said good morning, holding for Billy.
 - 17:20 act: {"say":"Morning, Billy. Zack here at 444, health 20, hunger 19, no food, sword only. No walk for me yet, holding at the row."}
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Zack at the bed 443,107,-1036, in Kimberly's sight. Hunger 19, health 20. No walk tonight."}
+- 17:36 act: {"say":"Billy, Zack here. No food, no route, no bow from me. Hunger 19, health 20. Holding at the row, no walk.","actions":[{"do":"note","text":"Day 803: sleep failed at dawn, it was not night. Holdin
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Zack at the bed 443,107,-1036, in Kimberly's sight. Hung
+- 17:44 act: {"actions":[{"do":"sleep"}]}
+- 17:49 act: {"actions":[{"do":"note","text":"Day 804 morning: woke at 444,107,-1037 beside Kimberly. Health 20, hunger 19, no food, wooden sword only. Billy asked for a sword to walk NE; offering mine."}],"say":"
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1036}},{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, coming to you now with the wooden sword. Holding at your 
+- 17:50 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, I am beside you with the wooden sword in hand. Say the word and I will hand it over."}
+- 17:50 act: {"actions":[{"do":"note","text":"Day 804 day: gave my wooden sword to Billy for the NE walk. I now hold nothing. Health 20, hunger 19. Holding at Billy's bed, 432,107,-1035, for his named walk."}],"sa
+- 17:50 act: {"actions":[{"do":"note","text":"Day 804 day: Billy has the sword and walks NE with Jason and Beverly. Not named, so I hold at the row, 432,107,-1035, unarmed, hunger 19."}],"say":"Good luck, Billy, J
+- 17:54 act: {"actions":[{"do":"note","text":"Day 804 day: Billy brought 14 potatoes from the NE route and is feeding the weakest first (Trini, Troi). Zack hunger 19, health 20, unarmed, not yet called. Holding at
+- 17:55 act: {"actions":[{"do":"note","text":"Day 804 dusk: Billy gave me 2 potatoes. Hunger 19, so I hold them for when I reach 10 or Trini and Troi need them. Staying in Billy's sight near 430,107,-1036 for the 
+- 17:59 act: {"actions":[{"do":"note","text":"Day 804 night: holding at Billy's bed, 432,107,-1035, unarmed, hunger 19, health 20, 2 potatoes from Billy. No walk named. Waiting for Billy's call."}],"say":"Zack her
+- 17:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Good night, row. Zack at the bed 429,107,-1036, in Billy's sight. Hunger 19, health 20. No walk tonight."}
+- 17:59 act: {"actions":[{"do":"note","text":"Day 805 morning: slept at bed 429,107,-1036 in Billy's sight; night skipped. Health 20, hunger 19, 2 potatoes, no sword. No walk named. Holding at the row."}],"say":"M
+- 18:11 act: {"actions":[{"do":"note","text":"Day 805 dusk: no walk named for me. Billy fed Trini; Worf and John owed potatoes at first light. Holding 2 potatoes, hunger 19. Going to bed at 429,107,-1036 in Billy'
+- 18:16 act: {"actions":[{"do":"note","text":"Day 806 morning: woke at 430,107,-1037 in Billy's sight. Health 20, hunger 19, 2 potatoes. Billy feeding Worf and MacDonald; I am not named. Holding."}],"say":"Morning
