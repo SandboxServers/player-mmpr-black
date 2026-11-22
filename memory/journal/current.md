@@ -10,3 +10,18 @@
 - 20:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}}]}
 - 20:11 act: {"say":"Zack here, holding at the white bed 429,107,-1051. Health 20, hunger 19. Two potatoes kept for Worf. Waiting on Billy's word."}
 - Day 811 morning: woke at the row, answered roll call. Worf not in sight, no walk named from Billy. Still holding. Health 20, hunger 19.
+- 20:24 act: {"say":"Zack here at the white bed, 430,107,-1051. Health 20, hunger 19, 2 potatoes held for Worf. Worf, I'll hand them over when I see you. Holding for Billy's word."}
+- 20:28 act: {"say":"Morning, row. Zack here at the white bed, health 20, hunger 19. Still holding 2 potatoes for Worf. Holding for Billy's walk too. Kimberly, you're not alone out here."}
+- 20:28 act: {"say":"Worf, I hear you. The 2 potatoes are yours. Call when you're in sight and I'll hand them over. Billy, no walk from me, I'm holding."}
+- 20:37 act: {"say":"Clark, Zack here beside you at the bed. Health 20, hunger 19. Holding for Billy. Anyone seen Worf?"}
+- 20:40 act: {"say":"Worf, I don't see you yet from the white bed at 430,107,-1051. Step into my sight, call it, and the 2 potatoes are yours."}
+- 20:42 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Pillagers south-west! I'm moving to Clark, north-east, with the group."}
+- 20:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"say":"Beverly, MacDonald is holding a potato for you, so I keep my 2 for Worf. Dusk now, I'm going to the bed at 443,107,-1036 with Cla
+- 20:46 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack at the bed by Kimberly and Troi, potatoes held for Worf. Holding for Billy at first light."}
+- 20:48 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Zack here by the white bed, with Kimberly and Troi in reach."}
+- 20:53 act: {"actions":[],"say":"Morning, row. Zack at the white bed 444,107,-1051, health 20, hunger 19, 2 potatoes held for Worf. No sight of Worf yet. Holding for Billy's word."}
+- 21:01 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack at the white bed, holding for Billy's word."}
+- 21:18 act: {"actions":[],"say":"Zack at the white bed, health 20, hunger 19, two potatoes held for Worf. Beverly, Worf is not in my sight yet. Step into my sight and I will hand them over."}
+- 21:21 act: {"actions":[],"say":"Zack here, still at the white bed 444,107,-1051. I hold for Billy's named walk before I go anywhere. Beverly, if you come east toward the row I will hand you a potato when you are
+- 21:26 act: {"actions":[],"say":"Zack holding at the bed, two potatoes ready. Beverly, Worf, whoever comes into my sight first gets one. Dusk is here, I will sleep beside this bed once it is night."}
+- 21:37 act: {"actions":[],"say":"Beverly, I hear you. I am still at the white bed 444,107,-1051 and will not walk alone. If Billy names a walk, I come with the group and bring a potato to you."}
