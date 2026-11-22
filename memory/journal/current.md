@@ -25,3 +25,7 @@
 - 21:21 act: {"actions":[],"say":"Zack here, still at the white bed 444,107,-1051. I hold for Billy's named walk before I go anywhere. Beverly, if you come east toward the row I will hand you a potato when you are
 - 21:26 act: {"actions":[],"say":"Zack holding at the bed, two potatoes ready. Beverly, Worf, whoever comes into my sight first gets one. Dusk is here, I will sleep beside this bed once it is night."}
 - 21:37 act: {"actions":[],"say":"Beverly, I hear you. I am still at the white bed 444,107,-1051 and will not walk alone. If Billy names a walk, I come with the group and bring a potato to you."}
+- 21:42 act: {"say":"Zack here, at the row beside the white bed, health 20. Holding my 2 potatoes for Beverly and Worf. Waiting on Billy's walk."}
+- 21:43 act: {"say":"Billy, Zack here. I will escort when you name the walk, in daylight, with four or more in sight. Until then I hold my 2 potatoes for Beverly and Worf."}
+- 21:47 act: {"say":"Good, Trini. Zack still holding 2 potatoes for Worf. Hunger 19, I eat at 10 or below. Billy, I wait for your walk."}
+- 21:52 act: {"say":"Night, row. Zack beside the white bed, potatoes held for Worf and Beverly. Holding for Billy's walk at first light."}
