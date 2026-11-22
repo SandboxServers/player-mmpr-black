@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 798, asleep at my bed 429,107,-1023 in the row, in sight of the group. Health 20, hunger 19. Inventory: wooden sword only. No food.
+Day 798, night, asleep beside my bed at 429,107,-1037 in the row, in sight of Billy and Trini. Health 20, hunger 19. Inventory: wooden sword only. No food.
 
-Group at the row: Billy, Clark, Beverly, Kimberly, John, Trini, Troi, Riker, Lewis. No walk named, no verified route west, no sheep seen, no food found. Bows drawn far to the south all day and night.
+Group at the row: Billy, Clark, Beverly, Kimberly, John, Trini, Troi, Riker, Lewis, Worf, MacDonald, Wesley. No walk named, no verified route west, no sheep, no food found. Bows drawn far to the south.
 
 Lessons:
 - Billy names walks aloud. Hold at the row until he calls.
