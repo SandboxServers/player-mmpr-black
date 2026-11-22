@@ -8,3 +8,5 @@
 - Day 777 dusk: at the row, Lewis 2 blocks off. Hunger 19, no food. Walking to bed 429,107,-1037 to wait for night. Next: sleep when it is night, then wake and look for food.
 - 09:05 act: {"actions":[{"do":"note","text":"Day 778 morning at bed 429,107,-1037. Health 20, hunger 19, no food. Group holding at the row, no walk named. Waiting for Billy."}],"say":"Morning, row. Zack here at m
 - 09:05 act: {"actions":[],"say":"Trini, Zack here, still at my bed, health 20, hunger 19, no food. Bows to the east and south, noted. Staying in sight and holding for Billy."}
+- 09:14 act: {"say":"Morning, row. Zack here, health 20, hunger 19, no food. Holding for Billy's walk. Billy, do you have a call?","reasoning":"Morning at the row. Hold for Billy's walk; no food yet, hunger above 
+- 09:14 act: {"actions":[],"say":"Got it, Billy. No walk, I'll hold at the row. Riker, rest at your bed. I have no food either, sorry.","reasoning":"Billy has named no walk and no food is in reach. Hold at the row
