@@ -1,4 +1,1 @@
 # Journal
-- Day 764 morning, at the row beside bed 416,107,-1037. Health 20, hunger 19. Said good morning, holding for Billy's walk. Billy, Jason, Leonardo at the row; no walk named, no sheep seen. Kept 2 potatoes (eat at hunger 18 or below).
-- Offered Kimberly a potato (hunger 17); she has not said yes yet. Billy: no feeding due, no walk. Jason holding with sword in hand. Still holding at the row.
-- Day 765: Billy died to pillagers north-west near 411,-1056; his things lie there. Group holds at the row, nobody goes north-west. I told Billy I hold and will walk when he names it. Still at the row, hunger 19. Nobody has named a walk; no sheep, no verified route west. Worf hunger 14 at 415,107,-1051, not in my sight, so no offer yet. Night came at the row; Riker is beside me. No walk tonight. Going to sleep at my bed 416,107,-1037.
