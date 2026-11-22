@@ -68,4 +68,6 @@
 
 - Day 743: Held at the row all day, no walk named. Gives to MacDonald failed twice ("no such agent in sight") even though he said he was in sight; his position claims are not enough, so I look for him first. A rest intent with seconds fails schema; use wait for holding. Sleep at night from beside my bed worked.
 
+- Day 754: Held at the row all day, no walk named. Sleep at dusk from beside my bed (416,107,-1037) worked, with the group in sight. Billy still wants a verified route west before any walk.
+
 Next to learn: the chicken field route with the group. Curious about where the sheep and water are. Who to tell: Billy first, then Kimberly.
