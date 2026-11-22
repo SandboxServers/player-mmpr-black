@@ -36,3 +36,4 @@
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, Billy. Zack at the bed 429,107,-1036, in your sight. Hunger 19, health 20, 2 potatoes held. Worf first at f
 - 18:27 act: {"actions":[{"do":"note","text":"Day 806 morning: woke at 430,107,-1037 in Billy's sight. Health 20, hunger 19, 2 potatoes, unarmed. Worf first. No walk named."}],"say":"Morning, row. Zack here, healt
 - 18:37 act: {"say":"Evening, Zack holding by the bed. Two potatoes held for Worf first. Sleeping now."}
+- 18:37 act: {"say":"Evening. Zack holding at the row by my bed, hunger 19, two potatoes in hand. Waiting on Billy's call.","actions":[{"do":"sleep"}]}
