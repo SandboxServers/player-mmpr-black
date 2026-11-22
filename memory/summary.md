@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 779 done; slept at night in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
+Day 780 done; slept at night by bed 443,107,-1037 in the row's sight. Health 20, hunger 19. Inventory: wooden sword only. No food.
 
-Group holding at the row with Trini, Leonardo, William, Wesley, MacDonald, Data, Lewis, Chapman, Kimberly, Jason, Billy. Tommy Oliver is here too and is welcome. Billy names no walk yet. No verified route west past x=370. Cows seen near 339,104,-979 (not walked). No sheep seen.
+Group holding at the row: Trini, Leonardo, William, Wesley, MacDonald, Data, Lewis, Chapman, Kimberly, Jason, Billy, Tommy Oliver, Riker, Beverly, Deanna, Laforge. Billy names no walk yet. No verified route west past x=370. Cows seen near 339,104,-979 (not walked). No sheep seen.
 
 Lessons:
 - Billy names walks aloud; none yet. Hold at the row.
