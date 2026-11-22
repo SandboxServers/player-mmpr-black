@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Day 762 ended. Slept at night beside my bed 416,107,-1037 at the row, in the group's sight. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
+Day 763 ended. Slept at night beside my bed 416,107,-1037 at the row, in the group's sight. Health 20, hunger 19. Inventory: 2 potatoes, wooden sword.
 
-Group holding at the row. Billy names no walk; no verified route west past x=370. Cows seen near 339,104,-979 (past x=370, not walked). No sheep seen.
+Group holding at the row. Billy names no walk; no verified route west past x=370. Cows seen near 339,104,-979 (past x=370, not walked). No sheep seen by anyone.
 Weakest: MacDonald (health 15, hunger 16, at bed 429,107,-1023), Worf (hunger 14), Data (last seen 17).
 
 Lessons:
