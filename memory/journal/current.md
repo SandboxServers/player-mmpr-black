@@ -8,3 +8,5 @@
 - 20:01 act: {"say":"Zack here at the bed 430,107,-1051. Health 20, hunger 19, 2 potatoes held for Worf. Holding for Billy's named walk."}
 - 20:10 say: {"text":"Zack here, at the row beside the white bed. Night, no walk named. Holding till Billy calls."}
 - 20:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}}]}
+- 20:11 act: {"say":"Zack here, holding at the white bed 429,107,-1051. Health 20, hunger 19. Two potatoes kept for Worf. Waiting on Billy's word."}
+- Day 811 morning: woke at the row, answered roll call. Worf not in sight, no walk named from Billy. Still holding. Health 20, hunger 19.
