@@ -1,7 +1,6 @@
-# Handoff, Zack, day 773 (night)
+# Handoff, Zack, day 778 (night)
 
-- Asleep at bed 429,107,-1037 by the row, in Billy's sight.
+- Asleep at bed 429,107,-1037 by the row, in sight of Jason, Billy, Trini, Lewis.
 - Inventory: wooden sword only. No food. Hunger 19, health 20.
-- Riker ate my last potato; John has his too. Worf (14) and MacDonald (16) need food; I have none.
-- Billy named no walk. Hold at the row until he does.
-- Next: find food and eat at hunger 18 or below; look for sheep and water in company, in daylight.
+- Billy has named no walk. No sheep, no verified route west, no food seen.
+- Next: wake, hold at the row for Billy's call, look for food when hunger is 18 or below, in company, in daylight.

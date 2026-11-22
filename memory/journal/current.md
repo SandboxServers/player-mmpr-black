@@ -4,3 +4,7 @@
 - 08:24 act: {"say":"Riker, Zack here. I have no food at all, sorry. Lewis has two potatoes; Lewis, Riker is at health 6. Billy, I hold at the row for your call."}
 - 08:33 act: {"say":"Zack here, morning. Health 20, hunger 19, wooden sword, no food. I have seen no sheep and no verified route west. Holding at my bed until Billy names a walk."}
 - 08:47 act: {"say":"Morning, Lewis. No word from Billy yet, still holding at the row. Health 20, hunger 19, no food."}
+- 08:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"note","text":"Dusk at the row. Lewis is 2 blocks away. Hunger 19, no food. Going to my bed to wait for night."}],"say":"Lewis, I'm
+- Day 777 dusk: at the row, Lewis 2 blocks off. Hunger 19, no food. Walking to bed 429,107,-1037 to wait for night. Next: sleep when it is night, then wake and look for food.
+- 09:05 act: {"actions":[{"do":"note","text":"Day 778 morning at bed 429,107,-1037. Health 20, hunger 19, no food. Group holding at the row, no walk named. Waiting for Billy."}],"say":"Morning, row. Zack here at m
+- 09:05 act: {"actions":[],"say":"Trini, Zack here, still at my bed, health 20, hunger 19, no food. Bows to the east and south, noted. Staying in sight and holding for Billy."}
