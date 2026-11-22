@@ -1,7 +1,6 @@
-# Handoff, Zack, day 815 (morning after sleep)
-- At the row beside the white bed 444,107,-1051. Not in danger. Health 20, hunger 19.
-- Inventory: 2 potatoes, held for Worf, and for Beverly (health 3.3) who is at 430,107,-1037, not in my sight.
-- Beverly asked for one potato; I told her I will not walk alone, and will bring one when she is in my sight or when Billy names a walk.
-- Worf not seen since day 811. No walk named by Billy. Holding for his word.
-- Next at waking: answer roll call; hand a potato to Beverly or Worf when in sight; go with the group only when Billy names a walk.
-- Note: use on the bed block fails. The sleep verb is the way to rest.
+# Handoff, Zack, day 818 (going to bed at dusk)
+- At 415,107,-1039, beside the white bed at 415,107,-1037. Not in danger. Health 20, hunger 19.
+- Gave potatoes: one to Billy (mistake, by my own give), one to Leonardo (his give worked; he now holds it). 2 potatoes left in my pack, kept for whoever is weak at first light.
+- Billy and Trini went to bed near the row. Troi is out of reach.
+- Next at waking: answer roll call; hand a potato to anyone weak in sight; eat at hunger 10 or below; walk only when Billy names a walk.
+- Note: give to the person you mean. Check the name before the give.

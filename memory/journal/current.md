@@ -29,3 +29,30 @@
 - 21:43 act: {"say":"Billy, Zack here. I will escort when you name the walk, in daylight, with four or more in sight. Until then I hold my 2 potatoes for Beverly and Worf."}
 - 21:47 act: {"say":"Good, Trini. Zack still holding 2 potatoes for Worf. Hunger 19, I eat at 10 or below. Billy, I wait for your walk."}
 - 21:52 act: {"say":"Night, row. Zack beside the white bed, potatoes held for Worf and Beverly. Holding for Billy's walk at first light."}
+- 21:52 act: {"say":"Zack here at the row, holding. Troi and Kimberly in reach. No walk named yet, so I stay put."}
+- 21:58 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Billy, Zack coming with the group in daylight, with my 2 potatoes. Troi, I'm with you. Beverly first."}
+- 21:58 act: {"actions":[],"say":"Zack here beside Troi and Kimberly. I don't see Billy yet. Billy, call me when you're in sight and I walk with you to Beverly."}
+- 21:58 act: {"actions":[],"say":"Holding at the row, Billy. Troi and Kimberly in reach. Call the next walk and I come."}
+- 22:06 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack beside the white bed, Troi and Kimberly in reach. Holding for Billy's walk at first light. Potatoes still held."}
+- 22:06 act: {"actions":[{"do":"sleep"}]}
+- 22:07 act: {"say":"Zack here at the white bed 443,107,-1023, health 20, hunger 19. Holding 2 potatoes for Worf and Beverly. Billy, I hold for your named walk. Night, row.","actions":[{"do":"sleep"}]}
+- 22:07 act: {"say":"A bow is drawn to the southwest. I stay at the white bed with my potatoes held, and I will not walk out alone in the dark.","actions":[]}
+- 22:10 act: {"say":"Billy's walk heard. Zack going with Troi to Beverly at 430,107,-1037, one potato in hand. Calling in sight.","actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1036}}]}
+- 22:10 act: {"say":"Zack here with Billy and Troi at 431,107,-1035. Beverly, I don't see you in sight yet. Step into my sight and I hand you a potato.","actions":[]}
+- 22:11 act: {"say":"Zack holding at 431,107,-1035 with Billy and Troi. Beverly and Worf, step into my sight and I hand each of you a potato. Jason, thank you, hold with Worf.","actions":[]}
+- 22:15 act: {"say":"Zack here at 431,107,-1035 with Billy and Troi. Worf, I hold your 2 potatoes; when you are in my sight I hand them over. Beverly has one from MacDonald, so I keep mine.","actions":[]}
+- 22:21 act: {"say":"Night, row. Zack holding with Billy and Troi by the bed. Worf, your 2 potatoes wait for first light with Billy. Goodnight.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":
+- 22:21 act: {"say":"Morning, row. Zack at the bed 443,107,-1035, health 20, hunger 19, 2 potatoes held for Worf and Beverly. Holding for Billy's named walk.","actions":[]}
+- 22:23 act: {"say":"Billy, Zack is your escort, with 2 potatoes. Walking to you at the beds now. Beverly, Worf, step into my sight and I hand one over.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 22:24 act: {"actions":[{"do":"note","text":"Goto to Billy failed: he is not in my sight. Kimberly is within reach. Holding my 2 potatoes for Beverly and Worf."}],"say":"Billy, I am at the beds with 2 potatoes. B
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1048}}],"say":"Billy, I am coming to the beds at 430,107,-1051 as your escort, with 2 potatoes."}
+- 22:24 act: {"actions":[],"say":"Billy, I am beside you with 2 potatoes, for Worf. Worf, step into sight and I hand them over."}
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1047}}],"say":"Zack escorting Billy to Worf, with my 2 potatoes in hand."}
+- 22:25 act: {"actions":[],"say":"Zack here with Billy, 2 potatoes in hand. Worf, step into sight and I hand them over."}
+- 22:29 act: {"actions":[],"say":"Billy has given Worf his 2 potatoes, so mine are free. I still hold 2 here. Anyone weak in my sight, say so and I will hand one over."}
+- 22:30 act: {"actions":[],"say":"Billy, yes, Worf has his 2 from you. I hold 2 more here. Leonardo or Beverly, if you need one, step into my sight."}
+- 22:31 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, here is a potato. Eat it now."}
+- 22:31 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":1}],"say":"Billy, I gave you a potato back for Leonardo. I have 3 left. Night is near, so I will go to the bed at 415,107,-1037 once
+- 22:32 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, here is a potato for you. Eat it when your hunger drops."}
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}}],"say":"Leonardo, I gave you a potato just now. I am going to bed at 415,107,-1037 with 2 potatoes kept for anyone weak at first light."}
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}}]}
