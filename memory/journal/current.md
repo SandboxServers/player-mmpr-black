@@ -126,3 +126,6 @@
 - 18:10 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1047}}],"say":"Billy named the walk. Zack is going to 427,-1047, four blocks from Beverly, with Jason. Beverly, please give when I am in view."}
 - 18:10 say: {"text":"Beverly, I am at 418,-1047, three blocks from you, and it is dark now, so I stop here. Please give Worf 5 and me 3 when you see us in the light."}
 - 18:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 18:11 say: {"text":"Dusk, Zack here at the white bed 415,-1050, with Jason and Worf in sight. I hold until true night, then try to sleep. No walk in the dark."}
+- 18:14 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"intent":{"goal":"sleep_at_bed_415","program":"rest","arguments":{"bed":{"x":415,"y":107,"z":-1050}},"wake_on":["directly_addressed","precond
+- 18:14 act: {"actions":[{"do":"sleep"}]}
