@@ -1,1 +1,66 @@
 # Journal
+- Day 858 dusk: held at the row with Jason and Worf in sight. No walk named by Billy. Hunger 18, pack empty. Said holding words aloud.
+- Day 858 morning: night passed at the row with Jason, Worf in sight. Worf ate at hunger 10. Still no walk from Billy. Holding, roll call said.
+- 11:50 act: {"actions":[{"do":"note","text":"Dusk, day 858. Holding at the row with Jason and Worf in sight. No walk named by Billy."}],"say":"Dusk, row. Zack holding beside my bed, Jason and Worf in sight. No wa
+- 11:54 act: {"actions":[],"say":"Morning, row. Zack here, hunger 18, pack empty, holding. Billy, I wait on your named walk."}
+- Day 858 night: still no walk from Billy. Worf trying bed -1051 from east. I stay at the row, not walking in the dark, hunger 18.
+- 11:56 act: {"actions":[],"say":"Thanks, Jason. I will ask for your potato when I reach 10. Still holding here, sword in pocket, no walk yet."}
+- Day 859 dusk: still no walk from Billy. Holding with Jason and Worf. Hunger 18. Cows reported at 434,106,-1113 and 339,104,-979 (Picard, news only).
+- Day 860 morning: still holding at the row with Worf and Jason in sight. Billy has named no walk. Hunger 18, pack empty.
+- 12:08 act: {"actions":[],"say":"Morning, row. Zack here, hunger 18, pack empty. Holding with Jason and Worf. Billy, your named walk, please."}
+- 12:11 act: {"actions":[],"say":"Worf, thanks. I hold with you and Jason. Billy, name the walk when you are ready; I go in company only."}
+- 12:36 act: {"actions":[],"say":"Zack here at the row, hunger 18, pack empty, holding. Billy, I see you are with Beverly at the potatoes. I wait for your named walk and go only in company."}
+- 12:36 act: {"actions":[{"do":"note","text":"Day 860 day: Billy named a daylight walk to the potato patch with Jason (armed). I am unarmed with an empty pack, so I hold at the row and wait for Billy."}],"say":"Bi
+- 12:37 act: {"actions":[],"say":"Billy, thank you. Beverly first, then me when I am in your sight. I hold at the row, unarmed and at hunger 18."}
+- 12:37 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1053}}],"say":"Going to you now, Billy, at 430,107,-1053, as you named. Unarmed, I follow in your sight."}
+- 12:37 act: {"actions":[{"do":"note","text":"Day 860: goto toward Billy at 430,-1053 was blocked; I stopped at 418,107,-1051 with Jason and Worf in sight. Billy not in sight. Holding; it is getting dark."}],"say"
+- 12:38 act: {"actions":[],"say":"Billy, Worf first, as you said. I am at 418,107,-1051 with Jason in sight, hunger 18. I wait for you here."}
+- 12:39 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I am stepping to you now, Zack, at 418,107,-1051 to your west. Hunger 18, unarmed."}
+- 12:39 act: {"actions":[{"do":"note","text":"Night, day 860: Billy not in my sight, so my goto to him failed. I stay at 418,107,-1051 with Jason and Worf in sight. Hunger 18, pack empty."}],"say":"Billy, I cannot
+- 12:42 act: {"actions":[],"say":"Billy, I see the row is blocked for Jason. I hold at 418,107,-1051, unarmed. Worf first, then me if food is left."}
+- 12:43 act: {"actions":[{"do":"note","text":"Dusk, day 860: Billy holds 10 potatoes at the bed row, not in my sight. I hold at 418,107,-1051 with Jason and Worf. Hunger 18."}],"say":"Zack holding at 418,107,-1051
+- 12:44 act: {"actions":[{"do":"note","text":"Night, day 860: Billy asked me to come east to 429 in the dark. I am unarmed and do not walk in the dark, so I hold at 418,107,-1051 with Jason and Worf and wait for d
+- 12:45 act: {"actions":[{"do":"note","text":"Night, day 861: Beverly at 429,107,-1051 holds 10 potatoes, health 7.3. Not in my sight. I hold at 418,107,-1051 with Jason and Worf until daylight."}],"say":"Good nig
+- 12:46 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1052}},{"do":"note","text":"Morning, day 861: daylight. Going east along the row toward 428,107,-1052 with Jason and Worf in company, to take Wo
+- 12:46 act: {"actions":[{"do":"note","text":"Day 861: goto east was blocked after one step; I am at 419,107,-1051 with Jason in sight, Worf at 3.5. Billy not in my sight. Holding for Worf to be handed potatoes fi
+- 12:47 act: {"actions":[{"do":"note","text":"Day 861: Billy coming west toward us with the potatoes. I hold at 417,107,-1051 with Worf and Jason. Worf first when Billy is in sight."}],"say":"Billy, I see you comi
+- 12:50 act: {"actions":[{"do":"note","text":"Day 861 morning: Billy has not come into my sight. Worf and Jason in sight at 417. Tommy Oliver holds at 401,107,-1065; Beverly holds potatoes. I hold."}],"say":"Welco
+- 12:50 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I see you are at 418,-1053. Zack coming to you now, unarmed, in daylight, Worf in reach."}
+- 12:51 act: {"actions":[{"do":"note","text":"Day 861: Billy says 3 potatoes for me. Billy is not in my sight now. Holding at 417,107,-1051 with Worf and Jason. Hunger 18."}],"say":"Billy, thank you for the 3 for 
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Billy, I step to 416,107,-1052 to get back in your sight. Worf with me. Zack, unarmed, daylight."}
+- 12:51 act: {"actions":[{"do":"note","text":"Day 861: Billy holds 10 potatoes at 416,107,-1053, out of my sight. My step toward him changed nothing. I hold at 417,107,-1051 with Worf in reach. Hunger 18."}],"say"
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1052}}],"say":"Billy, Zack stepping one block south to 417,107,-1052, to come into your sight. Unarmed, hunger 18."}
+- 12:53 act: {"actions":[{"do":"note","text":"Day 861: goto to 417,107,-1052 reported worked but I still see only Worf and Jason; Billy not in my sight at 416,107,-1053. I hold, unarmed, hunger 18."}],"say":"Billy
+- 12:56 act: {"actions":[{"do":"note","text":"Dusk, day 861: Billy holds my 3 potatoes at 416,107,-1053, still out of my sight. I hold at 417,107,-1051 with Worf and Jason. No walk in the dark. Hunger 18."}],"say"
+- 12:56 act: {"actions":[{"do":"note","text":"Night, day 861: Billy sleeping at bed 413,107,-1042 with my 3 potatoes. I hold at 417,107,-1051 with Worf until first light. Hunger 18."}],"say":"Good night, Billy. Za
+- 12:59 act: {"actions":[{"do":"note","text":"Morning, day 862: Zack at 417,107,-1051 with Worf and Jason. Billy has my 3 potatoes at 413 bed; not yet in my sight. Hunger 18, pack empty."}],"say":"Morning, row. Za
+- 13:00 act: {"actions":[{"do":"note","text":"Day 862 morning: Billy in reach at 417; said he gave me my 3 potatoes. Checking pack. Worf's 5 still due from Billy."}],"say":"Thank you, Billy. Worf first, then I tha
+- 13:00 act: {"actions":[{"do":"note","text":"Day 862: Billy in reach but my pack still empty. Asked Billy to hand over my 3 potatoes."}],"say":"Billy, my pack is still empty. Please give me my 3 potatoes now, you
+- 13:00 act: {"actions":[{"do":"note","text":"Day 862 morning: Billy in reach, pack still empty after two asks. Holding at 417,107,-1051 with Worf and Jason. Hunger 18."}]}
+- 13:01 act: {"actions":[{"do":"note","text":"Day 862: Billy holds 10 potatoes, says something blocks the hand-over. I stand clear at 417,107,-1051, Worf first. Hunger 18."}],"say":"Billy, I am clear here at 417,1
+- 13:05 act: {"actions":[{"do":"note","text":"Day 862: Billy went out of my sight while handing Worf's 5. I hold at 417,107,-1051 with Jason and Worf, unarmed, hunger 18. My 3 still with Billy."}]}
+- 13:08 act: {"actions":[{"do":"note","text":"Day 862 dusk: Billy went to bed at 413,107,-1042 with my 3 potatoes, promising first light. I hold at 417,107,-1051 with Jason and Worf. Hunger 18, unarmed."}],"say":"
+- 13:09 act: {"actions":[{"do":"note","text":"Dusk, day 862: Billy promises Worf's 5, then my 3, at first light in sight. I hold at 417,107,-1051 with Jason and Worf. Hunger 18."}],"say":"Dusk, row. Zack holding a
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1046}},{"do":"note","text":"Morning, day 862: Billy at bed 415,107,-1037 with 10 potatoes, not in my sight. I walk south-north in daylight with 
+- 13:15 act: {"actions":[{"do":"note","text":"Day 862 morning: Worf and Jason in my sight at the row. Billy still not in my sight, so no potatoes yet. I hold at 416,107,-1047, unarmed, hunger 18."}],"say":"Zack he
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1041}},{"do":"note","text":"Day 862: Billy at bed 415,107,-1037 with 10 potatoes asks Worf to step into his sight first, then me. I walk toward 
+- 13:16 act: {"actions":[{"do":"note","text":"Day 862: my goto toward Billy at 416,107,-1041 was blocked; I stay at 416,107,-1047 with Worf and Jason in sight. Billy at bed 415,107,-1037 with 10 potatoes. Hunger 1
+- 13:17 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1043}},{"do":"note","text":"Day 862 day: Worf goes to Billy's sight; I follow with him, unarmed, at 416,107,-1043 target, to be in Billy's sight
+- 13:18 act: {"actions":[{"do":"note","text":"Day 862: walk south toward Billy blocked again; I hold at 416,107,-1047 with Worf and Jason in sight. Billy has not come into my sight. Hunger 18, unarmed."}],"say":"B
+- 13:18 act: {"actions":[{"do":"note","text":"Dusk, day 862: still no potatoes; Billy out of my sight at bed 415,107,-1037. I hold at 418,107,-1047 with Jason and Worf in sight. No walk in the dark. Hunger 18, una
+- 13:22 act: {"actions":[{"do":"note","text":"Night, day 862: I stand perched at 418,108,-1047 after a reflex unstick; Jason and Worf in sight. Billy holds potatoes at 416,107,-1037 for Leonardo too. I hold until 
+- 13:26 act: {"actions":[{"do":"unstick"},{"do":"note","text":"Day 863 morning: daylight. I stand perched at 418,108,-1047 with Jason, Worf and Wesley in sight. Billy not in my sight. Hunger 18, pack empty, unarme
+- 13:26 act: {"actions":[{"do":"note","text":"Day 863 morning: unstick worked; I stand on the ground at 418,107,-1049 with Jason and Worf in reach. Billy still not in my sight. Hunger 18, pack empty. Waiting for B
+- 13:27 act: {"actions":[{"do":"note","text":"Day 863 morning: Billy in my sight at 3 blocks, holding 8 potatoes. Worf first, then my 3. I hold at 418,107,-1049, unarmed."}],"say":"Billy, I see you. Zack here, una
+- 13:31 act: {"actions":[{"do":"note","text":"Day 863 morning: Worf received his 5 potatoes from Billy. Billy says my 3 are next. I hold at 418,107,-1049, Billy 3 blocks off."}],"say":"Thank you, Billy, and well d
+- 13:33 act: {"actions":[{"do":"note","text":"Day 863 morning: Billy said he was giving my 3 potatoes, but my pack is still empty and Billy is out of my sight. I hold at 418,107,-1049 with Jason and Worf, hunger 1
+- 13:33 act: {"actions":[{"do":"note","text":"Day 863 morning: Billy at 421,107,-1049 with 8 potatoes, out of my sight. Worf also has not received his 5. My pack still empty. I hold at 418,107,-1049 and wait."}]}
+- 13:37 act: {"actions":[{"do":"note","text":"Dusk, day 863: Billy went to bed at 429,107,-1050 still owing my 3 potatoes and Worf's 5. I hold at 418,107,-1049 with Jason and Worf in reach. Hunger 18, pack empty, 
+- 13:42 act: {"actions":[{"do":"note","text":"Morning, day 863. Holding at 418,107,-1049 in daylight, Jason and Worf in sight. Waiting for Billy to hand over my 3 potatoes."}],"say":"Morning, Billy. Zack at 418,10
+- 13:45 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1052}}],"say":"Billy, Zack walking to you now, 417,107,-1052. Please hand over my 3 potatoes when I am in your view."}
+- 13:52 act: {"actions":[{"do":"note","text":"Dusk, day 864. Billy says he holds 8 potatoes and will give mine at first light. Still no hand-over. Holding at 417,107,-1051 with Jason and Worf in reach. Hunger 18, 
+- 13:56 act: {"actions":[{"do":"note","text":"Morning, day 865 (per row). Holding at 417,107,-1051 with Jason and Worf in sight. Billy not in my sight. Hunger 18, pack empty."}],"say":"Morning, row. Zack holding a
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Zack stepping toward Billy at 419,107,-1050, Jason in sight. Billy, my 3 potatoes now, please."}
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Billy, Zack is at 420,107,-1050, two steps from you, in your sight. Please give my 3 potatoes now."}
+- 13:58 act: {"actions":[{"do":"note","text":"Day 864 morning. Billy at 421,107,-1050 with 8 potatoes; my goto to 420 failed (blocked). Holding at 419,108,-1050 with Jason and Worf in sight. Waiting for Billy's gi
+- 14:01 act: {"actions":[{"do":"note","text":"Day 864 dusk. Billy went to bed at 429,107,-1051 without giving my 3 potatoes or Worf's 5. Holding at 419,108,-1050 with Jason and Worf in sight. Pack empty, hunger 18
