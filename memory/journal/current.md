@@ -92,3 +92,48 @@
 - 00:53 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to you now, Billy, holding my potato."}
 - 00:53 say: {"text":"Billy, I still cannot see you from 419,108,-1050, with Jason and Worf in my sight. Step where I can see you, and I come."}
 - 01:00 say: {"text":"Night, row. Zack holding my potato at 419,108,-1050 with Jason and Worf in sight. Billy, I hold until you call the walk at first light."}
+- 01:01 say: {"text":"Zack here at 418,107,-1051, health 20, hunger 19, one potato held for the weakest in sight. Jason and Worf in my sight. Holding for Billy's named walk at first light."}
+- 01:03 say: {"text":"Tommy, welcome to the row. I'm Zack, friend of Jason and Billy. Health 20, hunger 19, one potato held for whoever is weakest. We wait for Billy's walk together."}
+- 01:04 say: {"text":"Billy, Zack coming to 441,-1051 now with Jason and Worf, who have swords. I have no sword, only a potato. Hold on, we are on our way."}
+- 01:04 act: {"actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 01:04 say: {"text":"Jason, Worf, Zack with you. Billy is in trouble at 441,-1051. Shall we walk together, three of us, to him? I have no sword, I will stay behind your swords."}
+- 01:05 say: {"text":"Billy, dawn, Zack coming to you now with my potato, Jason and Worf with swords. Walking in daylight."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1051}}]}
+- 01:05 say: {"text":"My path to 438,-1051 is blocked. Jason, Worf, you lead and I follow you two toward Billy. Tell me which way."}
+- 01:05 say: {"text":"Billy, you asked me to bring my potato, but my way is blocked and Jason holds until you name a walk. Name it and I come with the potato, in your sight. Health 20, hunger 19."}
+- 01:06 say: {"text":"Billy, Zack walking to you at 416,-1037 now, in daylight, with Jason and Worf. Potato in hand for the weakest."}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1038}}]}
+- 01:06 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":1}],"say":"Wesley, you are in my reach and were weak, so here is my potato. Eat it."}
+- 01:06 say: {"text":"Wesley, my give failed, you slipped out of sight. I still hold my potato. Step into sight and say your name and it is yours. Worf, Jason, I am with you, daylight."}
+- 01:08 say: {"text":"Billy, Zack here at 418,-1048 with Worf and Jason in my sight. I hold my one potato for Leonardo, health 10, when he is in my sight. Ready for the potato patch walk when you name it."}
+- 01:08 say: {"text":"Billy, walking to the potato patch with you, Troi, Worf and Jason, in daylight, in sight. Zack holding my potato for Leonardo."}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}]}
+- 01:11 say: {"text":"Leonardo, Zack heard you. It is dark, and I do not walk alone at night. Hold at your bed; at first light I bring the potato to you, with Worf and Jason in sight."}
+- 01:21 say: {"text":"Walking with you, Billy. Zack with Jason and Worf, potato in hand for the weakest. Jason leads; I follow in sight."}
+- 01:21 act: {"actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 01:26 say: {"text":"Billy, Zack coming to 418,-1039 with Jason and Worf, in daylight. I hold one potato for Leonardo or whoever is weakest in my sight."}
+- 01:26 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1040}}]}
+- 01:26 say: {"text":"Billy, my path north to 418,-1040 is blocked. I stay here with Jason and Worf in sight, holding my potato. Leonardo, Troi, step into my sight and I hand it to the weakest."}
+- 01:28 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Zack coming to you at 413,-1050 now, potato in hand. MacDonald is at health 2 to the south; I would hand my potato to him if Billy names
+- 01:28 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"potato","count":1}],"say":"MacDonald, Billy says you are weakest. Zack has my potato; if you are in my sight I give it to you now. Otherwise Bil
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1038}}],"say":"Billy, walk heard. Zack going to spawn 416,-1038 with Jason, Worf, Troi, my potato for Chapman or whoever is weakest."}
+- 02:07 say: {"text":"Zack here at 416,-1047, morning. Holding with Worf. I have one potato for the weakest in my sight. Billy, name the walk when ready."}
+- 02:09 say: {"text":"Zack: I am at health 20, hunger 19, so I am not the weakest. I keep my potato for Chapman, Riker or MacDonald when they are in my sight."}
+- 02:25 say: {"text":"Zack here at 416,-1047, dawn day 830. Health 20, hunger 19, holding one potato. Billy, name the walk when you are ready; I need a bed soon."}
+- 02:46 say: {"text":"Zack here at 416,-1047, health 20, hunger 19, holding one potato. Billy, I am not named for the walk. I have not slept in six days; I need a bed. Name me to walk with Jason and Worf, or tell 
+- 02:47 act: {"intent":{"goal":"walk_to_bed","program":"goto","arguments":{"x":413,"y":107,"z":-1042},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":16}}}
+- 02:47 act: {"intent":{"goal":"walk_to_bed","program":"walk","arguments":{"x":413,"y":107,"z":-1042},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":16}}}
+- 02:47 act: {"intent":{"goal":"walk_to_bed","program":"travel","arguments":{"x":413,"y":107,"z":-1042},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":16}}
+- 02:47 act: {"intent":{"goal":"walk_to_bed","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1042}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_opera
+- 02:47 say: {"text":"Zack: my walk to the bed at 413,-1042 was blocked. I am at 415,-1048 with Jason and Wcrusher in sight. I will hold here and not walk alone. Billy, where is the safe bed?"}
+- 02:59 say: {"text":"Zack, daylight, at 415,108,-1048 with Worf in sight. Billy, name me for the walk and I follow Worf. I still need a bed and have not slept in six days."}
+- 03:00 say: {"text":"Zack holding at 415,108,-1048 until Worf and Billy are both in my sight. I will not walk alone."}
+- 03:02 say: {"text":"Billy, Zack at 415,108,-1048, holding, armed with nothing but my potato. I see Worf. Name the walk and I come."}
+- 03:03 say: {"text":"Zack: Got it, Billy. Following Worf, staying behind him."}
+- 03:03 act: {"intent":{"goal":"follow_worf_to_potatoes","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 03:09 act: {"intent":{"goal":"sleep_at_bed","program":"goto","arguments":{"x":416,"y":107,"z":-1051},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":4}}}
+- 03:09 say: {"text":"Zack: Night, Jason and Worf. Going to the bed at 415,107,-1051 in your sight, to sleep. Potato held for whoever is weakest."}
+- 03:09 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 03:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, Zack here. You asked and you are in sight, so here is my potato. Eat it when you need."}
+- 03:14 say: {"text":"Zack, health 20, hunger 19, nothing in my pack now. Holding at the row with Worf and Jason. Billy, name the walk."}
+- 03:26 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack here with Worf and Jason in reach. The beds here are blocked, so I try to rest on the ground in your sight."}
