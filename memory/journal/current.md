@@ -161,3 +161,15 @@
 - 07:19 say: {"text":"Zack here at the row, 419,108,-1050, holding with Worf and Jason in sight. Not walking until named."}
 - 07:32 act: {"actions":[{"do":"sleep"}]}
 - 07:36 say: {"text":"Morning, row. Zack here, health 20, hunger 18, pack empty. Holding at the row until Billy names a walk. Worf, you are at 11; I will eat from Beverly's potatoes at 10 or below if they are shar
+- 08:56 act: {"say":"Morning, row. Zack here, health 20, hunger 18, pack empty. Jason and Worf in sight. Holding for Billy's named walk. Eight days... eleven days since I slept; I need a bed once Billy names one."
+- 08:57 act: {"say":"Bcrusher, thank you. Zack at the row, health 20, hunger 18, pack empty. I will go to the bed at 430,107,-1050 when Billy names it, with Worf or Jason in sight. Keep my place near."}
+- 08:58 act: {"say":"Worf, thank you, I hear you. I hold here with you and Jason in sight until Billy names the walk."}
+- 09:07 act: {"say":"Zack here at 419,108,-1050, health 20, hunger 18, pack empty, twelve days since sleep. Jason, Worf: I stay in your sight. Billy, name my bed walk and I go."}
+- 09:07 act: {"say":"Jason, Zack hears you, holding here in your sight. Billy, when you name the bed, Jason and I go together. Hunger 18, health 20."}
+- 09:19 act: {"say":"Night, row. Zack at 419,108,-1050, health 20, hunger 18, Jason and Worf in sight. The beds nearby are blocked for me, so I hold here and do not walk alone. Billy, name the bed and I go."}
+- 09:49 act: {"say":"Night, row. Zack still at 419,108,-1050, health 20, hunger 18, Jason and Worf in sight. Fourteen days since sleep, so I need a bed soon. Billy, name the bed and I walk with them."}
+- 09:50 act: {"say":"Morning, row. Zack at 419,108,-1050, health 20, hunger 18, Worf and Jason in sight. Thank you Troi, I will take the free bed if Billy names the walk. Holding until then."}
+- 10:01 act: {"say":"Dusk, row. Zack taking the bed at 415,107,-1050 with Worf and Jason in sight, fourteen days since sleep. Going now, one step at a time.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-
+- 10:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:01 act: {"say":"Zack here, night, at 415,107,-1050 beside the bed. Sleep failed again: the way was blocked. I will not retry it. Worf, Jason, I stay in your sight here and hold. Billy, the bed needs your word
