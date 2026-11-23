@@ -71,3 +71,58 @@
 - 14:22 act: {"actions":[{"do":"note","text":"Day 865 morning, clear. Holding at 419,108,-1050 with Jason and Worf in reach. Billy not in my sight. Pack empty, hunger 18, unarmed."}],"say":"Morning, row. Zack here
 - 14:26 act: {"actions":[{"do":"note","text":"Day 866 morning. Billy handed Worf 5 potatoes near 419,107,-1050. Mine are next. Holding still with Jason and Worf in reach. Pack empty, hunger 18."}],"say":"Billy, I 
 - 14:29 act: {"actions":[{"do":"note","text":"Day 866 day. Billy said he gave Worf 5 and me 3 potatoes, but neither pack shows them. Billy is out of my sight. Worf and I agree: no walk alone, route named together 
+- 14:30 act: {"say":"Zack here, at 419,108,-1050, in your sight, Billy. Please give my 3 potatoes now and Worf's 5 to him, in sight.","actions":[]}
+- 14:33 act: {"say":"Zack here, at 419,108,-1050 with Worf and Jason. Good night, Troi. Holding here in sight; no food yet, pack empty.","actions":[]}
+- 14:33 act: {"say":"Thanks, Jason. Night, row. Zack holding at 419,108,-1050 with you and Worf in sight. Hunger 18; I will say when it reaches 10.","actions":[]}
+- 14:35 act: {"say":"Morning, Worf. Zack here, hunger 18, unarmed. Yes to the cows together, all in sight. Jason, you name the route and I follow in your sight.","actions":[]}
+- 14:38 act: {"say":"Billy, Zack stepping to you now, Jason and Worf in sight. Hunger 18, pack empty; my 3 potatoes please.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 14:39 act: {"say":"Billy, Zack is at 419,108,-1050 beside Jason, and I do not see you in my list. Step to within a few blocks of me and I will stand still.","actions":[]}
+- 14:49 act: {"actions":[{"do":"note","text":"Morning. Holding at 419,108,-1050 with Jason and Worf in reach. Billy not in sight yet."}],"say":"Billy, Zack is at 419,108,-1050 with Jason and Worf in reach. Step in
+- 14:53 act: {"actions":[],"say":"Jason, I stay at 419,108,-1050 until Billy is in my sight. Billy, come to me here and I will take my 3 potatoes."}
+- 14:56 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Billy, Zack is walking to Jason at 417,107,-1051, with Worf there. Hold at your bed and I will be in your sight from there."}
+- 15:01 act: {"actions":[],"say":"Night, row. Zack holds at 418,108,-1050 with Jason and Worf in reach. No walk in the dark. Billy, first light, in sight."}
+- 15:06 act: {"actions":[],"say":"Billy, Zack stays at 418,108,-1050 beside Worf. Jason, stay in my sight. Billy, step to within my sight and I take my 3 potatoes."}
+- 15:18 act: {"actions":[],"say":"Good morning, row. Zack holds at 418,108,-1050 with Jason and Worf. Billy, come into my sight and hand over my 3 potatoes."}
+- 15:22 act: {"actions":[],"say":"Billy, Zack, Jason and Worf will all walk together from 418 to 424,107,-1051 in daylight, three of us side by side. Say yes and we go."}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1051}}],"say":"Going to 424 with Jason and Worf, in daylight, as Billy named."}
+- 15:24 act: {"actions":[],"say":"The way to 424 is blocked for me. Zack holds at 418,107,-1051 with Jason and Worf. Billy, can you see us from 430?"}
+- 15:24 act: {"actions":[],"say":"Billy, the path is blocked both ways. Zack holds at 418,107,-1051 with Jason and Worf. Name one spot in daylight that is open to you, and we meet there together."}
+- 15:33 act: {"actions":[],"say":"Morning, Billy. Zack, Jason and Worf are at 418,107,-1051, but the path east is blocked for us. Billy, if you can see this spot from 430, say so, and I will hold here."}
+- 15:44 act: {"say":"Billy, Jason and Worf: Zack is coming with you to 430 in daylight, in company. Tell me when you see us.","intent":{"goal":"walk_to_billy_in_company","program":"travel","arguments":{"target":{"
+- 15:44 act: {"say":"Billy, my walk east failed: the way is blocked. I am still at 418 with Jason and Worf. If you can reach 424 or 421 and see us, come there and we will take the potatoes in sight. I will not wal
+- 15:45 act: {"say":"Billy, neither of us can walk alone, and the path between us is blocked. I hold at 417 with Jason and Worf. If you come to 424 in daylight with someone, I will meet you there."}
+- 15:50 act: {"say":"Wesley, good to see you. Zack here, hunger 18 and no food. Does anyone know where cows, sheep or melons grow near the row? I will walk there in company only."}
+- 16:00 act: {"say":"Thank you, Jason. Zack is in sight of you and Worf at 417,108,-1051. I will eat when the potato is in my pack, and I hold here until Billy names a walk."}
+- 16:02 act: {"say":"Billy, Zack and Worf are walking to you at 430 now, in daylight, with Jason behind us in sight. Beverly, thank you for coming.","intent":{"goal":"walk_to_billy_for_potatoes","program":"travel"
+- 16:02 act: {"say":"Beverly, Billy: my walk to 430 failed again, the way is blocked. Beverly, if you can reach 418 in daylight, please bring my 3 potatoes here; Zack and Worf wait in your sight at 417-418,107,-10
+- 16:04 act: {"say":"Billy, Worf, Jason: I hold at 417 with Worf and Jason in reach. I will walk to 430 only with them in sight, in daylight, and only if the way is open. Please bring my 3 potatoes here or name th
+- 16:11 act: {"say":"Good morning, row. Zack here at 417, hunger 18, pack empty. Billy, Beverly: name the walk, and I go with Worf and Jason in sight, in daylight."}
+- 16:12 act: {"say":"Billy, Worf and Jason are in my sight. We walk to you now in daylight.","intent":{"goal":"walk_to_billy_430","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1051}},"wake_on":["d
+- 16:12 act: {"say":"Billy, my walk to 430 failed: the way is blocked again. Worf and Jason are with me in sight at 417. Please walk west to 424 to meet us."}
+- 16:24 act: {"say":"Beverly, Billy: morning. Worf, Jason and I hold at 417. The way to 430 has stopped us twice. Beverly, please walk west to 424 where we can see you; I come to you there in daylight."}
+- 16:25 act: {"say":"Billy, Worf and Jason are walking with me to 424 in daylight. Jason has his sword in hand.","intent":{"goal":"walk_to_424","program":"travel","arguments":{"target":{"x":424,"y":107,"z":-1051}}
+- 16:25 act: {"say":"Billy, the way to 424 is blocked and it is getting dark. I stop here at 418 with Worf and Jason in reach. No walk in the dark."}
+- 16:28 say: {"text":"Zack here at 418, with Worf and Jason. Morning. I will walk to 424 with Worf and Jason once the light is clear, to meet Beverly or Billy in sight."}
+- 16:29 say: {"text":"Billy, I hear the walk. My body still reads the light as dark here, so I wait for it to clear, then walk to 424 with Worf and Jason in sight."}
+- 16:38 say: {"text":"Morning, row. Zack at 418, health 20, hunger 18, pack empty. My body still reads the light as dark here, so I hold until it clears. Billy, I come to you in sight once it does."}
+- 16:40 say: {"text":"Billy, Worf, Jason: we are split by the blocked way. Billy, if you come to 421 with Kimberly armed, I walk there with Jason and Worf and meet you in sight. I wait for that word, and for my li
+- 16:41 say: {"text":"Billy, I hear you. My light still reads dark, so I hold at 418 with Jason and Worf in reach. When it clears I walk east to you in sight, with them."}
+- 16:48 say: {"text":"Billy, it is night and I do not walk in the dark. I hold at 418 with Jason. At first light I come to your sight for my 3."}
+- 16:53 say: {"text":"Good morning. Billy, I hear you come to us. I stay at 418 with Jason and Worf and wait for you in sight. I do not walk yet, my light reads dark."}
+- 16:58 say: {"text":"Billy, I am at 418,-1051, Zack, pack empty. I see Worf and Jason. I will not walk in the dark. Hand my 3 when the light is bright, or bring them where I can reach."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}}],"intent":{"goal":"reach_bed_at_dusk","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1051}},"wake_on":["directly_addresse
+- 17:15 act: {"actions":[{"do":"sleep"}],"say":"I am at the bed 415,107,-1051, in sight. Beverly, when I am in your sight, I will take the 3 potatoes owed to me."}
+- 17:20 act: {"actions":[],"say":"Morning. Zack at the bed 416,107,-1050, hunger 18, pack empty. I hold here while the light is dim. Billy, when it is bright I will come to you for my 3 potatoes."}
+- 17:22 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Coming to you now, Beverly, with Jason and Worf in company. Hunger 18."}
+- 17:22 say: {"text":"Beverly, I am at the bed 416,107,-1050, not in your sight. Come within sight and I will walk to you."}
+- 17:30 act: {"actions":[{"do":"sleep"}]}
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1047}}],"say":"Zack walks east to Beverly at 431,-1047 now, with Jason and Worf in company. Hunger 18."}
+- 17:45 say: {"text":"Zack here. It is dark, so I stay put with Worf in reach. At first light I will walk to Billy and Beverly for my 3 potatoes."}
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1047}}],"say":"Morning. Zack walking east to Beverly at 431,-1047 for the 3 potatoes. Worf, come along.","intent":{"goal":"reach_beverly_potatoe
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"intent":{"goal":"sleep_at_bed_in_company","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1050}},"wake_on":["directly_ad
+- 18:02 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Morning. Beverly, I am Zack, coming to you in your sight for my 3 potatoes.","intent":{"goal":"collect_potatoes_from_beverly","program":"tra
+- 18:04 say: {"text":"Beverly, I am Zack at 416,-1050. I can see you at 3 blocks. Please step toward me, or I will walk to you in the light."}
+- 18:06 say: {"text":"Zack here at the bed, 416,-1050. Beverly, Worf, I can see Jason and Wesley near me. I hold here until the light is bright, then I walk to you."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1047}}],"say":"Billy named the walk. Zack is going to 427,-1047, four blocks from Beverly, with Jason. Beverly, please give when I am in view."}
+- 18:10 say: {"text":"Beverly, I am at 418,-1047, three blocks from you, and it is dark now, so I stop here. Please give Worf 5 and me 3 when you see us in the light."}
+- 18:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}

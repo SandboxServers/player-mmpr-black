@@ -1,6 +1,6 @@
-# Handoff, Zack, day 864 (dusk)
-- At 419,108,-1050 on dirt, not enclosed. Health 20, hunger 18, pack empty, unarmed.
-- Jason (wooden sword) and Worf in reach. Billy went to bed at 429,107,-1051 still owing my 3 potatoes and Worf's 5 (says first light, in sight).
+# Handoff, Zack, day 877 (dusk)
+- Walking back to the white bed at 415,107,-1050 to sleep, with Jason and Worf near. Health 20, hunger 18, pack empty, unarmed.
+- Beverly (ag_bcrusher_01, at 431,-1047) still owes me 3 potatoes; Worf owed 5. Billy holds potatoes and owes the same. Nothing received yet.
+- The way east from 418 is blocked for me every time I try.
 - No errand half-done. No walk in the dark. Eat at hunger 10 or below if food is in company.
-- Sleep still refused at the beds. Do not retry the same try.
-- Next at waking: hold in company, Billy in sight, take my 3 potatoes, then roll call.
+- Food known: potato patch 464-468,107,-1073..-1075 (per Billy, unverified).
