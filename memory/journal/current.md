@@ -56,3 +56,31 @@
 - 22:32 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, here is a potato for you. Eat it when your hunger drops."}
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}}],"say":"Leonardo, I gave you a potato just now. I am going to bed at 415,107,-1037 with 2 potatoes kept for anyone weak at first light."}
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}}]}
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, Zack here. Going to the bed at 413,107,-1042 to sleep in the group's sight. Two potatoes still in my pack."}
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Worf, I hold 2 potatoes for you. Say the word and I hand them over. Now I bed down near the white bed at 415,107,-
+- 22:33 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 22:36 act: {"actions":[],"say":"Morning, row. Zack here at 415,107,-1047, health 20, hunger 19, 2 potatoes. Leonardo and Beverly are weak: come into my sight and I hand one potato to the weakest. Holding for Bil
+- 22:37 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, one potato for you now. Eat it, then hold with us for Billy's walk."}
+- 22:37 act: {"actions":[],"say":"Leonardo, I do not see you yet. Step back into my sight at 415,107,-1045 and I hand you the potato."}
+- 22:38 act: {"actions":[],"say":"Zack holding at 415,107,-1047 with 2 potatoes. Leonardo, Worf, Beverly: step into my sight and say so, and the weakest gets one."}
+- 22:40 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, potato coming to you now. Zack is not armed, hands empty of sword; I hold my second potato for the next weak
+- 22:42 act: {"actions":[],"say":"Zack here at 415,107,-1047, unarmed, holding 2 potatoes. Billy, Leonardo is not in my sight. Worf, say your spot and I will bring one if you are in sight."}
+- 22:43 act: {"actions":[],"say":"Zack here, at 415,107,-1047, in your sight, unarmed, holding 2 potatoes. Billy, the weakest first; I will hand one over if you name someone."}
+- 22:44 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, one potato to you now, from Zack. Eat it."}
+- 22:44 act: {"actions":[],"say":"Leonardo, my give failed three times: you are not in my sight from here. Billy, you have potatoes and are near him: please hand one to Leonardo. I will stop trying to give from he
+- 22:44 act: {"actions":[],"say":"Correction, Billy: my give to Leonardo failed three times, so he has NOT had mine. I still hold 2 potatoes. Leonardo, if you are in my sight, say so and I will try once more."}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Zack going to the bed at 415,107,-1050 for the night, still in the row's sight. Worf, Leonardo, I hold 2 potatoes for whoever is 
+- 22:47 act: {"actions":[{"do":"sleep"}]}
+- 22:52 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Morning. Zack giving one potato to Worf, who is in my sight. Beverly, if you come into my sight, say so and I will give th
+- 22:54 act: {"actions":[],"say":"Zack here, health 20, hunger 19, one potato left. Beverly, if you step into my sight and say your name, the potato is yours. Otherwise I hold it for whoever is weakest in sight."}
+- 23:00 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Trying the bed I stand by. If it is blocked, I stay here in sight of Worf and Jason."}
+- 23:04 act: {"actions":[],"say":"Morning, row. Zack, one potato, at 415,107,-1047. Beverly, Bcrusher says you are at his bed. If you step into my sight and say your name, the potato is yours."}
+- 23:13 act: {"actions":[],"say":"Zack at 415,107,-1047, dusk, one potato held for Beverly. Beverly, step into my sight and say your name. I will not walk alone; I will go to a bed only when Billy names it."}
+- 23:18 act: {"actions":[],"say":"Zack here, holding one potato at 415,107,-1047. Troi reports Beverly ate hers. Leonardo is not in my sight, so I keep mine for him or whoever is weakest in sight. Billy, name who 
+- 23:20 act: {"actions":[],"say":"Leonardo, I hold my one potato for you. You are not in my sight yet. Step where I can see you and say your name, and I will hand it over."}
+- 23:25 act: {"actions":[],"say":"Leonardo, Troi has the potato for you, so I keep mine as the spare for whoever is weakest in my sight. Troi, you hand yours over."}
+- 23:33 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":1}],"say":"Bcrusher, health 5.3 and you are in my sight, so I give you my one potato. Eat it."}
+- 23:33 act: {"actions":[],"say":"Bcrusher, my give failed: you are not in my sight. Step where I can see you and say your name, and I will hand you my potato."}
+- 23:36 act: {"actions":[],"say":"Bcrusher, I hear you. Riker and Trini are not in my sight, so I hold my potato. Whoever steps into my sight and says their name and is weakest, I give it to them."}
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Zack trying the bed at 415,107,-1050, two blocks from me, with Jason and Worf in sight."}
+- 23:56 act: {"actions":[],"say":"The bed at 415,107,-1050 says the way is blocked, so I will not try it again. Bcrusher, if you step into my sight I will give you my potato."}
