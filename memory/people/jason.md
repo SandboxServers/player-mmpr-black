@@ -1,4 +1,5 @@
 # Jason
 
-Impression: steady companion. He stayed near me at the beds on the morning of day 322. Missing since the melon field search.
-Trust: 75. He kept his word to stay near; I have not yet seen him at the field.
+Impression: steady companion, stays in my sight, has a sword, and walks with Worf and me when Billy names a walk. He stayed near me at the beds on day 322. He asked for food, and I gave him my last potato at 03:14 (day 833).
+Trust: 75. Reason: he keeps his word to stay near, and he holds with the group.
+Owe: nothing open. Owed to me: nothing.
