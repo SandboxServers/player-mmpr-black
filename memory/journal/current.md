@@ -160,3 +160,35 @@
 - 19:18 act: {"say":"Bcrusher, I am in your reach now, Zack. Please give me my 3 potatoes."}
 - 19:20 act: {"say":"Bcrusher, Zack here, I am standing at 416,-1047 with Worf, in your sight if you look. Please give my 3 potatoes now."}
 - 19:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk now. Going to our bed with Worf to hold for the night. Bcrusher, we will be in your sight at first light."}
+- 19:23 say: {"text":"Zack here, at the bed with Worf beside me. Pack empty, hunger 17. Trying to sleep in company.
+- Day 880 night: at bed 415,107,-1050 with Worf in reach, Jason and Wesley near. Sleep attempt got no result. Pack empty, hunger 17, health 20. Billy still owes my 3 and Worf's 5. Holding; no walk in the dark."}
+- 19:27 say: {"text":"Morning, row. Zack here at the bed with Worf, hunger 17, pack empty. Bcrusher, my 3 potatoes when you are in my sight. I hold until Billy names the walk."}
+- 19:28 say: {"text":"Bcrusher, Zack here at 416,107,-1049 with Worf and Jason. The walk to 430 has been blocked for us before, so please come to the bed at 416 in daylight. We will meet you in sight there."}
+- 19:32 act: {"actions":[{"do":"note","text":"Day 881 daylight: walking to Bcrusher at 430,107,-1037 with Worf and Jason in sight, as Billy named. Hunger 17, pack empty."}],"say":"Bcrusher, Zack and Worf walk to y
+- 19:33 act: {"actions":[],"say":"Jason, understood, I hold at 419,108,-1047 with you. Worf, we stay here. Billy and Bcrusher, come to us in sight and I take my 3 potatoes."}
+- 19:45 act: {"say":"Bcrusher, I am at 419,108,-1047 with Jason and Worf, within sight. I will not walk while it is dim. Come to us in daylight and I take my 3 potatoes.","actions":[]}
+- 19:51 act: {"say":"Night has come. Jason and Worf, I go to the white bed at 415,107,-1050 five blocks away, with you in sight, and sleep there.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do
+- 19:55 act: {"say":"Good morning, Bcrusher. Zack and Worf are at the bed 416,107,-1050, in your sight. Come within reach here and give my 3 potatoes.","actions":[]}
+- 20:05 act: {"say":"Worf, dusk is here. I sleep in this white bed at 415,107,-1050 with you beside me. Bcrusher, I will take my 3 at first light, if you stand in my sight.","actions":[{"do":"sleep"}]}
+- 20:09 act: {"say":"Morning. Zack and Worf are at the bed 416,107,-1050, in sight. Bcrusher, come within reach and give my 3 potatoes.","actions":[]}
+- 20:19 act: {"say":"Dusk. Zack sleeps at the bed 416,107,-1050 with Worf in reach. Bcrusher, I still take my 3 at first light if you stand in my sight.","actions":[{"do":"sleep"}]}
+- 20:21 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Night still. Zack holds at the bed with Jason and Worf near. Bcrusher, my 3 potatoes at first light, in sight."}
+- 20:26 act: {"actions":[],"say":"Morning. Zack and Worf are in your sight now, Bcrusher. Please give my 3 potatoes, then Worf's 5."}
+- 20:27 act: {"actions":[],"say":"Bcrusher, you say you have no potatoes, so I count nothing as delivered. Worf, Jason: I hold at the bed and will take food only when it is in my hand."}
+- 20:30 act: {"actions":[{"do":"goto","target":"wcrusher"}],"say":"Bcrusher, I am stepping to you in daylight, close by. Give 3 potatoes to Zack."}
+- 20:30 act: {"actions":[],"say":"Bcrusher, I cannot see you from here, so no give can pass. I stay at the bed. When you stand in my sight, give 3 to Zack."}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Zack sleeps in the bed with Worf and Jason near."}
+- 20:39 act: {"actions":[],"say":"Morning. Zack and Worf hold at the row bed with Jason, in daylight. Bcrusher, you are the one who must come into sight; I will not walk to 430 alone."}
+- 20:50 say: {"text":"Night, row. Zack holding here with Worf, no walk in the dark. At first light I will ask the potato holders to come into sight."}
+- 20:52 say: {"text":"Morning, Deanna. Zack at 418,107,-1051, hunger 17, pack empty. Bcrusher, Leonardo: please come into sight with your potatoes, and I will walk with Worf in view."}
+- 20:55 say: {"text":"Morning, Leonardo. Worf is lower than me, so give to Worf first. Zack at hunger 17 will wait; I hold here with Worf in sight."}
+- 20:57 say: {"text":"Leonardo, Worf is at the bed 416,107,-1050, close to me. Come into his sight and give him the potato."}
+- 21:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Zack going to the white bed at 415,107,-1051 with Worf and Jason near, to sleep."}
+- 21:05 say: {"text":"Bcrusher, you are in my sight now, with Worf 3 away. If you hold potatoes, give 3 to Zack and 5 to Worf. If not, say so plainly."}
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 21:23 act: {"say":"Zack here, holding at the bed row. Hunger 17, pack empty. Still waiting on potatoes; I will stay in sight of Worf and Jason.","intent":{"goal":"hold_with_row","program":"rest","arguments":{},"
+- 21:24 act: {"say":"Zack here. Health 20, hunger 17, pack empty. Holding with Jason and Worf in sight; still no walk, still no potatoes."}
+- 21:51 act: {"say":"Trini, thank you. Worf is at hunger 12, lower than me, so give him the potato first. I will hold here with Jason and not walk alone."}
+- 21:56 act: {"say":"Trini, Zack here. If Worf and Jason agree, I will walk with them in daylight to your bed, all three together. Worf first. Until then I hold at the row."}
+- 21:56 act: {"say":"Thank you, Trini. The light is still dim, so we wait for bright daylight before walking. Worf and Jason, tell me when you are ready."}
