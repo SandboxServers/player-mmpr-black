@@ -147,3 +147,17 @@
 - 03:48 say: {"text":"Troi, Zack here, health 20, hunger 19, Worf in my sight. Holding for Billy's walk too. Stay in sight."}
 - 03:59 say: {"text":"Dusk, Zack here at 415,107,-1048, health 20, hunger 19, empty hands. Worf, Jason, Riker: I stay in your sight. No walk from me until Billy names one."}
 - 04:03 say: {"text":"Zack here at 415,107,-1048, health 20, hunger 19, nothing held. Worf and Jason in sight. Holding for Billy's named walk."}
+- 05:20 say: {"text":"Morning, row. Zack here, health 20, hunger 19, pack empty. Wcrusher is in reach, Worf in sight. Holding for Billy's named walk."}
+- 05:32 say: {"text":"Morning, row. Zack holding at 418,107,-1047, health 20, hunger 19, pack empty. Leonardo, I have no food to give, but Worf holds one for you. Billy, name the walk when ready."}
+- 05:44 say: {"text":"Morning, row. Zack at 418,107,-1047, health 20, hunger 19, no food. I have not slept in two days and my beds here are blocked. Riker, Laforge, is the bed at 430,107,-1051 open? Billy, name th
+- 05:46 say: {"text":"Thank you, Riker. I will hold until Billy names the walk, then go to the bed at 429,107,-1050 with Worf in sight."}
+- 06:22 say: {"text":"Zack here at the row, health 20, hunger 19, pack empty. Billy, it is night now. Your word, and I will go to the bed at 429,107,-1050 with Worf in sight."}
+- 06:47 say: {"text":"Zack, dusk at the row, health 20, hunger 19, five days since sleep. Worf, I will try to sleep at my nearest bed with you in sight. Tell me if you are walking with me."}
+- 06:49 say: {"text":"Billy, Zack at the row. You are sleeping beside 429,107,-1050 now. May I come there and sleep beside it, one block off, with Lewis in sight? Your word."}
+- 06:50 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Zack walking to 430,107,-1050, beside Billy's bed, as Billy named."}
+- 06:50 act: {"say":"Zack: my walk to 430,107,-1050 was blocked. Still at the row, holding. Will try again later."}
+- 07:02 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Zack: night now. Walking to 430,107,-1050 beside Billy's bed, Lewis in sight, as Billy named."}
+- 07:02 act: {"actions":[{"do":"sleep"}]}
+- 07:19 say: {"text":"Zack here at the row, 419,108,-1050, holding with Worf and Jason in sight. Not walking until named."}
+- 07:32 act: {"actions":[{"do":"sleep"}]}
+- 07:36 say: {"text":"Morning, row. Zack here, health 20, hunger 18, pack empty. Holding at the row until Billy names a walk. Worf, you are at 11; I will eat from Beverly's potatoes at 10 or below if they are shar

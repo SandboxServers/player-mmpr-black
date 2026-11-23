@@ -1,7 +1,6 @@
-# Handoff, Zack, day 837 (night)
-- At 419,108,-1050 at the row, not enclosed, on dirt. Health 20, hunger 19.
-- Jason and Worf about 4 blocks away, in sight. Riker at bed 430,-1051, Wesley near.
-- Inventory empty. No food, no sword.
-- Beds 415,107,-1050 and 415,107,-1051 report "the way was blocked" on sleep.
-- Holding at the row for Billy's named walk. Do not walk alone.
-- Next at waking: roll call; eat at hunger 10 or below if food is in company; walk only when Billy names a walk.
+# Handoff, Zack, day 846 (night)
+- At 419,108,-1050 at the row, not enclosed, on dirt. Health 20, hunger 18, pack empty.
+- Jason and Worf in sight, holding. Beverly at bed with 20 potatoes, hands out at hunger 10 or below once Billy routes it.
+- Sleep from this tile and the 415/430 beds has been blocked. Not retrying the same spot.
+- No errand half-done. Holding until Billy names a walk. Do not walk alone.
+- Next at waking: roll call; eat at hunger 10 or below if food is in company; walk only when Billy names it.
