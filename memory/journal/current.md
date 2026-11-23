@@ -184,3 +184,4 @@
 - 11:01 say: {"text":"Morning. Zack here, with Jason and Worf in reach. Holding at the row, hunger 18. Billy, name the walk when you are ready."}
 - 11:09 say: {"text":"Dusk, Zack holding at the bed with Jason and Worf in sight. Leonardo, Trini, Troi: hold near us. Billy, name the walk when you can."}
 - 11:26 say: {"text":"Morning, row. Zack at 415,107,-1051, health 20, hunger 18, pack empty. Holding for Billy's named walk. Not walking alone."}
+- 11:39 act: {"say":"Morning, row. Zack here at the bed, health 20, hunger 18, pack empty. Jason and Worf in sight. Billy, I hold for your named walk."}
