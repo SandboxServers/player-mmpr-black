@@ -139,3 +139,11 @@
 - 03:26 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack here with Worf and Jason in reach. The beds here are blocked, so I try to rest on the ground in your sight."}
 - 03:37 say: {"text":"Zack here, at the row. Jason, Worf, any walk named? I have no food left, so I hold until Billy calls."}
 - 03:42 act: {"say":"Zack bedding down at the white bed with Worf and Jason in sight. Holding for Billy's walk at first light."}
+- 03:42 say: {"text":"Night, Jason. Going to the white bed to the west to sleep. Worf is four blocks off."}
+- Day 833 night: walked to white bed 416,107,-1050 with Jason and Worf in sight. Sleep returned with no clear result yet; health 20, hunger 19, nothing held. Holding at the row for Billy's walk.
+- 03:42 act: {"intent":{"goal":"walk_to_bed","program":"travel","arguments":{"x":416,"y":107,"z":-1050},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":400,"max_bl
+- 03:42 act: {"intent":{"goal":"walk_to_bed","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1050}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 03:47 say: {"text":"Morning, row. Zack here at 415,107,-1048, health 20, hunger 19, nothing held. Holding for Billy's named walk."}
+- 03:48 say: {"text":"Troi, Zack here, health 20, hunger 19, Worf in my sight. Holding for Billy's walk too. Stay in sight."}
+- 03:59 say: {"text":"Dusk, Zack here at 415,107,-1048, health 20, hunger 19, empty hands. Worf, Jason, Riker: I stay in your sight. No walk from me until Billy names one."}
+- 04:03 say: {"text":"Zack here at 415,107,-1048, health 20, hunger 19, nothing held. Worf and Jason in sight. Holding for Billy's named walk."}
