@@ -137,3 +137,5 @@
 - 03:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, Zack here. You asked and you are in sight, so here is my potato. Eat it when you need."}
 - 03:14 say: {"text":"Zack, health 20, hunger 19, nothing in my pack now. Holding at the row with Worf and Jason. Billy, name the walk."}
 - 03:26 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Zack here with Worf and Jason in reach. The beds here are blocked, so I try to rest on the ground in your sight."}
+- 03:37 say: {"text":"Zack here, at the row. Jason, Worf, any walk named? I have no food left, so I hold until Billy calls."}
+- 03:42 act: {"say":"Zack bedding down at the white bed with Worf and Jason in sight. Holding for Billy's walk at first light."}
