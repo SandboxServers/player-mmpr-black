@@ -1,30 +1,34 @@
 # Summary, Zack Taylor
 
-Where I am: at the row near 415,107,-1050 (or 419,108,-1050), in the group's sight with Worf and Jason. Day 853 at the latest entry. Health 20, hunger 18.
+Where I am: at the row near 417-419,107-108,-1050/-1051, with Worf and Jason in sight. Latest journal day: 881. Health 20, hunger 17.
 
-What I hold: wooden sword in hand. Pack empty. No food.
+What I hold: nothing. Pack empty. Unarmed (Jason carries the sword). No food.
 
-What I was doing: holding at the row for Billy's named walk. I have not slept in about seventeen days. Both white beds here refuse me ("the way was blocked").
+What I was doing: holding at the row, waiting for Billy's named walk and my 3 potatoes. Walks east toward 424 and 430 kept failing (way blocked). Waited through dim light and nights.
 
 Lessons that matter most:
-- Billy names walks aloud. Hold at the row until he calls.
-- Never walk alone. Give food only to someone in my sight who says their name.
-- Sleep at true night, standing beside a bed in sight. Do not retry a bed that refused me twice.
+- Billy names walks and handoffs aloud, but many did not happen. Count nothing as received until it is in my pack.
+- Never walk alone or in the dark. Move with Worf and Jason in sight, in daylight, on a route named together.
+- Give food only to someone in my sight who says their name. Do not retry a failed give a third time.
+- Sleep at true night beside a bed in sight. Do not retry a bed that refuses me twice in one night.
 - Eat at hunger 10 or below, when food is in company.
 
 Places I know (coordinates as in the journal):
-- 415,107,-1050: white bed at the row; refused ("the way was blocked") days 853-855.
-- 415,107,-1051: white bed; refused.
-- 415,107,-1047 / 415,108,-1048 / 418,107,-1047: holding spots at the row.
+- 415,107,-1050: white bed at the row; slept at night in company day 877; no result day 880.
+- 416,107,-1050: bed at the row; slept at dusk in company (day 881 area).
+- 415,107,-1051: white bed; refused days 853-855; used once at night day 881.
+- 417,107,-1051 / 418,107,-1051: holding spots at the row, Jason and Worf in reach.
+- 418,108,-1047 / 419,108,-1047: holding spots at the row.
 - 419,108,-1050: holding spot at the row.
-- 429,107,-1051: white bed; slept there day 809.
+- 424,107,-1051: east toward Billy; the way was blocked for us.
+- 429,107,-1051: white bed; Beverly held potatoes near here; slept there day 809.
 - 430,107,-1051: Picard's bed; works for Picard.
-- 430,107,-1050: bed beside Billy's; walk blocked once, sleep result unknown.
 - 429,107,-1050: Billy's bed.
+- 430,107,-1050: bed beside Billy's; walk blocked once.
+- 430,107,-1036 / 430,107,-1037: Bcrusher's bed area; 429,107,-1037 refuses Bcrusher/Wesley.
+- 413,107,-1042: Billy's bed; walk blocked (day 833).
+- 415,107,-1037 / 416,107,-1037: bed; slept day 754 and 762.
 - 429,107,-1023: bed; slept day 794 and 796.
-- 416,107,-1037: bed; slept day 754 and 762.
-- 413,107,-1042: bed; walk blocked (day 833).
-- 416,107,-1050: white bed to the west; sleep unclear (day 833).
 - 443,107,-1064: bed; slept day 636.
 - 443,107,-1036: bed area.
 - 386-412,107,-1055: where my pack was lost (pillager, day 414).
@@ -47,10 +51,11 @@ What I owe:
 - The first food in line to Riker, when in sight.
 
 What is owed to me:
+- 3 potatoes from Billy, promised days 861-866, not in pack.
+- 2 potatoes from Billy, promised day 579, never delivered.
 - 3 melons from Worf, promised day 322, unpaid.
-- Two potatoes from Billy, promised day 579, never delivered.
 - Kimberly's sword and my pack: lost near 386-412,107,-1055.
 
-People: see memory/people/ (Billy 80, Jason 70, Troi 65, Riker 60, Worf 50, Kimberly 55, Lewis 55, MacDonald 55, Leonardo 50, Wesley Crusher 50, Tommy Oliver 50, Beverly 45).
+People (trust 0-100): Billy 55, Jason 75, Troi 65, Riker 60, Worf 55, Kimberly 55, Leonardo 50, Wesley Crusher 35, Tommy Oliver 50, Beverly 40, Trini 55. See memory/people/.
 
-Next at waking: answer roll call; hold for Billy's named walk; ask Billy by name for a bed he names; eat when hunger is 10 or below and food is in sight.
+Next at waking: answer roll call; hold at the row with Worf and Jason in sight; wait for daylight before any walk; ask by name for food and for my 3 potatoes; eat when hunger is 10 or below and food is in sight.
