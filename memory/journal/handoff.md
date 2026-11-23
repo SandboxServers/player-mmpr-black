@@ -1,6 +1,7 @@
-# Handoff, Zack, day 879 (night)
-- At the white bed 415,107,-1050 with Worf in reach. Health 20, hunger 18.
-- Bcrusher said he is giving me 3 and Worf 5 potatoes as Billy named. Not yet seen in my pack (pack empty at last wait).
-- Billy said: Beverly gets Kimberly's 4 first, Trini after. Hold until first light.
-- Next at waking: check pack for potatoes. Eat at hunger 10 or below. Walk only in daylight on a route Billy names.
+# Handoff, Zack, day 880 (night)
+- At the white bed 415,107,-1050 with Worf in reach. Health 20, hunger 17. Pack empty.
+- Bcrusher has not handed over my 3 or Worf's 5 potatoes yet; he says he holds 10. Said "giving now" but nothing arrived.
+- Walks to 430,-1036 were blocked twice. Do not walk there alone or in the dark.
+- Jason holds near 419,108,-1047 until Billy names him.
+- Next at waking: check pack for potatoes. Eat at hunger 10 or below, in company. Ask Bcrusher again in daylight with Worf in sight.
 - No errand half-done. Not in danger.
