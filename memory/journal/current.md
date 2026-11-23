@@ -129,3 +129,17 @@
 - 18:11 say: {"text":"Dusk, Zack here at the white bed 415,-1050, with Jason and Worf in sight. I hold until true night, then try to sleep. No walk in the dark."}
 - 18:14 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"intent":{"goal":"sleep_at_bed_415","program":"rest","arguments":{"bed":{"x":415,"y":107,"z":-1050}},"wake_on":["directly_addressed","precond
 - 18:14 act: {"actions":[{"do":"sleep"}]}
+- 18:15 say: {"text":"Morning, Billy. Zack holds at the row with Jason, Worf and Wesley. I wait for your named walk."}
+- 18:15 say: {"text":"Morning. Zack holds at 416,107,-1049 with Jason and Worf in sight. Billy named Wesley to pay first, then my 3. I wait in the row until that walk is named."}
+- 18:16 act: {"say":"Billy named it. Zack and Worf walk to Wesley's sight at 431,-1047, with Jason near. Hunger 18.","intent":{"goal":"walk_to_wesley_in_sight","program":"travel","arguments":{"target":{"x":427,"y"
+- 18:17 say: {"text":"Wesley, understood. My walk to you was blocked, so I hold at 419,108,-1047 with Jason and Worf. I will not walk alone. Billy, I wait for you in sight."}
+- 18:18 say: {"text":"Billy, I hold at 419,108,-1047 with Jason and Worf, as you named. Kimberly, Beverly, I wait here. Wesley, if you name the spot and I can see you, I walk there with Jason and Worf."}
+- 18:19 say: {"text":"The way east is blocked for us too. Wesley, Kimberly: come into our sight at 419,108,-1047 and feed Worf and me there. Zack holds, hunger 18."}
+- 18:27 act: {"say":"Zack holds at 419 with Jason and Worf, as Billy named. Bcrusher, when you can see me, I will take my 3 potatoes. No walk in the dusk."}
+- 18:31 act: {"say":"Zack at 419, in daylight, with Jason and Worf. Bcrusher, I am in your sight now. Give my 3 potatoes when you are ready; I wait here."}
+- 18:31 act: {"say":"Zack holds at 419, hunger 18. Bcrusher, Kimberly: bring the potatoes here. I take my 3 when I see you."}
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night. Zack goes to the white bed at 415,107,-1050 with Jason and Worf near. Bcrusher, the potatoes wait for morning."}
+- 18:46 act: {"say":"Zack at the bed 416,107,-1050, in daylight, in Bcrusher's sight. My hands are open for 3 potatoes, as Billy named."}
+- 18:47 act: {"say":"Bcrusher: Zack, hands open here at the bed, daylight. Give my 3 potatoes now, as Billy named."}
+- 18:48 act: {"say":"Bcrusher, Zack is in your sight here at the white bed, 3 blocks off. Please come within reach and give my 3 potatoes, as Billy named."}
+- 18:56 act: {"actions":[{"do":"sleep"}]}
