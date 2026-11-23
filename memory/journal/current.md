@@ -64,3 +64,6 @@
 - 13:58 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Billy, Zack is at 420,107,-1050, two steps from you, in your sight. Please give my 3 potatoes now."}
 - 13:58 act: {"actions":[{"do":"note","text":"Day 864 morning. Billy at 421,107,-1050 with 8 potatoes; my goto to 420 failed (blocked). Holding at 419,108,-1050 with Jason and Worf in sight. Waiting for Billy's gi
 - 14:01 act: {"actions":[{"do":"note","text":"Day 864 dusk. Billy went to bed at 429,107,-1051 without giving my 3 potatoes or Worf's 5. Holding at 419,108,-1050 with Jason and Worf in sight. Pack empty, hunger 18
+- 14:07 act: {"actions":[],"say":"Morning, Billy. Zack holding at 419,108,-1050 with Jason and Worf in sight. My 3 potatoes when you are in my sight."}
+- 14:07 act: {"actions":[],"say":"Billy, it is dim and thundering, so I stay here with Jason and Worf. Zack waits for you at first light."}
+- 14:08 act: {"actions":[{"do":"note","text":"Day 865 morning: dim and thundering. Billy at 430,107,-1051 with 8 potatoes, out of my sight, says he will not walk 13 blocks now. Jason and Worf in reach. I hold at 4
