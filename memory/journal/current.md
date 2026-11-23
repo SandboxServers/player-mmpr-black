@@ -84,3 +84,11 @@
 - 23:36 act: {"actions":[],"say":"Bcrusher, I hear you. Riker and Trini are not in my sight, so I hold my potato. Whoever steps into my sight and says their name and is weakest, I give it to them."}
 - 23:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Zack trying the bed at 415,107,-1050, two blocks from me, with Jason and Worf in sight."}
 - 23:56 act: {"actions":[],"say":"The bed at 415,107,-1050 says the way is blocked, so I will not try it again. Bcrusher, if you step into my sight I will give you my potato."}
+- 00:38 say: {"text":"Zack here, at 419,108,-1050, holding my potato for the weakest. Billy, any walk named yet?"}
+- 00:42 say: {"text":"Zack here at 419,108,-1050, with Jason and Worf in sight. Wesley, I don't know the cow grazing yet. Laforge, Troi: I hold 1 potato for the weakest in my sight. Say your name and I hand it ove
+- 00:43 say: {"text":"Troi, heard. I keep the potato for someone weaker than you. I stay here with Jason and Worf in sight until first light."}
+- 00:52 say: {"text":"Billy, Zack escorting you now with my potato, following you to the beds at 441,107,-1051 in daylight. Kimberly, Zack with the group."}
+- 00:53 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Zack moving toward you at the beds, with my potato. Tell me if I should hold."}
+- 00:53 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to you now, Billy, holding my potato."}
+- 00:53 say: {"text":"Billy, I still cannot see you from 419,108,-1050, with Jason and Worf in my sight. Step where I can see you, and I come."}
+- 01:00 say: {"text":"Night, row. Zack holding my potato at 419,108,-1050 with Jason and Worf in sight. Billy, I hold until you call the walk at first light."}
