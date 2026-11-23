@@ -67,3 +67,7 @@
 - 14:07 act: {"actions":[],"say":"Morning, Billy. Zack holding at 419,108,-1050 with Jason and Worf in sight. My 3 potatoes when you are in my sight."}
 - 14:07 act: {"actions":[],"say":"Billy, it is dim and thundering, so I stay here with Jason and Worf. Zack waits for you at first light."}
 - 14:08 act: {"actions":[{"do":"note","text":"Day 865 morning: dim and thundering. Billy at 430,107,-1051 with 8 potatoes, out of my sight, says he will not walk 13 blocks now. Jason and Worf in reach. I hold at 4
+- 14:18 act: {"actions":[{"do":"note","text":"Day 865 night, clear. Holding at 419,108,-1050 with Jason and Worf in sight. Pack empty, hunger 18, unarmed. Billy out of sight with my 3 potatoes. No walk in the dark
+- 14:22 act: {"actions":[{"do":"note","text":"Day 865 morning, clear. Holding at 419,108,-1050 with Jason and Worf in reach. Billy not in my sight. Pack empty, hunger 18, unarmed."}],"say":"Morning, row. Zack here
+- 14:26 act: {"actions":[{"do":"note","text":"Day 866 morning. Billy handed Worf 5 potatoes near 419,107,-1050. Mine are next. Holding still with Jason and Worf in reach. Pack empty, hunger 18."}],"say":"Billy, I 
+- 14:29 act: {"actions":[{"do":"note","text":"Day 866 day. Billy said he gave Worf 5 and me 3 potatoes, but neither pack shows them. Billy is out of my sight. Worf and I agree: no walk alone, route named together 
