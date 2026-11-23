@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-1. Sleep soon. Fifteen days since sleep, and night is here. Reason: overdue; the bed at 415,107,-1050 refused me twice ("the way was blocked"), so I need another bed in the group's sight, such as 415,107,-1051 once Billy names it.
+1. Sleep soon. Seventeen days since sleep. Reason: overdue. Both white beds here refuse me now: 415,107,-1050 ("the way was blocked", twice) and 415,107,-1051 ("the way was blocked", tried once on day 855 night with Worf and Jason in sight). Do not retry either until Billy names a bed.
 2. Eat when hunger is 10 or below, as Billy named. Hunger 18 now, no food held. Reason: Billy's rule; food is scarce.
 3. Stay with the group. Never travel alone. Reason: pillagers are south; company keeps us alive.
 4. Hold at the row for Billy's named walk, armed with my wooden sword. Reason: Billy names walks aloud; no verified route yet.
@@ -11,4 +11,4 @@
 9. Find water and sheep, in company, in daylight. Cows near 339,104,-979 and 434,106,-1113.
 10. Keep the 3 feathers for a fair trade with Worf. Not pressing.
 
-Next to learn: where Billy names the next walk; whether the bed at 415,107,-1051 takes a sleeper; whether the potatoes at 463,107,-1073 are real; whether pillagers are gone; whether a route west past x=370 exists; where sheep and food are.
+Next to learn: where Billy names the next walk; whether a bed elsewhere (430,107,-1050 beside Billy's, Lewis in sight) takes a sleeper; whether the potatoes at 463,107,-1073 are real; whether pillagers are gone; whether a route west past x=370 exists; where sheep and food are.

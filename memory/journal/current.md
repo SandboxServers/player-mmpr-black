@@ -178,3 +178,6 @@
 - 10:27 act: {"say":"Dusk, row. Zack here, health 20, hunger 18, sixteen days since sleep. Worf and Jason in sight. Billy, name the bed and I go with them."}
 - 10:41 act: {"say":"Heard you, Wesley. Zack holding here with Worf and Jason in sight, no walk in the dark. Hunger 18, health 20."}
 - 10:46 act: {"say":"Morning, row. Zack here at my white bed, health 20, hunger 18, wooden sword in hand, no food. Holding for Billy's named walk."}
+- 10:51 act: {"say":"Zack here at 415,107,-1050, health 20, hunger 18, empty-handed. Holding with Jason and Worf. No walk yet, Billy."}
+- 10:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Zack at night, 17 days since sleep. Trying the other white bed at 415,107,-1051 once, with Worf and Jason in sight
+- 10:58 act: {"say":"Morning, Jason. Zack here at 415,107,-1051, health 20, hunger 18, empty-handed. Both white beds refused me, so I hold with you and Worf until Billy names a walk."}
