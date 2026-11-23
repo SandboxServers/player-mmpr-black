@@ -176,3 +176,4 @@
 - 10:01 act: {"say":"Zack here, night, at 415,107,-1050 beside the bed. Sleep failed again: the way was blocked. I will not retry it. Worf, Jason, I stay in your sight here and hold. Billy, the bed needs your word
 - 10:19 act: {"say":"Zack here, health 20, hunger 18, empty-handed. Holding at the row with Worf and Jason. Billy, name the walk when you're ready."}
 - 10:27 act: {"say":"Dusk, row. Zack here, health 20, hunger 18, sixteen days since sleep. Worf and Jason in sight. Billy, name the bed and I go with them."}
+- 10:41 act: {"say":"Heard you, Wesley. Zack holding here with Worf and Jason in sight, no walk in the dark. Hunger 18, health 20."}
