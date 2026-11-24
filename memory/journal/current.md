@@ -19,3 +19,6 @@
 - 19:45 act: {"say":"Morning, row. Zack here, health 16, hunger 16, no food, two planks. Holding with Worf and Jason until Worf names a daylight route to the melons."}
 - 19:58 say: {"text":"Morning, Worf. Zack at 417,107,-1050, health 16, hunger 16, no food. I stay in your sight and wait for a named route."}
 - 20:16 say: {"text":"Zack holding at the row, 417,107,-1050. No food, hunger 16. Worf, name the route when you see open air, and I will walk in your sight."}
+- 20:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"say":"Dusk, Zack here. Holding at the row with Worf and Jason in reach. Trying the bed at 415,107,-1051 for the night."}
+- 20:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night at the row. Trying the bed at 416,107,-1050, with Worf and Jas
+- 20:43 act: {"actions":[],"say":"Morning, row. Zack here, health 16, hunger 16, no food, two planks. Both beds refused me last night. Worf, I still wait for your named daylight route to the melons."}
