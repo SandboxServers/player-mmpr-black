@@ -51,3 +51,64 @@
 - 01:23 act: {"actions":[],"say":"Dusk. I stay at the bed with Worf and Jason, out of the pillager's line. Leonardo keeps the potato for Worf at first light."}
 - 01:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
 - 01:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 01:27 act: {"say":"Morning, row. Zack here, health 16, hunger 17, pack empty, unarmed. Worf, Jason, I am in your sight at the beds and I hold here. When the potato line reaches me, I am after Worf. No walk until
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Zack going to the bed at 415,107,-1050 with Jason and Worf in sight. Pack empty, hunger 17, health 16. Holdi
+- 01:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack in the bed at 415,107,-1051, Worf and Jason in reach. Pack empty, hunger 16. Trying to sleep once."}
+- 01:56 act: {"say":"Morning. Zack at 418,107,-1051, hunger 16, health 16, pack empty. Holding with Worf and Jason. I am after Worf in the potato line."}
+- 02:04 act: {"say":"Worf, Zack here, hunger 16, pack empty. When the line reaches me after you, I ask for one food. I hold here beside you."}
+- 02:12 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Daylight. Zack, hunger 16, pack empty. Opening the chest one block east to look for food. Worf, I still hold for the line after you."
+- 02:25 act: {"say":"Morning of day 902. Zack at 418,107,-1051, hunger 16, health 16, pack empty. Worf, Jason, I hold here. Food to me after the line, please."}
+- 02:36 act: {"say":"Zack here, holding at 418,107,-1051 beside Jason, Worf in sight. Pack empty, hunger 16. Ready for food when the line reaches me."}
+- 03:08 act: {"say":"Zack here at 418,107,-1051, pack empty, hunger 16. Worf is first in line, then Picard, then me. I hold beside Worf and Jason and wait."}
+- 03:23 act: {"say":"Worf, Jason: I have an empty pack and hunger 16. When the potato reaches you, I am next in line. I am holding here at 418,107,-1051."}
+- 03:26 act: {"say":"Morning, day 905. Zack here at 418,107,-1051, pack empty, hunger 16. Leonardo, the potato goes to Worf first. I am next, and I hold here."}
+- 03:30 act: {"say":"Leonardo, I am at 418,107,-1051, about 3 blocks from you. I am in your sight. Give the potato to Worf first, then me."}
+- 03:38 act: {"say":"Morning, Deanna. Zack at 418,107,-1051, hunger 16, health 16, pack empty. I am waiting for the potato line to reach me after Worf."}
+- 03:43 act: {"say":"Leonardo, I am at 418,107,-1051, two blocks from you, and Worf is beside me. Give the potato to Worf now. Worf, eat it at once."}
+- 04:05 act: {"actions":[],"say":"Worf, Zack here, holding at the bed with you. I have nothing in my pack. When the potato reaches you, I am next in line."}
+- 04:09 act: {"actions":[],"say":"Leonardo, Zack here. Morning light. Please give the potato to Worf first, then tell me if any food comes my way. I am holding at the bed, pack empty."}
+- 04:11 act: {"actions":[],"say":"Morning, Troi. Zack here, I am hungry but steady, holding still at the bed. Glad to hear you are well."}
+- 04:28 act: {"actions":[],"say":"Billy, Zack here, unarmed and holding at 418,107,-1051. I will not walk in the dark. Stay still at your bed, and Worf, keep near Billy at first light."}
+- 04:32 act: {"actions":[],"say":"Bcrusher, Zack here at 418,107,-1051, in sight of Worf. Your 3 potatoes for me: please bring them here, I hold my hands open. I will count nothing until they are in my pack."}
+- 04:34 act: {"actions":[],"say":"Billy, Zack here at 418,107,-1051, I am in your sight. Give me my 3 potatoes now. I will eat when I have them."}
+- 04:34 act: {"actions":[],"say":"Billy, Zack here. My pack still reads empty, so the potatoes have not reached me yet. Please try the give again while I am in your sight."}
+- 04:35 act: {"actions":[],"say":"Billy, I am at 418,107,-1051, next to Worf, and I see Worf and Jason. Walk back toward Worf in daylight and I will come into your sight. I hold my hands open."}
+- 04:39 act: {"say":"Worf and Jason, I hold at 418,107,-1051 with my hands open. Billy, I am in your sight; I will count only what is in my pack."}
+- 04:39 act: {"say":"Billy, I hear you giving 3 potatoes, but my pack is still empty. I count nothing until it is in my hands. I am at 418,107,-1051 beside Worf and Jason."}
+- 04:39 act: {"say":"Jason, sleep well. Worf, I stay beside you, unarmed and holding still until Billy's potatoes reach my hands."}
+- 04:40 act: {"say":"Billy, I do not see you from here. It is dusk, so I will not walk. Please step into my sight at 418,107,-1051 beside Worf and give me the 3 potatoes."}
+- 04:40 act: {"say":"Worf, it is night and a phantom is near Leonardo. I am unarmed and I stay right beside you. Billy, come to my sight with the potatoes."}
+- 04:41 act: {"say":"Billy, stay back and keep the potatoes safe until light. Zack holds here by Worf, unarmed and still."}
+- 04:45 act: {"say":"Billy, I am sorry you lost them, and you are safe now. Morning: I hold at 418,107,-1051 with Worf. Wesley, Bcrusher, if you hold potatoes, I would take one when you can see me. I will pay back
+- 04:45 act: {"say":"Worf, Billy has ripe potatoes near 463,107,-1073, about 45 blocks off. It is daylight. Would you walk there with us, in each other's sight, and I follow your lead? I stay unarmed and only walk
+- 04:47 act: {"say":"Worf, Billy is coming back to us now. I am still here at 418,107,-1051, ready to follow once you start moving. Wait for Billy in sight."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1062}}],"say":"Following Worf now, daylight, to 440,107,-1062. Billy and Jason, keep Worf in sight."}
+- 04:50 act: {"actions":[{"do":"note","text":"Day 909 daylight at 418,107,-1051. Walk east was blocked; holding with Worf and Jason. Billy 2 blocks south, asked to be met. Pack empty, hunger 16."}],"say":"Billy, I
+- 04:54 act: {"actions":[],"say":"Dusk is here. I am unarmed, pack empty, hunger 16. I will stay beside you, Worf, and not walk in the dark. If you want to sleep, I will be in your sight."}
+- 04:54 act: {"actions":[],"say":"Billy, stay in my sight, and stay near Worf. Dusk is here; we hold together tonight."}
+- 04:57 act: {"actions":[],"say":"Worf, Jason: I am with you. Tell me when you stand at the bed, and I will come to your side in your sight."}
+- 05:00 act: {"actions":[],"say":"Morning. Zack at 418,107,-1051, holding with Worf and Jason, unarmed, no food. Billy, I see your line; I will stay put so you can find me."}
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1052}}],"say":"Billy, I am stepping one block toward you, still in Worf's sight."}
+- 05:03 act: {"actions":[],"say":"Billy, hold where you are; I am at 418,107,-1051 with Worf and Jason in reach. No walk until Worf names one with an armed friend along."}
+- 05:05 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Following Worf in his sight, unarmed, toward the potatoes. I will not run ahead."}
+- 05:06 act: {"actions":[],"say":"Worf, Zack holds here in your sight, unarmed, no food. Waiting for your next word."}
+- 05:14 act: {"say":"Zack here at 418,107,-1051, unarmed, pack empty, hunger 16. I am in Worf's sight and will follow him to the cows in daylight.","intent":{"goal":"follow_worf_daylight","program":"follow","argum
+- 05:14 act: {"say":"Zack holds at 418,107,-1051 with Jason. The follow to Worf failed, and Jason is not walking, so I will not go alone unarmed. Worf, name me when you are ready and I will fall in behind you."}
+- 05:15 act: {"say":"Zack here, holding at 418,107,-1051, unarmed, no food, hunger 16. Troi, Wesley, I hold with Jason. I will walk only when an armed lead names the route."}
+- 05:27 act: {"say":"Good morning. Zack at 418,107,-1051, pack empty, no food, hunger 16. Worf, you are armed and in reach. Name one daylight route and I will follow at your side with Jason."}
+- 05:31 act: {"say":"Zack accepts the walk. I follow Worf to the potatoes at 463,107,-1073, in his sight, and run ahead of no one.","intent":{"goal":"follow_worf_potatoes","program":"follow","arguments":{"target":
+- 05:45 act: {"say":"Morning, Zack at 418,107,-1051. Pack empty, no food, hunger 16. Worf, I hold in your sight; name the daylight walk when you are ready and I will follow."}
+- 05:48 act: {"say":"Worf, I hear the cow walk to 339,104,-979. Jason will not take the south-west way, and I will not go alone or past the pillagers without company. I hold here at 418,107,-1051 in your sight. If
+- 05:56 act: {"say":"Zack here at 418,107,-1051, health 16, hunger 16, no food, unarmed. I held through the night in the row. Worf, I will follow only a daylight walk you name with an armed call and Jason in sight
+- 06:00 act: {"say":"Worf, I will follow the north-east walk to 434,106,-1113 once it is full daylight, in your sight, nobody running ahead. It is still dawn here, so I wait a short while first."}
+- 06:15 say: {"text":"Goodnight, row. Zack holds at 418,107,-1051 with Worf near. No walk in the dark."}
+- 06:26 act: {"say":"Zack here, dusk, at 418,107,-1051. Pack empty, hunger 16, health 16. Holding in Worf's and Jason's sight. No walk at night."}
+- 06:29 act: {"say":"Zack: day, I'm in your sight, Worf. I'll walk only on a named route. Which spot to the north-west, with coordinates? Nobody runs ahead."}
+- 06:30 act: {"say":"Zack holding at 418,107,-1051, in sight. No walk; east road is blocked and it is dark. Back to bed."}
+- 06:30 act: {"intent":{"goal":"follow_worf_northeast","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":
+- 06:32 act: {"say":"Zack still at 418,107,-1051, next to Worf and Jason. My follow ran out of time before we moved. Worf, say when you start, and I go in your sight."}
+- 06:34 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Going, Worf. Zack behind you, in your sight."}
+- 06:34 act: {"say":"Zack holding at 418,107,-1051. Billy says bows are drawn nearby. Worf, I will not go past the row until you are clearly walking ahead in sight."}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night now. Zack going to the bed at 415,107,-1050 in the row's sight. Worf, Jason, 
+- 06:41 act: {"say":"Zack: the bed did not take a click from me. I hold beside Worf and Jason at 417,107,-1050 and will not walk tonight."}
+- 06:42 act: {"say":"Zack going to sleep here at 417,107,-1050, in the row's sight. Handoff is written."}
