@@ -167,3 +167,7 @@
 - 13:55 act: {"actions":[],"say":"Zack, first light, day 936. Hunger 16, no food. Worf, you owe me 3 melons: is there a daylight route to the melon field at 302,80,-822? I will walk only behind you, in your sight.
 - 14:34 act: {"say":"Zack here, in the row with Jason and Worf. Hunger 16, no food. Worf, at first light let's walk the named route to the melon field at 302,80,-822 together. Billy, I still need my 3 potatoes.","
 - 14:34 act: {"say":"Billy, thanks for answering. Zack holds at the row with Worf and Jason, hunger 16, no food. Worf, when you name a daylight route, I follow in your sight."}
+- 14:47 say: {"text":"Zack, night day 939. Holding in the row with Jason and Worf, unarmed, hunger 16, no food. No walk in the dark."}
+- 14:51 say: {"text":"Zack, morning day 939. Worf, name your daylight route to the melon field 302,80,-822 and I walk only in your sight. Jason, you come too."}
+- 15:07 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack, day 940 morning. Worf, name your daylight route to the melon field 302,80,-822. I walk only in your sight, unarmed. Jason, you come too."}
+- 15:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Zack, dusk day 940. Going to the bed at 415,107,-1051 in the row, in sight of Worf and Jason. Holding till light."}
