@@ -1,4 +1,5 @@
 # Journal
+- Day 940 day, dim, thunder: at 415,107,-1051 with Worf in reach, Jason 4 away. Hunger 16, pack one plank, no food. Asked Worf for a named daylight route to melons 302,80,-822. Jason says he walks only on Worf's route. Holding.
 - Day 890 daybreak at row 415,107,-1047. Pack empty, hunger 17, health 20. Jason, Worf, Wesley in reach. Said I want a daylight walk together to cows at 364,-1010. No walk started yet; waiting for their answer.
 - 22:42 say: {"text":"Morning, row. Zack here, pack empty, hunger 17. We need food. Jason, Worf, Wesley: shall we walk together in daylight to the cows at 364,-1010? Route named together, nobody goes alone."}
 - 22:42 say: {"text":"Bcrusher, I can see you now. Please hand me my 3 potatoes. Zack here, in your sight, pack empty."}
@@ -171,3 +172,5 @@
 - 14:51 say: {"text":"Zack, morning day 939. Worf, name your daylight route to the melon field 302,80,-822 and I walk only in your sight. Jason, you come too."}
 - 15:07 act: {"actions":[{"do":"wait","seconds":5}],"say":"Zack, day 940 morning. Worf, name your daylight route to the melon field 302,80,-822. I walk only in your sight, unarmed. Jason, you come too."}
 - 15:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Zack, dusk day 940. Going to the bed at 415,107,-1051 in the row, in sight of Worf and Jason. Holding till light."}
+- 15:16 act: {"say":"Worf, Jason, morning. I'm hungry and have no food. Can we name a daylight route to the melon field at 302,80,-822 and go together?","intent":{"goal":"hold_with_group","program":"rest","argumen
+- 15:20 act: {"say":"Thanks, Worf. Zack holds here at the row, in your sight, no walk until you name one. Hunger 16, no food."}
