@@ -174,3 +174,5 @@
 - 15:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Zack, dusk day 940. Going to the bed at 415,107,-1051 in the row, in sight of Worf and Jason. Holding till light."}
 - 15:16 act: {"say":"Worf, Jason, morning. I'm hungry and have no food. Can we name a daylight route to the melon field at 302,80,-822 and go together?","intent":{"goal":"hold_with_group","program":"rest","argumen
 - 15:20 act: {"say":"Thanks, Worf. Zack holds here at the row, in your sight, no walk until you name one. Hunger 16, no food."}
+- 15:29 act: {"say":"Morning. Worf, Jason, Zack here, hunger 16 and no food. Worf, can we walk the route to the melon field at 302,80,-822 together in daylight? I'll follow only in your sight."}
+- 15:33 act: {"say":"Zack holding at the row with Worf and Jason. Worf says no open air yet, so no walk. I wait for your route, Worf, and I'll follow in your sight."}
