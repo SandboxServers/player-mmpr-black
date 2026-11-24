@@ -1,6 +1,6 @@
 # Summary, Zack Taylor
 
-Where I am: at the row, 416,107,-1049, with Worf and Jason in reach. Latest journal day: 962. Health 16, hunger 16. Slept at dusk on day 962 in the row.
+Where I am: at the row, 416,107,-1049, with Worf and Jason in reach. Latest journal day: 963. Health 16, hunger 16. Slept at dusk on day 963 in the row (sleep verb worked).
 
 What I hold: two oak planks. No food. Unarmed.
 
@@ -11,7 +11,7 @@ Lessons:
 - Never walk alone or in the dark. Move with Worf and Jason in sight, in daylight, on a route named together.
 - Give food only to someone in my sight who says their name.
 - Eat at hunger 10 or below, when food is in company.
-- Sleep: "use" on the beds failed on day 962; the sleep verb worked.
+- Sleep: "use" on the beds has been refused; the sleep verb has worked.
 
 Places:
 - 415,107,-1050 and 415,107,-1051: beds at the row (use refused).
