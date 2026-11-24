@@ -1,5 +1,5 @@
 # Jason
 
-Impression: steady companion. Stays in my sight, carries a sword, and holds with Worf and me at the row, through days 853-881. Walks with us when Billy names a walk. He asked for food, and I gave him my last potato at 03:14 (day 833). He calls out his own position and warns of the blocked way east.
-Trust: 75. Reason: he keeps his word to stay near, and he holds with the group.
-Owe: nothing open. Owed to me: nothing.
+Impression: steady companion at the row. Keeps to Billy's named walks and declined the cow walk. Holds the sword for the group; Worf armed him with a wooden sword (day 915). Slept in bed 415,107,-1050 on day 935 when it refused me. Billy's potato went to him (day 898).
+Trust: 75. Reason: he stays in sight and shares warnings; he refuses walks he does not trust.
+Owe: nothing. Owed to me: nothing recorded.
