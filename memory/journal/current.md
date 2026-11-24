@@ -1,1 +1,16 @@
 # Journal
+- 15:55 act: {"say":"Morning. Zack here, at the row with Jason and Worf in sight, hunger 16, no food. Worf, can we name a daylight route to the melon field?"}
+- Day 942 morning: Worf says no open air yet, no route named; told me to stay in the row. Holding with Jason in reach. No food, hunger 16. Waiting.
+- 16:06 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Dusk. I'm going to the bed at 416,107,-1050, still in the row with Jason and Worf in sight. No route named, holding."}
+- Day 943: dusk passed with no sleep (did not try the bed; it was not true night). Morning now, Worf beside me, still no route, no food, hunger 16. Holding in the row.
+- Day 944: still no open air, no route named by Worf. Days since sleep 2. No food. Hunger 16. Holding with Worf and Jason in reach; will sleep at the bed 416,107,-1050 at true night, in company.
+- 16:41 act: {"intent":{"goal":"hold_at_row_for_route","program":"rest","arguments":{"note":"hold at row with Worf and Jason in reach until Worf names a daylight route"},"wake_on":["directly_addressed","preconditi
+- 17:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Zack going to sleep in the bed at 415,107,-1050, with Jason and Worf in sight."}
+- 17:06 say: {"text":"Morning, row. Zack here, health 16, hunger 16, no food. Worf, Jason, I am holding in place until a daylight route is named."}
+- 17:36 say: {"text":"Zack here, holding in the row with you, Worf and Jason. Worf, tell me when you see open air and name the route, and I will walk only in sight."}
+- 18:00 say: {"text":"Zack: no food seen, pack has only 2 oak planks. Holding here with Worf and Jason until a daylight route is named."}
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Zack at the row, dusk, with Jason and Worf in reach. No food, hunger 16. I will try a bed at true night, in company."}
+- 19:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Zack going to bed at 415,107,-1051 for the night, with Jason and Worf in sight."}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Zack moving one block to stand beside the bed at 415,107,-1051, in s
+- 19:01 say: {"text":"Zack: both beds at 415,107 refused me tonight. I am holding in the row with Jason and Worf. No food. Worf, tell me when a route opens."}
+- 19:17 say: {"text":"Zack here, morning of 952. Holding by the beds with Worf and Jason. No food. Worf, I will stay in your sight until a daylight route is named."}
