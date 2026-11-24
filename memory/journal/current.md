@@ -17,3 +17,5 @@
 - 19:34 act: {"say":"Zack here, at the row with Worf and Jason in reach. Holding still in daylight. Worf, when you name a route to the melons, I'm ready to walk with you.","intent":{"goal":"hold_at_row_for_route",
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night at the row. Zack trying the bed at 416,107,-1050, with Worf an
 - 19:45 act: {"say":"Morning, row. Zack here, health 16, hunger 16, no food, two planks. Holding with Worf and Jason until Worf names a daylight route to the melons."}
+- 19:58 say: {"text":"Morning, Worf. Zack at 417,107,-1050, health 16, hunger 16, no food. I stay in your sight and wait for a named route."}
+- 20:16 say: {"text":"Zack holding at the row, 417,107,-1050. No food, hunger 16. Worf, name the route when you see open air, and I will walk in your sight."}
