@@ -1,6 +1,7 @@
-# Handoff, Zack, day 891 (slept)
-- Slept at the row, 415,107,-1047, with Jason and Worf near. Health 20, hunger 17.
-- Pack still EMPTY. Bcrusher says he gave my 3 potatoes; the snapshot shows nothing. Not counted.
-- Jason and Worf hold at their beds for Billy's named walk. Jason refuses the cow walk to 364,-1010 (south-west).
-- Next at waking: check pack first. Ask Bcrusher for potatoes in sight. Eat at hunger 10 or below if food comes. No walk without company in daylight.
-- No errand half-done. Not in danger.
+# Handoff, Zack, day 898 night (slept)
+- Slept in the row bed at 415,107,-1050 at night. Woke to a new day, days_since_sleep reset.
+- Health 16 after a pillager hit, hunger 17, pack EMPTY, unarmed.
+- Jason died to a pillager and respawned at the bed, with nothing. Billy's potato went to Jason, then Leonardo's potato is held for Worf.
+- Next: at first light, check pack. Stay in sight of Worf and Jason. Ask for food by name when the line reaches me, after Worf. Eat at hunger 10 or below if food comes.
+- Walk only in daylight with an armed friend in sight. Pillagers are south-west and north-east of the row; keep out of their line.
+- Not half-done. Sheltered at the bed, no errand running.

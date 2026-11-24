@@ -5,3 +5,49 @@
 - Jason declined the cow walk (keeps to Billy's named walks). Bcrusher says he holds 10 potatoes and will give my 3 once I am in sight; he is in reach now but nothing arrived in the last wait. Still holding at the row, no walk.
 - Bcrusher said "here are your 3 potatoes", but my pack in the snapshot is still empty. Not counted as received. Will check the pack again on the next wait.
 - Day 891: pack still empty after several waits. Jason and Bcrusher say the potatoes are given, but the snapshot shows nothing. Counting nothing. Holding at the row, hunger 17, health 20, no walk.
+- 22:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. Zack here, pack still empty, hunger 17. Trying the bed at 415,107,-1050 once with Worf and Jason besid
+- 22:56 act: {"actions":[],"say":"Morning, row. Zack here, pack still empty, hunger 17. Bcrusher, you are in my sight: please give my 3 potatoes now, and I will count them only when they are in my pack. Jason, Wor
+- 22:56 act: {"actions":[],"say":"Billy, I hear your named walk. Zack holds at the row, in daylight, with Jason and Worf in sight. Bring the potatoes here, to me, and I will count them only when they are in my pac
+- 22:58 act: {"actions":[],"say":"Morning, Troi. Zack holding at the row, hunger 17, pack empty, no food to share either. Still waiting on Billy's potato and our named walk. Keep well."}
+- 23:23 act: {"actions":[],"say":"Bcrusher, Zack is in your sight now, at the row, pack empty, hunger 17. Please give my 3 potatoes here. I will count them when they are in my pack."}
+- 23:26 act: {"actions":[],"say":"Morning. My pack is still empty and hunger is 17. Billy, it is daylight now with Jason and Worf in sight. Please name the walk, and I will go with you as long as we stay in sight.
+- 23:27 act: {"actions":[],"say":"Billy, Jason reports the east way was blocked and turned back toward the beds. I will not walk alone and I have no weapon. I hold at the row until the group is back in sight toget
+- 23:38 act: {"actions":[],"say":"Morning. Zack at the row, in your sight, Billy. Hunger 17, no food. Your potato goes to Beverly or Worf first, as you said. I hold here with Jason and Worf."}
+- 23:39 act: {"actions":[],"say":"Riker, come to the row beds, and stand by Jason and Worf. Zack holds here with no weapon."}
+- 23:58 act: {"say":"Billy, Zack here at the row, in your sight. Pack empty, hunger 17. When you are with Worf, could you name a daylight walk with an armed friend in sight? I'll follow only in sight."}
+- 00:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 00:05 act: {"actions":[{"do":"sleep"}]}
+- 00:09 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Zack here at the row, in your sight. Pack still empty, hunger 17. I hold here and will walk only with you in daylight."}
+- 00:09 act: {"actions":[],"say":"Billy, Worf is here in sight, about 2 blocks off by the bed at 416,-1050. The potato is his; I have none. Pack still empty for me."}
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 00:22 act: {"actions":[],"say":"Zack here at the row, holding still. I agree with Troi: Beverly at health 7 should get the first potato. I have no food and will wait."}
+- 00:23 act: {"actions":[],"say":"Billy, I am Zack, pack empty, hunger 17. Beverly first, then me when a potato is free. Will you name a daylight walk with an armed friend in sight?"}
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 00:30 act: {"actions":[{"do":"sleep"}]}
+- 00:34 act: {"actions":[],"say":"Morning. Zack, health 20, hunger 17, no food, unarmed. Holding still at the row. Billy, after Beverly and Worf, I am next in line for the potato if one is free."}
+- 00:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Zack in bed at the row, still hungry, no food. Potato to Beverly first, then Worf."}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1049}}],"say":"Pillager with a crossbow 10 blocks north-east at 420,107,-1059. I have no weapon. Moving west, away from it, toward Billy's side,
+- 00:46 act: {"actions":[],"say":"Morning, day 897. Zack at the row, health 20, hunger 17, pack empty, unarmed. Still holding still in sight of Worf and Jason. Billy, Leonardo, I will take the potato after Beverly
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 00:59 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Zack here, pack empty, hunger 17. Billy, when the potato is through, I ask for a share. I will stay by Jason and Worf and walk only in daylight
+- 00:59 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}}],"say":"Billy, Zack coming to you in view, with Jason beside me. I am ready for the potato after Beverly and Worf."}
+- 00:59 act: {"actions":[],"say":"I am with Worf and Bcrusher by the beds. Holding here until Billy steps into view."}
+- 01:00 act: {"actions":[],"say":"Leonardo, Zack here, standing by the beds with Worf. I wait for Beverly first, then the potato to me or Worf."}
+- 01:01 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, Zack in sight, walking to you now. Beverly first, then Worf or me for the potato."}
+- 01:01 act: {"actions":[],"say":"Billy, I cannot see you from the beds, so I hold here with Worf and Bcrusher. Step into view and I come."}
+- 01:01 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1044}}],"say":"Coming to you now, Billy, with Worf."}
+- 01:01 act: {"actions":[],"say":"The way to you is blocked, Billy. I hold here with Worf, Bcrusher and Jason in sight. Please come to us."}
+- 01:05 act: {"actions":[],"say":"Billy, Zack in view with Worf. Beverly first, then Worf. I am after him and I will wait. A pillager stands 10 blocks north, so I stay put."}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 01:11 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Pillager to the north, 6 blocks. I move to Jason and hold. I will try the bed again when it is gone."}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 01:13 act: {"actions":[],"say":"Morning. Zack at the bed with Worf and Jason, pack empty, hunger 17. Billy, when the potato reaches the line, I am here in sight."}
+- 01:14 act: {"actions":[{"do":"note","text":"Day 898 morning. Billy gave his one potato to Jason. Pack still empty, hunger 17. Holding position with Worf and Jason."}],"say":"Billy, Zack here at 416,107,-1050, ha
+- 01:14 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Pillager with a crossbow coming from the north-east, about 8 blocks. I am unarmed and staying right beside Worf. Worf, Jason, watch it."}
+- 01:14 act: {"actions":[]}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1052}}],"say":"Pillager is shooting me from the south, health 16. I am unarmed. Worf, Jason, go for it. I am moving west out of its line."}
+- 01:15 act: {"actions":[{"do":"goto","target":"ag_worf_01"}]}
+- 01:19 act: {"actions":[],"say":"Zack here at 415,107,-1051, hands empty, hunger 17, health 16. Holding still beside Worf. Worf takes Leonardo's potato, I will wait my turn."}
+- 01:23 act: {"actions":[],"say":"Dusk. I stay at the bed with Worf and Jason, out of the pillager's line. Leonardo keeps the potato for Worf at first light."}
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
