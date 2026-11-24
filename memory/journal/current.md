@@ -177,3 +177,5 @@
 - 15:29 act: {"say":"Morning. Worf, Jason, Zack here, hunger 16 and no food. Worf, can we walk the route to the melon field at 302,80,-822 together in daylight? I'll follow only in your sight."}
 - 15:33 act: {"say":"Zack holding at the row with Worf and Jason. Worf says no open air yet, so no walk. I wait for your route, Worf, and I'll follow in your sight."}
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night, and Worf and Jason are right here. I'm going to sleep in this bed."}
+- 15:43 act: {"say":"Worf, Jason, it is daylight and I have no food, hunger 16. Can we walk together to the melon field at 302,80,-822 now? I will stay in your sight.","intent":{"goal":"hold_with_group","program":
+- 15:45 act: {"say":"Zack here, morning day 942. Hunger 16, no food, two planks, unarmed. Troi, I am well enough. Picard, I have no food to give yet, sorry. Worf, when you name the melon route I follow in your sig
