@@ -165,3 +165,5 @@
 - 13:25 act: {"actions":[],"say":"Zack here. The bed at 415,107,-1050 refused me again, so I will not retry it. Holding in the row in sight of Jason and Worf."}
 - 13:51 act: {"actions":[],"say":"Zack here, night. I have not reached that bed myself, it refused me. Jason slept there; ask him. Holding still until first light."}
 - 13:55 act: {"actions":[],"say":"Zack, first light, day 936. Hunger 16, no food. Worf, you owe me 3 melons: is there a daylight route to the melon field at 302,80,-822? I will walk only behind you, in your sight.
+- 14:34 act: {"say":"Zack here, in the row with Jason and Worf. Hunger 16, no food. Worf, at first light let's walk the named route to the melon field at 302,80,-822 together. Billy, I still need my 3 potatoes.","
+- 14:34 act: {"say":"Billy, thanks for answering. Zack holds at the row with Worf and Jason, hunger 16, no food. Worf, when you name a daylight route, I follow in your sight."}
