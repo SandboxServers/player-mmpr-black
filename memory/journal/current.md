@@ -112,3 +112,24 @@
 - 06:41 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night now. Zack going to the bed at 415,107,-1050 in the row's sight. Worf, Jason, 
 - 06:41 act: {"say":"Zack: the bed did not take a click from me. I hold beside Worf and Jason at 417,107,-1050 and will not walk tonight."}
 - 06:42 act: {"say":"Zack going to sleep here at 417,107,-1050, in the row's sight. Handoff is written."}
+- 06:43 say: {"text":"Night, all. Zack holds here with Worf and Jason. No walks in the dark. At first light I'll look for food in company."}
+- 06:47 Day 915 dawn: held at 418,107,-1051 with Worf and Jason through the night (sleep at bed refused). Hunger 16, pack empty. Said I will walk for food only on a daylight route Worf names. Waiting.
+- Day 915 day: Worf named east walk to potatoes; my follow intent failed (east blocked). Worf armed Jason with a wooden sword. I am still unarmed, hunger 16, holding at the row with Worf and Jason. Picard at health 2.3 has no food.
+- Dusk/night day 915: held at the row with Worf, Jason, Billy in sight. Tried bed 415,107,-1050 once: "that block is a bed" (refused). Morning, still hunger 16, pack empty. Holding for Worf's next named daylight walk.
+- 06:46 say: {"text":"Morning. Zack here, hunger 16, pack empty, no food. Worf, I'll walk for food only on a daylight route you name, with you and Jason in my sight. Troi, I'm well enough, just hungry."}
+- 06:47 say: {"text":"Worf, Zack follows you in your sight, east toward the potatoes. I have no weapon and no materials, so I stay behind you and do not run ahead."}
+- 06:47 act: {"intent":{"goal":"follow_worf_potatoes","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2
+- 06:50 say: {"text":"Zack holds at the row in Worf's sight. The east hop is blocked, so I wait for the way to clear. Picard, I have no food, sorry."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Night, row. Zack at the bed beside Worf and Jason, trying the bed once. No walk in 
+- 06:59 act: {"say":"Worf, Zack follows your short walk south-east, in your sight, unarmed, not running ahead. Ready when you are.","intent":{"goal":"follow_worf_southeast","program":"follow","arguments":{"target"
+- 07:00 act: {"say":"Worf, Zack follows your north-east walk, in your sight. I hold only planks, no sword, so I stay at your back and turn back when you stop.","intent":{"goal":"follow_worf_north_east","program":"
+- 07:15 say: {"text":"Worf, Zack sees no gap from here either. Holding in your sight at 417,107,-1050 until you name a route."}
+- 07:25 say: {"text":"Zack stays beside Worf at 417,107,-1050 through the night. Worf, shout if the phantom comes close."}
+- 07:40 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Zack holds here at 417,107,-1050 with Worf and Jason. No walk in the dark. Jason, I will stay near the bed row.","intent":{"goal":"hold_with_wor
+- 07:43 act: {"actions":[],"say":"Zack here at 416,107,-1050, beside Worf, unarmed, no food, hunger 16. Phantoms are near; I hold still in Worf's sight and walk at no hour of the dark."}
+- 07:47 act: {"actions":[],"say":"Morning, row. Zack at 416,107,-1050 beside Worf, unarmed, no food, hunger 16. Worf, I follow only the daylight walk you name. Lewis, Picard, I have no food to give, sorry."}
+- 07:56 act: {"actions":[],"say":"Zack holds at 416,107,-1050, in Worf's and Jason's sight. No walk in the dark. Unarmed, no food, hunger 16."}
+- 08:00 act: {"actions":[],"say":"Morning. Zack at 416,107,-1050, health 16, hunger 16, pack one planks, no food. Worf, I have no food to give. I stay here in your sight and will follow only your named daylight wa
+- 08:20 say: {"text":"Zack: holding in the row with Worf and Jason. No walk from me without a named route in daylight. I have no food either."}
+- 08:31 say: {"text":"Zack here, unhurt, holding at the row with Worf. I have no food either, hunger 16. Worf, I will hold for your daylight route."}
+- 08:45 say: {"text":"Zack, morning, unhurt, health 16, hunger 16, no food. Holding at the row with Worf. I will walk only on a named daylight route."}
