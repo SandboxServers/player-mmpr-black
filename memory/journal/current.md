@@ -4,3 +4,9 @@ Day 1010: Slept at the row beside the bed, nine of ten asleep, woke at day. Hung
 - Next: hold; walk only on a named open daylight route; eat only food handed to me in sight.
 - 14:58 say: {"text":"Zack: holding with the row too. Health 13, hunger 15, no food. Worf, Billy, when a cell past 423 shows open, name it and I'll walk in sight."}
 - 14:59 say: {"text":"Zack: holding at the row, Billy. Agreed, I walk nothing until a cell is named open."}
+- 15:06 act: {"actions":[{"do":"sleep"}],"say":"Zack here, at the row bed with Worf, Billy and Jason. Trying to sleep now."}
+- 15:09 act: {"actions":[],"say":"Zack, daylight, at the row with Worf and Wesley in sight. Trini, I am here, no food in my pack yet. I will not walk alone; come to me in sight and hand the potato to Leonardo firs
+- 15:10 act: {"actions":[],"say":"Zack holding at the row in daylight. Nobody walks until a route past 423 is named in sight. Trini, come when you can see me."}
+- Night 1012: sleep at bed 415,107,-1051 blocked twice ("the way was blocked"); not tried a third time. Dawn: Trini says she holds her potatoes until a route is named; Worf hunger 8, no food. Holding at 415,107,-1047 with Worf, Jason, Wesley in sight. Hunger 15, health 13, no food. Next: wait for a named route or handed food; eat only in sight.
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack moving to the bed at 415,107,-1050 with Jason in sight, for the night."}
+- 15:22 act: {"actions":[],"say":"Zack, morning, at bed 415,107,-1051 with Jason, Billy and Worf in sight. Trini, bring the potato to Leonardo first, then to Worf or me in sight. I hold."}
