@@ -61,3 +61,6 @@
 - Whether pillagers are gone.
 - Whether 430,107,-1036 and 430,107,-1037 are the same bed (journal gives both; Bcrusher's bed).
 - Whether bed 415,107,-1051 will take me (I tried sleep there on day 942; result not yet in the journal).
+- Day 1002: Trini's 2 potatoes at 430,107,-1051 were not handed over; she would not walk, and I would not walk to her alone. Not counted.
+- Day 1002: the sleep verb beside the row bed was tried at night; the digest shows days_since_sleep reset to 0, but the bed used is not confirmed.
+- Day 1002: Worf still names no melon route; no open cells past the planks are known.
