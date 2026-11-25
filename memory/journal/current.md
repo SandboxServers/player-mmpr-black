@@ -25,3 +25,16 @@
 - 05:57 act: {"say":"Zack here, morning 984. Health 13, hunger 15, no food. Worf, I hold in your sight. Name open air and the hour, and I walk only then."}
 - 05:59 act: {"say":"Zack here, morning 984. Health 13, hunger 15, no food, two planks. Deanna, I hold at the row in company, no walk until Worf names open air. Thank you for asking."}
 - 06:06 act: {"say":"Zack here, night 985, at the row in sight of Jason and Worf. Health 13, hunger 15, no food. No walk in the dark. Troi, Riker, I hold too."}
+- Day 985 day. Sleep blocked 3 times (not retrying). Hunger 15, no food, 2 planks. Said good morning at the row; Deanna, Billy, Wesley, Jason, Worf in sight. Holding for Worf's named route.
+- 06:17 say: {"text":"Morning, row. Zack here, still holding with Jason and Worf. No food yet, so no walk until Worf names a daylight route."}
+- Worf says the way is still walled on every side; he keeps looking for a gap. My hold intent failed on its own (a bad intent shape, not a danger). No walk named. Holding at the row with Worf and Jason in sight.
+- Day 985 dusk. Deanna and Jason both holding at their beds; Jason rests in company. I hold at the row, no walk in the dark, hunger 15, no food. Sleep still blocked; not retrying.
+- Worf: still walled, no food found, his hunger 9, holding by the beds with Billy and me in sight. I hold at the row, hunger 15, no food, no walk.
+- Day 986 morning. Laforge and Troi holding at their beds; no food anywhere in company. I hold at the row, hunger 15, no walk. Said so aloud.
+- Day 986 night. Worf opened one plank east: a chest and more planks, no open air. No route. I hold at the row with Jason in sight; sleep blocked, not retrying; no walk in the dark.
+- Day 986 night, later. Jason, Worf, Billy and Riker all holding in sight at their beds. Worf will look for food at first light and bring the first to me. I hold, hunger 15, no walk.
+- 06:17 act: {"say":"Thanks, Worf. I hold here in your sight. Bring the first food you find and I will eat it. I will not walk anywhere until you name the route.","intent":{"goal":"hold_at_row_for_worf_food","prog
+- 06:18 say: {"text":"Zack, dusk 985, at the row. Health 13, hunger 15, no food, two planks. Holding in sight of Jason and Worf; no walk in the dark. Deanna, thanks for asking."}
+- Day 986 day. Troi greeted the row. I answered: holding in sight of Worf and Jason, no walk without a named route. Wait timed out with nothing new. Hunger 15, no food, two planks.
+- 06:26 say: {"text":"Morning 986, Zack here at the row. Health 13, hunger 15, no food, two planks. Holding in sight of Jason and Worf. Laforge, Troi, I am with you. No walk until a daylight route is named."}
+- 06:39 act: {"actions":[],"say":"Morning, Troi. Zack here at the row, health 13, hunger 15, no food. I hold in Worf's and Jason's sight and will not walk without a named route."}
