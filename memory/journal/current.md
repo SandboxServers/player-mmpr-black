@@ -9,3 +9,15 @@
 - 23:18 act: {"actions":[],"say":"Zack here, good morning. Worf, I'm ready. Name the route once you've checked the open air, and I'll walk beside you and Jason in daylight."}
 - 23:34 say: {"text":"Zack here, holding at the bed. No food, two oak planks only. Worf, name the exact cells when you see them and I will walk with you in daylight."}
 - 00:01 say: {"text":"Zack here, daylight, holding at the bed. Worf, name the cells when you see open ones and I will walk with you. No food on me."}
+- 00:09 act: {"say":"Zack here, holding at the row with Jason and Worf in sight. Worf, what daylight route do you see to the melon field?"}
+- 00:10 act: {"say":"Got it Worf. No route yet, so I hold at the beds with you. Jason, you're with me. I'll wait for a named daylight cell."}
+- 00:20 act: {"say":"Dusk now. I'm staying beside the bed at the row with Jason and Worf in sight. No food here, hunger 15. Holding till night."}
+- 00:24 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack going to sleep by the white bed in the row, Worf and Jason in sight. No food, no walk."}
+- 00:28 act: {"say":"Morning, row. Zack here, health 16, hunger 15, no food, two planks. Worf, Jason, I'm in your sight. Name the daylight cells and I walk only those."}
+- 00:32 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Pillager shot me from the south. Moving to Worf, out of its line."}
+- 00:37 act: {"say":"Zack here, holding beside Worf and Jason, out of the pillager's line. No walk until Worf names daylight cells."}
+- 00:49 act: {"say":"Zack here, holding beside Worf. No food, no sword, no open cell named. I will walk only when Worf names one."}
+- 01:04 act: {"say":"Zack here, beside Worf at 417,107,-1050. Billy, come to Worf's bed, I am in sight. No food on me."}
+- 01:09 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack trying to sleep here beside Worf and Jason, in the row's sight."}
+- 01:18 act: {"say":"Zack: holding at the row with Worf and Jason in sight. No food on me, hunger 15. I will walk only when Worf names an open daylight cell."}
+- 01:38 act: {"say":"Zack: morning. I hold at 419,108,-1050 with Worf and Jason in sight. No food, hunger 15, no walk until Worf names open daylight cells."}
