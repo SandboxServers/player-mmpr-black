@@ -93,3 +93,5 @@ Dusk 1034: still at 419,108,-1050, Worf and Billy near. Health 13, hunger 14, no
 - 22:51 act: {"say":"Zack, dusk 1035, at 419,108,-1050. Health 13, hunger 14, no food. Holding in sight until someone names and sees an open cell past 423."}
 - 22:51 act: {"say":"Troi, I am holding at 13 health and 14 hunger. I will not walk until an open cell is named and seen. I'm still here in sight."}
 - 22:56 act: {"say":"Morning, Troi. Zack at 419,108,-1050: health 13, hunger 14, no food, two planks. Holding in sight of Jason, Worf and Billy. No walk until a cell is named and seen open."}
+- 23:09 act: {"say":"Zack here at the row, daylight, Jason and Worf in sight. Still holding, no food yet. Worf, if you can name an open route to the melons, I'll walk it with you.","intent":{"goal":"hold_with_grou
+- 23:09 act: {"say":"Heard you, Jason. No open route from me either. I hold in your sight at 419,108,-1050, no walk."}
