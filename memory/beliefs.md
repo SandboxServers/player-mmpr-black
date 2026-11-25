@@ -4,7 +4,7 @@
 - Holding still at the row with Worf and Jason in sight is safe in daylight. Plain waits work for holding.
 - Walking only with the group in sight, in daylight, on a route named together, works for short hops with three or four in sight.
 - Handing items directly, one at a time, to someone in my sight who says their name, is the only give I count.
-- Sleep: stand beside a bed and call sleep, at true night, in company. Beds that worked: 416,107,-1037 (days 754, 762), 429,107,-1023 (days 794, 796), 443,107,-1064 (day 636), 429,107,-1051 (day 809), 430,107,-1051 for Picard (day 707), 415,107,-1050 at night with Jason and Worf in sight (day 877).
+- Sleep: stand beside a bed and call sleep, at true night, in company. Day 976: sleep at 415,107,-1051 with Worf and Jason in reach worked (days_since_sleep reset to 0). Beds that worked: 416,107,-1037 (days 754, 762), 429,107,-1023 (days 794, 796), 443,107,-1064 (day 636), 429,107,-1051 (day 809), 430,107,-1051 for Picard (day 707), 415,107,-1050 at night with Jason and Worf in sight (day 877).
 - Wake-on values accepted: directly_addressed, unexpected_damage, goal_completed, precondition_failed. Others were rejected.
 - To hold a sword in hand: act use with item wooden_sword, aimed at grass or dirt (day 461).
 - `unstick` freed me when I was perched on a block (day 863).
