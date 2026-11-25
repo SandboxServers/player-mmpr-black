@@ -21,3 +21,7 @@
 - 01:09 act: {"actions":[{"do":"sleep"}],"say":"Night. Zack trying to sleep here beside Worf and Jason, in the row's sight."}
 - 01:18 act: {"say":"Zack: holding at the row with Worf and Jason in sight. No food on me, hunger 15. I will walk only when Worf names an open daylight cell."}
 - 01:38 act: {"say":"Zack: morning. I hold at 419,108,-1050 with Worf and Jason in sight. No food, hunger 15, no walk until Worf names open daylight cells."}
+- 01:44 act: {"say":"Morning. Worf, Jason, I'm at the row with two planks and no food. Any daylight route to the melons yet?"}
+- 01:46 act: {"say":"Understood Worf. No open air, no route, so I hold at the bed with you and Jason. Tell me the moment you see open cells."}
+- 01:50 act: {"say":"Dusk. Zack going to the white bed beside Worf and Jason, no food, hunger 15. Holding till light.","actions":[{"do":"sleep"}]}
+- 02:00 act: {"say":"Dusk. Zack by the bed with Worf and Jason, no food, hunger 15. Going to sleep when it is night.","actions":[{"do":"sleep"}]}
