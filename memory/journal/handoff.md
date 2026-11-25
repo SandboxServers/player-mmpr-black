@@ -1,7 +1,7 @@
-# Handoff, Zack, day 985 dusk
+# Handoff, Zack, dusk 992
 
-- At the row, 415,107,-1051, with Worf and Jason in reach. Billy, Laforge, Deanna in sight nearby. Not in danger.
+- At the row, 415,107,-1051, in sight of Worf, Jason and Billy. Not in danger. In company, no errand running.
 - Pack: 2 oak_planks, no food. Health 13, hunger 15.
-- Sleep at bed 415,107,-1051 blocked three times in a row. Not retrying. Holding in company through the night.
-- No route named by Worf. He sees no open air past the planks; Worf says he will look for food in daylight and bring the first to me.
-- Next: hold at the row in company until Worf names a daylight route. Eat at hunger 10 or below if food is in sight. Walk only in sight of Worf and Jason, in daylight.
+- Sleep at bed 415,107,-1051 blocked three times in a row (about 507 minutes). Not retrying.
+- Worf: north-west gap still walled past the row, no route named, no food. Holding in sight.
+- Next: hold at the row through the night, no walk in the dark. At daylight, wait for Worf to name a route. Eat food handed to me when hunger is 10 or below.

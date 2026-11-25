@@ -38,3 +38,16 @@
 - Day 986 day. Troi greeted the row. I answered: holding in sight of Worf and Jason, no walk without a named route. Wait timed out with nothing new. Hunger 15, no food, two planks.
 - 06:26 say: {"text":"Morning 986, Zack here at the row. Health 13, hunger 15, no food, two planks. Holding in sight of Jason and Worf. Laforge, Troi, I am with you. No walk until a daylight route is named."}
 - 06:39 act: {"actions":[],"say":"Morning, Troi. Zack here at the row, health 13, hunger 15, no food. I hold in Worf's and Jason's sight and will not walk without a named route."}
+- 06:49 act: {"actions":[],"say":"Morning 987, Zack here at the row. Health 13, hunger 15, no food, two planks. Holding in sight of Worf and Jason. Worf, name the route when you see open air and I walk in your sig
+- 06:51 act: {"actions":[],"say":"Morning, Troi. Zack here at the row, health 13, hunger 15, no food, two planks. Holding in Worf's sight. No walk until he names a daylight route."}
+- 07:17 act: {"say":"Zack here, morning. Health 13, hunger 15, two planks, no food. Holding at the row with Worf and Jason in reach. No walk until Worf names a daylight route."}
+- 07:18 act: {"say":"Troi, health 13 and steady, hunger 15. I hold here in sight of Worf and Jason. Trini, if the potatoes are for me, I will take them when you are in sight."}
+- 07:29 act: {"say":"Zack, night 989. Holding at the row in sight of Worf, Jason and Billy. Health 13, hunger 15, no food. No walk in the dark."}
+- 07:31 act: {"say":"Zack, morning 989. Health 13, hunger 15, no food. I hold at the row in sight of Worf and Jason and walk with no one until a daylight route is named. Thank you, Worf, for checking the chest."}
+- 07:47 act: {"say":"Zack, morning 990. Health 13, hunger 15, no food. Holding at the row in sight of Worf, Jason and Billy. Worf, I walk only on a route you name in daylight."}
+- 07:59 act: {"say":"Worf, I hear you. I stay at the row in your sight tonight and walk with no one in the dark. At first light, name the route and I go with you."}
+- 08:02 act: {"say":"Zack, morning 990. Health 13, hunger 15, no food. Holding at the row in sight of Worf, Billy and Jason. I walk only on Worf's named daylight route."}
+- 08:18 act: {"say":"Zack, morning 991. Health 13, hunger 15, no food. Holding at the row in sight. Worf, I walk only when you name the north-west gap as a daylight route with Billy and Jason in sight."}
+- 08:28 say: {"text":"Zack, morning 992. Health 13, hunger 15, no food. Holding at the row in sight. I walk only when Worf names a daylight route."}
+- 09:08 say: {"text":"Zack here, holding at the row in sight of Worf and Jason. No food, no route yet. I will walk only when Worf names a daylight route."}
+- 09:10 say: {"text":"Zack, good morning. Health 13, hunger 15, no food. I am holding at the row. Troi, Laforge, I hold with you until Worf names a daylight route."}
