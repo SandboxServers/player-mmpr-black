@@ -49,3 +49,6 @@ Day 1010: Slept at the row beside the bed, nine of ten asleep, woke at day. Hung
 - 18:22 act: {"say":"Worf, I have no potato, only 2 oak planks. Jason, my view east from here is all solid, no open cell. I hold here."}
 - 18:30 act: {"say":"Zack, dusk, at 419,108,-1050, in sight of Jason and Billy. I walk nowhere in the dark. I stay here and watch for damage."}
 - 18:35 act: {"say":"Zack, morning, at 419,108,-1050, holding in sight. No food and no open cell named. I walk nowhere until one is named and seen."}
+- 18:43 say: {"text":"Zack here, holding at the row with Jason, Worf and Billy in sight. Worf, when you see open cells on the melon route, name it and I'll walk with you in daylight."}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, dusk, going to the bed at 415,107,-1050 with Jason, Worf and Billy in sight. Laforge, I hear you. No walk in
+- 18:49 say: {"text":"Zack, morning, at the row with Jason, Billy, Worf and Wesley in sight. Health 13, hunger 14, no food. Troi, I am well enough, just hungry. I hold until a daylight cell is named open."}
