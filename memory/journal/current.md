@@ -4,3 +4,8 @@
 - 22:49 act: {"actions":[],"say":"Thanks Troi. I'm holding here with Jason and Worf until it's light. No food for either of us yet, so we'll find some together."}
 - 22:49 act: {"actions":[],"say":"Agreed Worf. Holding till light, with Jason in sight. When you name a daylight route to the melon field, I'm ready."}
 - 23:01 act: {"actions":[{"do":"sleep"}]}
+- 23:06 act: {"actions":[],"say":"Morning, row. Zack here, health 16, hunger 16, no food. Worf, Jason, I'm holding at my bed. Name the route when there's an open cell and I'll walk with you."}
+- 23:14 act: {"actions":[{"do":"sleep"}]}
+- 23:18 act: {"actions":[],"say":"Zack here, good morning. Worf, I'm ready. Name the route once you've checked the open air, and I'll walk beside you and Jason in daylight."}
+- 23:34 say: {"text":"Zack here, holding at the bed. No food, two oak planks only. Worf, name the exact cells when you see them and I will walk with you in daylight."}
+- 00:01 say: {"text":"Zack here, daylight, holding at the bed. Worf, name the cells when you see open ones and I will walk with you. No food on me."}
