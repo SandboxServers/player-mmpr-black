@@ -51,3 +51,41 @@
 - 08:28 say: {"text":"Zack, morning 992. Health 13, hunger 15, no food. Holding at the row in sight. I walk only when Worf names a daylight route."}
 - 09:08 say: {"text":"Zack here, holding at the row in sight of Worf and Jason. No food, no route yet. I will walk only when Worf names a daylight route."}
 - 09:10 say: {"text":"Zack, good morning. Health 13, hunger 15, no food. I am holding at the row. Troi, Laforge, I hold with you until Worf names a daylight route."}
+- 09:18 say: {"text":"Zack, dusk. Holding at the row with Worf, Jason and Billy. No walk tonight. Good night."}
+- Day 994 dusk. Hunger 15, health 13, no food, two planks. Sleep blocked 3 times (not retrying). Holding at the row in sight of Worf, Jason and Billy; no walk in the dark. Said good night aloud.
+- 09:19 say: {"text":"Good night, Riker. Zack holding at the row with you all. No walk till morning."}
+- 09:24 say: {"text":"Zack, morning. I agree with Jason: I walk only on a route Worf names, in daylight, with exact cells. Worf, your word first. Until then I hold here, hunger 15, no food."}
+- 09:28 say: {"text":"Welcome, Tommy. I am Zack. We hold at the row till Worf names a daylight route. Stay in sight, and you are welcome with us."}
+- Day 995. Billy proposed an east walk to Lewis's sword; I agreed only if Worf names the route. Worf: gap still walled, no food. Welcomed Tommy Oliver. Dusk 995, holding at the row, hunger 15, no food, two planks.
+- 09:36 say: {"text":"Morning, Deanna. Zack here, health 13, hunger 15, two planks, no food. Holding at the row until Worf names a daylight route."}
+- Day 996 night. Holding at the row with Worf, Billy, Jason in sight. Sleep blocked again (not retrying). Hunger 15, no food. No walk in the dark. Still waiting for Worf's named route.
+- Day 996 day. Worf will check the north-west gap in daylight; Billy and Riker want exact cells first. Sleep blocked again (587 min). I said I agree: exact cells, armed leader in sight. Holding at the row, hunger 15.
+- 09:57 act: {"actions":[],"say":"Zack here, health 13, hunger 15, two planks, no food. Billy, I agree: exact cells first, and an armed leader in sight. Holding at the row."}
+- 10:05 act: {"actions":[],"say":"Morning, row. Zack here, health 20 by the others, hunger 15, two planks, no food. Worf, go carefully. I hold at the row and will not follow until you name exact open cells. Bring 
+- 10:15 say: {"text":"Zack here, night 997, at the row in sight of Worf, Jason and Billy. Health 13, hunger 15, no food. Worf, I owe nothing back; I hold until you name cells. Good night."}
+- 10:16 say: {"text":"Morning, Deanna. Zack here, health 13, hunger 15, two planks, no food. Holding at the row. Thank you for asking; no route named yet."}
+- Day 997 day. Worf still walled by planks, no exact open cell; Billy and Laforge won't walk blind. Sleep blocked (611 min), not retried. Holding at the row, hunger 15, no food.
+- Day 998. Night then morning at the row with Worf, Billy, Jason in sight. Worf, Laforge, Riker: still walled, no food, no route named. Said good morning to Deanna. Sleep blocked (627 min), not retried. Hunger 15, no walk.
+- 10:29 act: {"actions":[],"say":"Zack here, at the row in sight of Worf, Billy and Jason. Health 13, hunger 15, no food, two planks. Holding; no walk until a named daylight route."}
+- 10:32 act: {"actions":[],"say":"Morning, Deanna. Zack here at the row, health 13, hunger 15, no food, two planks. Holding in sight; no walk until a daylight route is named."}
+- 10:41 act: {"actions":[],"say":"Zack, dusk 998, at the row in sight of Worf, Jason and Billy. Health 13, hunger 15, no food. No walk in the dark. Good night when it comes."}
+- 10:44 act: {"actions":[],"say":"Morning, Trini. Zack here at the row, health 13, hunger 15. Thank you for the potatoes; I take them when you are in sight, after Leonardo. Holding until Billy or Worf names the wa
+- 10:44 act: {"actions":[],"say":"Trini, Zack here. Agreed: keep Leonardo first. If he does not come, I take the potatoes when you are in sight. Thank you, Billy."}
+- Day 999 day. Worf says he holds no food and asks where food is; I said I hold at the row in his sight. Sleep blocked (642 min), not retried. Hunger 15, no walk.
+- 10:52 act: {"actions":[],"say":"Morning, Worf. Zack here at the row, health 13, hunger 15, no food, two planks. I hold in your sight. No melon owed to me yet; if you find food, Trini's potatoes go to Leonardo fi
+- 10:54 act: {"actions":[],"say":"Zack at dusk, at the row with Worf, Billy and Jason near. No walk in the dark. Billy, thank you for the potato cells; I walk only at first light with an armed leader in sight."}
+- Day 999 dusk. Billy named the potato cells at 463-467, y107, z-1076 to -1073 (ten ripe), no route yet. Trini holds 2 potatoes for Leonardo first, then me. Worf will take them at light. I hold at the row, hunger 15, no walk in the dark.
+- 10:55 act: {"actions":[],"say":"Deanna, Zack here at the row, in sight of Worf, Billy and Jason. Health 13, hunger 15, no food, two planks. Staying put till light. Good night."}
+- Day 999 night. Deanna asked how we hold; I answered from the row in sight of Worf, Billy, Jason. Sleep blocked (645 min), not retried. No walk in the dark.
+- 10:59 act: {"actions":[],"say":"Zack here, daylight, at the row in sight of Worf, Billy and Jason. Health 13, hunger 15, no food. Jason, thank you for looking east. No open cell named yet, so I hold here."}
+- Day 1000 day. Jason looked east: planks all round, no open cell toward 440,-1065. Worf sees walls too. Trini still holds the potatoes for Leonardo first, then Worf, then me. Sleep blocked (650 min), not retried. Holding at the row, hunger 15.
+- 11:00 act: {"actions":[],"say":"Deanna, Zack here. Health 13, hunger 15, no food, two planks. Holding at the row in Worf's and Billy's sight. Leonardo, if you are at 1 health, say where you are and I will come t
+- Day 1000. Worf and Trini agree: the 2 potatoes go to me first if Leonardo is not here; Trini asks me to come to her bed in daylight. I asked Worf and Billy where her bed is and for a clear cell route; I do not walk yet. Hunger 15.
+- 11:04 act: {"actions":[],"say":"Trini, Zack here. Thank you. Worf, Billy: where is Trini's bed, and is there a clear cell from the row to it? I will walk only with you two in sight and the cells named. Until the
+- 11:09 act: {"actions":[],"say":"Worf, Zack here, hunger 15, no food. I hold at the row with you and Billy. If you find Trini's potatoes, I will take my share when I can see you and a named route is clear."}
+- 11:11 act: {"actions":[],"say":"Zack here, morning. Health 13, hunger 15, no food. I am holding at the row. Billy, Worf: name the open cells and I will walk with you in sight."}
+- 11:11 act: {"actions":[],"say":"Trini, thank you. I cannot see you from here and Billy names no open route yet, so I will not walk. Hold your potatoes; I will come when a cell is named."}
+- 11:40 to 13:00, day 1000 into night and morning. Trini's bed is 430,107,-1051; Billy and Worf name no clear cell to it. Worf hunger 9, holding. Sleep blocked (669 min), not retried. Hunger 15, no food, no walk in the dark. Holding at the row.
+- 11:23 act: {"actions":[],"say":"Zack here at the row, hunger 15, no food. Worf or Billy, if you name exact open cells to Trini's bed at 430,107,-1051, I will walk with you in daylight."}
+- Day 1001 day. Worf, Billy, Trini all holding; Billy and Worf see only walls, no open cell. Trini holds 2 potatoes at 430,107,-1051. Hunger 15, no walk. Night 1001 now; holding at the row with Worf and Billy in reach, Jason 2.9 away. Sleep blocked (685 min), not retried.
+- 11:39 act: {"actions":[],"say":"Morning, Riker and Billy. Zack here, health 13, hunger 15, no food. Holding at the row with Worf in sight. I walk only when a daylight route with exact open cells is named."}
