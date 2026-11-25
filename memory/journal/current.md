@@ -18,3 +18,10 @@ Day 1010: Slept at the row beside the bed, nine of ten asleep, woke at day. Hung
 - 15:50 act: {"say":"Zack here at 415,107,-1051, holding with Worf and Jason in sight. Nobody walks tonight. Trini, come to me in daylight once a route is named.","intent":{"goal":"hold_with_group","program":"rest
 - 15:51 act: {"say":"Trini, Zack here at 416,107,-1050. I cannot name open cells past 423 myself; the view shows walls on my side. Walk only the cells Worf or Jason names in sight, and I will meet you at 415,107,-
 - 16:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 16:04 act: {"say":"Zack here, at the row, 416,107,-1050, with Worf, Billy and Jason in reach. Trini, come to me on open ground and bring the potatoes. I will eat what I am handed."}
+- 16:05 act: {"say":"Zack: I hold at 416,107,-1050. I have not seen open cells between Trini's bed and here, so I name no route either. Trini, if you can see a clear line of open ground, say it and I will meet you
+- 16:05 act: {"say":"Zack: understood, Trini. Hold at your bed. I will not walk until an open cell is named by someone who can see it."}
+- 16:07 act: {"say":"Zack: Laforge, Riker, I hear you. I hold here in sight. Riker, if you see open cells east, name them and I will walk in daylight with Jason."}
+- 16:18 act: {"say":"Zack: Worf, I hear you, hunger 8. I hold in sight at the row. When light is full and the cells are named, I will walk with you and Jason, and we will share what is in Trini's hands."}
+- 16:47 act: {"say":"Zack, day 1017, hunger 14, in sight at the row. Worf, Billy, Jason: if anyone can see open cells, name them, and I will walk with you in daylight. Until then I hold here."}
+- 16:49 act: {"say":"Zack, hunger 14, health 13, holding at the row. Troi, I hear you. I will not walk until someone names exact open cells they have seen. I stay in sight."}
