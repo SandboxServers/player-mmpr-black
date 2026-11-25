@@ -52,3 +52,28 @@ Day 1010: Slept at the row beside the bed, nine of ten asleep, woke at day. Hung
 - 18:43 say: {"text":"Zack here, holding at the row with Jason, Worf and Billy in sight. Worf, when you see open cells on the melon route, name it and I'll walk with you in daylight."}
 - 18:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, dusk, going to the bed at 415,107,-1050 with Jason, Worf and Billy in sight. Laforge, I hear you. No walk in
 - 18:49 say: {"text":"Zack, morning, at the row with Jason, Billy, Worf and Wesley in sight. Health 13, hunger 14, no food. Troi, I am well enough, just hungry. I hold until a daylight cell is named open."}
+- 18:52 act: {"say":"Morning. Jason, Billy, Worf, I'm still here at the row with my two planks. Worf, have you found open cells on the melon route yet?"}
+- Day 1023 (daylight): at 416,107,-1049 with Jason, Billy, Worf in sight. Health 13, hunger 14, two planks, no food. Jason: no open cell seen on the melon route. Billy: no food, holding. Holding; no walk.
+- 18:53 act: {"say":"Thanks, Worf. Open only 420 to 423 at -1051, nothing past 423, so no melon route yet. I hold here in your sight with Jason and Billy."}
+- 18:58 act: {"say":"Dusk. Zack going to the bed at 415,107,-1050 with Jason, Worf and Billy in sight. No walk in the dark. Holding.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 18:59 act: {"say":"Zack here at the bed 415,107,-1050, sleeping for the night with Jason, Billy and Worf in sight. No food, no walk until light. Troi, I am well enough, just hungry.","actions":[{"do":"sleep"}]}
+- Night 1023: sleep worked at bed 415,107,-1050 with Billy beside me and Jason, Worf in sight. Health 13, hunger 14, no food. Holding until light; no walk in the dark.
+- Day 1023 morning: at 416,107,-1050 with Worf, Billy, Jason, Wesley in sight. Health 13, hunger 14, no food. Worf: open only 420-423 at -1051, no melon route named. Trini holds 2 potatoes for Worf. Holding; no walk.
+- 19:03 act: {"say":"Zack, morning, at 416,107,-1050 with Worf, Billy, Jason and Wesley in sight. Health 13, hunger 14, no food. Worf, do you see any open cell on the melon route yet? I walk only once it is named.
+- 19:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, night, going to bed 415,107,-1050 with Billy, Jason and Worf in sight. No food, no walk until light. Holding
+- 19:15 act: {"say":"Zack, morning, at the row bed 415,107,-1050 with Worf, Jason, Billy in sight. Worf, I have no potato, only two planks. Health 13, hunger 14. I hold here and walk nowhere until a daylight cell 
+- 19:19 act: {"actions":[],"say":"Zack, still at bed 416,107,-1050, holding. No potato in my pack yet, so none to give Worf. I agree with Jason: no walk until someone names an exact cell seen open."}
+- Day 1024 (daylight, thunder): at 416,107,-1050 with Worf, Jason, Billy in sight. Health 13, hunger 14, two planks, no food. Billy and Jason: 428,107,-1051 not confirmed open. No walk; no break. Holding.
+- 19:20 act: {"actions":[],"say":"Deanna, Zack here at the row bed, health 13, hunger 14, no food, unarmed with two planks. I hold in sight of Worf, Jason and Billy. I walk nowhere until a daylight cell is named o
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, dusk, going to bed 415,107,-1050 with Worf, Jason and Billy in sight. No food, no walk until light."}
+- 19:28 act: {"actions":[],"say":"Zack, morning, day 1025, at 416,107,-1050 with Worf, Jason, Billy in reach. Health 13, hunger 14, no food. I still hold; no walk until a daylight cell is named open."}
+- Day 1025 dusk: walked to bed 415,107,-1050; sleep refused "not night". Night passed without my sleep. Woke at day 1025 at 416,107,-1050 with Worf, Jason, Billy in reach. Health 13, hunger 14, two planks, no food. Trini holds 2 potatoes for Worf first. Holding; no walk.
+- 19:29 act: {"actions":[],"say":"Worf, Jason, Billy: morning, day 1025, at 416,107,-1050. Zack has no potato in pack yet, only two planks. Holding in sight; no walk until a seen-open cell is named."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, night, going to bed 415,107,-1050 with Worf, Jason and Billy in sight. No food, no walk until light. Holding
+- 19:42 act: {"actions":[],"say":"Zack, night, at 419,108,-1050 with Jason and Billy in reach. My sleep at 415,107,-1050 was blocked, so I will not try a third time. Holding in sight until light."}
+- 19:45 act: {"actions":[],"say":"Zack, morning, day 1026, at 419,108,-1050 with Jason, Billy, Worf in sight. Trini, I see no open cell from here, only planks. Health 13, hunger 14, no food. I hold until one is na
+- 19:54 act: {"actions":[],"say":"Zack, dusk, at 419,108,-1050 with Jason in reach, Worf and Billy near. No walk in the dark. I'll go to a bed with company once it is true night."}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, night, going to bed 415,107,-1050 with Jason in reach. Holding till light, no walk."}
+- 20:00 act: {"actions":[],"say":"Zack, night 1026: sleep at 415,107,-1050 was blocked. I will not try a third time. Holding here with Jason in reach until light."}
+- 20:02 act: {"actions":[],"say":"Worf, Zack here: I have no food, only 2 oak planks. Holding in sight at 419,108,-1050 with Jason. I will walk only when a named open cell is seen."}
+- 20:10 act: {"actions":[],"say":"Zack, morning, day 1027. Still at 419,108,-1050 with Jason in reach, no food, 2 oak planks. Holding until a named open cell is seen."}

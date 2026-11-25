@@ -1,7 +1,8 @@
-# Handoff, Zack, night 1002
+# Handoff, Zack, dusk day 1027
 
-- At 416,107,-1049 beside the row beds, with Worf, Billy and Jason in sight. Not in danger. No errand running.
-- Pack: 2 oak_planks, no food. Health 13, hunger 15.
-- Trini holds 2 potatoes at bed 430,107,-1051 and will not walk; I will not walk alone to her. Not counted as received.
-- Worf names no melon route yet (no open cells known). Holding.
-- Next: at daylight, wait for a named route with open cells. Eat food handed to me when hunger is 10 or below.
+- At 419,108,-1050 on dirt, Jason in reach, Worf and Billy about 4 away in sight. Not in danger. No errand running.
+- Pack: 2 oak_planks, no food. Health 13, hunger 14.
+- Bed 415,107,-1050 blocked on night 1026 ("the way was blocked"). Do not try it a third time. Try 416,107,-1037 or 429,107,-1051 in daylight with company.
+- Potatoes: Trini holds 2 for Worf first, then me. Billy holds none. Not received.
+- No open cell past x 423 at z -1051 seen by anyone. Holding.
+- Next: hold in sight until light. Eat only food handed to me when hunger is 10 or below. Walk only on a named, seen route.
