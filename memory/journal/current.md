@@ -41,3 +41,11 @@ Day 1010: Slept at the row beside the bed, nine of ten asleep, woke at day. Hung
 - 17:27 act: {"actions":[],"say":"Zack, day 1019, holding at 415,107,-1050 in sight of Jason, Billy and Worf. Thank you for looking, Jason. No breaks while only planks show. Trini, the potatoes come to me in sight
 - 17:37 act: {"actions":[{"do":"sleep"}],"say":"Zack, dusk, at 415,107,-1050 with Worf, Billy and Jason in sight. Holding here for the night. No walks in the dark."}
 - 17:41 act: {"actions":[],"say":"Zack, morning, day 1019, at 419,108,-1050 with Jason and Worf in reach. Health 13, hunger 14, no food. Leonardo, I hear you. I hold here; I walk only on a cell named open and seen
+- 17:50 act: {"say":"Heard you, Jason. Dusk, no walk. I'm holding here with Worf and Billy in sight."}
+- 17:52 act: {"say":"Night now. Staying put with Worf, Billy and Jason in sight. No walk until light."}
+- 17:53 act: {"say":"Morning, Troi. Zack here: health 13, hunger 14, no food, two planks. Holding at the row with Worf and Jason. No walk until a route is named."}
+- 18:07 act: {"say":"Morning, Worf. Zack here: no food, hunger 14. I hold in your sight until a route is named."}
+- 18:21 act: {"say":"Zack here. I looked east from 419,108,-1050: solid oak planks all round, no open cell. I hold in sight."}
+- 18:22 act: {"say":"Worf, I have no potato, only 2 oak planks. Jason, my view east from here is all solid, no open cell. I hold here."}
+- 18:30 act: {"say":"Zack, dusk, at 419,108,-1050, in sight of Jason and Billy. I walk nowhere in the dark. I stay here and watch for damage."}
+- 18:35 act: {"say":"Zack, morning, at 419,108,-1050, holding in sight. No food and no open cell named. I walk nowhere until one is named and seen."}
