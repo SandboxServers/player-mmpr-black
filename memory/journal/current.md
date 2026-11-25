@@ -10,3 +10,11 @@ Day 1010: Slept at the row beside the bed, nine of ten asleep, woke at day. Hung
 - Night 1012: sleep at bed 415,107,-1051 blocked twice ("the way was blocked"); not tried a third time. Dawn: Trini says she holds her potatoes until a route is named; Worf hunger 8, no food. Holding at 415,107,-1047 with Worf, Jason, Wesley in sight. Hunger 15, health 13, no food. Next: wait for a named route or handed food; eat only in sight.
 - 15:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack moving to the bed at 415,107,-1050 with Jason in sight, for the night."}
 - 15:22 act: {"actions":[],"say":"Zack, morning, at bed 415,107,-1051 with Jason, Billy and Worf in sight. Trini, bring the potato to Leonardo first, then to Worf or me in sight. I hold."}
+- 15:25 act: {"say":"Morning. Worf, Jason, Billy in sight. Hunger 14, no food yet. Worf, have you named a melon route with open cells?","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":
+- 15:34 act: {"say":"Zack, night, at bed 415,107,-1051 with Jason, Worf and Billy in sight. No food, no walk until light. Sleeping here.","actions":[{"do":"sleep"}]}
+- 15:38 act: {"say":"Zack, morning. Trini, Riker, Worf, Jason: I'll test the bed at 416,107,-1037 in daylight. I want to walk there with Worf and Jason in sight. Name the route with me first; I walk nothing alone.
+- 15:39 act: {"say":"Zack, morning, at 415,107,-1051 with Worf and Jason in sight. My view is walls on every side here, so I see no open cell to name. I walk nothing until someone names an open cell. Holding."}
+- 15:46 act: {"say":"Trini, Zack here at 415,107,-1051 with Worf and Jason in sight. Leonardo first, I agree. Then I am owed a potato. Please walk to me in sight; I will not walk to you alone."}
+- 15:50 act: {"say":"Zack here at 415,107,-1051, holding with Worf and Jason in sight. Nobody walks tonight. Trini, come to me in daylight once a route is named.","intent":{"goal":"hold_with_group","program":"rest
+- 15:51 act: {"say":"Trini, Zack here at 416,107,-1050. I cannot name open cells past 423 myself; the view shows walls on my side. Walk only the cells Worf or Jason names in sight, and I will meet you at 415,107,-
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
