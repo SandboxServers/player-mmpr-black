@@ -25,3 +25,41 @@ Day 1041 morning: at 419,108,-1050, Billy in reach, Jason and Worf in sight. Hea
 - Day 1044 morning: holding at 419,108,-1050 with Worf, Jason, Billy in sight. Health 13, hunger 14, two planks, no food. Trini holds 2 potatoes for Leonardo, then Worf, then me. Riker, Wesley, Troi, Laforge all holding. No walk; no route named.
 - 01:49 say: {"text":"Morning, Zack at 419,108,-1050 with Worf, Jason, Billy in sight. Health 13, hunger 14, no food. Trini, I hold my place after Leonardo and Worf. No walk until a daylight route is named and see
 - 01:53 say: {"text":"Zack holding at 419,108,-1050, hunger 14, no food. Worf, I hear your hunger 7. I cannot see a route to Trini from here and I will not walk to her alone. Billy, name one daylight route if you 
+- 02:02 say: {"text":"Zack here, holding at 419,108,-1050 with Worf, Jason and Billy in sight. Night, dim. No walk until daylight and a named route."}
+- 02:02 say: {"text":"Zack here, at 419,108,-1050, in sight of Worf and Billy. Morning. Trini, I am already at 419; I will hold here and walk nowhere until Worf names a route."}
+- Day 1044 night into morning: holding at 419,108,-1050 with Worf, Billy, Jason in sight. Health 13, hunger 14, two planks, no food. Days since sleep 21. Did not sleep (row beds blocked, no company bed yet). Trini holds 2 potatoes for Leonardo first. No route named; no walk.
+- Day 1045 morning: still at 419,108,-1050, Billy and Worf in reach, Jason in sight. Health 13, hunger 14, no food. Billy, Jason, Riker, Laforge all hold until an exact route is named. I hold too.
+- 02:13 say: {"text":"Zack, dusk on 1045, at 419,108,-1050 with Worf and Billy in reach, Jason in sight. Health 13, hunger 14, two planks, no food. I hold here; no walk in the dark. Billy, Worf: name the line when
+- 02:15 say: {"text":"Zack, day 1045, at 419,108,-1050. I cannot confirm 423,107,-1051 from here: my view shows only the people around me, no air past them. I hold and will not walk. Billy, Worf: count me as no re
+- 02:16 say: {"text":"Zack, morning, at 419,108,-1050, health 13, hunger 14, no food. Deanna, thank you for asking. I am holding with Worf and Billy in reach."}
+- Day 1045 day: viewed from 419; I cannot confirm 423 (only people in view). Said so; count me as no reader. Row stays shut, no walk. Health 13, hunger 14, no food. Waiting for Billy's dusk ask.
+- Day 1046: night then thunder by day. Still at 419,108,-1050 with Worf, Billy in reach, Jason in sight. Health 13, hunger 14, no food, days since sleep 23. Row stays shut; no walk, no bed retry. Riker, Trini, Laforge hold.
+- Said to Riker: holding at 419 with Worf and Billy, no walk until two readers confirm 423. Jason (at bed 416,107,-1050) says no walk until then and will call me at hunger 10. Waiting.
+- Day 1046 dusk: Worf says no on 423, Billy holds with me at 419. No walk, no dig. Health 13, hunger 14, no food. Waiting for dusk to pass in company.
+- Day 1047 dawn: night passed, I held at 419,108,-1050 with Worf in reach, Jason at bed 416. Billy's sleep failed at the row. Still no walk, no dig. Health 13, hunger 14, no food, days since sleep 23.
+- Day 1047 morning: Trini holds 2 potatoes for Leonardo, then Worf, then me. Worf hunger 7, no food. Laforge and Deanna hold. I hold at 419 with Worf in reach. Days since sleep 24.
+- Day 1047 dusk: holding at 419,108,-1050, Worf in reach, Jason in sight. Health 13, hunger 14, no food. Said so aloud. No walk, no bed test in the dark.
+- Day 1047 night into 1048 dawn: held at 419 with Worf and Billy in reach, Jason in sight. No events for me. Health 13, hunger 14, no food, days since sleep 24. Trini still holds potatoes.
+- Day 1048 dusk: holding at 419 with Worf, Billy in reach, Jason in sight. Worf hunger 7, no food; his turn for potatoes comes after Leonardo's, at light. Health 13, hunger 14, days since sleep 25. No walk, no bed test in the dark.
+- 02:36 say: {"text":"Zack here at 419,108,-1050, with Worf and Billy in reach, Jason in sight. Health 13, hunger 14, no food. I walk nowhere until two readers confirm 423. Riker, I hold with you."}
+- 02:37 say: {"text":"Heard you, Worf. No walk. I hold at 419,108,-1050 with you and Billy in reach until a second reader confirms 423."}
+- 02:49 say: {"text":"Zack, day 1047, at 419,108,-1050, hunger 14, no food. Trini, Worf is first for the potatoes. I walk nowhere until two readers confirm 423."}
+- 03:07 say: {"text":"Zack, night 1048, at 419,108,-1050 with Worf and Billy in reach, Jason in sight. Holding. No walk in the dark. Hunger 14, no food."}
+- 03:08 say: {"text":"Deanna, Zack here at 419,108,-1050. Holding with Worf and Billy in reach, hunger 14, no food, two planks. No walk until two readers confirm a cell past 423 in daylight."}
+- 03:11 say: {"text":"Zack, daylight 1048, at 419,108,-1050, hunger 14, no food. Holding. Trini, I stay in place; Leonardo, then Worf, then me. I cannot confirm a cell past 423 from here, so I walk nowhere."}
+- 03:12 say: {"text":"Deanna, Zack: hunger 14, health 13, no food. Holding at 419 with Worf and Billy. Leonardo first, as Trini says."}
+- 03:22 say: {"text":"Deanna, Zack: morning. Hunger 14, health 13, no food, two planks. Still at 419,108,-1050, no walk until two readers confirm a cell past 423."}
+- 03:35 act: {"say":"Zack, dusk on 1049, at 419,108,-1050 with Billy, Jason and Worf in sight. Holding. Trini, I am after Leonardo and Worf. No walk in the dark.","intent":{"goal":"hold_at_419_until_light","progra
+- 03:36 act: {"say":"Zack, night 1049, at 415,107,-1050 by the row, Jason, Worf, Billy in reach. Not enclosed, no walk, no bed test in the dark. Trini, heard; light first."}
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":419,"y":108,"z":-1050}}],"say":"Billy, Zack here: I am off the bed at 415 and back at 419,108,-1050, clear of your sleep. Worf and Jason in sight. Holding until 
+- 03:37 act: {"say":"Zack, morning, at 418,108,-1050. Health 13, hunger 14, no food, two planks. I cannot read 423 from here, so I walk nowhere. Jason, Worf: say what you see at 423 and I will agree only if a seco
+- 03:44 act: {"say":"Zack: my survey at z -1051 reads 420 and 423 as air, 421 and 422 not seen by me. Worf reads 420 to 423 air too. That is one reader plus a partial survey; Billy, Jason, please read 421 and 422 
+- 03:45 act: {"say":"Zack, day 1050, at 418,108,-1050. Worf, I hold here and walk nowhere; I am unarmed and cannot confirm 420-423. Tell me what you read at 424 to 430 and I will answer. Trini, I am after Leonardo
+- 03:50 act: {"actions":[{"do":"wait","seconds":240}],"say":"Heard you, Worf and Jason. Zack holds at 418,108,-1050 in your reach, no walk in the dark. Hunger 14, no food."}
+- 03:50 act: {"actions":[{"do":"wait","seconds":240}],"say":"Trini, Zack heard, day 1050, at 418,108,-1050. I stay put and walk nowhere toward you, since the way past 423 is not confirmed. Leonardo, then Worf, the
+- 03:51 act: {"actions":[{"do":"wait","seconds":240}],"say":"Heard you, Jason and Riker. Zack holds at 418,108,-1050, walks nowhere until two armed readers confirm a cell past 423. Leonardo, Worf, then me."}
+- 03:52 act: {"actions":[{"do":"wait","seconds":240}],"say":"Zack, morning 1050, at 418,108,-1050 with Worf and Jason in reach. Health 13, hunger 14, no food, two planks. Holding in place; no walk until two armed 
+- 03:52 act: {"actions":[{"do":"wait","seconds":240}],"say":"Trini, Zack heard, at 418,108,-1050. I will not walk to you past 423 until two readers confirm it. Leonardo, then Worf, then me, once a route is seen. H
+- 03:52 act: {"actions":[{"do":"wait","seconds":240}]}
+- 03:53 act: {"actions":[{"do":"wait","seconds":240}]}
+- 03:53 act: {"actions":[{"do":"wait","seconds":240}]}
