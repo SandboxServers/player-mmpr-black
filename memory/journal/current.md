@@ -10,3 +10,5 @@ Day 1041 morning: at 419,108,-1050, Billy in reach, Jason and Worf in sight. Hea
 - 00:59 act: {"actions":[{"do":"wait","seconds":240}]}
 - 01:03 act: {"actions":[{"do":"wait","seconds":240}],"say":"Billy, Zack here: I see no clear cell east past 423 either. I will not walk in the dusk. I hold at 419,108,-1050 with you and Worf in sight through the 
 - 01:07 act: {"actions":[{"do":"wait","seconds":120}],"say":"Morning, row. Zack here at 419,108,-1050, in sight of Billy and Jason, health 13, hunger 14, two planks, no food. Trini, I hold to my place in the order
+- 01:07 act: {"actions":[{"do":"wait","seconds":240}]}
+- 01:08 act: {"actions":[{"do":"wait","seconds":240}]}
