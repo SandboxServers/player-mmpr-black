@@ -118,3 +118,19 @@ Day 1041 morning: at 419,108,-1050, Billy in reach, Jason and Worf in sight. Hea
 - 07:30 act: {"say":"Zack to Trini: I see no open cell from here, planks all round. I cannot name one, so I will not walk. Leonardo first, then Worf."}
 - 07:35 act: {"say":"Zack, night 1061, at 419,108,-1050 with Worf in reach, Billy and Jason near. Health 13, hunger 14, no food. Holding until light; no walk until two readers name an open cell."}
 - 07:40 act: {"say":"Zack, dawn 1061, at 419,108,-1050 with Worf in reach. Health 13, hunger 14, no food. Troi, Jason, Billy: I still see only planks east, so I name no open cell. Holding, no walk."}
+- 07:51 act: {"say":"Billy, Zack heard, dusk 1062. I hold at 419,108,-1050 with you, Worf and Jason in sight. Hunger 14, no food. No walk in the dark, and I cannot name an open way east from here."}
+- 07:53 act: {"say":"Worf, Zack heard: hunger 6, no food. I hold at 419,108,-1050 in your reach. At light I look east with you, Trini and Billy, two readers, no walk before that."}
+- 07:57 act: {"say":"Jason, Zack, morning 1062, at 419,108,-1050. Health 13, hunger 14, no food. I looked: planks east, no open cell I can name. I walk nowhere until you or Billy read one, and I check it too."}
+- 08:03 act: {"say":"Zack, day 1062: I have not seen an open cell past 423. My view shows planks and solid walls. I walk nowhere until two readers name one.","intent":{"goal":"hold_until_light","program":"rest","a
+- 08:05 act: {"say":"Worf, Zack, dusk 1063: I hold here at 419,108,-1050 and walk nowhere east. I see no open cell past 423 either.","intent":{"goal":"hold_until_light","program":"rest","arguments":{},"wake_on":["
+- 08:06 act: {"say":"Zack, night 1063: I am at 418,107,-1051, in the dark with Jason near. I stay here and walk nowhere until light.","intent":{"goal":"hold_until_light","program":"rest","arguments":{},"wake_on":[
+- 08:06 act: {"intent":{"goal":"hold_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
+- 08:11 say: {"text":"Zack, light 1063, at 415,107,-1051. I see planks and solid east too, no open cell named. I hold here with you all."}
+- 08:18 say: {"text":"Zack, dusk 1063: I have seen no open cell past 423, Billy. I hold at 415,107,-1051 with you and Jason."}
+- 08:26 say: {"text":"Zack, morning 1064, at 415,107,-1051. Health 13, hunger 14, no food. I still see no open cell east. I hold here and walk nowhere."}
+- 08:39 say: {"text":"Zack, at 415,107,-1051 with Worf and Jason in sight. Health 13, hunger 14, no food. I hold here and walk nowhere until two readers name an exact open cell."}
+- 08:40 say: {"text":"Zack here, at 415,107,-1051. I have seen no open cell past 423 either, so I name none. I hold in sight of Jason and Worf, with no food and no walk."}
+- 08:44 say: {"text":"Zack, day 1065, at 415,107,-1051. Health 13, hunger 14, no food. Troi, I am well enough and holding here in sight of Jason and Worf. No walk yet."}
+- 09:06 say: {"text":"Zack, morning 1066. Holding at 415,107,-1051 with Jason and Worf in sight. No food, hunger 14. Still no named open route, so I stay. Trini, I am waiting for the potatoes when you come into si
+- 09:25 say: {"text":"Zack, day 1067. Billy, I have not seen an exact open route to 415,107,-1037 from here, so I cannot confirm it. I stay here in sight with Jason and Worf."}
+- 09:33 say: {"text":"Zack, morning 1067. Trini, I am here at 415,107,-1051 in sight of Worf and Jason. Come into my sight for the potatoes, after Leonardo and Worf."}
