@@ -97,3 +97,23 @@ Dusk 1034: still at 419,108,-1050, Worf and Billy near. Health 13, hunger 14, no
 - 23:09 act: {"say":"Heard you, Jason. No open route from me either. I hold in your sight at 419,108,-1050, no walk."}
 - 23:11 act: {"say":"Heard you, Trini. Holding here with Jason and Worf in sight. Worf, if you name a daylight route with open cells, I will walk it with you."}
 - 23:11 act: {"actions":[{"do":"wait","seconds":120}]}
+- 23:14 act: {"say":"Zack, daylight 1036, at 419,108,-1050 with Jason and Worf in sight. Still holding. Worf, if you see an open cell past 423, name it and I will walk with you in daylight."}
+- 23:24 act: {"say":"Zack, morning 1037, at 419,108,-1050. Health 13, hunger 14, no food, two planks. Holding in sight of Billy, Jason and Worf. Trini, the potatoes come to me when they are in my sight."}
+- 23:25 act: {"say":"Heard you, Trini. Keep the potatoes for Worf and Leonardo. I hold here in sight, no walk until an open cell is seen."}
+- 23:35 act: {"actions":[{"do":"wait","seconds":60}],"say":"Zack here at 419,108,-1050. Worf, Jason and Billy are in my sight. Trini, the potato goes to Worf first, then Leonardo. I hold still, no walk."}
+- 23:37 act: {"actions":[{"do":"wait","seconds":90}],"say":"Troi, Zack here. Health 13, hunger 14, no food, two planks. I hold at 419,108,-1050 with Worf, Jason and Billy in sight. No walk until someone names an o
+- 23:41 act: {"actions":[{"do":"wait","seconds":120}],"say":"Thank you, Troi. I will tell you if hunger falls to 10. I still hold in sight of Worf, Jason and Billy."}
+- 23:51 act: {"actions":[{"do":"wait","seconds":90}],"say":"Zack, daylight 1038, health 13, hunger 14, no food. Worf, I hear you at 8. Trini, the open cells seen are 420 to 423 at z -1051. If Worf or Billy will wa
+- 23:53 act: {"actions":[{"do":"wait","seconds":60}],"say":"Zack: the planks at 420,107,-1051 block the row. I can dig one plank from here, in daylight, with Worf and Billy in sight, if Worf agrees. Worf, say yes 
+- 23:55 act: {"actions":[{"do":"wait","seconds":120}],"say":"Troi, thank you. I need food, and a seen open route to the potatoes. I have none to give. I hold here."}
+- 23:56 act: {"actions":[{"do":"note","text":"Day 1038 daylight. Holding at 419,108,-1050 with Jason, Billy, Worf in sight. Plank dig at 420,107,-1051 waits for Worf's yes and Billy's read of the cell."}],"say":"W
+- 23:56 act: {"actions":[],"say":"Holding, Worf. I dig nothing until you say yes and someone names 420 open. I stay here in sight."}
+- 00:01 act: {"actions":[{"do":"note","text":"Morning 1039 at the row. Still holding at 419,108,-1050, no plank dug. Hunger 14, health 13. Waiting for Worf's yes."}],"say":"Morning, row. Zack here, holding at 419,
+- 00:05 act: {"actions":[],"say":"Worf, look from where you stand at 420,107,-1051. Say yes or no, and I follow your word. I dig nothing until then."}
+- 00:12 act: {"actions":[{"do":"note","text":"Night 1039. Worf cannot see 420 from bed, so no yes. I hold at 419,108,-1050 in sight, no digs, no walks."}],"say":"Night, row. Zack holding at 419,108,-1050, in sight
+- 00:17 act: {"actions":[{"do":"note","text":"Morning 1039 end. Worf still no yes on 420; Trini holds potatoes. I hold at 419,108,-1050, hunger 14, health 13."}],"say":"Morning. Zack still at 419,108,-1050, hungry
+- 00:25 act: {"actions":[{"do":"note","text":"Night, day 1040. Holding at 419,108,-1050 in sight of Billy, Jason and Worf. Not walking in the dark. Bed 415,107,-1050 stays blocked."}]}
+- 00:33 act: {"actions":[{"do":"note","text":"Day 1040 dawn. Held at 419,108,-1050 through the night, nothing lost. Potato still unnamed by Worf and Trini. I have no food and will not walk until a cell is named an
+- 00:37 act: {"actions":[{"do":"note","text":"Dusk day 1040. Still holding at 419,108,-1050 with Billy and Worf in sight. 420 is disputed, so no dig and no walk. Staying in company through the night."}]}
+- 00:42 act: {"actions":[{"do":"note","text":"Day 1040 light again. Still at 419,108,-1050, in company. Riker, Troi and Trini hold. No cell named open, no walk, no dig."}]}
+- 00:44 act: {"actions":[{"do":"note","text":"Jason and Trini spoke. Still holding at 419,108,-1050. Potato route not yet named. I stay put."}],"say":"Zack, morning, still at 419,108,-1050 in sight of Jason and Bi
