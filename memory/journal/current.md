@@ -72,3 +72,9 @@
 - 18:54 say: {"text":"Trini, Zack is at 418, behind the wall, and I have no route past 423 named. I hold here. Worf first, then Leonardo, then me."}
 - 19:06 say: {"text":"Holding here with you two. Night, so no walks. Worf, when you can, name a daylight route to the melons."}
 - 19:06 say: {"text":"Trini, Zack here. Heard you. Worf first, then Leonardo, then me. I stay at 418 with Jason in sight and do not walk to you in the dark."}
+- 19:32 say: {"text":"Zack here. It's night, Jason and Wesley are in reach, Worf nearby. I'm holding here and trying to sleep."}
+- 19:32 act: {"actions":[{"do":"sleep"}]}
+- 19:34 say: {"text":"Zack here, at the row 415,107,-1050, with Worf and Wesley in reach. Trini, come to 416,107,-1049 in daylight; that cell is in sight of us. Bring the potatoes in your hand, and we'll sort the 
+- 19:34 act: {"actions":[],"intent":{"goal":"hold_for_trini","program":"trade_wait","arguments":{"with":"ag_trini_01","at":{"x":416,"y":107,"z":-1049}},"wake_on":["directly_addressed","precondition_failed","goal_c
+- 19:34 say: {"text":"Zack: Trini, I can't name the cells past 423 yet; I haven't seen an open route. Stay at 430 for now. Worf or Jason, if you have seen a clear line, name it and we walk it together in daylight.
+- 19:35 say: {"text":"Zack: morning, Deanna. I'm at the row, hungry, pack empty, health 13. Holding here with Jason and Worf until a route is named. Good to hear you."}
