@@ -20,3 +20,8 @@
 - 11:05 act: {"say":"Zack, dusk 1072. Health 13, hunger 14, no food. I hold here at 419,108,-1050 with Billy, Jason and Worf in sight. No walk in the dark."}
 - 11:10 act: {"say":"Zack, dawn 1072. Health 13, hunger 14, no food. Still holding at 419,108,-1050 with Billy, Jason and Worf in sight. Jason, Laforge: I have no cells named either, so no walk yet."}
 - 11:12 act: {"say":"Trini, Zack. Worf first, then me. I hold at 419,108,-1050 and will not walk until you are in my sight and a daylight cell is named."}
+- 11:21 say: {"text":"Night, Jason, Troi. Holding here with Billy and Worf in sight. Not walking in the dark."}
+- 11:25 say: {"text":"Morning, row. Zack here, health 13, hunger 14, no food. Holding at 419,108,-1050 with Billy and Jason in sight. Worf, I still need a named daylight route to the melon field before I walk."}
+- 11:41 say: {"text":"Troi, Zack. Health 13, hunger 14, no food, two planks. I hold at 419,108,-1050 with Billy and Jason in sight. I need food, and I will take it only when it is handed to me in my sight."}
+- 11:49 say: {"text":"Night, Troi, Jason. Zack holding at 419,108,-1050 with Billy and Worf in sight. No walks in the dark."}
+- 11:53 say: {"text":"Troi, Zack. Health 13, hunger 14, no food, two planks. Holding at 419,108,-1050 with Billy and Jason in sight, no walk until a daylight route is named."}
