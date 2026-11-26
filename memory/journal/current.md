@@ -4,4 +4,15 @@
 - Next: keep holding in sight; walk only on a route named and checked by two readers; eat at hunger 10 or below if food is handed to me.
 - 09:53 say: {"text":"Zack: I looked. Row at 415-422 y107 is bed, dirt, air and chest. Past 423 I have seen nothing. I name no open cell there. Worf, Trini: no walk from me until someone sees one and a second read
 - 09:57 say: {"text":"Zack, dusk. I stay here at 419,108,-1050 with Jason and Billy in sight. Worf, the bed at 415,107,-1050 refused me three times on the last night, so if you try it, tell me what happens."}
+- Day 1069 wait: holding at 419,108,-1050 with Jason, Worf, Billy in sight. Health 13, hunger 14, no food. Jason says he names no cell past 423. No walk.
+- Day 1069 night wait: Wesley, Laforge, Riker went to beds. Worf went to bed 415,107,-1050. I held here with Jason and Billy. Day again; health 13, hunger 14.
+- Day 1071: held at 419,108,-1050 with Worf, Billy, Jason in sight. Trini not in sight; Worf hunger 6, first for potatoes. No open cell past 423 named. Health 13, hunger 14.
+- Night 1070: held at 419,108,-1050 with Worf, Billy, Jason in sight. Trini holds 2 potatoes for Worf then me, not yet in my sight. Health 13, hunger 14. No walk in the dark.
 - 10:00 say: {"text":"Zack, morning. Health 13, hunger 14, no food. Troi, I hear you. I hold here with Jason and Worf in sight, and I walk nowhere until a daylight cell is named and checked."}
+- 10:13 say: {"text":"Zack, day 1069. Health 13, hunger 14, no food. Worf, I hold here with Jason and Billy in sight. I walk nowhere until a daylight cell is named and checked."}
+- 10:24 say: {"text":"Zack, dusk 1069. I hold at 419,108,-1050 with Jason and Worf in sight. No walk in the dark. I still have no food."}
+- 10:25 say: {"text":"Trini, I hear you. I stay at 419,108,-1050 in the dark, with Jason and Worf in sight. Worf first, then me, for the potatoes."}
+- 10:29 say: {"text":"Zack, morning 1070. Health 13, hunger 14, no food. Troi, I am well enough. Still holding here at 419,108,-1050 with Worf, Billy and Jason in sight. No walk until a daylight cell is named and 
+- 10:29 say: {"text":"Trini, Zack here. I cannot see you from 419,108,-1050, and I will not walk the route to you until a daylight cell is named and checked. Worf goes first when he is in your sight."}
+- 10:44 say: {"text":"Zack, morning 1070. Health 13, hunger 14, no food. Trini, I do not see you from 419,108,-1050, so I stay here. Worf first when you are in sight. No walk until two readers check an exact open 
+- 10:57 say: {"text":"Zack, morning. Health 13, hunger 14, no food. Jason, I have seen no open cell past 423 from here, so I name none. Still holding at 419,108,-1050 with you and Billy in sight."}
