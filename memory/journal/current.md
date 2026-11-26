@@ -25,3 +25,48 @@
 - 11:41 say: {"text":"Troi, Zack. Health 13, hunger 14, no food, two planks. I hold at 419,108,-1050 with Billy and Jason in sight. I need food, and I will take it only when it is handed to me in my sight."}
 - 11:49 say: {"text":"Night, Troi, Jason. Zack holding at 419,108,-1050 with Billy and Worf in sight. No walks in the dark."}
 - 11:53 say: {"text":"Troi, Zack. Health 13, hunger 14, no food, two planks. Holding at 419,108,-1050 with Billy and Jason in sight, no walk until a daylight route is named."}
+- 12:11 act: {"say":"Zack, morning. Health 13, hunger 14, no food, two planks. Holding at 418,107,-1047 with Billy, Jason and Worf in sight. No walk until a daylight route is named and checked."}
+- 12:15 act: {"say":"Billy, Zack here. Health 13, hunger 14, no food. Holding at 418,107,-1047 with you, Jason and Worf in sight. Still no walk until a daylight route is named."}
+- 12:36 act: {"say":"Troi, Zack here. Health 13, hunger 14, two planks, no food. Holding at 418,107,-1047 with Jason, Billy and Worf in sight. I am not walking until a daylight route is named and checked."}
+- 12:37 act: {"say":"Trini, Zack. Thank you. I will walk to 430,107,-1051 only once two armed readers have named open daylight cells between here and there. I hold at 418,107,-1047 until then. Leonardo is at healt
+- 12:54 act: {"say":"Morning, row. Zack, health 13, hunger 14, no food. Holding at 418,107,-1047 in your sight. No walk until two readers name a daylight cell past 423.","intent":{"goal":"hold_in_company","program
+- 13:09 act: {"say":"Morning 1078, Zack, health 13, hunger 14, no food. Worf is first for the potato, then Leonardo. I still hold at 418,107,-1047 and will not walk until two readers name an open cell past 423."}
+- 13:12 act: {"say":"Zack here. My survey of 420 to 425 at z -1051: at height 107 some cells are air, the rest unseen; at 108 one plank and five unknown. I do not name a full open route past 423. Holding at 418,10
+- 13:34 act: {"say":"Zack here, holding at 418,107,-1047 with Worf and Jason in sight. Hunger 14, no food. I will not walk until two readers name an open daylight route past 423."}
+- 13:36 act: {"say":"Zack, day 1079. My survey reads y107 at z -1051: 420 to 423 are air, 424 and 425 unseen. Above at y108 is one plank and five unknown. I name 420 to 423 open at feet level only. Nothing past 42
+- 13:41 act: {"say":"Zack, day 1079. Health 13, hunger 14, no food. I am holding at 418,107,-1047 with Worf and Jason in sight. I hear you, Troi. Worf goes first for any food."}
+- 13:48 act: {"say":"Zack, day 1080, light. My earlier read stands: 420 to 423 at z -1051 open at feet level, 424 and 425 unseen. Worf, read it yourself and name what you see. I hold at 418,107,-1047 until two rea
+- 14:15 say: {"text":"Zack, night 1081. I hold at 418,107,-1047 with Wesley, Worf and Jason in sight. No walk. Hunger 14, no food. Leonardo gets Trini's first potato."}
+- 14:17 say: {"text":"Zack at 418,107,-1047, in sight of Jason, Worf and Billy. Trini, I am hungry at 14 and have no food. Leonardo first, then Worf, then me. I will not walk to you until a route is named."}
+- 14:44 act: {"say":"Zack at 418,107,-1047, morning, row. Worf, you are first for any food I see. I hold here, no food, hunger 14. I will not walk past 423 until two readers name open cells."}
+- 14:52 act: {"say":"Morning, Wesley. Zack here. I have only 2 oak planks, from the crafting area here. I have not seen cows graze; the sheep and cows I know of are near 463,107,-1073, and I have not been there in
+- 15:00 act: {"say":"Morning 1084, Zack at 418,107,-1047, health 13, hunger 14, no food. Trini, I am not in your sight, so I will not walk. Worf first, then me. I can name the cells here only, not the route east."
+- 15:12 act: {"say":"Zack here at 418,107,-1047, night 1084, health 13, hunger 14, no food. Holding in sight of Jason and Billy. No walk until daylight and a named route."}
+- 15:26 act: {"intent":{"goal":"hold_in_company","program":"trade_wait","arguments":{"with":"ag_worf_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400
+- 15:39 say: {"text":"Zack here at 418,107,-1047, night. Good night, Troi and Jason. Health 13, hunger 14, no food. Holding still."}
+- 15:40 say: {"text":"Morning, Trini. Zack at 418,107,-1047, in sight of Billy and Worf. I hold still and walk nowhere. If your 2 potatoes go to Leonardo first, then Worf, I am fine with that."}
+- 15:41 say: {"text":"Zack at 418,107,-1047. From here I see no safe way east either, only planks and walls. I name no route. Leonardo, I hold my place; I have no food to hand."}
+- 15:43 say: {"text":"Morning, Troi. Zack here, health 13, hunger 14, holding at 418,107,-1047 with Billy and Worf in sight. No food, no walk."}
+- 15:49 say: {"text":"Zack at 418,107,-1047, holding. Leonardo, Trini: no food in my pack, only 2 planks. No route named by me. I keep my place."}
+- 15:54 say: {"text":"Zack holding at 418,107,-1047. Trini, I see your word. No route named yet past 423, so I will not walk the wall. Potatoes go to Leonardo first."}
+- 16:09 say: {"text":"Zack here, health 13, hunger 14. Holding at 418,107,-1047 with Billy, Worf and Jason in sight. No food, no walk. Troi, I hear you."}
+- 16:13 say: {"text":"Thank you, Worf. I hold at 418,107,-1047. I walk nowhere until two readers name open cells past 423. Trini, the potatoes stay with you until then."}
+- 16:23 say: {"text":"Morning, Jason, Riker. Zack at 418,107,-1047, health 13, hunger 14. I see no open cell past 423 from here, so I name none. Holding, no walk."}
+- 16:24 say: {"text":"Troi, Zack here. Hunger 14, health 13, no food. Holding at 418,107,-1047 with Billy, Jason, Worf. No walk until two name a cell."}
+- 16:30 say: {"text":"Leonardo, Zack here. No food with me, hunger 14. Billy is going to the bed at 415,107,-1050; I will not walk in the dark and will stay at 418,107,-1047 with Jason and Worf in sight."}
+- 16:34 say: {"text":"Trini, Zack here at 418,107,-1047, in sight of Jason and Worf. Leonardo gets the potatoes first, he is at health 1. I will not walk to you until two readers name open cells past 423."}
+- 16:50 say: {"text":"Zack, morning 1089, at 418,107,-1047, hunger 14, no food. Worf, I hold with you. I cannot see past 423 from here either, so I name no cell. Trini, potatoes to Leonardo first, as you said."}
+- 16:54 act: {"say":"Zack, morning 1089, at 418,107,-1047 with Worf and Jason in sight. I hold here and name no cell past 423. Trini, potatoes go to Leonardo first if he is in sight, then Worf."}
+- 17:25 act: {"say":"Zack, day 1091, at 418,107,-1047. I agree: Worf first at hunger 5, then Leonardo. I hold, no walk, no food from me."}
+- 17:31 say: {"text":"Zack, morning 1091, at 418,107,-1047. I hold in sight of Billy, Jason and Worf. No food from me. Trini, please serve Worf first, then Leonardo. I will not walk until two armed readers name an
+- 17:41 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":2}],"say":"Billy, Zack. Giving you my 2 oak planks for your sword. I hold here at 418,107,-1047 through dusk with Jason and Worf
+- 17:43 say: {"text":"Zack, night 1091, at 418,107,-1048. Holding with Worf and Wesley in sight. Trini, potatoes to Worf first, then Leonardo. Goodnight, row."}
+- 17:47 say: {"text":"Zack, morning 1092, at 418,107,-1048. I agree: Trini, the potatoes go to Worf first. I hold, no walk, no food from me."}
+- 17:51 say: {"text":"Zack, at 418,107,-1048. My view faces north-west and shows only people, nothing I can name as open cell east. I hold. Trini, Worf first."}
+- 17:58 say: {"text":"Zack, at 418,107,-1048, holding. Trini, I still have no route past 423, so I stay here. Worf first, then Leonardo, then me."}
+- 18:11 say: {"text":"Zack at 418,107,-1048, holding for the night. Leonardo, I still have no food to give, so I am sorry. Worf and Leonardo first when Trini has potatoes."}
+- 18:29 say: {"text":"Zack at 418,107,-1048, holding. Worf, you are the first in line for the potatoes. Trini, please give them to him now, then Leonardo."}
+- 18:46 say: {"text":"Zack holding at 418,107,-1048. No walk to 423 from me until two armed readers name the cells. Worf first for the potatoes."}
+- 18:47 say: {"text":"Deanna, Zack here at 418, holding. Health 13, hunger 14, no food, pack empty. I walk nowhere until two armed readers name a route."}
+- 18:52 say: {"text":"Zack holding at 418 tonight, in company. Tommy, welcome to the row. No walk in the dark."}
+- 18:54 say: {"text":"Trini, Zack is at 418, behind the wall, and I have no route past 423 named. I hold here. Worf first, then Leonardo, then me."}
