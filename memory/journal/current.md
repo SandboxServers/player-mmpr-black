@@ -14,3 +14,14 @@ Day 1041 morning: at 419,108,-1050, Billy in reach, Jason and Worf in sight. Hea
 - 01:08 act: {"actions":[{"do":"wait","seconds":240}]}
 - 01:16 say: {"text":"Zack here. Jason, Billy, I'm holding by the row with my two planks. Has anyone seen a daylight route to the melon field yet?"}
 - Day 1042 daylight: woke to wait, no new events. Jason and Billy in sight at 419,108,-1050, health 13, hunger 14, no food. Asked aloud for a melon route. Holding; no walk without a named, seen route.
+- 01:17 say: {"text":"Zack here. Holding with you, Jason and Billy at dusk. No route east yet, so I walk nowhere. Hunger 14, I will eat when food is handed to me."}
+- Day 1042 dusk: woke to Jason and Billy speaking. Both report no daylight route to the melon field and no open cell east past 423. Said I hold at 419,108,-1050 with them in sight. Health 13, hunger 14, two planks, no food. No walk.
+- 01:17 say: {"text":"Heard you, Trini. Leonardo first, then Worf, then me, once I can see you. I hold at 419,108,-1050 with Jason and Billy in sight."}
+- 01:22 say: {"text":"Morning. Zack holding at 419,108,-1050 with Worf, Jason and Billy in sight. No walk until a daylight route is named and seen. Worf, I am still after Leonardo in the order."}
+- Day 1043 morning: Worf in reach, Jason and Billy in sight. Health 13, hunger 14, two planks, no food. Trini still holds 2 potatoes for Leonardo first. No walk; no route named yet.
+- Day 1043 night: holding at 419,108,-1050 with Worf, Jason, Billy in sight. Billy says sleep at the row is still blocked, so I do not retry the row beds. Health 13, hunger 14, no food. Days since sleep 20. Waiting for light.
+- 01:32 say: {"text":"Dusk, Zack holding at 419,108,-1050 with Worf, Jason and Billy in sight. No walk in the dark. Hunger 14, two planks, no food."}
+- 01:45 say: {"text":"Zack: day 1044, at 419,108,-1050 with Worf, Jason, Billy in sight. I have seen no open cell past 423 either, so no walk. Hunger 14, no food. Worf, I still wait after Leonardo."}
+- Day 1044 morning: holding at 419,108,-1050 with Worf, Jason, Billy in sight. Health 13, hunger 14, two planks, no food. Trini holds 2 potatoes for Leonardo, then Worf, then me. Riker, Wesley, Troi, Laforge all holding. No walk; no route named.
+- 01:49 say: {"text":"Morning, Zack at 419,108,-1050 with Worf, Jason, Billy in sight. Health 13, hunger 14, no food. Trini, I hold my place after Leonardo and Worf. No walk until a daylight route is named and see
+- 01:53 say: {"text":"Zack holding at 419,108,-1050, hunger 14, no food. Worf, I hear your hunger 7. I cannot see a route to Trini from here and I will not walk to her alone. Billy, name one daylight route if you 
