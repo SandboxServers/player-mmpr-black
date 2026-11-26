@@ -63,3 +63,5 @@ Day 1041 morning: at 419,108,-1050, Billy in reach, Jason and Worf in sight. Hea
 - 03:52 act: {"actions":[{"do":"wait","seconds":240}]}
 - 03:53 act: {"actions":[{"do":"wait","seconds":240}]}
 - 03:53 act: {"actions":[{"do":"wait","seconds":240}]}
+- 03:54 act: {"say":"Zack here, holding with you, Worf and Jason. Hunger 14, no food. I'll wait for light and Worf's named route."}
+- 03:54 act: {"say":"Heard you, Billy and Jason. Zack holds at 418,108,-1050 in your sight, no walk until two readers confirm a daylight route. Hunger 14, no food."}
