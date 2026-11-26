@@ -70,3 +70,5 @@
 - 18:47 say: {"text":"Deanna, Zack here at 418, holding. Health 13, hunger 14, no food, pack empty. I walk nowhere until two armed readers name a route."}
 - 18:52 say: {"text":"Zack holding at 418 tonight, in company. Tommy, welcome to the row. No walk in the dark."}
 - 18:54 say: {"text":"Trini, Zack is at 418, behind the wall, and I have no route past 423 named. I hold here. Worf first, then Leonardo, then me."}
+- 19:06 say: {"text":"Holding here with you two. Night, so no walks. Worf, when you can, name a daylight route to the melons."}
+- 19:06 say: {"text":"Trini, Zack here. Heard you. Worf first, then Leonardo, then me. I stay at 418 with Jason in sight and do not walk to you in the dark."}
