@@ -16,3 +16,7 @@
 - 10:29 say: {"text":"Trini, Zack here. I cannot see you from 419,108,-1050, and I will not walk the route to you until a daylight cell is named and checked. Worf goes first when he is in your sight."}
 - 10:44 say: {"text":"Zack, morning 1070. Health 13, hunger 14, no food. Trini, I do not see you from 419,108,-1050, so I stay here. Worf first when you are in sight. No walk until two readers check an exact open 
 - 10:57 say: {"text":"Zack, morning. Health 13, hunger 14, no food. Jason, I have seen no open cell past 423 from here, so I name none. Still holding at 419,108,-1050 with you and Billy in sight."}
+- 11:02 act: {"say":"Zack, morning. Holding at the row with Billy, Jason and Worf in sight. Worf, if you can name a daylight route with open cells to the melon field, I will walk it with you."}
+- 11:05 act: {"say":"Zack, dusk 1072. Health 13, hunger 14, no food. I hold here at 419,108,-1050 with Billy, Jason and Worf in sight. No walk in the dark."}
+- 11:10 act: {"say":"Zack, dawn 1072. Health 13, hunger 14, no food. Still holding at 419,108,-1050 with Billy, Jason and Worf in sight. Jason, Laforge: I have no cells named either, so no walk yet."}
+- 11:12 act: {"say":"Trini, Zack. Worf first, then me. I hold at 419,108,-1050 and will not walk until you are in my sight and a daylight cell is named."}
