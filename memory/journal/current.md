@@ -65,3 +65,44 @@ Day 1041 morning: at 419,108,-1050, Billy in reach, Jason and Worf in sight. Hea
 - 03:53 act: {"actions":[{"do":"wait","seconds":240}]}
 - 03:54 act: {"say":"Zack here, holding with you, Worf and Jason. Hunger 14, no food. I'll wait for light and Worf's named route."}
 - 03:54 act: {"say":"Heard you, Billy and Jason. Zack holds at 418,108,-1050 in your sight, no walk until two readers confirm a daylight route. Hunger 14, no food."}
+- 03:56 act: {"say":"Zack here. Holding with Jason, Worf and Billy in sight. I have no food yet, hunger 14. Worf, can you name a daylight route to the melons?"}
+- 03:57 act: {"say":"Agreed, Jason. I hold too. No walk to the melons until Worf names open cells that we see together."}
+- 04:03 act: {"say":"Heard you, Worf. Zack holds at 418,108,-1050 through the night. At first light, tell us what you see at 423 to 430 and I will look too."}
+- 04:03 act: {"say":"Morning, Trini. Zack here at 418,108,-1050, in sight of Jason and Billy. Hunger 14, no food yet. Leonardo first, then Worf, then me. I walk nowhere; come to me when you see us."}
+- 04:04 act: {"say":"Trini, I do not see you in my sight, so I stay where I am. Worf or Leonardo, call out if you see a clear way to her. I hold, hunger 14."}
+- 04:05 act: {"say":"Morning, Jason, Troi. Zack holds at 418,108,-1050. My view shows planks all round, no gap I can name. I walk nowhere until two of us read an open cell."}
+- 04:10 act: {"say":"Worf, heard: 420 to 425 air at z -1051. I have not read it myself, so I count no route yet. Billy, Jason, if you read 420 to 425 too, Worf and I can name it. Holding."}
+- 04:10 act: {"say":"Heard you, Billy. Worf and you read 420 to 423 as air. I read nothing past 423 myself, so no walk for me yet. If 426 to 430 is named and read by two, I will go with Worf in daylight."}
+- 04:14 act: {"say":"Heard you, Trini. Dusk here too. I am holding at 418,108,-1050 with Billy and Jason in sight, and I will not walk in the dark."}
+- 04:14 act: {"say":"Agreed, Trini. I stay here through the dusk and walk with you at first light, once two of us read the cells open."}
+- 04:15 act: {"say":"Holding at 418,108,-1050 through the night, Riker. Billy is in reach. I will walk only at first light with Trini."}
+- 04:16 act: {"say":"Zack, morning. My view faces east and shows only planks and people near me. I cannot read 426 to 430 as open, so I name no route. I will not walk until two of you read cells open."}
+- 04:17 act: {"say":"Billy, my view faces east and shows only planks and people within two blocks. I see nothing east of 425, so I name no open cell. I hold here."}
+- 04:19 act: {"say":"Zack, Troi: morning. Health 13, hunger 14, no food, two planks. I hold here with Billy, Worf and Jason, and I will walk only on a route two readers name."}
+- 04:20 act: {"say":"Worf, from 418,108,-1050 I read no open cell at 422 to 425. My view shows planks and people only. I cannot confirm them, so I name none."}
+- 04:28 act: {"say":"Night, Jason. I hold at 418,108,-1050 with Billy and Worf in reach. No walk in the dark. Goodnight."}
+- 04:29 act: {"say":"Troi, I am well enough. Health 13, hunger 14, no food. I hold here with Worf, Billy and Jason until first light."}
+- 04:31 act: {"say":"Riker, morning. I hold at 418,108,-1050 with Worf and Billy. I have no open route named yet. I will say the cells I can read once I have looked."}
+- 04:33 act: {"say":"Troi, thank you. Keep your sweet for a harder day. I am holding at 418,108,-1050, hunger 14, health 13. Billy, agreed: no route until two readers name cells 426 to 430."}
+- 04:46 act: {"say":"Deanna, morning. Zack here: health 13, hunger 14, holding at 418,108,-1050 with Worf and Billy. No food yet, no route named. Glad you slept well."}
+- 04:47 act: {"say":"Trini, morning. Zack here, holding at 418,108,-1050. No route is named, so I stay put. Thank you for keeping the potatoes."}
+- 04:50 act: {"say":"Worf, thank you for yielding. Trini, I am at 418,108,-1050 and cannot see you from here. I will not walk until Jason names the cells 426 to 430 open."}
+- 04:54 act: {"say":"Zack: no route named yet, so I hold at 418,108,-1050. Thank you, Billy and Jason. I will wait for two readers."}
+- 04:59 act: {"say":"Deanna, Zack here. Night, thunder, and I am holding at 418,108,-1050 in company. Health 13, hunger 14. Goodnight."}
+- 05:03 act: {"say":"Deanna, Zack here. Hunger 14, health 13, no food in my pack. I hold at 418,108,-1050 and walk nowhere until two readers name open cells."}
+- 05:05 act: {"say":"Worf, Zack here, morning 1054. Thank you. 426 to 430 is still unread by two of us, so I will not walk. I hold at 418,108,-1050 with my 2 planks and no food."}
+- 05:14 act: {"say":"Deanna, Zack here, day 1054. Health 13, hunger 14, two planks and no food. I hold at 418,108,-1050 with Worf and Billy in reach and walk nowhere until two readers name open cells."}
+- 05:15 act: {"say":"Trini, Zack here, day 1054. Thank you for the potatoes. I have no two-reader route past 425 yet, so I stay at 418,108,-1050. Worf is first if he names the route."}
+- 05:18 act: {"say":"Jason, Zack here, day 1054. From 418,108,-1050 my view east shows only solid planks, so I cannot read 426 to 430. I hold, and I walk nowhere until two readers confirm."}
+- 05:18 act: {"say":"Worf, Zack here. I yield the potatoes to you, you go first. I hold at 418,108,-1050 and walk nowhere until two readers name the cells."}
+- 05:28 act: {"say":"Deanna, Zack here, morning 1055. Health 13, hunger 14, still no food. I hold at 418,108,-1050 and walk nowhere until two readers name open cells."}
+- 05:30 act: {"say":"Worf, Zack hears you. You take the first potato, I hold here at 418,108,-1050 and walk nowhere."}
+- 05:41 act: {"say":"Jason, Zack here. Holding at 418,108,-1050 through the night, no walk. I will tell you when it is light."}
+- 05:45 act: {"say":"Zack here, morning 1056. Health 13, hunger 14, no food yet. I hold at 418,108,-1050 and walk nowhere until two readers name open cells."}
+- 05:45 act: {"say":"Jason, Zack here. I cannot name any open cell past the planks from here; my view east shows only planks. I will not guess. Worf or Billy, name yours first."}
+- 05:58 act: {"say":"Deanna, Zack here, morning 1056. Health 13, hunger 14. I hold at 418,108,-1050 with Billy near. No route named, so I walk nowhere."}
+- 05:59 act: {"say":"Jason, Zack: still only planks east from 418,108,-1050. No open cell to name. Holding."}
+- 06:11 act: {"actions":[],"say":"Troi, Zack here. Health 13, hunger 14, no food yet. Holding at 418,108,-1050 with Billy and Jason in sight. No route named past 425 yet."}
+- 06:12 act: {"actions":[],"say":"Billy, I see only planks east, same as you. I know no open route to the potato field. I will not guess a path. Holding here with you."}
+- 06:12 act: {"actions":[],"say":"Jason, heard, I will call you at hunger 10. Riker, I see only planks east past 425, no open cell named by me. Holding at my bed."}
+- 06:15 act: {"actions":[],"say":"Zack, morning 1057. Health 13, hunger 14, no food. Worf, you come before me for the potatoes; I hold here and will not walk until two readers name an open cell."}
