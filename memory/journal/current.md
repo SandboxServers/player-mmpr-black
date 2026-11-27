@@ -43,3 +43,20 @@
 - 09:40 act: {"say":"Zack, dusk 1139. Health 13, hunger 13, one stick, no food. Holding at the row with Billy and Wesley in reach, Worf near. No walk in the dark."}
 - 09:43 act: {"say":"Zack, morning. Riker, I have no food and no wood, and no checked cell past the row. I hold here with Billy, Worf, Wesley and Jason; I will walk only with two readers on a named cell."}
 - 09:48 act: {"say":"Zack, morning 1140. Riker, I have only a stick, so I cannot be an armed reader, and I will not walk to the potato cells until two armed readers see them open in daylight. Worf first for any fo
+- 10:05 act: {"say":"Zack here, still at the row with Jason and Worf in sight. No food yet, hunger 13. Worf, can you name a daylight route with open cells to the melon field?"}
+- 10:06 act: {"say":"Thanks Worf. No route from me either, so I walk nowhere. I'm holding here at the row with you and Jason in sight tonight. Sleep well."}
+- 10:08 act: {"say":"Worf, I have no food, only a stick. Jason, agreed: we stay at the row tonight and nobody walks in the dark. I'll tell you first if food shows up in sight."}
+- 10:20 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1141. Holding at the row in company with Billy, Jason, Worf and Wesley near. No food, no walk. Trying to sleep here."}
+- 10:25 act: {"say":"Zack, light 1142. Health 13, hunger 13, one stick, no food. I'm at 419,108,-1050 with Jason in reach and Billy, Wesley, Worf in sight. Still no checked route; I walk nowhere."}
+- 10:29 act: {"say":"Tommy, welcome. I'm Zack, at the row with Jason. I have no food, but you're in good company here. Stay in our sight and we'll share what we know."}
+- 10:29 act: {"say":"Good to meet you, Tommy. Stay near Billy and Jason. I have only a stick, but I'll walk with you when a route is named."}
+- 10:30 act: {"say":"Tommy, I have one stick and it's all I carry. Come within reach of me and I'll hand it over."}
+- 10:30 act: {"say":"Tommy, I'm at 419,108,-1050, on the dirt by the chest and the crafting table. Walk to me in daylight and I'll give you the stick."}
+- 10:35 act: {"say":"Dusk. I'm holding at 419,108,-1050 with Jason in reach and Worf and Wesley in sight. No walking tonight. Tommy, my one stick is yours at first light when you're in reach."}
+- 10:36 act: {"actions":[{"do":"give","to":"tommy_01","item":"stick","count":1}]}
+- 10:39 act: {"say":"Riker, morning. I'm holding at 419,108,-1050, empty except one stick. Worf, I'm sorry I have no food. I will not walk until a daylight route is named by two readers."}
+- 10:44 act: {"actions":[{"do":"give","to":"tommy_01","item":"stick","count":1}],"say":"Tommy, I see you. Here is my one stick. Good luck with the row."}
+- 10:49 act: {"actions":[{"do":"give","to":"tommy_01","item":"stick","count":1}],"say":"Tommy, Zack here at 419,108,-1050. My stick is for you; come within reach and I'll hand it over."}
+- 10:49 act: {"say":"Tommy, I'm at 419,108,-1050, with Jason beside me. You are at 421,107. Step one block west to 420 and you'll be in my sight; I'll give you the stick then."}
+- 10:50 act: {"actions":[{"do":"give","to":"tommy_01","item":"stick","count":1}]}
+- 10:50 act: {"actions":[{"do":"wait","seconds":20}],"say":"Tommy, I can't see you yet. I'm holding my stick at 419,108,-1050 until you step into sight."}
