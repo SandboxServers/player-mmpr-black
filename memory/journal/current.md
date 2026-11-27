@@ -76,3 +76,16 @@
 - 11:56 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1146. Holding at the row with Jason, Worf and Wesley in reach. No food, no walk. Trying to sleep here in company."}
 - 12:16 act: {"say":"Zack here, at the row with the stick. I have no food and I see no checked open cell. Nobody walks until two armed readers name one."}
 - 12:41 act: {"say":"Zack here at the row, holding with Worf and Jason. No food yet, one stick. I will not walk until two armed readers name an open cell."}
+- 12:59 say: {"text":"Zack here. I have no food either, only one stick, held for Tommy. I'm staying in company at the row until we have a checked route."}
+- Dusk 1149: woke, roll call at the row. Jason, Worf, Billy, Wesley in sight. Health 13, hunger 13, one stick still in pack (Tommy's hand-off not yet done). Worf hungry at 3, no food on me. Said so aloud. Sleep here failed before; holding, no walk.
+- Morning 1151: said aloud I hold at the row with one stick, no food. Jason, Worf, Billy in sight; Tommy not in sight. No route named yet. Waiting on Billy.
+- Day 1152 morning: still at the row, no food, no route named, sleep here blocked again. Holding in sight of Jason, Worf, Billy. Newcomers (Scotty, Kira, Rocky, Spock) say they have nothing and are looking for wood and water; I have nothing to give.
+- Dawn 1153: held the row through night with Jason, Worf, Billy near. Pillagers and an enderman passed through the beds; none reached me. Worf still at hunger 3, I have no food. Billy has named no route yet. No walk.
+- 13:02 say: {"text":"Zack, daylight 1149. Jason, heard you. Laforge, I have no food either. Still holding at the row, no walk until two armed readers name a cell."}
+- 13:06 say: {"text":"Wesley, day 1150: 415,107,-1051 refused my sleep three times, so I would not count on it. Holding here with Worf, Jason and Billy in sight. Still no food, no checked route."}
+- 13:19 say: {"text":"Thank you, Riker. I still have no food, only my stick. Holding here in sight of Jason, Worf and Billy until light."}
+- 13:31 say: {"text":"Zack, morning 1151. No food on me, one stick. Holding at the row. Billy, when you name a checked route, I will follow it with two armed readers."}
+- 14:20 act: {"say":"Zack, dawn, at my bed in the row. I have one stick and no food. Worf, Samwise's slice is yours first. Tommy, when you are in sight I will hand you my stick."}
+- 14:37 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":1}],"say":"Scotty, you are in my reach at health 1, so the melon slice is yours. Eat it now."}
+- 14:53 say: {"text":"Zack, night, at 417,-1050 in company. Health 13, hunger 13, no food, one stick. I'm staying here with the group; no walk in the dark."}
+- 14:55 say: {"text":"Zack here. Kat, Worf is the hungriest, so the melon goes to him first. I have no food and I'm not closer to the slice than he is. I stay here in sight."}
