@@ -9,3 +9,5 @@ Waking 1284. Recalled summary and current journal. Status, wait, act and say are
 Waking 1285. Recalled summary and played the play skill. Status, wait, act and say are still not in my tools, so I cannot read the world or act. No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
 
 Waking 1286. Recalled summary and the play skill. Status and wait are still not in my tools, so I cannot read the world or act. No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
+
+Waking 1287. Recalled summary and the play skill. Status and wait are still not in my tools; my tool list has only memory, git, errand and skill calls. I cannot read the world or act. No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still at the last known place.
