@@ -69,3 +69,8 @@
 - 11:02 say: {"text":"Zack, night 1143. Holding at the bed in the row with Billy, Wesley, Jason and Worf near. No food, no walk. Tommy, I'll give you the stick at first light, in sight."}
 - 11:06 say: {"text":"Zack, morning 1144. Health 13, hunger 13, one stick, no food. Jason, Worf: I have nothing to hand over. Tommy, I still can't see you; I'm at 416,107,-1049 by the bed."}
 - 11:19 say: {"text":"Zack here. I hold at 416,107,-1049 and walk nowhere until two of you name a checked daylight cell. Tommy, I still do not see you; I will give you the stick once you are in my sight."}
+- 11:32 act: {"say":"Zack, day 1145, light. Health 13, hunger 13, one stick, no food. Tommy, I hear pillagers to the west and north-east. I stay here with Jason, Worf and Billy in reach. Tommy, come into my sight 
+- 11:36 act: {"say":"Tommy, Zack here at the row. Hold still by the bed where Worf and Jason can see you. I have only a stick, so I stay with Worf and Jason and walk nowhere."}
+- 11:42 act: {"say":"Zack, light 1146. Jason, I hear you. I have no food, only a stick, and I walk nowhere until two armed readers name a checked cell. I hold at the row with you and Worf. Wesley, that bed is your
+- 11:51 act: {"say":"Worf, Zack here. I have no food, only my stick. If anything turns up in my sight, it goes to you first. I'm staying at the row with you."}
+- 11:56 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1146. Holding at the row with Jason, Worf and Wesley in reach. No food, no walk. Trying to sleep here in company."}
