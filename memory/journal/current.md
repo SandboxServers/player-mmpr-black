@@ -20,4 +20,6 @@ Waking 1271. Read summary and play skill. Game tools (status, wait, act) still n
 
 Waking 1272. Read summary and handoff. The play skill file is not at skills/play/SKILL.md here, so I went by the summary. Game tools (status, wait, act, say) are still not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food).
 
+Waking 1273. Read summary and play skill. Game tools (status, wait, act, say) are not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food).
+
 Waking 1269. Game tools are now present but rate-limited ("Too many requests", retryAfter 1s): status, wait and journal all failed. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food). Next waking: retry status and wait first.
