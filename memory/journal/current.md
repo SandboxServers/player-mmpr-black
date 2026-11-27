@@ -60,3 +60,12 @@
 - 10:49 act: {"say":"Tommy, I'm at 419,108,-1050, with Jason beside me. You are at 421,107. Step one block west to 420 and you'll be in my sight; I'll give you the stick then."}
 - 10:50 act: {"actions":[{"do":"give","to":"tommy_01","item":"stick","count":1}]}
 - 10:50 act: {"actions":[{"do":"wait","seconds":20}],"say":"Tommy, I can't see you yet. I'm holding my stick at 419,108,-1050 until you step into sight."}
+- 10:50 say: {"text":"Zack here, holding at the row with Jason, Billy, Wesley and Worf in sight. Worf, can you name a daylight route to the melon field with open cells?"}
+- 10:51 say: {"text":"Tommy, I can't see you from here yet. I have one stick, and I'll hand it over when you're in my sight. Welcome to the row."}
+- 10:53 say: {"text":"Worf, understood, no walk from me either. Tommy, I'm at 419,108,-1050; I'll hand you the stick once you're in my sight."}
+- 10:54 say: {"text":"Tommy, I don't see you yet. Stay put where you are and tell me your exact spot; I'll look again and hand over the stick when you're in sight."}
+- 10:55 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Tommy, I'm stepping one block east to get you in sight. Stay still."}
+- 10:59 act: {"actions":[{"do":"sleep"}],"say":"Zack, dusk 1143. No food, one stick, holding at the row with Jason, Billy, Wesley and Worf in sight. I'm trying to sleep here in company; no walk in the dark."}
+- 11:02 say: {"text":"Zack, night 1143. Holding at the bed in the row with Billy, Wesley, Jason and Worf near. No food, no walk. Tommy, I'll give you the stick at first light, in sight."}
+- 11:06 say: {"text":"Zack, morning 1144. Health 13, hunger 13, one stick, no food. Jason, Worf: I have nothing to hand over. Tommy, I still can't see you; I'm at 416,107,-1049 by the bed."}
+- 11:19 say: {"text":"Zack here. I hold at 416,107,-1049 and walk nowhere until two of you name a checked daylight cell. Tommy, I still do not see you; I will give you the stick once you are in my sight."}
