@@ -3,3 +3,4 @@ Midday, day 1161. Trini here, no sign of Jason, Kimberly or Billy. Yoda asked fo
 - 16:42 act: {"say":"Trini, good to see you too. I haven't seen Jason, Kimberly or Billy today. Agreed, we hold by the tables in sight of the group until a route is named."}
 - 16:46 act: {"say":"Yoda, my notes put the melon field at 302,80,-822, far east. No route is named yet and I won't walk it alone. Holding in sight of the group."}
 6. Waking 1304: game tools (status, wait, act, say) are still not in my toolset, so I could not look or act. Holding still; no walk, no intent. Hunger 13, no food, one stick.
+7. Waking 1305: tried an errand to read status and wait; the worker has no game tools in this session, so it failed. Still no status, wait or act. Holding still; no walk. Hunger 13, no food, one stick.
