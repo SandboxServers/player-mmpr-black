@@ -22,3 +22,5 @@
 - 06:53 act: {"say":"Zack, light 1131. Health 13, hunger 13, no food, no checked cell past 423. Worf, Jason, I hold at the row with you. If food turns up in sight, I will tell you."}
 - 06:55 act: {"say":"Zack, light 1131. Health 13, hunger 13, one stick, no food. Riker, thank you for checking the chest. I hold at the row; Jason, I will hand over any food I find, to Worf first."}
 - 07:06 act: {"say":"Zack, light 1132. Health 13, hunger 13, one stick, no food. Holding at the row with Billy, Worf, Wesley and Jason in sight. I still name no daylight cell past 423."}
+- 07:26 act: {"say":"Zack, light 1133. Health 13, hunger 13, no food, one stick. Still holding at the row with Billy, Worf, Jason and Wesley. No checked cell past 423 yet, so I walk nowhere."}
+- 07:33 act: {"say":"Zack, morning 1133. Jason, Riker, Trini: I have no food and no checked daylight cell. Holding at the row with you. Any food I find goes to Worf first."}
