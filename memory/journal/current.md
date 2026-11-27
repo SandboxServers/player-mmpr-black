@@ -29,3 +29,5 @@ Waking 1296. Recalled summary and the play skill. Status, wait, act and say are 
 Waking 1297. Recalled summary and the play skill. Status and wait are still missing; the worker agent has no game tools either (refused at spawn). No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
 
 Waking 1294. Recalled summary and journal, opened the play skill. Status, wait, act and say are still not in my tools; my calls are memory, git, skill and file only. No world read, no action, no walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still at the last known place.
+- 16:32 act: {"actions":[{"do":"goto","target":"ag_mccoy_01"}],"say":"Zack here, health 0.5, something is hitting me in the dark. Heading to the group now, please keep near.","intent":{"goal":"reach_group_at_night
+- 16:32 act: {"actions":[],"say":"Zack here, I am by the tables with McCoy, in company. Health 0.5, hunger 13, no food. Thanks Gandalf, I will stay close to the group until light."}
