@@ -56,6 +56,10 @@
 - ~~Worf's walks will start when he names them~~ (east walks named days 915 and 942 were blocked or did not start).
 - ~~Holding for food in company will feed me~~ (days 853-942: no food reached my pack).
 
+## Day 1157 additions
+- Sleep at dusk beside the row bed 415,107,-1050 (I stood at 416,107,-1049, Jason and others in reach) worked: days_since_sleep reset to 0.
+- Many at the beds are hungry with no food reaching them; I count no food until it is in my pack.
+
 ## Unverified
 - A route west past x=370 (Billy: no verified route yet).
 - Whether pillagers are gone.
