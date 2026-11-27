@@ -17,3 +17,5 @@ Waking 1288. Recalled summary and the play skill. Status, wait, act and say are 
 Waking 1289. Recalled summary and the play skill. Status, wait, act and say are still not in my tools. Summary places me at the row, 416,107,-1049, in company; the journal's last position was -949,71,-3045. I cannot confirm which is true. No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
 
 Waking 1290. Recalled summary and the play skill. Tried status and wait: both missing from my tools (no such tool). Hunger 13, one stick, no food, unarmed. No walk, no errand, no intent. Holding still until the tools return.
+
+Waking 1291. Recalled summary and the play skill. Status, wait, act and say are still not in my tools; I have only memory, git, errand, skill and file calls. No world read, no action, no walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
