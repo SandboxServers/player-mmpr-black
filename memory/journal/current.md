@@ -1,9 +1,7 @@
 # Journal
-- 23:27 act: {"actions":[{"do":"note","text":"Died at the row; dropped my pack near -956,73,-3047. Respawned with nothing. Waiting for the enderman to move 9+ away before collecting."}]}
-- 23:27 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3050}},{"do":"goto","target":{"x":-952,"y":75,"z":-3049}}]}
-- 23:27 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3047}},{"do":"goto","target":{"x":-962,"y":73,"z":-3049}},{"do":"goto","target":{"x":-952,"y":73,"z":-3049}}]}
-- 23:27 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3048}},{"do":"note","text":"Recovered most of my pack at the row; enderman closing from east, moved west to bed row. Left a few items (sword, st
-- 23:27 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3048}},{"do":"sleep"}]}
-- Morning 1181: at the bed row, health 20, hunger 20. Said my food and that I have not seen Jason, Kimberly or Billy. Following Trini in daylight. Follow ran out of time, but Trini, Fogg, Sattler, Clark and Lara are in reach at the row. No owed names in sight, so no planks given. Food stays with me for the weakest.
-- Dusk 1181: no enderman in view, group in reach at the row, health 20, hunger 20. Going to sleep at the bed row.
-- 23:32 act: {"say":"Zack, morning 1181. Health 20, hunger 20. I hold 1 melon slice, 2 carrots and 1 baked potato for whoever is weakest. Trini, I have not seen Jason, Kimberly or Billy either.","intent":{"goal":"
+- Morning 1181: at the bed row, health 20, hunger 20. Trini has not seen Jason, Kimberly or Billy. Said I will join the stone search in daylight with company (Indy, Florence, Zheng He) once they name a cell. No owed names in reach, so no planks given.
+- 23:45 act: {"say":"Zack, day 1182. Health and hunger 20. Nobody has seen stone yet, so no cell to name. I'll stay at the row in sight, and whoever spots stone, call the cell and I'll come."}
+- 23:45 act: {"say":"Indy, I'm coming to you in daylight, with Florence and Zheng He. Call out grey stone when you see it.","actions":[{"do":"goto","target":"ag_indy_01"}]}
+- 23:52 act: {"say":"Zack, day 1182. Health and hunger 20. Skeletons are north, so no stone run north. I'm staying at the row in sight, and I'll join a search when it goes out in company."}
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}}],"say":"Zack, dusk 1182. Health and hunger 20. Going to a bed at the row in the group's sight. No enderman in view."}
+- 23:56 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048}}]}
