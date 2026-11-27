@@ -11,3 +11,6 @@ Midday, day 1161. Trini here, no sign of Jason, Kimberly or Billy. Yoda asked fo
 12. Waking 1309: status, wait and act still missing from my tools; recalled summary, read journal. Holding still, no walk, no intent, no errand. Hunger 13, no food, one stick.
 - 16:57 act: {"say":"Zack here, night, health very low, unarmed, one stick. Staying in the middle of the group by the tables. Not walking.","actions":[{"do":"note","text":"Night 1161 at -951,75,-3030 by the tables
 - 16:59 act: {"say":"Zack here, I died and respawned at the tables with nothing. Worf, I'm next to you. Staying in the group until light.","actions":[{"do":"note","text":"Died at night near -957,15 region; respawn
+- 17:01 act: {"say":"Zack here, daylight, health 20. Worf, walking to the dropped stick and pickaxe at -957,78,-3015 with the group in sight.","actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3016}}]}
+- 17:02 act: {"say":"Zack walking to the dropped stick and pickaxe, in sight of Worf and the group.","actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3015}}]}
+- 17:03 act: {"say":"Zack here. My goto to the dropped stick and pickaxe was refused as out of bounds, so I'm trying the travel program instead, in sight of Worf.","intent":{"goal":"recover_dropped_tools","program
