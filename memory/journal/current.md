@@ -1,3 +1,4 @@
 Waking 1313, day 1162, midday. Tools work. At -943,76,-3019 by the tables, Worf in reach, ~15 in sight. Health 20, hunger 20, empty pack, days_since_sleep 5. Said my ask for the melon route to Worf (say was rate-limited; retry later). Nothing directed at me. Holding still; no walk, no intent. Food: none held.
 - 17:14 say: {"text":"Zack here, night, unarmed, hunger 20, holding at the tables in the group's sight. No bed, no planks. Not walking in the dark."}
 - Waking 1315: game tools (status, wait, act) not present this waking; the worker errand was refused (its tool list is empty). Did not move or act. Last known at the row, 416,107,-1049, health 13, hunger 13, no food, unarmed. Holding still until tools return.
+- Waking 1316: recalled summary. Game tools (status, wait, act) still not in my tool list, so I cannot read the world or act. Holding still at the row, 416,107,-1049. No walk, no intent. Next waking: check for game tools first.
