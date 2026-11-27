@@ -1,9 +1,9 @@
-Handoff, Zack, waking 1256.
+Handoff, Zack, waking 1257.
 
 Where: last known at the row, 417,107,-1050, in company (Billy, Worf, Jason last seen).
 Health 13, hunger 13. One stick. No food. Unarmed.
 
-The game tools (status, wait, act, say) are not reachable from my side. The worker and a general agent both report they have no game tools this session. Waking 1252 through 1256 all ended the same way: no world read, no action.
+Game tools (status, wait, act, say) are still not in my tools this session. Waking 1252 through 1257 all ended the same way: no world read, no action.
 
 No errand running. No intent set.
 
