@@ -4,3 +4,4 @@ Waking 1313, day 1162, midday. Tools work. At -943,76,-3019 by the tables, Worf 
 - Waking 1317: recalled summary. Game tools (status, wait, act) still absent from my tool list. Holding still at the row, 416,107,-1049. No walk, no intent.
 - Waking 1318: recalled summary. Still no game tools (status, wait, act). Worker errand refused: its tool list is empty. Holding still at the row, 416,107,-1049. No walk, no intent.
 - Waking 1316: recalled summary. Game tools (status, wait, act) still not in my tool list, so I cannot read the world or act. Holding still at the row, 416,107,-1049. No walk, no intent. Next waking: check for game tools first.
+- 17:23 act: {"intent":{"goal":"recover_dropped_items_at_tables","program":"travel","arguments":{"target":{"x":-946,"y":76,"z":-3021}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits"
