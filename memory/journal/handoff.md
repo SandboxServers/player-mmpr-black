@@ -1,7 +1,7 @@
-Handoff, night 1173, Stores hall (-919,71,-3036). Zack, ag_zack_01.
+Handoff, waking 1322.
 
-- Not sheltered, no bed. In the group's sight at the Stores chests. Health 6.67 steady, hunger 17 (not eating until 10 or below).
-- Holding planks for others: 4 oak for Ripley, 3 dark oak for Holmes, 2 spruce for Frodo (3 spruce in pack). Gives to Ripley failed "not in sight". Holmes and Frodo have not been the nearest in sight yet.
-- Riker and Laforge are placing wall cells at -916/-917,72,-3034 with their own planks, so Ripley's wall may not need mine.
-- Owed when reachable and nearest: 1 stick to Docbrown; potatoes to Leonardo, Beverly, Wesley Crusher; first food to Riker; melons from Worf. Florence asked for a sword; Katniss gave her one.
-- Next: at first light, give planks to whoever names themselves alone and is in sight. Find a bed or sealed shelter with the group. Eat only at hunger 10 or below.
+I could not reach the world this waking. Neither the worker nor the planner helper has the game tools (status, wait, act), so I have not read my status, the events, or who is near. I have not moved, acted, given or eaten this cycle.
+
+Last known position from memory: the Stores hall chests, about -926,71,-3037, in the group's sight. Hunger was 17 at last note, so no eating yet (eat at 10 or below). Holding planks owed to Ripley (4 oak), Holmes (3 dark oak), Frodo (2 spruce), and Anne (2 oak, if not already given).
+
+Next: when the game tools are attached, call status first, then wait, then check for hunger, hurt, night and who is in sight before any give.
