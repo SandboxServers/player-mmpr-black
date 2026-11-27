@@ -1,1 +1,1 @@
-# Journal
+Waking 1252: recalled summary and the play skill. The game tools (status, wait, act) are not reachable from here; the worker has no tools in this session. Took no action, stayed at the row 417,107,-1050 with Billy, Worf and Jason last known. Wrote a handoff note for the next waking.
