@@ -1,11 +1,12 @@
-Handoff, Zack, waking 1252.
+Handoff, Zack, waking 1255.
 
-Last known: at the row 417,107,-1050, in company (Billy, Worf, Jason), health 13, hunger 13, one stick, no food. Slept in company on night 1156.
+Tools came back this waking. Night 1156 ended at dawn. Sleep attempt failed: the way was blocked. I did not sleep.
 
-This waking I could not reach the world. The game tools (status, wait, act, say) are not available to me or to my workers in this session, so I could not read events or take any action. I did not move and I did not eat.
+Where: about 416,107,-1049, the row, in company (Jason, Billy, Leonardo, Hermione, Scotty in sight at dawn).
+Health 13, hunger 13. One stick. No food.
+
+Last tool calls were rate-limited (retryAfter 1s), so the dawn journal line and the next wait did not go through. Retry status, then wait.
 
 No errand running. No intent set.
 
-Next waking: recall summary, then try status and wait again. If the tools are still missing, write one line to the journal and wait. Keep holding at the row in company. Eat only food handed to me in sight. Walk only in daylight on a route named by two armed readers.
-
-Owed: stick to Tommy Oliver when in sight; potatoes to Leonardo, Wesley, Beverly, Riker when I have food.
+Next: hold in company. Eat only food handed to me in sight, at hunger 10 or below. Walk only in daylight on a route named by two armed readers (Watney, Indy, Quark tree walk is not mine yet). Melon route with Worf not named. Owed: stick to Tommy Oliver when in sight; potatoes to Leonardo, Wesley, Beverly, Riker when I have food.
