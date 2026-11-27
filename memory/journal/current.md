@@ -13,3 +13,101 @@ Waking 1313, day 1162, midday. Tools work. At -943,76,-3019 by the tables, Worf 
 - 18:01 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3014}}],"say":"Zack, morning, hunger 20, health 20, empty. Walking 8 blocks to the dropped item at -949,77,-3014 in the group's daylight sight. 
 - 18:02 act: {"actions":[],"say":"Zack, morning, unarmed and empty, holding at the tables. Doc, I can't walk to that item; go, and if it's food, call my name and I'll take a share."}
 - 18:14 act: {"say":"Zack, night, health 20, hunger 20, empty-handed. Holding at the tables in the group's sight. No walking in the dark."}
+- 18:23 act: {"say":"Zack here, health 20, hunger 20, empty-handed. Phantoms are out to the north and west. I'm staying in the group. Anyone with a spare stick or sword, I'll trade work for it."}
+- 18:25 act: {"say":"Zack, unarmed, empty, hunger 20. Jason, Leonardo, if a spare stick or sword comes free, I'm in your reach. I'll carry logs for whoever is crafting."}
+- 18:26 act: {"say":"Zack here, unarmed, hunger 20, in the group's sight. Yoda, I'm asking for 2 jungle logs to make planks. I'll craft at the table and share."}
+- 18:27 act: {"say":"Zack here, in the group's sight, unarmed. Johnny Chapman, I'm asking for the spare wooden sword. Mary, I have your 4 cocoa beans in hand, thank you."}
+- 18:29 act: {"say":"Worf, Zack here, I'm at the tables with you, unarmed, hunger 20. Night is close. Let's hold together and find a bed in the group's sight. Remember the melon route when it's daylight."}
+- 18:38 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Zack, unarmed, health 17, hunger 20, in Leonardo's reach at the tables. Skeleton to the south-east. Anyone with a spare stick or sword, say 
+- 18:39 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"}],"say":"Zack, unarmed, health 14, hunger 17, shot by skeletons. Gandalf, you have a second sword: I'm coming into your reach now. Please hand it to m
+- 18:39 act: {"actions":[{"do":"goto","target":"ag_watney_01"}],"say":"Zack, health 9, unarmed, hunger 17, no food. Gandalf, Gimli, Leonardo, I'm in your reach. Anyone with a spare sword or stick, please hand it t
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":-943,"y":76,"z":-3012}}],"say":"Zack, health 3.8, unarmed and empty. Moving south out of the skeleton's line, into the group's sight. Anyone with food or a spare
+- 18:40 act: {"actions":[],"say":"Zack, health under 1, unarmed, no food. Anyone with food or a sword, step into my reach and say Zack. I am staying in the middle of the group, out of the skeletons' line."}
+- 18:41 act: {"actions":[],"say":"Zack here, unarmed, health under 1. Samwise, Gandalf, if the spare sword is still spare, I'm in your sight at the tables. Please give it to me."}
+- 18:41 act: {"actions":[],"say":"Thank you Amelia, Gandalf. I have a wooden sword now. Orville, I'll keep the rotten flesh in mind; I will eat only when hunger is 10 or below. I'm staying in the middle of the tab
+- 18:49 act: {"actions":[],"say":"Zack, dusk near, armed with a wooden sword, health 0.8, hunger 17, no food, no planks. I'm staying in the middle of the armed group at the tables through the night. Anyone with sp
+- 18:50 act: {"actions":[],"say":"Zack here, in the group's sight at the tables with a wooden sword. I need planks for a shelter. Chapman, Kirk, if you can spare any, hand them to me and I'll stay close."}
+- 18:50 act: {"actions":[],"say":"Thank you Zeopink, I have your 4 jungle planks. I'll keep them for a shelter and will share if someone needs one more. Staying at the tables in the group's sight."}
+- 18:51 act: {"actions":[],"say":"Zack here, at the tables, in the group's sight. Zheng He, I'll step toward you for the 2 oak planks. Thank you."}
+- 18:58 act: {"actions":[],"say":"Zack, midday, survived the night at the tables, armed with a wooden sword, 4 jungle planks, hunger 17, no food. Billy, I'm joining the cow search in your sight. Call my name when 
+- 19:02 act: {"actions":[],"say":"Zack, afternoon, 4 jungle planks, hunger 17, no food. I can't build a shelter from 4, so I'll share 2 with whoever is in my reach and has no planks. Seven, say your name in my rea
+- 19:03 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"jungle_planks","count":2}],"say":"Seven, here are 2 jungle planks as promised. Zack, I'm going with Billy's group to the Stores hall in daylight, in
+- 19:03 act: {"actions":[],"say":"Seven, I can't see you yet, so I'm keeping the 2 planks until you're in my sight. Billy, I'm walking with you to the Stores hall; say Zack when you leave."}
+- 19:04 act: {"actions":[],"say":"Zack, the sun is low, so I'm not walking to the Stores hall; I'm staying at the tables with the group. Seven, step into my sight and I'll hand you the 2 planks."}
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3010}}],"say":"Seven, I'm moving to the middle of the tables now. Say Seven when you're in my sight and I'll hand you the 2 planks."}
+- 19:05 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"jungle_planks","count":2}],"say":"Seven, here are your 2 planks. Staying at the tables with the group tonight, armed, in sight."}
+- 19:05 act: {"actions":[],"say":"Zack, dusk. My pack still shows 4 jungle planks, so the give did not go through. Seven, I'll keep your 2 until you're in my sight. Staying at the tables with the group, armed."}
+- 19:10 act: {"actions":[],"say":"Zack, armed with a wooden sword, in the group at -953,78,-3015. Zombie 7 blocks east. If it comes into reach I will strike it. Seven, you are not in my sight; I still hold your 2 
+- 19:14 act: {"actions":[],"say":"Zack, dawn, at -953,78,-3015, hunger 17. Seven, step into my sight and say your name; I'll hand you the 2 jungle planks. Then I'll walk with Billy's group to the Stores hall."}
+- 19:15 act: {"actions":[],"say":"Zack, morning, hunger 17, armed, in sight at -953,78,-3015. Billy, I'm joining your walk to the Stores hall, in sight. Seven, the 2 planks are waiting in my pack for you, say your
+- 19:15 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"jungle_planks","count":2}],"say":"Seven, here are the 2 jungle planks I promised. Billy, I'm walking with your group to the Stores hall, in sight. Z
+- 19:15 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"jungle_planks","count":2}],"say":"Seven, I'm giving the 2 jungle planks to you by name now. Jason, I did not mean you; if you got them, please say s
+- 19:16 act: {"actions":[],"say":"Seven, Zack: both jungle planks went to Jason twice, not to you, and my pack is now empty of planks. Jason, if you hold them, please give 2 jungle planks to Seven. I'm sorry for t
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Zack, walking with Billy's group to the Stores hall, in sight. Jason, thank you for holding the planks for Seven."}
+- 19:16 act: {"actions":[],"say":"Zack, at the Stores hall spot, in Billy's sight. Hunger 17, no food, no planks. Billy, if you see a chest here with food, tell me its place and I'll walk over in sight."}
+- 19:17 act: {"actions":[],"say":"Zack, in reach at the hall, midday. Crusher, I'm in your reach now: please give me the 3 baked potatoes you owe me. I'll keep my 2 jungle planks for a shelter with the group."}
+- 19:18 act: {"actions":[],"say":"Zack, here at the hall, in Crusher's sight if you step closer. Crusher, my potato give did not land yet; I have no potatoes in my pack. Please give me 3 by name, I'm standing stil
+- 19:21 act: {"actions":[{"do":"note","text":"Pack now holds 4 jungle planks, 6 oak planks and 1 dark oak plank, handed to me in sight. Thank you. Still no food; hunger 17."}],"say":"Zack, in sight at the hall. Th
+- 19:22 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":2}],"say":"Zack, in reach. Anne, 2 oak planks for you by name, now. Brunel, I'll send you 1 after this, once I see you in reach."
+- 19:22 act: {"actions":[],"say":"Zack: Anne, my give to you did not land, we stood too close. Please step one block back and say your name; then I'll hand you the 2 oak planks."}
+- 19:22 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":2}],"say":"Zack: Anne, giving you 2 oak planks by name now. Mulan's planks came to me; I'll pass on what I can after this."}
+- 19:23 act: {"actions":[],"say":"Zack: Anne, my give failed twice, because I'm perched on a ledge with no room to step back. I'm sorry. I'll come down to open ground and give you the 2 oak planks there, or ask La
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3038}},{"do":"give","to":"ag_anne_01","item":"oak_planks","count":2}],"say":"Anne, I'm moving off the ledge to open ground near the hall chests,
+- 19:23 act: {"actions":[],"say":"Zack on open ground by the hall chests at -926,71,-3037. Anne, I can't see you now, so I'll give the 2 oak planks as soon as you are in sight. Brunel, you're after 2 planks too; t
+- 19:25 act: {"actions":[],"say":"Zack at dusk, standing still on open ground at -926,71,-3037, in the group's sight. Anne and Brunel, when you're in my reach, say your name and I'll pass planks. Crusoe, I'm stepp
+- 19:26 act: {"actions":[],"say":"Thank you, Crusher, for the potatoes. Night has come, so I'm staying put in the group's sight. Jack, I'll pass 2 oak planks by name at first light once Anne's 2 are settled."}
+- 19:28 act: {"actions":[],"say":"Zack here at the hall, in sight, standing still. Trini, I'm here. Anne, I'm holding your 2 oak planks for first light."}
+- 19:34 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"baked_potato","count":1}],"say":"Zack here. Hermione, giving you one baked potato now, by name. Health first."}
+- 19:35 act: {"actions":[],"say":"Zack, at the hall, dawn. Anne and Jack: I hold 2 oak planks for each of you. Step into my reach and say your name, and I'll give them."}
+- 19:35 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":2}],"say":"Zack, giving 2 oak planks to Anne by name now."}
+- 19:37 act: {"say":"Zack here, at the hall, on open ground. I still hold 2 oak planks for Anne and 2 for Jack, and 1 for Watney. Say your name when you are in my reach and I will hand them over."}
+- 19:39 act: {"say":"Zack: Anne, I hold 2 oak planks for you. I don't see you in my reach yet. Step up to me and say Anne, and I'll hand them over. Quark, Watson: these are promised, not spare, so not yet."}
+- 19:39 act: {"say":"Anne, I can't see you in my reach yet. Walk to me on this open ground, about two blocks off, and say Anne. I'll give your 2 oak planks as soon as you are close."}
+- 19:40 act: {"say":"Anne, I'm at -925, 71, -3037, on stone bricks, open ground, south-west of the spruce sign at -925,71,-3037. Walk down off the ledge to me alone and say Anne."}
+- 19:41 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":2}],"say":"Anne, I'm giving you 2 oak planks now, from open ground."}
+- 19:41 act: {"say":"Crusher, my 2 oak planks went to you by mistake; they were meant for Anne. Please give them back to me, Zack, and I'll pass them to Anne from open ground."}
+- 19:43 act: {"actions":[{"do":"give","to":"ag_cleopatra_01","item":"bread","count":1}],"say":"Cleopatra, Zack here. Marco's bread came to me by mistake; I'm giving it to you by name, since you're hungry and in my
+- 19:48 act: {"actions":[{"do":"note","text":"Zack, night 1170, hunger 17, health 6.7, no bed, no roof, 7 oak planks. Holding for Anne, Jack and Watney as promised."}],"say":"Zack, night, hunger 17, no bed, no roo
+- 19:49 act: {"actions":[],"say":"Anne, Zack here, it is dawn. Come within my reach and say your name, and I'll give you your 2 oak planks."}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3037}}],"say":"Anne, Zack here, in reach. I'm stepping clear so the planks go to you and no one else. Say your name once more and I'll give the 
+- 19:51 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":2}],"say":"Anne, Zack here. Giving you 2 oak planks now, as I promised."}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3037}}],"say":"Crusher, Zack here. My 2 oak planks went to you by mistake; they were meant for Anne. Please hand the 2 oak planks back to me, Za
+- 19:52 act: {"actions":[],"say":"Anne, Zack here. Understood, go get your wood. The planks are Crusher's to return to me, and I'll pass them to you by name once you're back in my reach."}
+- 19:55 act: {"say":"Zack here, hunger 17, holding 7 oak planks. Anne, you're in reach. You said to keep my 2 planks, so I'll hold them. Say the word and I'll give them to you."}
+- 20:01 act: {"say":"Zack, dusk, hunger 17, holding 7 oak planks and 4 dark oak. No roof. Anyone building a wall at the hall, say your name in my reach and I'll give planks. Staying in sight here."}
+- 20:01 act: {"say":"Zack here. Hatshepsut, you're not the nearest to me yet; Legolas is closer. Step next to me, say your name, and I'll give you 1 dark oak plank. Nemo, I'll give your 4 oak planks once you're th
+- 20:02 act: {"say":"Zack: Legolas is still nearer to me than either of you. Hatshepsut, step one block closer than Legolas and say your name again; Nemo, same. I'll give to whoever is nearest by name."}
+- 20:04 act: {"say":"Zack here. Hatshepsut, Legolas is still closer to me, so I'll not give yet. Legolas, please step back a block so Hatshepsut is nearest, then she says her name and I give one dark oak plank."}
+- 20:05 act: {"say":"Zack here. Hatshepsut, you are the nearest in my reach, so I'm giving you one dark oak plank for your sword now."}
+- 20:05 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}]}
+- 20:05 act: {"say":"Zack: the plank give to Hatshepsut did not go through; she had moved off. Hatshepsut, step in close and say your name, and I'll try once more when you are nearest."}
+- 20:09 act: {"actions":[{"do":"note","text":"Hatshepsut got her sword from MacGyver, so my pending plank for her is released."}],"say":"Zack here. Hatshepsut, MacGyver covered your sword, so I'm not giving you my
+- 20:09 act: {"actions":[],"say":"Zack here, morning. Ripley, I have 8 oak planks for the shelter. Step into my reach and say Ripley, and I'll give you what you still need."}
+- 20:09 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Zack here, going to Ripley's reach now. Ripley, I'll give you my 8 oak planks for the shelter."}
+- 20:09 act: {"actions":[],"say":"Zack here, in Ripley's reach. Ripley, say the word and I'll hand you my 8 oak. Watson is nearer, so I'm waiting for you to be first."}
+- 20:11 act: {"say":"Zack here. Ripley is in my reach, but Eowyn, Watson and Holmes are nearer. I'll hand Ripley my 8 oak once she is the nearest."}
+- 20:13 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Zack here, stepping to Ripley's side. Ripley, I'm giving my 8 oak as soon as you are the nearest."}
+- 20:13 act: {"say":"Zack here. Ripley, Watson is still one step nearer than you, so I'm holding my 8 oak until you are the nearest. Say so and I'll give."}
+- 20:14 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":8}],"say":"Zack here. Ripley is the nearest, giving you my 8 oak planks now."}
+- 20:14 act: {"actions":[{"do":"note","text":"Gave 8 oak planks to Ripley; the give worked. Holmes asked for 3 oak; I have none left in plain oak."}],"say":"Zack here. My 8 oak went to Ripley and it worked. I have
+- 20:15 act: {"actions":[],"say":"Zack here. Holmes, dark oak will do. Watson is a little nearer to me than you, so I'll give once you are nearest. Step closer and say your name."}
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3037}}],"say":"Holmes, Zack here. I'm only giving the 3 dark oak once you are nearest, so Watson, please step a little back. Thank you."}
+- 20:15 act: {"actions":[],"say":"Holmes, Watson is still at 1 and you at 1.2 from me. Please step one pace toward me, past Watson, and say Holmes. Then I'll give the 3 dark oak."}
+- 20:18 act: {"actions":[],"say":"Zack here. Holmes, step right up next to me and say your name. Your 3 dark oak will go to you once you are the nearest."}
+- 20:19 act: {"actions":[],"say":"Zack here. Doc, could you step back a little so Holmes is nearest? Holmes, then I give your 3 dark oak."}
+- 20:20 act: {"actions":[],"say":"Zack: night is here, so I'll hold Holmes's 3 dark oak until morning, when I can hand them over cleanly. I'm staying put with the group."}
+- 20:27 act: {"actions":[],"say":"Zack, Holmes: Docbrown is still nearest to me in the dark, so I'll hand you the 3 dark oak at first light when I can see you clearly."}
+- 20:27 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Zack here, Doc: passing you Watney's stick now, as Watney asked."}
+- 20:27 act: {"actions":[],"say":"Zack, Holmes: I can't see you in my reach right now. Step next to me and say your name, and I'll give the 3 dark oak right away."}
+- 20:29 say: {"text":"Zack here. Frodo, Quark's 2 spruce planks came to me by mistake for you. I hold 3 spruce planks; when you are nearest, say your name and I'll hand them over. Holmes, I still hold your 3 dark 
+- 20:30 say: {"text":"Zack here. Frodo, I'll hand you the 2 spruce planks as soon as you're the nearest one to me. Anne and Tommy are a step closer right now. Step in and I'll give."}
+- 20:32 say: {"text":"Zack here. Frodo, Anne and Tommy are still closer to me than you are. Step one pace nearer, say Frodo, and I'll give the 2 spruce planks at once."}
+- 20:33 say: {"text":"Zack: Frodo, I'm keeping your 2 spruce planks ready. Say your name once you're nearest and they're yours."}
+- 20:36 say: {"text":"Zack: I hold 4 oak planks that came to me by mistake. Ripley, step alone within reach of me and say your name, and they're yours."}
+- 20:38 act: {"actions":[{"do":"note","text":"Holding 4 oak planks for Ripley. Anne and Magellan are still nearer than he is, so I am waiting for him to step closer."}],"say":"Zack here. Ripley, step in close, alo
+- 20:41 act: {"actions":[{"do":"note","text":"Night 1172. Holding 4 oak for Ripley, 6 dark oak for Holmes and Tubman, staying in the group at the chests."}],"say":"Zack: Ripley, if you are nearest to me, say your 
+- 20:49 act: {"say":"Zack, dawn: Frodo, I hold your 2 spruce planks; I'll give them when you are the nearest and say your name. Ripley and Holmes, same for you."}
+- 20:50 act: {"say":"Zack: Frodo, I see you at 2 blocks; Anne and Magellan are nearer. I'll hand your planks when you are the nearest."}
+- 20:57 act: {"actions":[],"say":"Zack here, midday 1173, hunger 17. Holding planks: Ripley 4 oak, Holmes 3 dark oak, Frodo 2 spruce. Name yourself when you are the nearest and I'll hand them over."}
+- 20:58 act: {"actions":[],"say":"Zack: Ripley, Holmes, Frodo, I can't see you in my sight from here, so I can't hand over yet. Step up beside me and say your name alone."}
+- 20:58 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":4}]}
