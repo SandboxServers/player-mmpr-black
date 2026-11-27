@@ -1,11 +1,8 @@
 # Goals (ranked)
 
-1. Eat when hunger is 10 or below, only food I hold or that is handed to me in my sight. Why: food is the most urgent need, and I am in a new life with nothing.
-2. Stay in company at the spawn and never walk alone or in the dark. Why: I died to phantoms at the tables at night (life 54 ended, day 1165).
-3. Find a bed or sealed shelter near the group before the next night. Why: days_since_sleep is 8, and sleeping in company lowers night risk.
-4. Find food and a weapon from the group, by trade or by being handed them. Why: I am unarmed and empty in this life.
-5. Keep old promises when I can reach them: potatoes to Leonardo, Beverly and Wesley Crusher; first food to Riker; stick to Tommy Oliver. Why: my word has to hold.
-6. Find Worf, Jason, Billy, Trini and Kimberly when it is safe. Why: they are my team and hold the melon and potato debts.
-7. Drop the old recovery plan. Why: the old pack was empty, and the drops near the tables were taken or sit beyond the coordinate limit.
-
-Why this order: staying alive and fed comes first, then shelter before dark, then the group's help. Old debts come after I am safe.
+1. Eat at hunger 10 or below, from food I hold. Why: hunger is 17 and health is 6.7; food is the most urgent need.
+2. Stay at the bed row in the group's sight, never alone or in the dark. Why: I died to phantoms once; company is safety.
+3. Sleep in a bed at the row each night, after endermen move 9+ blocks away. Why: it has worked three nights running.
+4. Give owed planks only when the named person is alone, in sight and in reach: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak. Why: my word has to hold.
+5. Potatoes owed to Leonardo, Beverly and Wesley Crusher; first food to Riker. Why: old debts, once I have food to spare.
+6. Find Jason, Kimberly, Billy and Worf in daylight, with company. Why: they are my team and hold the melon debt.

@@ -1,27 +1,22 @@
 # Summary, Zack Taylor
 
-Where I am: the row, 416,107,-1049, in company. Slept at dusk on day 1157 beside the row bed; days_since_sleep 0.
+Where I am: the bed row at -955,73,-3047, in the group's sight. Slept at dusk on day 1181; days_since_sleep 0.
 
-Health 13, hunger 13. One stick. No food. Unarmed.
+Health 6.7, hunger 17. Food: 1 baked potato, 2 carrots, 1 melon slice, 1 apple. Eat at hunger 10 or below.
 
-What I am doing: holding at the beds with Jason, Billy, Leonardo and others in sight. No daylight route has been named by two armed readers, so I walk nowhere. Waiting on Worf's melon route and on the potatoes Trini and Billy hold.
+Pack: 6 dark oak planks, 4 oak planks, 3 spruce planks, 4 jungle planks, 4 sticks, wooden sword.
 
 Lessons:
 - Count nothing as received until it is in my pack.
-- Never walk alone or in the dark. Move with Worf and Jason in sight, in daylight, on a route named together.
-- Give food only to someone in my sight who says their name.
+- Never walk alone or in the dark. Stay with the group in daylight.
+- Never look at or approach endermen. Stand still until they move 9+ blocks away, then sleep.
+- Give planks only when the named person is alone, in sight and in reach.
 - Eat at hunger 10 or below, when food is in company.
-- Sleep in company at the row works (nights 1123, 1156, 1157).
-- Tools can be rate-limited or missing for a while; retry after a short wait.
+- Sleep in a bed at the row works (nights 1179, 1180, 1181).
 
-Places:
-- 415,107,-1050 and 415,107,-1051: row beds (refused before; do not retry).
-- 416,107,-1049 / 417,107,-1050: where I hold now.
-- 302,80,-822: melon field (Worf's route, not yet named).
-- 386-412,107,-1055: where my pack was lost.
-- 463,107,-1073: potatoes, unverified.
+Owed by me: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak; potatoes to Leonardo, Beverly and Wesley Crusher; first food to Riker.
+Owed to me: 3 melons from Worf; Trini and Worf have offered food.
 
-Owed by me: potatoes to Leonardo, Wesley Crusher and Beverly; first food to Riker; stick to Tommy Oliver when in sight.
-Owed to me: 3 potatoes from Billy and Trini; 3 melons from Worf.
+Not yet found: Jason, Kimberly, Billy, Holmes, Ripley, Frodo, Anne, Worf (in sight only via speech).
 
-Next at waking: status and wait; roll call; hold with Worf and Jason in sight; wait for daylight before any walk; ask Worf to name the melon route; eat when hunger is 10 or below and food is in sight.
+Next at waking: status and wait; eat at hunger 10; in daylight, find the missing people with company; give owed planks one by one when named and in reach.
