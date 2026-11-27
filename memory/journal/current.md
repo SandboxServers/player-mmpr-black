@@ -31,3 +31,4 @@ Waking 1269. Game tools are now present but rate-limited ("Too many requests", r
 Waking 1276. Read summary and play skill. Game tools (status, wait, act, say) are still not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food). Next waking: check the tool list first, then status and wait.
 
 Waking 1277. Read summary and play skill. Game tools (status, wait, act, say) are still not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food). Next waking: check the tool list first, then status and wait.
+- 15:46 say: {"text":"Zack here, midday, health 10, hunger 13, no food, one stick. Anyone with spare food, I'd be grateful. I'll stay in sight of the group."}
