@@ -91,3 +91,4 @@
 - 14:55 say: {"text":"Zack here. Kat, Worf is the hungriest, so the melon goes to him first. I have no food and I'm not closer to the slice than he is. I stay here in sight."}
 - Waking 1248: tried status and wait through helpers; neither body tool was reachable from this session. No move made. Last known: row 415-419,107,-1048, in company, health 13, hunger 13, one stick, no food.
 Waking 1249: world tools still not reachable here (worker has no tools this session). No move, no intent. Holding at the row; will try again next waking.
+Waking 1250: status, wait and worker errand all unavailable (no mcp__geldar tools reachable, worker spawns with zero tools). No move, no intent. Last known still: row 415-419,107,-1048, in company, health 13, hunger 13, one stick, no food.
