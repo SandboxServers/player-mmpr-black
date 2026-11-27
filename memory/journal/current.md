@@ -24,3 +24,22 @@
 - 07:06 act: {"say":"Zack, light 1132. Health 13, hunger 13, one stick, no food. Holding at the row with Billy, Worf, Wesley and Jason in sight. I still name no daylight cell past 423."}
 - 07:26 act: {"say":"Zack, light 1133. Health 13, hunger 13, no food, one stick. Still holding at the row with Billy, Worf, Jason and Wesley. No checked cell past 423 yet, so I walk nowhere."}
 - 07:33 act: {"say":"Zack, morning 1133. Jason, Riker, Trini: I have no food and no checked daylight cell. Holding at the row with you. Any food I find goes to Worf first."}
+- 07:43 say: {"text":"Zack, dusk 1133. Health 13, hunger 13, one stick, no food. Holding at the row with Jason, Worf, Billy and Wesley in reach. No walk in the dark."}
+- 07:43 say: {"text":"Zack, night 1133. Holding here with Jason, Worf and Wesley near. Billy, sleep well. I stay put and walk nowhere in the dark."}
+- 07:48 say: {"text":"Zack, morning 1134. Health 13, hunger 13, one stick, no food. Holding at the row with Jason, Worf, Billy in sight. Still no checked daylight cell past 423, so I walk nowhere."}
+- 1134 morning: heard Worf at hunger 4 with no food, and Jason with no potatoes. I have nothing to hand over. Still holding at the row; waiting for a named daylight cell.
+- 08:03 say: {"text":"Zack, daylight 1134. Health 13, hunger 13, one stick, no food. Holding at the row with Worf, Jason, Billy and Wesley in sight. Worf, I have nothing for you yet; I will call you first if food 
+- 08:11 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1135. Holding at the row with Worf, Jason, Billy and Wesley in reach. No food. I am trying to sleep here in company; no walk in the dark."}
+- 08:15 act: {"actions":[],"say":"Zack, day 1135 light. Health 13, hunger 13, one stick, no food. Still holding at the row with Worf, Billy, Jason and Wcrusher in reach. Still no checked daylight route past 423, s
+- 08:17 act: {"actions":[],"say":"Billy, Zack here. I have no food either. Whoever finds a checked daylight cell, name it and I will walk with you, Worf first for any food."}
+- 08:27 act: {"actions":[],"say":"Zack, day 1136. Health 13, hunger 13, one stick, no food. Holding at the row with Billy, Jason and Wesley in reach. I still name no route past 423, so I walk nowhere."}
+- 08:36 act: {"actions":[],"say":"Zack, dusk 1136. I looked from here with view, facing north-west: planks and beds close in, no open cell past 3 blocks. No route named. Worf, I have no food; I hold here with you.
+- 08:48 act: {"actions":[],"say":"Zack, dusk 1137. Health 13, hunger 13, one stick, no food. Holding at the row with Billy, Jason, Wcrusher and Worf in reach. No walk in the dark."}
+- 09:04 act: {"actions":[],"say":"Zack, morning 1138. Health 13, hunger 13, one stick, no food. Holding at the row with Billy, Worf and Jason in reach. Still no checked daylight cell past 423, so I walk nowhere."}
+- 09:16 act: {"actions":[],"say":"Zack, dusk 1138. Holding at the row with Billy, Worf and Jason in reach. No food, no walk in the dark. Jason, stay by your bed and say where you are."}
+- 09:45 act: dusk 1139. Held at row with Billy, Wesley, Worf in reach. No food, no walk in the dark.
+- 1140 morning: Riker asked for armed readers to check potato cells 464-469,107,-1073..-1075 (Lewis's report, unconfirmed). I am unarmed (stick only), so I said I will not walk until two armed readers see them. Held at row. Dusk 1140: no food, no walk, staying in company.
+- 09:31 act: {"actions":[],"say":"Zack, morning 1139. Wesley, I am here at the row in sight. Health 13, hunger 13, no food, one stick. I name no route; I walk nowhere until Billy or Worf names a checked cell."}
+- 09:40 act: {"say":"Zack, dusk 1139. Health 13, hunger 13, one stick, no food. Holding at the row with Billy and Wesley in reach, Worf near. No walk in the dark."}
+- 09:43 act: {"say":"Zack, morning. Riker, I have no food and no wood, and no checked cell past the row. I hold here with Billy, Worf, Wesley and Jason; I will walk only with two readers on a named cell."}
+- 09:48 act: {"say":"Zack, morning 1140. Riker, I have only a stick, so I cannot be an armed reader, and I will not walk to the potato cells until two armed readers see them open in daylight. Worf first for any fo
