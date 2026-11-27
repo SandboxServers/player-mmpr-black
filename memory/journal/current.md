@@ -111,3 +111,32 @@ Waking 1313, day 1162, midday. Tools work. At -943,76,-3019 by the tables, Worf 
 - 20:57 act: {"actions":[],"say":"Zack here, midday 1173, hunger 17. Holding planks: Ripley 4 oak, Holmes 3 dark oak, Frodo 2 spruce. Name yourself when you are the nearest and I'll hand them over."}
 - 20:58 act: {"actions":[],"say":"Zack: Ripley, Holmes, Frodo, I can't see you in my sight from here, so I can't hand over yet. Step up beside me and say your name alone."}
 - 20:58 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":4}]}
+- 21:04 act: {"say":"Zack here, night 1173. Holmes, I owe you 3 dark oak planks. I'm staying with the group at the chests until light, then I'll hand them over where all can see.","intent":{"goal":"hold_at_chests_
+- 21:05 act: {"say":"Zack here, at the bed row with you, Trini! Hunger 17, health 6.7. I hold a baked potato, 2 carrots and an apple. Jason, Kimberly, Billy, keep your eyes open. I'll stay right here by the beds."
+- 21:05 act: {"say":"Thanks Trini, I'm right here at the bed row. I'll take the sword and the carrot gladly. Hunger is 17 so I'll eat when it drops to 10.","actions":[{"do":"sleep"}]}
+- 21:06 act: {"say":"Thanks Trini, got the sword. Sparrow, I have no bread, only a potato, two carrots and an apple, and my hunger is 17. Ellie has bread at the bed row, ask her."}
+- 21:10 act: {"say":"Morning! Thanks again, Trini. I'm sticking with you. Holmes, Ripley, Frodo and Anne, I still owe you planks; say your names in my reach and I'll hand them over.","intent":{"goal":"stay_with_tr
+- 21:10 act: {"say":"Trini, glad you're holding up. I'm at 17 hunger and will eat at 10. Sparrow, Ellie has bread for you, say your name in her reach."}
+- 21:19 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1174, at the bed row in the group's sight, hunger 17, health 6.7. Going to sleep here."}
+- 21:20 act: {"actions":[],"say":"Trini, I haven't seen Jason, Kimberly or Billy since I woke here. I already have a wooden sword, so keep yours. We'll ask around for them."}
+- 21:30 act: {"actions":[{"do":"sleep"}],"say":"Zack, dusk 1175, at the bed row in the group's sight, hunger 17, health 6.7. Going to sleep here. Holmes, Ripley, Frodo and Anne, I still owe you planks; say your na
+- 21:32 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"
+- 21:34 act: {"actions":[],"say":"Zack, hunger 17, daylight now. I hold a baked potato, 2 carrots and an apple. Trini, if you are in my reach and say your name, I will hand you one of them."}
+- 21:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"baked_potato","count":1}],"say":"Trini, I am giving you my baked potato now. Eat it."}
+- 21:49 act: {"say":"Zack, morning 1176, hunger 17, health 6.7, pack holds planks and one baked potato. Holmes, Ripley, Frodo, Anne: say your name in my reach and I'll hand over your planks.","intent":{"goal":"wai
+- 21:50 act: {"say":"Zack, morning 1176, hunger 17. Thank you Indy, Trini, Lara. I'll keep my potato and eat when I reach 10. Planks stay for Holmes, Ripley, Frodo, Anne."}
+- 21:50 act: {"say":"Zack here, health 6.7, hunger 17. Trini, I'm at the bed row in your sight; if you step into my reach I'll take your melon slices gladly."}
+- 21:56 act: {"say":"Thank you Fogg. I'm keeping your carrot for when my hunger reaches 10, as I promised myself. Hunger 17 now."}
+- 21:58 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack at the bed row, dusk 1176, hunger 17, health 6.7. I have a baked potato, 2 carrots and an apple, and no melon. Trini, Worf and Knope are hungrier, so
+- 21:58 act: {"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":16}},"actions":[{"do":
+- 22:02 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack, morning 1177, hunger 17, health 6.7. Still holding my potato, 2 carrots and apple for when I reach 10. I have not seen Jason, Kimberly or Billy. Hol
+- 22:04 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack, day 1177, hunger 17, health 6.7. I have food, so Hatshepsut and anyone hungrier go first. Indy, keep your carrot for them; I'm not alone out there."
+- 22:06 act: {"actions":[],"say":"Zack, at the bed row, hunger 17. Thank you, Uhura. Hand your meat to those hungrier first; I'll eat my own food at 10. I'm staying in sight of the group.","intent":{"goal":"hold_a
+- 22:10 act: {"actions":[],"say":"Zack, hunger 17, still at the bed row. Hatshepsut, Zheng He has bread and carrots; if you step into my reach I'll hand you a carrot, I can spare one."}
+- 22:11 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"carrot","count":1}],"say":"Hatshepsut, here is a carrot. It's yours."}
+- 22:11 act: {"actions":[{"do":"wait","seconds":10}],"say":"Hatshepsut, the crowd is blocking the give. Step toward me, away from the others, and say your name. Then I'll hand you the carrot."}
+- 22:11 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"carrot","count":1}]}
+- 22:12 act: {"actions":[],"say":"Hatshepsut, my hunger is 17, so I am keeping my carrots for now. I will eat at 10. Trini's melon is yours first."}
+- 22:13 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"carrot","count":1}],"say":"Hatshepsut, Zack here, in your reach. Handing you a carrot now."}
+- 22:20 act: {"actions":[],"say":"Zack, hunger 17, at the row in sight. I hold 2 carrots for anyone lower than me. Sattler and Magellan, melon goes to Chewie and Hatshepsut first."}
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3050}},{"do":"use","at":{"x":-956,"y":73,"z":-3048}}],"say":"Zack, night 1178, hunger 17, health 6.7. Going into a bed at the row in the group's

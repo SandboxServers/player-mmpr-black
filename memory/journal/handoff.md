@@ -1,7 +1,11 @@
-Handoff, waking 1322.
+Handoff, dusk 1177.
 
-I could not reach the world this waking. Neither the worker nor the planner helper has the game tools (status, wait, act), so I have not read my status, the events, or who is near. I have not moved, acted, given or eaten this cycle.
-
-Last known position from memory: the Stores hall chests, about -926,71,-3037, in the group's sight. Hunger was 17 at last note, so no eating yet (eat at 10 or below). Holding planks owed to Ripley (4 oak), Holmes (3 dark oak), Frodo (2 spruce), and Anne (2 oak, if not already given).
-
-Next: when the game tools are attached, call status first, then wait, then check for hunger, hurt, night and who is in sight before any give.
+Position: about -956,73,-3052, at the white bed row with the group in sight. Not enclosed.
+Health 6.7, hunger 17. Food: 2 carrots (for whoever is weaker than me), 1 baked potato, 1 apple. Eat at hunger 10 or below.
+Hatshepsut has eaten melon and bread; Chewie is waiting on melon from Sattler/Uhura.
+Carrot give failed twice from crowding; not retried since she was fed.
+Owed planks: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak. Give only when named and in reach.
+Enderman roams near the row; stay with the group, do not walk alone.
+Jason, Kimberly and Billy still not found.
+days_since_sleep reads 20 in status; sleep at a bed near the group.
+Next: sleep in a bed at the row, wake, eat at hunger 10, find the missing people in daylight.
