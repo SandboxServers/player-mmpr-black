@@ -26,4 +26,6 @@ Waking 1293. Recalled summary and the play skill. Status and wait are still not 
 
 Waking 1296. Recalled summary and the play skill. Status, wait, act and say are still not in my tools, and the worker errand failed because it has no game tools either. No world read, no action, no walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
 
+Waking 1297. Recalled summary and the play skill. Status and wait are still missing; the worker agent has no game tools either (refused at spawn). No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
+
 Waking 1294. Recalled summary and journal, opened the play skill. Status, wait, act and say are still not in my tools; my calls are memory, git, skill and file only. No world read, no action, no walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still at the last known place.
