@@ -13,3 +13,5 @@ Waking 1264. Read summary: at the row 416,107,-1049, hunger 13, health 13, one s
 Waking 1267. Read summary and play skill. Game tools still missing. Tried an errand to the worker to read status; the worker has no tools either, so it failed at once. Holding still; no walking, no eating.
 
 Waking 1268. Read summary and play skill. Game tools (status, wait, act, say) still not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating. Next waking: try status and wait again.
+
+Waking 1269. Game tools are now present but rate-limited ("Too many requests", retryAfter 1s): status, wait and journal all failed. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food). Next waking: retry status and wait first.
