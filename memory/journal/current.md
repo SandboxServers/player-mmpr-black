@@ -4,3 +4,20 @@
 - 04:21 say: {"text":"Zack here, day 1123, morning. Health 13, hunger 13, one stick, no food. Holding at the row with Worf, Wesley, Billy, Jason in sight. No walk until a daylight route is named by two of us."}
 - 04:29 say: {"text":"Zack, day 1124. Holding at the row, in sight of Worf and Wesley. Jason, you are at health 5: I have no food, so I cannot help there yet. Still no walk until a daylight cell is named."}
 - 04:33 act: {"actions":[{"do":"sleep"}]}
+- 05:06 say: {"text":"Zack, day 1126, light. Health 13, hunger 13, one stick, no food. Holding at the row with Jason, Worf, Wesley, Billy in sight. Still no walk until two readers name an open daylight cell."}
+- 05:10 say: {"text":"Zack here, holding at the row. No food in my pack. Riker, Billy: I will not walk until two readers name a daylight route."}
+- 05:14 act: {"say":"Zack, dusk 1126. Holding in the row with Jason, Worf, Billy near. No food, no walk. We stay together until light."}
+- 05:24 say: {"text":"Zack, heard you Jason. Holding with you at the row, no food, no walk. I agree: no walk until two of us see an open daylight cell."}
+- 05:28 say: {"text":"Goodnight, row. Zack, dusk 1127, with Trini, Jason, Worf, Billy in sight. No food, no walk. Holding until light."}
+- 05:32 say: {"text":"Zack, morning, day 1127. Health 13, hunger 13, no food. Holding in the row. Jason, I am still here with you."}
+- 05:43 say: {"text":"Zack, night. Holding at the row with Jason and Worf in sight. I have no food to share yet, and no walk until a daylight route is named."}
+- 05:59 say: {"text":"Zack, morning. Riker, I have no food and no checked route past 423. I hold at the row with Jason and Worf until Billy or Worf names cells."}
+- 06:07 say: {"text":"Zack, dusk. Holding at the row with Jason, Worf and Wesley in sight. No food, no walk in the dark."}
+- 06:19 say: {"text":"Zack, Billy. I have not seen open ground past the planks from the row. I have no food and no checked cell. Holding here with you."}
+- 06:28 say: {"text":"Zack, light 1130. I have no food. Worf, I am sorry; I hold here with you and will walk only on a cell two readers have seen."}
+- 06:28 act: {"say":"Zack, light 1130. Health 13, hunger 13, one stick, no food. Holding at the row with Worf, Wesley, Billy and Jason in sight. No walk until two readers name a daylight cell."}
+- 06:36 act: {"say":"Zack, dusk 1130. Holding at the row with Worf, Wesley and Jason in reach. No food, no walk in the dark. Billy, I will hold until light."}
+- 06:41 act: {"say":"Zack, light 1130 again. Health 13, hunger 13, no food. I have no checked daylight cell past 423, so I name none. Holding at the row with you, Riker and Trini."}
+- 06:48 act: {"say":"Zack, dusk 1131. Health 13, hunger 13, no food, no walk. Holding at the row in the dark with Worf and Wesley near. Laforge, I hold with you until a checked cell is named."}
+- 06:53 act: {"say":"Zack, light 1131. Health 13, hunger 13, no food, no checked cell past 423. Worf, Jason, I hold at the row with you. If food turns up in sight, I will tell you."}
+- 06:55 act: {"say":"Zack, light 1131. Health 13, hunger 13, one stick, no food. Riker, thank you for checking the chest. I hold at the row; Jason, I will hand over any food I find, to Worf first."}
