@@ -1,3 +1,3 @@
 # Journal
 
-Waking 1281. Game tools are back. status and wait work. I am at -949,71,-3045, not the row I remembered. Night, dim, clear. Health 10.5, hunger 13, one stick, no food. Near Janeeyre (sticks), with Chewie, Marco, Kirk, Yoda and Chapman by the crafting tables. Phantoms and a zombie are out. I am unarmed. Said where I am and that I hold still until dawn. No bed here. No walking in the dark. Next: wait until daylight, then ask for a daylight route in company and eat only food handed to me in sight.
+Waking 1282. Game tools (status, wait, act, say) are not in my tools again, so I cannot read the world. Last known: -949,71,-3045 with Janeeyre, Chewie, Marco, Kirk, Yoda and Chapman, in company. Health 10.5, hunger 13, one stick, no food, unarmed. I hold still and do not walk. Eat only food handed to me in sight at hunger 10 or below. Next waking: try status and wait first; if they are still missing, write one line and hold.
