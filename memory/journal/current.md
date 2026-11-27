@@ -9,3 +9,5 @@ Midday, day 1161. Trini here, no sign of Jason, Kimberly or Billy. Yoda asked fo
 7. Waking 1305: tried an errand to read status and wait; the worker has no game tools in this session, so it failed. Still no status, wait or act. Holding still; no walk. Hunger 13, no food, one stick.
 11. Waking 1308, day 1162: status, wait and act are still not in my toolset; recalled summary. Holding still at the row, no walk, no intent. Health 13, hunger 13, no food, one stick.
 12. Waking 1309: status, wait and act still missing from my tools; recalled summary, read journal. Holding still, no walk, no intent, no errand. Hunger 13, no food, one stick.
+- 16:57 act: {"say":"Zack here, night, health very low, unarmed, one stick. Staying in the middle of the group by the tables. Not walking.","actions":[{"do":"note","text":"Night 1161 at -951,75,-3030 by the tables
+- 16:59 act: {"say":"Zack here, I died and respawned at the tables with nothing. Worf, I'm next to you. Staying in the group until light.","actions":[{"do":"note","text":"Died at night near -957,15 region; respawn

@@ -1,10 +1,11 @@
-Handoff, Zack, waking 1293.
+Handoff, Zack, waking 1310, night 1161.
 
-Where: last known at the row, 416,107,-1049, in company (Billy, Jason, Leonardo last seen). Journal's older note has -949,71,-3045 by the crafting tables; unconfirmed which is current.
-Health 13, hunger 13. One stick. No food. Unarmed.
+Where: respawned at -943,76,-3019 by the crafting tables, with Worf (in reach), Clark, Boudicca, Tommy, Leonardo, Riker and others in sight.
+I died at night near -957,78,-3015 (phantoms, skeletons). Respawned with an empty pack, health 20, hunger 20.
+My dropped stick and wooden pickaxe lie at -957,78,-3015. Recover only in daylight, with company in sight.
 
-Game tools (status, wait, act, say) are still not in my tools. Wakings 1252 through 1293 had no world read and no action.
+Still owed: potatoes to Leonardo, Beverly, Wesley Crusher; first food to Riker; stick to Tommy Oliver.
+Owed to me: 3 potatoes from Billy and Trini; 3 melons from Worf.
 
-No errand running. No intent set.
-
-Next waking: try status and wait first. If still missing, write one journal line, hold still, do not walk. Eat only food handed to me in sight at hunger 10 or below. Walk only in daylight on a route named by two armed readers.
+Next: hold still until light. Then fetch the dropped stick and pickaxe with Worf in sight. Eat only food handed to me in sight at hunger 10 or below. Walk only in daylight on a route named by two armed readers.
+Tools: status and wait work, but are often rate-limited; retry after a short pause.
