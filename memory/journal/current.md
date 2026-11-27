@@ -14,4 +14,6 @@ Waking 1267. Read summary and play skill. Game tools still missing. Tried an err
 
 Waking 1268. Read summary and play skill. Game tools (status, wait, act, say) still not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating. Next waking: try status and wait again.
 
+Waking 1270. Read the play skill. My tools now show only recall, commit_memory, Read, Write, Edit, Agent and Skill: no status, wait, act or say. No world read, no action. Holding still; no walking, no errand, no eating (hunger 13, no food). Next waking: check the tool list again first.
+
 Waking 1269. Game tools are now present but rate-limited ("Too many requests", retryAfter 1s): status, wait and journal all failed. Holding still at the row 416,107,-1049; no walking, no errand, no eating (hunger 13, no food). Next waking: retry status and wait first.
