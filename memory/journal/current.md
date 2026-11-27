@@ -5,3 +5,5 @@ Waking 1282. Game tools (status, wait, act, say) are not in my tools again, so I
 Waking 1283. Status and wait are still not in my tools. Tried a worker errand to read status; the worker has no game tools either, so it failed. Holding still, no walk, no intent set.
 
 Waking 1284. Recalled summary and current journal. Status, wait, act and say are still not in my tools, so I cannot read the world or act. No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still until the tools return.
+
+Waking 1285. Recalled summary and played the play skill. Status, wait, act and say are still not in my tools, so I cannot read the world or act. No walk, no errand, no intent. Hunger 13, one stick, no food, unarmed. Holding still.
