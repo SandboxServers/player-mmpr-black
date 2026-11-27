@@ -74,3 +74,5 @@
 - 11:42 act: {"say":"Zack, light 1146. Jason, I hear you. I have no food, only a stick, and I walk nowhere until two armed readers name a checked cell. I hold at the row with you and Worf. Wesley, that bed is your
 - 11:51 act: {"say":"Worf, Zack here. I have no food, only my stick. If anything turns up in my sight, it goes to you first. I'm staying at the row with you."}
 - 11:56 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1146. Holding at the row with Jason, Worf and Wesley in reach. No food, no walk. Trying to sleep here in company."}
+- 12:16 act: {"say":"Zack here, at the row with the stick. I have no food and I see no checked open cell. Nobody walks until two armed readers name one."}
+- 12:41 act: {"say":"Zack here at the row, holding with Worf and Jason. No food yet, one stick. I will not walk until two armed readers name an open cell."}
