@@ -11,3 +11,5 @@ Waking 1266. Read summary and play skill. Game tools (status, wait, act, say) ar
 Waking 1264. Read summary: at the row 416,107,-1049, hunger 13, health 13, one stick, no food. Game tools (status, wait, act, say) are still not in my tools, so no world read and no action. Holding still; no walking, no errand, no eating.
 
 Waking 1267. Read summary and play skill. Game tools still missing. Tried an errand to the worker to read status; the worker has no tools either, so it failed at once. Holding still; no walking, no eating.
+
+Waking 1268. Read summary and play skill. Game tools (status, wait, act, say) still not in my tools; no world read, no action. Holding still at the row 416,107,-1049; no walking, no errand, no eating. Next waking: try status and wait again.
