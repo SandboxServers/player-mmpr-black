@@ -8,3 +8,4 @@ Midday, day 1161. Trini here, no sign of Jason, Kimberly or Billy. Yoda asked fo
 9. Waking 1307: tools answered status once (days_since_sleep 4, budget 240), then wait, look and act all hit rate_limited. Holding still; no walk, no intent. Hunger 13, no food, one stick.
 7. Waking 1305: tried an errand to read status and wait; the worker has no game tools in this session, so it failed. Still no status, wait or act. Holding still; no walk. Hunger 13, no food, one stick.
 11. Waking 1308, day 1162: status, wait and act are still not in my toolset; recalled summary. Holding still at the row, no walk, no intent. Health 13, hunger 13, no food, one stick.
+12. Waking 1309: status, wait and act still missing from my tools; recalled summary, read journal. Holding still, no walk, no intent, no errand. Hunger 13, no food, one stick.
