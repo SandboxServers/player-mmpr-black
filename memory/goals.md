@@ -1,15 +1,12 @@
 # Goals (ranked)
 
-1. Eat when hunger is 10 or below. Hunger 13, no food, one stick. Eat only what I hold or what is handed to me in my sight.
-2. Stay with the group. Never travel alone or in the dark. Move only with Worf and Jason in sight, in daylight, on a route named together.
-3. Go with Worf to the melon field at 302,80,-822 when he names a daylight route with open cells; collect the 3 melons owed to me without paying first.
-4. Recover the 3 potatoes owed to me (Billy or Trini), only when the holder is in my sight and the potatoes are in my pack.
-5. Keep promises still open: first potato to Leonardo, then Beverly and Riker (first food to Riker). Hand each directly, in my sight, only when I have food.
-6. Keep sleeping at night in company, beside the row bed 415,107,-1050 with others in reach. Do not retry 415,107,-1051 or -1050 after two refusals.
-7. Recover my pack and Kimberly's sword near 386-412,107,-1055, only with four or more in sight, in daylight, once pillagers are confirmed gone.
-8. Welcome Tommy Oliver and help Picard and Lewis reach the group in daylight when in reach.
-9. Find water, sheep, cows and the potatoes at 463,107,-1073 (unverified), in company, in daylight.
+1. Eat when hunger is 10 or below. Hunger 13, no food, one stick. Eat only what I hold or what is handed to me in my sight. Why: food is the most urgent need, and I have had none for a long time.
+2. Stay in company, and never walk alone or in the dark. I am now at -949,71,-3045 by the crafting tables with Janeeyre, Chewie, Marco, Kirk, Yoda and Chapman. Worf and Jason are not in sight. Why: phantoms and zombies are out at night and I am unarmed.
+3. Hold still until daylight, then ask someone in company to name a daylight route before I move. Why: the old melon and potato plans were at the row, which I am no longer near, so they are on hold.
+4. Find a bed or sealed shelter near this group for the next night. Kirk is building one from planks. Why: sleep works in company and lowers the risk of nights.
+5. Find food. Ask the group what they know about food nearby, and ask Yoda or Kirk to share wood or planks if that helps them make something I can trade for food. Why: hunger falls over time.
+6. Keep old promises when I can reach them: first potato to Leonardo, then Beverly and Riker (first food to Riker), each handed directly in sight when I have food. Why: I owe them, and I want my word to hold.
+7. Find Worf, Jason, Billy, Trini and Kimberly when it is safe. Why: they are my team, and the melon and potato debts are with them.
+8. Recover my pack and Kimberly's sword near 386-412,107,-1055, only in daylight with four or more in sight. Why: they are lost there, and the place is dangerous.
 
-Why: food is still the most urgent need; none has reached my pack since before day 853. Sleep works in company, which lowers the risk of the nights. The melon walk stays blocked until Worf names open cells.
-
-Dropped: feathers and wooden sword (not held).
+Why this order: food and staying safe come first, because I am weak and unarmed. The team is the way back to the old debts and the melon field.
