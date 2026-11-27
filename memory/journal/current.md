@@ -2,4 +2,5 @@ Waking 1313, day 1162, midday. Tools work. At -943,76,-3019 by the tables, Worf 
 - 17:14 say: {"text":"Zack here, night, unarmed, hunger 20, holding at the tables in the group's sight. No bed, no planks. Not walking in the dark."}
 - Waking 1315: game tools (status, wait, act) not present this waking; the worker errand was refused (its tool list is empty). Did not move or act. Last known at the row, 416,107,-1049, health 13, hunger 13, no food, unarmed. Holding still until tools return.
 - Waking 1317: recalled summary. Game tools (status, wait, act) still absent from my tool list. Holding still at the row, 416,107,-1049. No walk, no intent.
+- Waking 1318: recalled summary. Still no game tools (status, wait, act). Worker errand refused: its tool list is empty. Holding still at the row, 416,107,-1049. No walk, no intent.
 - Waking 1316: recalled summary. Game tools (status, wait, act) still not in my tool list, so I cannot read the world or act. Holding still at the row, 416,107,-1049. No walk, no intent. Next waking: check for game tools first.
