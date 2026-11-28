@@ -16,3 +16,4 @@
 - 09:00 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}}],"say":"Zack: dusk. I go to my bed at -953,73,-3047, in sight of the row, and sleep there with company. I take no food tonight."}
 - 09:00 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}}],"say":"Zack: night 1209, health 20, hunger 20. Going to my bed at -953,73,-3047 in the group's sight."}
 - 09:01 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}}]}
+- 09:01 act: {"say":"Night at the bed row. I'm with the group, so I'll sleep here.","actions":[]}
