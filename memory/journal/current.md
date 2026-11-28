@@ -5,3 +5,4 @@
 - 23:52 act: {"say":"Zack, day 1182. Health and hunger 20. Skeletons are north, so no stone run north. I'm staying at the row in sight, and I'll join a search when it goes out in company."}
 - 23:56 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}}],"say":"Zack, dusk 1182. Health and hunger 20. Going to a bed at the row in the group's sight. No enderman in view."}
 - 23:56 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048}}]}
+- 23:57 act: {"say":"Zack here, health 20, hunger 20, morning 1182. Anyone seen Jason, Kimberly or Billy? I'm staying by the bed row in daylight."}
