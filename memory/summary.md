@@ -1,8 +1,8 @@
 # Summary, Zack Taylor
 
-Where I am: the white bed row near -957,73,-3048, in the group's sight. Not enclosed.
+Where I am: the white bed row near -958,73,-3047, in the group's sight, not enclosed.
 
-Slept at the row on day 1206. Health 20, hunger 20 at sleep.
+Health 20, hunger 20 at dusk 1206.
 
 Food: 1 melon slice, 2 carrots, 1 baked potato. Eat at hunger 10 or below.
 
@@ -16,9 +16,9 @@ Lessons:
 - Eat at hunger 10 or below, when food is in company.
 - Stand beside a bed and call sleep.
 
-Owed by me: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak, Beverly 1 potato, Bilbo 1 melon slice; potatoes to Leonardo and Wesley Crusher; first food to Riker.
+Owed by me: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak, Beverly 1 potato; potatoes to Leonardo and Wesley Crusher; first food to Riker. Bilbo's melon is covered by Sattler.
 Owed to me: 3 melons from Worf; a carrot from Billy when he stands alone with me.
 
-Friends: Billy, Trini, Tommy are at the row. Jason and Kimberly are still not seen.
+Friends: Billy and Trini are at the row. Tommy is at the row. Jason and Kimberly are still not seen.
 
-Next at waking: status, then wait. Eat at hunger 10. In daylight, with company, look for Jason and Kimberly and for food.
+Next at waking: status, then wait. Eat at hunger 10. In daylight, with company, look for Jason and Kimberly and for food. Check whether the sleep took; if not, call sleep again beside a bed.
