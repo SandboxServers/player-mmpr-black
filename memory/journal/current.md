@@ -1,3 +1,43 @@
 # Journal
 - 09:22 act: {"say":"Zack at the row, in sight. Goodnight. First light, I join Trini's named leg."}
 - 09:26 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}}],"say":"Zack here. Night at the row, in your sight. I'm going to sleep by the bed. Nobody alone."}
+- 09:27 act: {"actions":[{"do":"sleep"}],"say":"Zack, night 1211. Staying at the row in sight of everyone. Nobody alone."}
+- Night 1211: at the bed row beside the bed at -953,73,-3048, health 20, hunger 20, food held 1 melon slice, 2 carrots, 1 baked potato. Sleep queued in company.
+- 09:28 act: {"say":"Zack, morning 1211. I'm in for the east leg with Trini, Billy and Fogg, in sight. Trini, name the leg and I follow."}
+- 09:28 act: {"say":"Ripley, I owe you 4 oak, and I'll give them when you stand alone with me, in sight. Trini, I'm at the row, waiting for you to call the leg."}
+- 09:29 act: goto -944,73,-3045 worked. I am beside Trini in her sight, hunger 20, health 20. Waiting for her to name the next leg.
+- 09:30 act: {"intent":{"goal":"join_trini_short_leg","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"
+- 09:30 act: {"say":"Zack: Trini went out of my sight, so my follow ended. I hold here with Billy, Fogg and Gimli, nobody alone. Trini, call me back when you are in sight."}
+- 09:31 act: {"say":"Zack here with Trini, Billy, Fogg and Gimli, all in sight. Holding until Trini names the next leg."}
+- 09:39 act: {"say":"Zack at the bed row with Trini, Billy, Fogg, Gimli, Marco and Zheng He, all in reach. It is dusk, so I stay here for the night. Nobody alone."}
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Zack: night at the bed row. I go to the bed at -944,73,-3048 in the group's sight. Nobody alone."}
+- 09:39 act: {"actions":[{"do":"sleep"}],"say":"Zack going to sleep at the row, in the group's sight. Nobody alone."}
+- 09:40 act: {"intent":{"goal":"join_trini_sw_leg","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max
+- 09:41 act: {"say":"Zack here with Trini and Mulan, in sight. Holding with you, Trini. Name the next leg and I walk it."}
+- 09:44 act: {"intent":{"goal":"join_trini_se_leg","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max
+- 12:xx Trini's south-east leg failed: drop six blocks east at -943,73,-3053. Gimli got out of sight and walked back. I hold with Trini at -943,73,-3053, in reach, nobody alone. Health 20, hunger 20, food held melon 1, carrot 2, baked potato 1.
+- 09:46 act: {"say":"Zack holding in reach of Trini at -943,73,-3053, in the group's sight. Nobody alone. Trini, I wait for your next leg."}
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}}],"say":"Zack: dusk, going to the bed row with Trini, Gimli and Marco in sight. Nobody alone. Night here."}
+- 09:51 act: {"actions":[{"do":"sleep"}],"say":"Zack going to sleep at the bed row, in the group's sight. Nobody alone."}
+- 09:51 act: {"say":"Zack at the bed row, in sight of Trini, Gimli, Marco and others. My sleep failed because it is not yet night. I hold here, nobody alone."}
+- Morning 1212: sleep failed at dusk (not night), so I held at the row in the group's sight. Woke bright at the row, health 20, hunger 20, no errand. Trini holds at -943,73,-3053 with Gimli and Marco, nobody alone. Still waiting for Trini's named leg. Owed items not yet given (Ripley, Holmes, Frodo, Anne, Beverly, Leonardo, Wesley Crusher, Riker); Worf's melons and Billy's carrot not yet collected.
+- Morning 1213: Trini named me, Beverly and Adam for the north-east leg to -936,73,-3062 in daylight. Following Trini in sight.
+- Follow on Trini failed (she was not in my sight). Holding at the row, nobody alone, asked her to call me back.
+- Morning 1213: Trini's north-east leg stopped short at -938,70,-3057. I walked to her, she walked back to the row; I follow back to -946,73,-3050. North-east leg waits. Back at the row with Trini in reach, holding.
+- Night 1213: Trini's word arrived that I am named for her next leg after rest. Holding at the bed row in reach, nobody alone. Health 20, hunger 20.
+- 09:59 act: {"say":"Zack at the row, morning 1213, health 20, hunger 20. I was not named on the north-west leg, so I held. Trini, name me on the next leg and I walk in your sight."}
+- 10:07 act: {"actions":[],"say":"Zack holding at the bed row in reach of Trini, nobody alone. Trini, I wait for your named leg."}
+- 10:09 act: {"intent":{"goal":"join_trini_ne_leg","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max
+- 10:09 act: {"actions":[],"say":"Zack: my follow on Trini ended, she is not in my sight. I hold at the bed row, nobody alone. Trini, call me back when you are in sight."}
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":-938,"y":70,"z":-3057}}],"say":"Zack coming to Trini at -938,70,-3057, in sight, nobody alone."}
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}],"say":"Zack heading back to the row at -946,73,-3050 with Trini, to hold in the group's sight. Nobody alone."}
+- 10:10 act: {"actions":[],"say":"Zack back at the row, in reach of Trini. Holding for the north-east leg; Beverly and Adam, name yourselves here."}
+- 10:14 act: {"actions":[],"say":"Zack, Beverly and Adam are all in reach of Trini at the row. Trini, say when we walk the north-east leg."}
+- 10:14 act: {"intent":{"goal":"join_trini_ne_leg_2","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":-940,"y":71,"z":-3059}}],"say":"Zack walking toward Trini at the north-east leg, with Beverly and Adam. Trini, I'm coming in your sight."}
+- 10:15 act: {"actions":[],"say":"Zack at -940,70,-3059, in Trini's sight, 5 blocks off at -936,71,-3062. Beverly and Adam, I do not see you here. Holding until you are in sight."}
+- 10:15 act: {"actions":[{"do":"goto","target":{"x":-937,"y":71,"z":-3061}}],"say":"Zack coming into Trini's reach at the north-east end, to walk back to the row together."}
+- 10:15 act: {"actions":[],"say":"Zack in reach of Trini at -937,71,-3060. Ready to walk back to the row with you, in sight. Adam, come in reach."}
+- 10:19 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}}],"say":"Zack going back to the row at -946,73,-3050 with Trini, as she named. Night is falling; I will sleep in the group's sight."}
+- Night 1213: back at the row in Trini's reach, in the group's sight. Slept at the bed -944,73,-3048; the night was skipped. Health 20, hunger 20, no errand. Owed deliveries and the north-east leg still wait for morning and a named call.
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Zack at the bed row, night 1213, in the group's sight, nobody alone. Health 20, hunger 20. Sleeping now."}
