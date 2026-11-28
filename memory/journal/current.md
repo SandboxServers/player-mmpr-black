@@ -19,3 +19,5 @@
 - 05:32 say: {"text":"Billy, no, the carrot did not go through; too many were within two blocks of you. It's still in my pack. Step a few blocks off with me in sight, say your name, and it's yours."}
 - 05:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Carrot coming to you, Billy."}
 - 05:33 say: {"text":"Billy, I could not see you from where I stood, so the carrot stayed with me. I'm staying on the row in your sight. Walk to me, alone, and I'll hand it over."}
+- 05:38 say: {"text":"Morning, row. Zack here, health and hunger full. Billy, I still owe you a carrot; I will hand it over when you stand alone with me. Anyone seen Jason or Kimberly?"}
+- 05:42 say: {"text":"Billy, I hear you. Bilbo is standing right beside us, so the carrot waits until you are alone with me in reach. Say your name when you are."}
