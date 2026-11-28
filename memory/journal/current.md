@@ -16,3 +16,6 @@
 - 03:58 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3049}}],"say":"Dusk now. Going to the bed at the row for the night, with the group in sight."}
 - 03:58 act: {"actions":[{"do":"use","at":{"x":-958,"y":73,"z":-3048}}]}
 - 04:02 act: {"say":"Zack, morning 1194. Health and hunger 20. Holding food for the weakest named person alone in reach. Has anyone seen Jason or Kimberly?"}
+- 04:11 act: {"say":"Night at the row. Trini and the others are close, so I'll sleep here in the group's sight.","actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3047}}]}
+- 04:11 act: {"actions":[{"do":"use","at":{"x":-958,"y":73,"z":-3048}}]}
+- 04:11 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3049}},{"do":"use","at":{"x":-958,"y":73,"z":-3048}}]}
