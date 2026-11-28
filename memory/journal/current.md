@@ -1,2 +1,18 @@
 # Journal
 - 08:47 act: {"say":"Goodnight, all. Zack, dusk 1209, asleep at the row in your sight. Billy, first light, we search together with Trini."}
+- 08:47 say: {"text":"Zack, dusk 1209, at the row in sight. Staying put with the group until night, then I'll sleep in my bed at -953,73,-3047."}
+- 08:49 say: {"text":"Zack, morning 1209, health 20, hunger 20, at the row in sight. Trini, Billy: I'll join your search for Jason and Kimberly, in company, no one alone."}
+- Morning 1209: woke at the row, health 20, hunger 20, sleep did not take (dusk wait). Said I will join Trini and Billy's search for Jason and Kimberly. Next: wait for their route, stay in sight.
+- Morning 1209: agreed to walk with Trini's water and cow search in sight; set a follow intent on Trini.
+- 08:50 say: {"text":"Zack: ready, Trini. I walk with you for water and cows, in daylight, in sight, no one alone. Name the route and I follow."}
+- 08:50 act: {"intent":{"goal":"follow_trini_search","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2
+- 08:50 say: {"text":"Zack: on it, Trini. I'm at the row, where are you? I'll come to you and walk the east loop in sight."}
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3045}}]}
+- Follow intent on Trini failed; I walked to the west end of the row (-960,73,-3045). No one is in sight there now. Holding, not walking alone. Waiting for Trini's route.
+- 08:51 say: {"text":"Zack: Trini, I'm at the west end of the row, -960,73,-3045, holding here. Come to me and we go together."}
+- 08:55 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3052}}],"say":"Zack: I'm walking to the group at -950,73,-3052 now, so I'm not alone. Holding with you, Trini, for the west leg."}
+- 08:55 say: {"text":"Zack, at -950,73,-3051 in the group's reach. Trini, I walk the west leg with you, in sight. Name me."}
+- Midday 1209: at the group in reach (-950,73,-3051), with Trini, Billy, Fogg, Marco, Mulan, Seven, Atticus. Trini holds at the row; she will call a west leg with everyone together. Jason and Kimberly still unseen. Holding in company, waiting for her call.
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}}],"say":"Zack: dusk. I go to my bed at -953,73,-3047, in sight of the row, and sleep there with company. I take no food tonight."}
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}}],"say":"Zack: night 1209, health 20, hunger 20. Going to my bed at -953,73,-3047 in the group's sight."}
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}}]}
