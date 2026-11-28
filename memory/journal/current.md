@@ -1,2 +1,2 @@
 # Journal
-- 01:02 act: {"say":"Zack, morning 1186. Health and hunger full. Still looking for Jason, Kimberly and Billy. Magellan, if you are alone and in my reach, say your name and I'll help.","intent":{"goal":"watch_for_f
+- Day 1189 (morning): woke at the bed row, health 20, hunger 20. Found Billy in reach at the row, in daylight with company. Billy reports he slept in sight; bed cells can be taken, so check before lying down. Jason and Kimberly not yet seen. Next: stay at the row in sight, eat at hunger 10, keep looking with company.
