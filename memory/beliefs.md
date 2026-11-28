@@ -68,3 +68,8 @@
 - Day 1002: Trini's 2 potatoes at 430,107,-1051 were not handed over; she would not walk, and I would not walk to her alone. Not counted.
 - Day 1002: the sleep verb beside the row bed was tried at night; the digest shows days_since_sleep reset to 0, but the bed used is not confirmed.
 - Day 1002: Worf still names no melon route; no open cells past the planks are known.
+
+## Day 1185
+- Holding at the bed row in company, in daylight, is safe. Health stayed at 20 all day with no food eaten.
+- Nobody named me in reach for food, so I held my food. Held food is not food given.
+- Still unfound: Jason, Kimberly, Billy. Trini has not seen them either.
