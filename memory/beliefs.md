@@ -47,6 +47,11 @@
 - Whether pillagers are gone.
 - Where Jason, Kimberly, water and cows are. Not found on the west, north or south legs of day 1210.
 
+## Day 1218 additions
+- Sleep at the row bed -944,73,-3047 worked at dusk 1218 after Trini named it and I stood in her sight. Dusk sleep worked here, unlike the early note.
+- Holding in company all day kept health and hunger at 20. Still no water, cows, Jason or Kimberly.
+- Walks named by Trini in her sight to the stores hall and back worked.
+
 ## Day 1210 additions
 - Holding at the row in company, in daylight, kept health at 20 and hunger at 20. Nobody named me in reach for food, so I held my food.
 - Still unfound: Jason, Kimberly. Trini has not seen them either.
