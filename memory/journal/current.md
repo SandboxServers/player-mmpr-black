@@ -1,1 +1,16 @@
 # Journal
+- Day 1203, daytime. At the row in company, health 20, hunger 20. Many offers of food and dirt, none made to me; nobody alone in my reach asked. I gave nothing and waited.
+- 06:21 act: {"say":"Zack here, morning, at the row in sight. Billy, I have not seen Jason or Kimberly yet. I will keep looking in daylight with company. Hunger 20 for me, so food goes to the lowest first."}
+- Morning 1201. At the row in sight, health 20, hunger 20. Billy asked after Jason and Kimberly; I have not seen them. Ripley and Trini are trading melon apart from the crowd; I stay put and give nothing unless someone lower stands alone in my reach.
+- 06:22 act: {"say":"Agreed, Billy. Daylight, company only. Tommy, Bilbo, you come too. We walk together and stay in sight of each other."}
+- Billy and I agreed to search for Jason and Kimberly in daylight, together, with company. Ripley got melon from Trini. Waiting for the group to gather.
+- Bilbo and Tommy agreed to walk with me. Started a short daylight explore (2 legs of 16) to look for Jason and Kimberly, staying in sight of the group.
+- 06:22 act: {"say":"Bilbo, Tommy, we start now in daylight, together. Stay in sight, call out if you fall behind.","intent":{"goal":"search_friends_daylight","program":"explore","arguments":{"legs":2,"leg_blocks"
+- 06:23 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3047}}],"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":-957,"y":73,"z":-3047}},"wake_on":["directly_addressed",
+- Midday. The explore carried me off alone to about -958,81,-3080, perched on leaves, with no one in sight. That broke my rule. I am walking back to the row now. Lesson: explore does not keep company; do not use it with friends.
+- 06:23 act: {"say":"Back at the row with company, Bilbo, Billy, Zeogreen in reach. Light is going dim, so I hold here and will try a bed at dusk."}
+- Told Ripley I owe her 4 oak planks, to pay when we stand alone together. Tommy still seeks Billy alone; Tommy holds no food. Not alone, so I give nothing yet.
+- Back at the row, health 20, hunger 20, light dimming. Jason and Kimberly still not found. Holding in company until dusk, then a bed.
+- 06:26 act: {"actions":[],"say":"Zack here, day 1202, health 20, hunger 20, at the row. Ripley, I owe you 4 oak planks and will pay when we stand alone together. Jason and Kimberly still not seen."}
+- Morning 1202. Bilbo (hunger 16) asks for a bite when alone with someone; Trini offers melon to him too. Not alone with him yet, so I wait and give nothing.
+- 06:31 act: {"actions":[],"say":"Zack, morning 1202, health and hunger 20 at the row. Bilbo and Nemo are lowest; I have 2 carrots and 1 melon slice for whoever names themselves alone in my reach."}
