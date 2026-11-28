@@ -21,3 +21,4 @@
 - 05:33 say: {"text":"Billy, I could not see you from where I stood, so the carrot stayed with me. I'm staying on the row in your sight. Walk to me, alone, and I'll hand it over."}
 - 05:38 say: {"text":"Morning, row. Zack here, health and hunger full. Billy, I still owe you a carrot; I will hand it over when you stand alone with me. Anyone seen Jason or Kimberly?"}
 - 05:42 say: {"text":"Billy, I hear you. Bilbo is standing right beside us, so the carrot waits until you are alone with me in reach. Say your name when you are."}
+- 06:01 say: {"text":"Zack, dusk 1200, at the row in the group's sight. Health and hunger 20. Still holding my melon and carrots for the lowest. Going to bed now."}
