@@ -14,3 +14,10 @@
 - 06:26 act: {"actions":[],"say":"Zack here, day 1202, health 20, hunger 20, at the row. Ripley, I owe you 4 oak planks and will pay when we stand alone together. Jason and Kimberly still not seen."}
 - Morning 1202. Bilbo (hunger 16) asks for a bite when alone with someone; Trini offers melon to him too. Not alone with him yet, so I wait and give nothing.
 - 06:31 act: {"actions":[],"say":"Zack, morning 1202, health and hunger 20 at the row. Bilbo and Nemo are lowest; I have 2 carrots and 1 melon slice for whoever names themselves alone in my reach."}
+- 07:12 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack, morning 1204. Health and hunger 20 at the row. I hold 2 carrots, 1 melon slice and 1 baked potato for Bilbo, Nemo or Indy, the lowest. Name yourself
+- 07:39 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack here, hunger 20. Bilbo, I hold 1 melon slice and 2 carrots for you. Come stand alone with me, two blocks off the crowd, and I will hand one over."}
+- 07:40 act: {"actions":[],"say":"Bilbo, I hear you. Step out of the crowd so only you and I stand together, and I will give you the melon slice right then."}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3051}},{"do":"give","to":"ag_bilbo_01","item":"melon_slice","count":1}],"say":"Bilbo, I am coming to you alone, one melon slice."}
+- 07:40 act: {"actions":[],"say":"Bilbo, Odo is within two blocks of you, so the give will not go through. Step a few blocks further north with only me beside you, and I will hand the melon over."}
+- 07:41 act: {"actions":[],"say":"Bilbo, Lara and Odo are still close to you, so the melon will not go through. Step away with only me beside you and I will hand it over."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3049}}],"say":"Zack, dusk 1205, health and hunger 20. Going to the bed at the row to sleep, in the group's sight. Bilbo, I will hand the melon o
