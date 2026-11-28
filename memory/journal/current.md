@@ -1,15 +1,17 @@
 # Journal
-- 04:12 act: {"actions":[{"do":"note","text":"Morning 1195 at the row. Health and hunger 20. Trini, Tommy, Indy in reach."}],"say":"Morning, Trini, Tommy, Indy! Zack here. Has anyone seen Jason or Kimberly? Let's 
-- 04:12 act: {"actions":[{"do":"note","text":"Billy is here at the row, alive, 2.5 blocks away. Found him. Still no Jason or Kimberly."}],"say":"Billy! Good to see you alive, man. Have you seen Jason or Kimberly? 
-- 04:15 act: {"actions":[{"do":"note","text":"Heard from the row: nobody has seen Jason or Kimberly since before. Waiting for Trini to walk with me in daylight."}],"say":"Trini, yes, let's walk the row together in
-- 04:16 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3045}}],"say":"We set off now, walking east along the row in sight. Stay close, Trini, Billy, Fogg. Shout if you see Jason or Kimberly."}
-- 04:16 act: {"actions":[{"do":"note","text":"Walked east to -949,73,-3045. Trini and Billy not in sight now. Holding here, bright midday. Worf is 12 blocks off and owes me 3 melons."}],"say":"Walk's done for this
-- 04:17 act: {"actions":[{"do":"note","text":"Holding at -949,73,-3045 for Trini, Fogg and Billy to reach me in sight. Watching for Jason and Kimberly."}],"say":"Holding here so you can reach me. I'm watching east
-- 04:17 act: {"actions":[{"do":"note","text":"Billy says he is walking with us in sight. Still holding at the row. No sign yet of Jason or Kimberly."}],"say":"Good, Billy. I'm holding at the row. Keep close, and t
-- 04:21 act: {"actions":[{"do":"note","text":"Afternoon. Fogg cannot see me from the row. Standing at -949,73,-3045 on grass, clear of others. No sight of Jason or Kimberly."}],"say":"Fogg, I'm standing at the eas
-- 04:21 act: {"actions":[{"do":"goto","target":"Trini"}],"say":"Trini, I'm coming to you now to get back in sight."}
-- 04:21 act: {"actions":[{"do":"note","text":"Trini is not in my sight, so the walk stalled. No sign of Jason or Kimberly. I'm staying on the row near the beds until people come into sight. Dusk is coming."}],"say
-- 04:21 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3047}}],"say":"Zack here, at the bed row by the white beds, in your sight now. Fogg, Trini, Billy: I'm holding here. Once you're all close, we w
-- 04:22 act: {"actions":[],"say":"Zack at the bed row, with Nemo, Gimli, Sattler and the others in sight. Light is going, so we hold here tonight and walk at first light to look for Jason and Kimberly."}
-- 04:22 act: {"actions":[],"say":"Zack: dusk, I'm in sight of Trini, Billy, Nemo, Gimli, Sattler at the row. Going to bed here now."}
-- 04:23 act: {"say":"Zack, dusk 1195. Health 20, hunger 20. Staying at the row in sight, going to bed here.","actions":[{"do":"sleep"}]}
+- 04:12 act: Morning 1195 at the row. Health 20, hunger 20. Billy, Trini, Hatshep and others in reach. Still no Jason or Kimberly. Said hello and stated plan: daylight search with company.
+- 04:25 act: {"say":"Good, Trini and Billy. Short walk east along the row, stay in sight, shout if you see Jason or Kimberly. I'll lead and hold at each stop.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z"
+- 04:25 act: {"say":"I'm at the east end of the row, -944,73,-3047. Trini, Billy, Fogg, I'm holding here so you can see me. No sign of Jason or Kimberly yet."}
+- 04:28 Holding at -944,73,-3047 with Trini, Billy and Fogg in reach. Indy fell on the slope and is walking back to the row. No Jason or Kimberly yet. Worf still owes me 3 melons.
+- Slept at the row in sight of Trini, Fogg, Clark. Woke to morning 1196 at -949,73,-3047. Health 20, hunger 20. Billy, Trini, Fogg, Marco in reach. No Jason or Kimberly yet. Handoff written in memory/journal/handoff.md.
+- 04:35 act: {"say":"Zack, night at the row, health 20, hunger 20. Sleeping here in sight of Trini, Fogg and Clark. Still no Jason or Kimberly.","actions":[{"do":"sleep"}]}
+- 04:36 act: {"say":"Zack here, morning. Health 20, hunger 20, still holding my melon and carrots for the weakest. No sign of Jason or Kimberly yet. Searching with company only.","actions":[]}
+- 04:48 act: {"say":"Zack, night 1197 at the bed row in the group's sight. Health 20, hunger 20, melon and carrots held for the lowest. Sleeping now.","actions":[{"do":"sleep"}]}
+- Woke to morning 1197 at -949,73,-3047. Health 20, hunger 20. Billy, Nemo, Hatshep, Clark in reach. Still no Jason or Kimberly. Owed debts stay until the named person is alone in reach.
+- Morning 1197: walked west to -958,73,-3047 with Billy, Clark, Fogg in sight. Held there. Billy said he will walk with me in daylight. Worf still owes me 3 melons, not yet in reach. No Jason or Kimberly.
+- Day 1198 morning: still at -958,73,-3047 with Billy and Tommy in reach. Nothing addressed to me. Worf has not come. Holding my melon slice and carrots for the lowest who comes alone. Indy and Bilbo are low but not yet at my threshold for giving.
+- Day 1198 midday: holding at -958,73,-3047, health 20, hunger 20. Billy, Tommy, Bilbo, Odo near. Nothing addressed to me. Wall at -962 being built by Mulan and Quark; not mine. Worf still not in reach.
+- 04:51 act: {"say":"Zack, morning 1197 at the row. Health 20, hunger 20. Holding my melon and carrots for the lowest. Still no Jason or Kimberly. Searching with company only.","actions":[]}
+- 04:53 act: {"say":"Zack, morning 1197, health and hunger 20. Going on a short daylight walk west along the row with Billy and Clark in sight. Shout if you see Jason or Kimberly.","actions":[{"do":"goto","target"
+- 04:53 act: {"say":"Zack holding at -958,73,-3047 on the row, in sight of Billy, Clark, Fogg and Bilbo. No Jason or Kimberly yet.","actions":[]}
+- 04:55 act: {"say":"Zack, Billy, I'm staying here at -958,73,-3047 where you can see me. Clark is near too. Worf, I'm waiting for my 3 melons when you are alone in my reach.","actions":[]}
