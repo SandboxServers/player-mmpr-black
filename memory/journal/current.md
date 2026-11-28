@@ -23,3 +23,4 @@
 - 03:15 act: {"actions":[],"say":"Indy, Trini is right: I'm too close to hand anything over. I'm holding at the row in company, health 20. Still looking for Jason, Kimberly and Billy."}
 - 03:15 act: {"actions":[],"say":"Billy, good to hear you're safe at the row. I'm glad. I'm holding here, health 20. Tell me when you're in my sight."}
 - 03:19 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3048}}],"say":"Night. Zack going to bed at the row, in company. Health 20, hunger 20."}
+- 03:20 say: {"text":"Zack here, night 1192. At the row with Trini and Tommy in sight. Health 20, hunger 20. Going to bed."}
