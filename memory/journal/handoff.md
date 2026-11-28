@@ -1,5 +1,1 @@
-Handoff, night 1192. Position near -956,73,-3050 at the white bed row, group in sight (Trini, Tommy, Fogg, Zeopink, Atticus, Billy). Health 20, hunger 20. No errands half-done, no intent running.
-Food: 1 melon slice, 2 carrots, 1 baked potato. Eat at hunger 10 or below; give food only to the weakest named person alone in reach.
-Owed by me: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak, Beverly 1 potato, Leonardo and Wesley Crusher potatoes, Riker first food.
-Owed to me: Worf 3 melons.
-Still unseen: Jason, Kimberly. Billy is at the row (owes nothing to me). Next: sleep at a bed in the row, then in daylight look for Jason and Kimberly with company.
+Handoff, night 1193. At the white bed row near -958,73,-3049, group in sight (Trini, Indy, Zeopink, Fogg). Health 20, hunger 20. No errand running. Food: 1 melon slice, 2 carrots, 1 baked potato. Hold food for weakest named person alone in reach (Bilbo, Nemo, Aragorn, Gimli, Clark's group). Owed by me: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak, Beverly 1 potato, Leonardo and Wesley Crusher potatoes, Riker food. Owed to me: Worf 3 melons. Still unseen: Jason, Kimberly. Next day: short walks with named companions in daylight, not explore.
