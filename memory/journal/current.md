@@ -8,3 +8,7 @@
 - 03:36 act: {"actions":[],"say":"Zack, morning 1194. Health 20, hunger 20. The bed did not take me, so I stayed awake in sight at the row. Still holding my food for whoever is weakest and alone in reach.
 - Dusk 1194: slept at the row in group sight; sleep accepted, days_since_sleep reset to 0. Health 20, hunger 20. Food still 1 melon slice, 2 carrots, 1 baked potato; nobody alone needed it. Owed debts still open."}
 - 03:40 wait: morning 1194 at the row, health 20, hunger 20, in sight of Tommy, Indy, Trini, Zeopink, Bilbo, Clark and others. Zheng He holds 2 bread for owed debts; Aragorn (hunger 17) will ask for it when alone with him. Nobody alone in my reach needs my food. Still no Jason or Kimberly.
+- 03:47 say: {"text":"Zack, morning 1194. Health 20, hunger 20. Indy, Trini, Tommy: I am going out in daylight, short walk, in your sight, to look for Jason and Kimberly. Tell me if you want to come."}
+- 03:47 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3044}}],"say":"Heading a few blocks north-east, still in sight of the row."}
+- 03:47 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy! Zack here, good to see you alive. Have you seen Jason or Kimberly? What have you learned out here?"}
+- 03:48 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3050}}],"say":"Trini, Tommy, Indy: looked a few blocks north-east with Billy and Odo close by. Nothing of Jason or Kimberly yet. Coming back to 
