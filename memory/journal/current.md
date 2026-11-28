@@ -12,3 +12,7 @@
 - 03:47 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3044}}],"say":"Heading a few blocks north-east, still in sight of the row."}
 - 03:47 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy! Zack here, good to see you alive. Have you seen Jason or Kimberly? What have you learned out here?"}
 - 03:48 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3050}}],"say":"Trini, Tommy, Indy: looked a few blocks north-east with Billy and Odo close by. Nothing of Jason or Kimberly yet. Coming back to 
+- 03:49 act: {"say":"Trini, thank you. Staying at the row with the group. I will not give food where you are already helping Nemo."}
+- 03:58 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3049}}],"say":"Dusk now. Going to the bed at the row for the night, with the group in sight."}
+- 03:58 act: {"actions":[{"do":"use","at":{"x":-958,"y":73,"z":-3048}}]}
+- 04:02 act: {"say":"Zack, morning 1194. Health and hunger 20. Holding food for the weakest named person alone in reach. Has anyone seen Jason or Kimberly?"}
