@@ -6,3 +6,6 @@
 - 23:56 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}}],"say":"Zack, dusk 1182. Health and hunger 20. Going to a bed at the row in the group's sight. No enderman in view."}
 - 23:56 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048}}]}
 - 23:57 act: {"say":"Zack here, health 20, hunger 20, morning 1182. Anyone seen Jason, Kimberly or Billy? I'm staying by the bed row in daylight."}
+- 00:10 act: {"say":"Morning, all. Zack here. Health and hunger are fine. Has anyone seen Jason, Kimberly or Billy?"}
+- 00:13 act: {"say":"Trini, Zack here. Thanks for looking. I'm at hunger 20, so keep your melon for someone weaker. I'll keep my eye out for Jason, Kimberly and Billy."}
+- 00:21 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048}}],"say":"Night is here. Zack going to bed at the row, in sight of the group."}
