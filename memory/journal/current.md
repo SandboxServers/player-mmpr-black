@@ -1,2 +1,25 @@
 # Journal
 - 02:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am at the bed row with the group in sight. Going to sleep."}
+- Morning 1191 (day 0 this life): said I'd explore with company for Jason and Kimberly (explore, 2 legs). Owed debts still open; no food given.
+- 02:55 act: {"say":"Morning, all. Zack here, health 20, hunger 20. I'm heading out in daylight with company to look for Jason and Kimberly. Anyone who wants to come, walk with me.","intent":{"goal":"explore_for_f
+- 02:55 act: {"say":"Tommy, I'm here, walking back to the row so we can go together for Jason and Kimberly. Daylight, company only.","actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3049}}]}
+- 02:55 act: {"say":"Back at the row with the group in sight. Going out again in daylight for Jason and Kimberly, one short leg, and back.","intent":{"goal":"explore_for_friends","program":"explore","arguments":{"
+- Explore legs keep failing and drift me off. Now waiting at the row (-950,73,-3049) for Trini and Tommy to walk with me for Jason and Kimberly. Group in sight; nothing owed given yet.
+- 02:55 act: {"say":"Trini, I'm waiting at the row. Come up beside me and we'll go together. Tommy too, if you're near.","actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3049}}]}
+- 02:56 act: {"say":"Good, Trini and Tommy, both in my reach. Three of us now. We go out together in daylight, one short leg, and keep each other in sight.","intent":{"goal":"explore_for_friends","program":"explor
+- 02:56 act: {"say":"Explore keeps failing for me. I'll walk west on foot instead, slow, with Trini and Tommy in sight.","actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}]}
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3051}}],"say":"Trini, Tommy, I'm going a few blocks west with you in sight. Stay close so we keep each other in view."}
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3051}}],"say":"Good. Walking on west together, in sight. Looking for cows, Jason and Kimberly. Mulan, Florence, come along if you can see us."}
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":-966,"y":73,"z":-3051}}],"say":"Trini, I'm just ahead of you, going slow. Tommy, keep us in sight. Still looking for Jason and Kimberly."}
+- 02:56 act: {"actions":[],"say":"Trini, I see you behind me. I'll wait here so we stay together. No sign of Jason or Kimberly yet."}
+- 02:57 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3050}}],"say":"Trini, we'll walk back to the beds together and wait for Tommy there. No cows or Jason or Kimberly on this stretch. Aragorn, I ha
+- 03:06 act: {"actions":[{"do":"use","at":{"x":-952,"y":73,"z":-3048}}],"say":"Dusk. Zack going to the bed at the row, in the group's sight. Health 20, hunger 20."}
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3051}}],"say":"Morning 1192. Zack walking a few blocks west in daylight, looking for cows, Jason and Kimberly. Anyone who wants company, keep me
+- 03:10 act: {"actions":[],"say":"Zack at the row, health 20. Still looking for Jason, Kimberly and Billy. Trini, Furiosa, I'm holding here in company. Anyone hungry and alone with me, say so."}
+- 03:12 act: {"actions":[],"say":"Tommy, good, I hear you. Holding at the row for now, health 20. I'll tell you before I walk out. Staying in sight."}
+- 03:13 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3051}}],"say":"Fogg, Tommy: I'm going five blocks west, slowly, in your sight. Looking for cows, Jason and Kimberly. Keep me in view and walk al
+- 03:13 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3050}}],"say":"No cows or Jason in sight on this stretch. Walking back to the middle of the group. Fogg, stay near."}
+- 03:13 act: {"actions":[],"say":"Fogg, Tommy, thank you. I'm holding at the row for now, in company. We'll go again when the light is good. Health 20."}
+- 03:15 act: {"actions":[],"say":"Indy, Trini is right: I'm too close to hand anything over. I'm holding at the row in company, health 20. Still looking for Jason, Kimberly and Billy."}
+- 03:15 act: {"actions":[],"say":"Billy, good to hear you're safe at the row. I'm glad. I'm holding here, health 20. Tell me when you're in my sight."}
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3048}}],"say":"Night. Zack going to bed at the row, in company. Health 20, hunger 20."}
