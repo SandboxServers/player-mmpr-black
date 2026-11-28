@@ -7,4 +7,4 @@
 5. Give owed planks only when the named person is alone, in sight and in reach: Holmes 3 dark oak, Ripley 4 oak, Frodo 2 spruce, Anne 2 oak. Why: my word has to hold.
 6. Give Beverly 1 potato when she is alone in my reach. Why: I owe it.
 7. Potatoes owed to Leonardo and Wesley Crusher; first food to Riker. Why: old debts.
-8. Find Jason, Kimberly, Billy in daylight, with company. Why: they are my team. Worf owes me 3 melons.
+8. Find Jason and Kimberly in daylight, with company. Billy is found and alive at the row. Why: they are my team. Worf owes me 3 melons.
