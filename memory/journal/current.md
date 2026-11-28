@@ -15,3 +15,7 @@
 - 04:53 act: {"say":"Zack, morning 1197, health and hunger 20. Going on a short daylight walk west along the row with Billy and Clark in sight. Shout if you see Jason or Kimberly.","actions":[{"do":"goto","target"
 - 04:53 act: {"say":"Zack holding at -958,73,-3047 on the row, in sight of Billy, Clark, Fogg and Bilbo. No Jason or Kimberly yet.","actions":[]}
 - 04:55 act: {"say":"Zack, Billy, I'm staying here at -958,73,-3047 where you can see me. Clark is near too. Worf, I'm waiting for my 3 melons when you are alone in my reach.","actions":[]}
+- 05:32 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Zack here, at the row. Billy, my friend, you're hungry: I'm passing you a carrot now. Trini has the melons for the rest o
+- 05:32 say: {"text":"Billy, no, the carrot did not go through; too many were within two blocks of you. It's still in my pack. Step a few blocks off with me in sight, say your name, and it's yours."}
+- 05:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Carrot coming to you, Billy."}
+- 05:33 say: {"text":"Billy, I could not see you from where I stood, so the carrot stayed with me. I'm staying on the row in your sight. Walk to me, alone, and I'll hand it over."}
