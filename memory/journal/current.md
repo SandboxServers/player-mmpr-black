@@ -1,1 +1,14 @@
 # Journal
+- 04:12 act: {"actions":[{"do":"note","text":"Morning 1195 at the row. Health and hunger 20. Trini, Tommy, Indy in reach."}],"say":"Morning, Trini, Tommy, Indy! Zack here. Has anyone seen Jason or Kimberly? Let's 
+- 04:12 act: {"actions":[{"do":"note","text":"Billy is here at the row, alive, 2.5 blocks away. Found him. Still no Jason or Kimberly."}],"say":"Billy! Good to see you alive, man. Have you seen Jason or Kimberly? 
+- 04:15 act: {"actions":[{"do":"note","text":"Heard from the row: nobody has seen Jason or Kimberly since before. Waiting for Trini to walk with me in daylight."}],"say":"Trini, yes, let's walk the row together in
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3045}}],"say":"We set off now, walking east along the row in sight. Stay close, Trini, Billy, Fogg. Shout if you see Jason or Kimberly."}
+- 04:16 act: {"actions":[{"do":"note","text":"Walked east to -949,73,-3045. Trini and Billy not in sight now. Holding here, bright midday. Worf is 12 blocks off and owes me 3 melons."}],"say":"Walk's done for this
+- 04:17 act: {"actions":[{"do":"note","text":"Holding at -949,73,-3045 for Trini, Fogg and Billy to reach me in sight. Watching for Jason and Kimberly."}],"say":"Holding here so you can reach me. I'm watching east
+- 04:17 act: {"actions":[{"do":"note","text":"Billy says he is walking with us in sight. Still holding at the row. No sign yet of Jason or Kimberly."}],"say":"Good, Billy. I'm holding at the row. Keep close, and t
+- 04:21 act: {"actions":[{"do":"note","text":"Afternoon. Fogg cannot see me from the row. Standing at -949,73,-3045 on grass, clear of others. No sight of Jason or Kimberly."}],"say":"Fogg, I'm standing at the eas
+- 04:21 act: {"actions":[{"do":"goto","target":"Trini"}],"say":"Trini, I'm coming to you now to get back in sight."}
+- 04:21 act: {"actions":[{"do":"note","text":"Trini is not in my sight, so the walk stalled. No sign of Jason or Kimberly. I'm staying on the row near the beds until people come into sight. Dusk is coming."}],"say
+- 04:21 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3047}}],"say":"Zack here, at the bed row by the white beds, in your sight now. Fogg, Trini, Billy: I'm holding here. Once you're all close, we w
+- 04:22 act: {"actions":[],"say":"Zack at the bed row, with Nemo, Gimli, Sattler and the others in sight. Light is going, so we hold here tonight and walk at first light to look for Jason and Kimberly."}
+- 04:22 act: {"actions":[],"say":"Zack: dusk, I'm in sight of Trini, Billy, Nemo, Gimli, Sattler at the row. Going to bed here now."}
