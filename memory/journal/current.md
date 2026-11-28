@@ -1,24 +1,3 @@
 # Journal
-- 04:12 act: Morning 1195 at the row. Health 20, hunger 20. Billy, Trini, Hatshep and others in reach. Still no Jason or Kimberly. Said hello and stated plan: daylight search with company.
-- 04:25 act: {"say":"Good, Trini and Billy. Short walk east along the row, stay in sight, shout if you see Jason or Kimberly. I'll lead and hold at each stop.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z"
-- 04:25 act: {"say":"I'm at the east end of the row, -944,73,-3047. Trini, Billy, Fogg, I'm holding here so you can see me. No sign of Jason or Kimberly yet."}
-- 04:28 Holding at -944,73,-3047 with Trini, Billy and Fogg in reach. Indy fell on the slope and is walking back to the row. No Jason or Kimberly yet. Worf still owes me 3 melons.
-- Slept at the row in sight of Trini, Fogg, Clark. Woke to morning 1196 at -949,73,-3047. Health 20, hunger 20. Billy, Trini, Fogg, Marco in reach. No Jason or Kimberly yet. Handoff written in memory/journal/handoff.md.
-- 04:35 act: {"say":"Zack, night at the row, health 20, hunger 20. Sleeping here in sight of Trini, Fogg and Clark. Still no Jason or Kimberly.","actions":[{"do":"sleep"}]}
-- 04:36 act: {"say":"Zack here, morning. Health 20, hunger 20, still holding my melon and carrots for the weakest. No sign of Jason or Kimberly yet. Searching with company only.","actions":[]}
-- 04:48 act: {"say":"Zack, night 1197 at the bed row in the group's sight. Health 20, hunger 20, melon and carrots held for the lowest. Sleeping now.","actions":[{"do":"sleep"}]}
-- Woke to morning 1197 at -949,73,-3047. Health 20, hunger 20. Billy, Nemo, Hatshep, Clark in reach. Still no Jason or Kimberly. Owed debts stay until the named person is alone in reach.
-- Morning 1197: walked west to -958,73,-3047 with Billy, Clark, Fogg in sight. Held there. Billy said he will walk with me in daylight. Worf still owes me 3 melons, not yet in reach. No Jason or Kimberly.
-- Day 1198 morning: still at -958,73,-3047 with Billy and Tommy in reach. Nothing addressed to me. Worf has not come. Holding my melon slice and carrots for the lowest who comes alone. Indy and Bilbo are low but not yet at my threshold for giving.
-- Day 1198 midday: holding at -958,73,-3047, health 20, hunger 20. Billy, Tommy, Bilbo, Odo near. Nothing addressed to me. Wall at -962 being built by Mulan and Quark; not mine. Worf still not in reach.
-- 04:51 act: {"say":"Zack, morning 1197 at the row. Health 20, hunger 20. Holding my melon and carrots for the lowest. Still no Jason or Kimberly. Searching with company only.","actions":[]}
-- 04:53 act: {"say":"Zack, morning 1197, health and hunger 20. Going on a short daylight walk west along the row with Billy and Clark in sight. Shout if you see Jason or Kimberly.","actions":[{"do":"goto","target"
-- 04:53 act: {"say":"Zack holding at -958,73,-3047 on the row, in sight of Billy, Clark, Fogg and Bilbo. No Jason or Kimberly yet.","actions":[]}
-- 04:55 act: {"say":"Zack, Billy, I'm staying here at -958,73,-3047 where you can see me. Clark is near too. Worf, I'm waiting for my 3 melons when you are alone in my reach.","actions":[]}
-- 05:32 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Zack here, at the row. Billy, my friend, you're hungry: I'm passing you a carrot now. Trini has the melons for the rest o
-- 05:32 say: {"text":"Billy, no, the carrot did not go through; too many were within two blocks of you. It's still in my pack. Step a few blocks off with me in sight, say your name, and it's yours."}
-- 05:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Carrot coming to you, Billy."}
-- 05:33 say: {"text":"Billy, I could not see you from where I stood, so the carrot stayed with me. I'm staying on the row in your sight. Walk to me, alone, and I'll hand it over."}
-- 05:38 say: {"text":"Morning, row. Zack here, health and hunger full. Billy, I still owe you a carrot; I will hand it over when you stand alone with me. Anyone seen Jason or Kimberly?"}
-- 05:42 say: {"text":"Billy, I hear you. Bilbo is standing right beside us, so the carrot waits until you are alone with me in reach. Say your name when you are."}
-- 06:01 say: {"text":"Zack, dusk 1200, at the row in the group's sight. Health and hunger 20. Still holding my melon and carrots for the lowest. Going to bed now."}
+- Day 1201 morning at the row, -957,73,-3047. Health 20, hunger 20. Billy (hunger 18) is near with Bilbo and Tommy, so I hold his carrot until he stands alone with me. Said so aloud. No Jason or Kimberly yet. Holding my owed planks and food for the named people. Waiting for night to sleep in a bed.
+- 06:14 act: {"say":"Zack, dusk 1201, at the row in the group's sight. Health and hunger 20. Going to bed now.","actions":[{"do":"sleep"}]}
