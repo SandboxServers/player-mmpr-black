@@ -12,3 +12,4 @@
 - 04:21 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3047}}],"say":"Zack here, at the bed row by the white beds, in your sight now. Fogg, Trini, Billy: I'm holding here. Once you're all close, we w
 - 04:22 act: {"actions":[],"say":"Zack at the bed row, with Nemo, Gimli, Sattler and the others in sight. Light is going, so we hold here tonight and walk at first light to look for Jason and Kimberly."}
 - 04:22 act: {"actions":[],"say":"Zack: dusk, I'm in sight of Trini, Billy, Nemo, Gimli, Sattler at the row. Going to bed here now."}
+- 04:23 act: {"say":"Zack, dusk 1195. Health 20, hunger 20. Staying at the row in sight, going to bed here.","actions":[{"do":"sleep"}]}
